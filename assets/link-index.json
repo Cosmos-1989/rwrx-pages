@@ -19000,6 +19000,702 @@
     "context": "文学类文本阅读提供跨篇比较路径。"
   },
   {
+    "source": "e-nj2026-game",
+    "target": "k-character-mind",
+    "anchor": "c-074",
+    "fragment": "",
+    "section": "知识点",
+    "context": "参见人物心理：表情、前因和后续行动互相印证，才能推断未直说的心理。"
+  },
+  {
+    "source": "e-nj2026-game",
+    "target": "k-register",
+    "anchor": "c-089",
+    "fragment": "",
+    "section": "知识点",
+    "context": "语气来自具体交际关系，语域错位需说明正常使用场合与实际场合的差异。参见语域与表达得体、反讽。"
+  },
+  {
+    "source": "e-nj2026-game",
+    "target": "k-irony",
+    "anchor": "c-089",
+    "fragment": "",
+    "section": "知识点",
+    "context": "语气来自具体交际关系，语域错位需说明正常使用场合与实际场合的差异。参见语域与表达得体、反讽。"
+  },
+  {
+    "source": "e-nj2026-game",
+    "target": "k-micro-writing",
+    "anchor": "c-099",
+    "fragment": "",
+    "section": "知识点",
+    "context": "情境微写作的限制来自身份、任务、语体和前后文。参见情境微写作。"
+  },
+  {
+    "source": "e-nj2026-game",
+    "target": "k-title",
+    "anchor": "c-109",
+    "fragment": "",
+    "section": "知识点",
+    "context": "标题意蕴包含事件指称、关系隐喻和全篇评价。参见标题意蕴与作用、社会环境与行动规则。"
+  },
+  {
+    "source": "e-nj2026-game",
+    "target": "k-social",
+    "anchor": "c-109",
+    "fragment": "",
+    "section": "知识点",
+    "context": "标题意蕴包含事件指称、关系隐喻和全篇评价。参见标题意蕴与作用、社会环境与行动规则。"
+  },
+  {
+    "source": "e-nj2026-game",
+    "target": "m-exam-autumn-2026",
+    "anchor": "c-113",
+    "fragment": "",
+    "section": "关联研习",
+    "context": "本篇收录于2026年秋季调研试题。可由各题的知识点链接进入相关概念，比较不同文本中的适用条件。"
+  },
+  {
+    "source": "e-nj2026-guliu",
+    "target": "k-orthography",
+    "anchor": "c-029",
+    "fragment": "",
+    "section": "知识点",
+    "context": "参见规范字形与词形、近义词辨析。语境适配与书写正确是两个同时成立的条件。"
+  },
+  {
+    "source": "e-nj2026-guliu",
+    "target": "k-lexical-comparison",
+    "anchor": "c-029",
+    "fragment": "",
+    "section": "知识点",
+    "context": "参见规范字形与词形、近义词辨析。语境适配与书写正确是两个同时成立的条件。"
+  },
+  {
+    "source": "e-nj2026-guliu",
+    "target": "k-information-structure",
+    "anchor": "c-044",
+    "fragment": "",
+    "section": "知识点",
+    "context": "参见信息结构与焦点、衔接与连贯。择优衔接与判定病句是不同任务。"
+  },
+  {
+    "source": "e-nj2026-guliu",
+    "target": "k-cohesion",
+    "anchor": "c-044",
+    "fragment": "",
+    "section": "知识点",
+    "context": "参见信息结构与焦点、衔接与连贯。择优衔接与判定病句是不同任务。"
+  },
+  {
+    "source": "e-nj2026-guliu",
+    "target": "k-sentence-repair",
+    "anchor": "c-053",
+    "fragment": "",
+    "section": "知识点",
+    "context": "参见病句辨析与修改。句式结构与语义顺序应分别检验。"
+  },
+  {
+    "source": "e-nj2026-guliu",
+    "target": "k-concept-definition",
+    "anchor": "c-062",
+    "fragment": "",
+    "section": "知识点",
+    "context": "参见定义与分类：采用“区别特征＋上位类”的简明表达。"
+  },
+  {
+    "source": "e-nj2026-guliu",
+    "target": "k-micro-writing",
+    "anchor": "c-072",
+    "fragment": "",
+    "section": "知识点",
+    "context": "参见情境微写作、语域与表达得体。身份事实、交流姿态和表达目的须一致。"
+  },
+  {
+    "source": "e-nj2026-guliu",
+    "target": "k-register",
+    "anchor": "c-072",
+    "fragment": "",
+    "section": "知识点",
+    "context": "参见情境微写作、语域与表达得体。身份事实、交流姿态和表达目的须一致。"
+  },
+  {
+    "source": "e-nj2026-guliu",
+    "target": "m-exam-autumn-2026",
+    "anchor": "c-076",
+    "fragment": "",
+    "section": "关联研习",
+    "context": "本篇收录于2026年秋季调研试题。可由各题的知识点链接进入相关概念，比较不同文本中的适用条件。"
+  },
+  {
+    "source": "e-nj2026-hehu",
+    "target": "k-register",
+    "anchor": "c-028",
+    "fragment": "",
+    "section": "知识点",
+    "context": "赠贺诗有交际对象，典故和谦辞应在该场合中解释。参见语域与表达得体、对偶、对仗与对联。"
+  },
+  {
+    "source": "e-nj2026-hehu",
+    "target": "k-antithesis",
+    "anchor": "c-028",
+    "fragment": "",
+    "section": "知识点",
+    "context": "赠贺诗有交际对象，典故和谦辞应在该场合中解释。参见语域与表达得体、对偶、对仗与对联。"
+  },
+  {
+    "source": "e-nj2026-hehu",
+    "target": "k-poetic-image",
+    "anchor": "c-037",
+    "fragment": "",
+    "section": "知识点",
+    "context": "参见诗歌意象、词句含义。意象在典故和人物处境中获得政治与伦理意义。"
+  },
+  {
+    "source": "e-nj2026-hehu",
+    "target": "k-sentence-meaning",
+    "anchor": "c-037",
+    "fragment": "",
+    "section": "知识点",
+    "context": "参见诗歌意象、词句含义。意象在典故和人物处境中获得政治与伦理意义。"
+  },
+  {
+    "source": "e-nj2026-hehu",
+    "target": "m-exam-autumn-2026",
+    "anchor": "c-041",
+    "fragment": "",
+    "section": "关联研习",
+    "context": "本篇收录于2026年秋季调研试题。可由各题的知识点链接进入相关概念，比较不同文本中的适用条件。"
+  },
+  {
+    "source": "e-nj2026-kunlun",
+    "target": "k-claim-scope",
+    "anchor": "c-037",
+    "fragment": "",
+    "section": "知识点",
+    "context": "参见信息转述与判断范围：结论获得正式确认，不蕴含所有争论已经终止。"
+  },
+  {
+    "source": "e-nj2026-kunlun",
+    "target": "k-scientific-claims",
+    "anchor": "c-052",
+    "fragment": "",
+    "section": "知识点",
+    "context": "参见科学文本中的证据与假说、反驳与回应。经验判断、证据支持和结论修正应分层处理。"
+  },
+  {
+    "source": "e-nj2026-kunlun",
+    "target": "k-counterargument",
+    "anchor": "c-052",
+    "fragment": "",
+    "section": "知识点",
+    "context": "参见科学文本中的证据与假说、反驳与回应。经验判断、证据支持和结论修正应分层处理。"
+  },
+  {
+    "source": "e-nj2026-kunlun",
+    "target": "k-interview-question",
+    "anchor": "c-061",
+    "fragment": "",
+    "section": "知识点",
+    "context": "访谈中的相邻问答形成信息对应。参见访谈提问与追问。"
+  },
+  {
+    "source": "e-nj2026-kunlun",
+    "target": "k-research-fit",
+    "anchor": "c-071",
+    "fragment": "",
+    "section": "知识点",
+    "context": "参见研究方法与问题、类比论证。评价论证应审查理由，不能只诉诸发言者身份。"
+  },
+  {
+    "source": "e-nj2026-kunlun",
+    "target": "k-analogy-limits",
+    "anchor": "c-071",
+    "fragment": "",
+    "section": "知识点",
+    "context": "参见研究方法与问题、类比论证。评价论证应审查理由，不能只诉诸发言者身份。"
+  },
+  {
+    "source": "e-nj2026-kunlun",
+    "target": "k-title",
+    "anchor": "c-081",
+    "fragment": "",
+    "section": "知识点",
+    "context": "题名分析应结合指称对象、内容焦点与读者预期。参见标题意蕴与作用。"
+  },
+  {
+    "source": "e-nj2026-kunlun",
+    "target": "m-exam-autumn-2026",
+    "anchor": "c-085",
+    "fragment": "",
+    "section": "关联研习",
+    "context": "本篇收录于2026年秋季调研试题。可由各题的知识点链接进入相关概念，比较不同文本中的适用条件。"
+  },
+  {
+    "source": "e-nj2026-spiritual",
+    "target": "k-material-thesis",
+    "anchor": "c-018",
+    "fragment": "",
+    "section": "知识点",
+    "context": "参见材料作文审题与立意、论据与论证保证。材料事例是进入问题的线索，不是限定必须逐一写四项活动。"
+  },
+  {
+    "source": "e-nj2026-spiritual",
+    "target": "k-warrant",
+    "anchor": "c-018",
+    "fragment": "",
+    "section": "知识点",
+    "context": "参见材料作文审题与立意、论据与论证保证。材料事例是进入问题的线索，不是限定必须逐一写四项活动。"
+  },
+  {
+    "source": "e-nj2026-spiritual",
+    "target": "m-exam-autumn-2026",
+    "anchor": "c-040",
+    "fragment": "",
+    "section": "关联研习",
+    "context": "本篇收录于2026年秋季调研试题。可由各题的知识点链接进入相关概念，比较不同文本中的适用条件。"
+  },
+  {
+    "source": "e-nj2026-zhangyong",
+    "target": "k-classical-punctuation",
+    "anchor": "c-025",
+    "fragment": "",
+    "section": "知识点",
+    "context": "参见文言断句。边界判断以谓语和句式完整性为先，虚词是辅助标志。"
+  },
+  {
+    "source": "e-nj2026-zhangyong",
+    "target": "k-context",
+    "anchor": "c-040",
+    "fragment": "",
+    "section": "知识点",
+    "context": "参见词义与语境。并列结构、宾语搭配及前后因果都可限制义项；复合词不能任意拆解。"
+  },
+  {
+    "source": "e-nj2026-zhangyong",
+    "target": "k-wenyan-ellipsis",
+    "anchor": "c-055",
+    "fragment": "",
+    "section": "知识点",
+    "context": "参见文言省略。读人物叙事必须辨识嵌套语句中的主语，不以现代惯用义代替官职义。"
+  },
+  {
+    "source": "e-nj2026-zhangyong",
+    "target": "k-classical-translation",
+    "anchor": "c-064",
+    "fragment": "",
+    "section": "知识点",
+    "context": "参见文言翻译、文言省略。补出省略成分必须有上下文依据。"
+  },
+  {
+    "source": "e-nj2026-zhangyong",
+    "target": "k-wenyan-ellipsis",
+    "anchor": "c-064",
+    "fragment": "",
+    "section": "知识点",
+    "context": "参见文言翻译、文言省略。补出省略成分必须有上下文依据。"
+  },
+  {
+    "source": "e-nj2026-zhangyong",
+    "target": "k-character",
+    "anchor": "c-074",
+    "fragment": "",
+    "section": "知识点",
+    "context": "人物评价可分品行、行动能力和行为动机，避免同一“正直”反复得点。参见人物形象。"
+  },
+  {
+    "source": "e-nj2026-zhangyong",
+    "target": "m-exam-autumn-2026",
+    "anchor": "c-078",
+    "fragment": "",
+    "section": "关联研习",
+    "context": "本篇收录于2026年秋季调研试题。文言词汇可结合词义研习比较同词异义；判义须同时检验搭配、句法和语境。"
+  },
+  {
+    "source": "e-nj2026-zhangyong",
+    "target": "m-lexicon",
+    "anchor": "c-078",
+    "fragment": "",
+    "section": "关联研习",
+    "context": "本篇收录于2026年秋季调研试题。文言词汇可结合词义研习比较同词异义；判义须同时检验搭配、句法和语境。"
+  },
+  {
+    "source": "e-qd2026-dazi",
+    "target": "k-orthography",
+    "anchor": "c-022",
+    "fragment": "",
+    "section": "知识点",
+    "context": "参见规范字形与词形。据语素义排除同音近形字，可比孤立记字形更有解释力。"
+  },
+  {
+    "source": "e-qd2026-dazi",
+    "target": "k-discourse-relations",
+    "anchor": "c-037",
+    "fragment": "",
+    "section": "知识点",
+    "context": "参见句群与语篇关系、衔接与连贯。排序依据论述功能及前后回指，不只是找相同词。"
+  },
+  {
+    "source": "e-qd2026-dazi",
+    "target": "k-cohesion",
+    "anchor": "c-037",
+    "fragment": "",
+    "section": "知识点",
+    "context": "参见句群与语篇关系、衔接与连贯。排序依据论述功能及前后回指，不只是找相同词。"
+  },
+  {
+    "source": "e-qd2026-dazi",
+    "target": "k-complex-sentence",
+    "anchor": "c-046",
+    "fragment": "",
+    "section": "知识点",
+    "context": "参见复句关系与关联词、病句辨析与修改。"
+  },
+  {
+    "source": "e-qd2026-dazi",
+    "target": "k-sentence-repair",
+    "anchor": "c-046",
+    "fragment": "",
+    "section": "知识点",
+    "context": "参见复句关系与关联词、病句辨析与修改。"
+  },
+  {
+    "source": "e-qd2026-dazi",
+    "target": "k-concept-definition",
+    "anchor": "c-056",
+    "fragment": "",
+    "section": "知识点",
+    "context": "参见定义与分类、图表与图像阅读。行列关系限定待填内容的抽象层级。"
+  },
+  {
+    "source": "e-qd2026-dazi",
+    "target": "k-visual-reading",
+    "anchor": "c-056",
+    "fragment": "",
+    "section": "知识点",
+    "context": "参见定义与分类、图表与图像阅读。行列关系限定待填内容的抽象层级。"
+  },
+  {
+    "source": "e-qd2026-dazi",
+    "target": "m-exam-autumn-2026",
+    "anchor": "c-060",
+    "fragment": "",
+    "section": "关联研习",
+    "context": "本篇收录于2026年秋季调研试题。可由各题的知识点链接进入相关概念，比较不同文本中的适用条件。"
+  },
+  {
+    "source": "e-qd2026-distance",
+    "target": "k-qualified-thesis",
+    "anchor": "c-018",
+    "fragment": "",
+    "section": "知识点",
+    "context": "参见观点的限定条件、材料作文审题与立意。辨清不止于与不在于，避免偷换命题。"
+  },
+  {
+    "source": "e-qd2026-distance",
+    "target": "k-material-thesis",
+    "anchor": "c-018",
+    "fragment": "",
+    "section": "知识点",
+    "context": "参见观点的限定条件、材料作文审题与立意。辨清不止于与不在于，避免偷换命题。"
+  },
+  {
+    "source": "e-qd2026-distance",
+    "target": "m-exam-autumn-2026",
+    "anchor": "c-040",
+    "fragment": "",
+    "section": "关联研习",
+    "context": "本篇收录于2026年秋季调研试题。可由各题的知识点链接进入相关概念，比较不同文本中的适用条件。"
+  },
+  {
+    "source": "e-qd2026-historians",
+    "target": "k-classical-punctuation",
+    "anchor": "c-023",
+    "fragment": "",
+    "section": "知识点",
+    "context": "参见文言断句、文言判断句。"
+  },
+  {
+    "source": "e-qd2026-historians",
+    "target": "k-wenyan-judgment",
+    "anchor": "c-023",
+    "fragment": "",
+    "section": "知识点",
+    "context": "参见文言断句、文言判断句。"
+  },
+  {
+    "source": "e-qd2026-historians",
+    "target": "k-lexical-conversion",
+    "anchor": "c-038",
+    "fragment": "",
+    "section": "知识点",
+    "context": "参见词类活用与兼类、就、善。词性判定以具体句法位置为准。"
+  },
+  {
+    "source": "e-qd2026-historians",
+    "target": "k-wenyan-jiu",
+    "anchor": "c-038",
+    "fragment": "",
+    "section": "知识点",
+    "context": "参见词类活用与兼类、就、善。词性判定以具体句法位置为准。"
+  },
+  {
+    "source": "e-qd2026-historians",
+    "target": "k-wenyan-shan",
+    "anchor": "c-038",
+    "fragment": "",
+    "section": "知识点",
+    "context": "参见词类活用与兼类、就、善。词性判定以具体句法位置为准。"
+  },
+  {
+    "source": "e-qd2026-historians",
+    "target": "k-evaluation",
+    "anchor": "c-053",
+    "fragment": "",
+    "section": "知识点",
+    "context": "参见阅读评价、信息转述与判断范围。同一人物的不同评价须先比较标准。"
+  },
+  {
+    "source": "e-qd2026-historians",
+    "target": "k-claim-scope",
+    "anchor": "c-053",
+    "fragment": "",
+    "section": "知识点",
+    "context": "参见阅读评价、信息转述与判断范围。同一人物的不同评价须先比较标准。"
+  },
+  {
+    "source": "e-qd2026-historians",
+    "target": "k-classical-translation",
+    "anchor": "c-062",
+    "fragment": "",
+    "section": "知识点",
+    "context": "参见文言翻译。对偶帮助互释，礼制词则须根据外交场景选择义项。"
+  },
+  {
+    "source": "e-qd2026-historians",
+    "target": "k-multi-text",
+    "anchor": "c-072",
+    "fragment": "",
+    "section": "知识点",
+    "context": "参见多材料阅读、阅读评价。对应分析要分清标准、行为主体和证据所及范围。"
+  },
+  {
+    "source": "e-qd2026-historians",
+    "target": "k-evaluation",
+    "anchor": "c-072",
+    "fragment": "",
+    "section": "知识点",
+    "context": "参见多材料阅读、阅读评价。对应分析要分清标准、行为主体和证据所及范围。"
+  },
+  {
+    "source": "e-qd2026-historians",
+    "target": "m-exam-autumn-2026",
+    "anchor": "c-076",
+    "fragment": "",
+    "section": "关联研习",
+    "context": "本篇收录于2026年秋季调研试题。文言词汇可结合词义研习比较同词异义；判义须同时检验搭配、句法和语境。"
+  },
+  {
+    "source": "e-qd2026-historians",
+    "target": "m-lexicon",
+    "anchor": "c-076",
+    "fragment": "",
+    "section": "关联研习",
+    "context": "本篇收录于2026年秋季调研试题。文言词汇可结合词义研习比较同词异义；判义须同时检验搭配、句法和语境。"
+  },
+  {
+    "source": "e-qd2026-plums",
+    "target": "k-virtual-real",
+    "anchor": "c-027",
+    "fragment": "",
+    "section": "知识点",
+    "context": "参见虚实结合、托物言志。题画对象、诗中想象和作者现实活动不能混同。"
+  },
+  {
+    "source": "e-qd2026-plums",
+    "target": "k-object-aspiration",
+    "anchor": "c-027",
+    "fragment": "",
+    "section": "知识点",
+    "context": "参见虚实结合、托物言志。题画对象、诗中想象和作者现实活动不能混同。"
+  },
+  {
+    "source": "e-qd2026-plums",
+    "target": "k-virtual-real",
+    "anchor": "c-037",
+    "fragment": "",
+    "section": "知识点",
+    "context": "参见虚实结合、比较阅读。共同手法不保证相同情感；背景可辅助阐释而不能替代诗句。"
+  },
+  {
+    "source": "e-qd2026-plums",
+    "target": "k-comparison",
+    "anchor": "c-037",
+    "fragment": "",
+    "section": "知识点",
+    "context": "参见虚实结合、比较阅读。共同手法不保证相同情感；背景可辅助阐释而不能替代诗句。"
+  },
+  {
+    "source": "e-qd2026-plums",
+    "target": "m-exam-autumn-2026",
+    "anchor": "c-041",
+    "fragment": "",
+    "section": "关联研习",
+    "context": "本篇收录于2026年秋季调研试题。可由各题的知识点链接进入相关概念，比较不同文本中的适用条件。"
+  },
+  {
+    "source": "e-qd2026-scientists",
+    "target": "k-causal-inference",
+    "anchor": "c-032",
+    "fragment": "",
+    "section": "知识点",
+    "context": "参见因果关系与因果推断。结果成功不能自动确定行动动机。"
+  },
+  {
+    "source": "e-qd2026-scientists",
+    "target": "k-metaphor",
+    "anchor": "c-047",
+    "fragment": "",
+    "section": "知识点",
+    "context": "参见比喻、论据与论证保证。解释比喻要辨本体，分析事例要明确其支持的观点。"
+  },
+  {
+    "source": "e-qd2026-scientists",
+    "target": "k-warrant",
+    "anchor": "c-047",
+    "fragment": "",
+    "section": "知识点",
+    "context": "参见比喻、论据与论证保证。解释比喻要辨本体，分析事例要明确其支持的观点。"
+  },
+  {
+    "source": "e-qd2026-scientists",
+    "target": "k-argument-methods",
+    "anchor": "c-062",
+    "fragment": "",
+    "section": "知识点",
+    "context": "参见论证方法、论证结构。总分是篇章组织方式，演绎是前提对结论的逻辑支持方式，两者不可凭叙述顺序混同。"
+  },
+  {
+    "source": "e-qd2026-scientists",
+    "target": "k-argument-sequence",
+    "anchor": "c-062",
+    "fragment": "",
+    "section": "知识点",
+    "context": "参见论证方法、论证结构。总分是篇章组织方式，演绎是前提对结论的逻辑支持方式，两者不可凭叙述顺序混同。"
+  },
+  {
+    "source": "e-qd2026-scientists",
+    "target": "k-conditional-inference",
+    "anchor": "c-071",
+    "fragment": "",
+    "section": "知识点",
+    "context": "参见充分条件与必要条件、语句补写、衔接与复位。"
+  },
+  {
+    "source": "e-qd2026-scientists",
+    "target": "k-sentence-completion",
+    "anchor": "c-071",
+    "fragment": "",
+    "section": "知识点",
+    "context": "参见充分条件与必要条件、语句补写、衔接与复位。"
+  },
+  {
+    "source": "e-qd2026-scientists",
+    "target": "k-information-synthesis",
+    "anchor": "c-081",
+    "fragment": "",
+    "section": "知识点",
+    "context": "参见信息概括与整合、概念的情境迁移。转化到新表达任务时，可按目标、过程、行动重组证据。"
+  },
+  {
+    "source": "e-qd2026-scientists",
+    "target": "k-concept-transfer",
+    "anchor": "c-081",
+    "fragment": "",
+    "section": "知识点",
+    "context": "参见信息概括与整合、概念的情境迁移。转化到新表达任务时，可按目标、过程、行动重组证据。"
+  },
+  {
+    "source": "e-qd2026-scientists",
+    "target": "m-exam-autumn-2026",
+    "anchor": "c-085",
+    "fragment": "",
+    "section": "关联研习",
+    "context": "本篇收录于2026年秋季调研试题。可由各题的知识点链接进入相关概念，比较不同文本中的适用条件。"
+  },
+  {
+    "source": "e-qd2026-village",
+    "target": "k-affect-tone",
+    "anchor": "c-039",
+    "fragment": "",
+    "section": "知识点",
+    "context": "参见情感基调、以小见大。全篇评价应综合转折和结局，而非只取开头环境。"
+  },
+  {
+    "source": "e-qd2026-village",
+    "target": "k-small-scale",
+    "anchor": "c-039",
+    "fragment": "",
+    "section": "知识点",
+    "context": "参见情感基调、以小见大。全篇评价应综合转折和结局，而非只取开头环境。"
+  },
+  {
+    "source": "e-qd2026-village",
+    "target": "k-focalization",
+    "anchor": "c-054",
+    "fragment": "",
+    "section": "知识点",
+    "context": "参见叙述声音与聚焦、人物形象、比喻。推测身份不等于叙述已确认的事实。"
+  },
+  {
+    "source": "e-qd2026-village",
+    "target": "k-character",
+    "anchor": "c-054",
+    "fragment": "",
+    "section": "知识点",
+    "context": "参见叙述声音与聚焦、人物形象、比喻。推测身份不等于叙述已确认的事实。"
+  },
+  {
+    "source": "e-qd2026-village",
+    "target": "k-metaphor",
+    "anchor": "c-054",
+    "fragment": "",
+    "section": "知识点",
+    "context": "参见叙述声音与聚焦、人物形象、比喻。推测身份不等于叙述已确认的事实。"
+  },
+  {
+    "source": "e-qd2026-village",
+    "target": "k-character-mind",
+    "anchor": "c-064",
+    "fragment": "",
+    "section": "知识点",
+    "context": "参见人物心理。同一笑容可有多个前因，应按对象与层次区分。"
+  },
+  {
+    "source": "e-qd2026-village",
+    "target": "k-title",
+    "anchor": "c-074",
+    "fragment": "",
+    "section": "知识点",
+    "context": "参见标题意蕴与作用、阅读评价。标题比较应使用相同标准，辨析各自的聚焦和容量。"
+  },
+  {
+    "source": "e-qd2026-village",
+    "target": "k-evaluation",
+    "anchor": "c-074",
+    "fragment": "",
+    "section": "知识点",
+    "context": "参见标题意蕴与作用、阅读评价。标题比较应使用相同标准，辨析各自的聚焦和容量。"
+  },
+  {
+    "source": "e-qd2026-village",
+    "target": "m-exam-autumn-2026",
+    "anchor": "c-078",
+    "fragment": "",
+    "section": "关联研习",
+    "context": "本篇收录于2026年秋季调研试题。可由各题的知识点链接进入相关概念，比较不同文本中的适用条件。"
+  },
+  {
     "source": "e-rain-city",
     "target": "k-suspense",
     "anchor": "n-module-1",
@@ -19854,6 +20550,382 @@
     "fragment": "",
     "section": "研习关联",
     "context": "文学类文本阅读提供跨篇比较路径。"
+  },
+  {
+    "source": "e-wh2026-ai",
+    "target": "k-claim-scope",
+    "anchor": "c-030",
+    "fragment": "",
+    "section": "知识点",
+    "context": "参见信息转述与判断范围。愿望、可能与必要义务不能互相替换。"
+  },
+  {
+    "source": "e-wh2026-ai",
+    "target": "k-warrant",
+    "anchor": "c-045",
+    "fragment": "",
+    "section": "知识点",
+    "context": "参见论据与论证保证、归纳概括与证据强度。推论的对象和确定程度须受证据约束。"
+  },
+  {
+    "source": "e-wh2026-ai",
+    "target": "k-evidence-generalization",
+    "anchor": "c-045",
+    "fragment": "",
+    "section": "知识点",
+    "context": "参见论据与论证保证、归纳概括与证据强度。推论的对象和确定程度须受证据约束。"
+  },
+  {
+    "source": "e-wh2026-ai",
+    "target": "k-scientific-claims",
+    "anchor": "c-060",
+    "fragment": "",
+    "section": "知识点",
+    "context": "参见科学文本中的证据与假说。模型间反例足以否定无例外的单调规律。"
+  },
+  {
+    "source": "e-wh2026-ai",
+    "target": "k-information-synthesis",
+    "anchor": "c-070",
+    "fragment": "",
+    "section": "知识点",
+    "context": "参见信息概括与整合。整合可以按评价维度重组，而非机械按材料编号排列。"
+  },
+  {
+    "source": "e-wh2026-ai",
+    "target": "k-speech-action",
+    "anchor": "c-079",
+    "fragment": "",
+    "section": "知识点",
+    "context": "参见言语行为、礼貌与面子。任务可执行性和交际姿态是两个评价维度。"
+  },
+  {
+    "source": "e-wh2026-ai",
+    "target": "k-politeness",
+    "anchor": "c-079",
+    "fragment": "",
+    "section": "知识点",
+    "context": "参见言语行为、礼貌与面子。任务可执行性和交际姿态是两个评价维度。"
+  },
+  {
+    "source": "e-wh2026-ai",
+    "target": "m-exam-autumn-2026",
+    "anchor": "c-083",
+    "fragment": "",
+    "section": "关联研习",
+    "context": "本篇收录于2026年秋季调研试题。可由各题的知识点链接进入相关概念，比较不同文本中的适用条件。"
+  },
+  {
+    "source": "e-wh2026-dictionaries",
+    "target": "k-orthography",
+    "anchor": "c-023",
+    "fragment": "",
+    "section": "知识点",
+    "context": "参见规范字形与词形。同音近形辨析要由词义与搭配决定。"
+  },
+  {
+    "source": "e-wh2026-dictionaries",
+    "target": "k-idiom-context",
+    "anchor": "c-038",
+    "fragment": "",
+    "section": "知识点",
+    "context": "参见成语的语境适配。区分混杂、冒充和充数的事件结构。"
+  },
+  {
+    "source": "e-wh2026-dictionaries",
+    "target": "k-sentence-repair",
+    "anchor": "c-047",
+    "fragment": "",
+    "section": "知识点",
+    "context": "参见病句辨析与修改、句子成分与主干。"
+  },
+  {
+    "source": "e-wh2026-dictionaries",
+    "target": "k-sentence-components",
+    "anchor": "c-047",
+    "fragment": "",
+    "section": "知识点",
+    "context": "参见病句辨析与修改、句子成分与主干。"
+  },
+  {
+    "source": "e-wh2026-dictionaries",
+    "target": "k-sentence-completion",
+    "anchor": "c-056",
+    "fragment": "",
+    "section": "知识点",
+    "context": "参见语句补写、衔接与复位。总括语的范围须覆盖下文各例。"
+  },
+  {
+    "source": "e-wh2026-dictionaries",
+    "target": "k-parallelism",
+    "anchor": "c-066",
+    "fragment": "",
+    "section": "知识点",
+    "context": "参见排比、近义词辨析。形式平行须建立在各词意义准确的基础上。"
+  },
+  {
+    "source": "e-wh2026-dictionaries",
+    "target": "k-lexical-comparison",
+    "anchor": "c-066",
+    "fragment": "",
+    "section": "知识点",
+    "context": "参见排比、近义词辨析。形式平行须建立在各词意义准确的基础上。"
+  },
+  {
+    "source": "e-wh2026-dictionaries",
+    "target": "m-exam-autumn-2026",
+    "anchor": "c-070",
+    "fragment": "",
+    "section": "关联研习",
+    "context": "本篇收录于2026年秋季调研试题。可由各题的知识点链接进入相关概念，比较不同文本中的适用条件。"
+  },
+  {
+    "source": "e-wh2026-eagles",
+    "target": "k-object-aspiration",
+    "anchor": "c-029",
+    "fragment": "",
+    "section": "知识点",
+    "context": "参见托物言志。伏笔须有后文情节照应，不能将任何前后相连的诗句都称伏笔。"
+  },
+  {
+    "source": "e-wh2026-eagles",
+    "target": "k-object-aspiration",
+    "anchor": "c-038",
+    "fragment": "",
+    "section": "知识点",
+    "context": "参见托物言志、比较阅读。同一物象的常见联想不能替代本篇的修饰语与判断语。"
+  },
+  {
+    "source": "e-wh2026-eagles",
+    "target": "k-comparison",
+    "anchor": "c-038",
+    "fragment": "",
+    "section": "知识点",
+    "context": "参见托物言志、比较阅读。同一物象的常见联想不能替代本篇的修饰语与判断语。"
+  },
+  {
+    "source": "e-wh2026-eagles",
+    "target": "m-exam-autumn-2026",
+    "anchor": "c-042",
+    "fragment": "",
+    "section": "关联研习",
+    "context": "本篇收录于2026年秋季调研试题。可由各题的知识点链接进入相关概念，比较不同文本中的适用条件。"
+  },
+  {
+    "source": "e-wh2026-law",
+    "target": "k-classical-punctuation",
+    "anchor": "c-024",
+    "fragment": "",
+    "section": "知识点",
+    "context": "参见文言断句。人物简称可能与常见副词同形，须由篇内指称决定。"
+  },
+  {
+    "source": "e-wh2026-law",
+    "target": "k-wenyan-jia",
+    "anchor": "c-039",
+    "fragment": "",
+    "section": "知识点",
+    "context": "参见假、胜、词类活用与兼类。同字要逐句检验搭配和论元方向。"
+  },
+  {
+    "source": "e-wh2026-law",
+    "target": "k-wenyan-sheng",
+    "anchor": "c-039",
+    "fragment": "",
+    "section": "知识点",
+    "context": "参见假、胜、词类活用与兼类。同字要逐句检验搭配和论元方向。"
+  },
+  {
+    "source": "e-wh2026-law",
+    "target": "k-lexical-conversion",
+    "anchor": "c-039",
+    "fragment": "",
+    "section": "知识点",
+    "context": "参见假、胜、词类活用与兼类。同字要逐句检验搭配和论元方向。"
+  },
+  {
+    "source": "e-wh2026-law",
+    "target": "k-causal-inference",
+    "anchor": "c-054",
+    "fragment": "",
+    "section": "知识点",
+    "context": "参见因果关系与因果推断、观点的限定条件。政策的目的须由前因与结果一起判定。"
+  },
+  {
+    "source": "e-wh2026-law",
+    "target": "k-qualified-thesis",
+    "anchor": "c-054",
+    "fragment": "",
+    "section": "知识点",
+    "context": "参见因果关系与因果推断、观点的限定条件。政策的目的须由前因与结果一起判定。"
+  },
+  {
+    "source": "e-wh2026-law",
+    "target": "k-classical-translation",
+    "anchor": "c-063",
+    "fragment": "",
+    "section": "知识点",
+    "context": "参见文言翻译、动词后的介词短语、词类活用与兼类。"
+  },
+  {
+    "source": "e-wh2026-law",
+    "target": "k-wenyan-postposition",
+    "anchor": "c-063",
+    "fragment": "",
+    "section": "知识点",
+    "context": "参见文言翻译、动词后的介词短语、词类活用与兼类。"
+  },
+  {
+    "source": "e-wh2026-law",
+    "target": "k-lexical-conversion",
+    "anchor": "c-063",
+    "fragment": "",
+    "section": "知识点",
+    "context": "参见文言翻译、动词后的介词短语、词类活用与兼类。"
+  },
+  {
+    "source": "e-wh2026-law",
+    "target": "k-concept-transfer",
+    "anchor": "c-072",
+    "fragment": "",
+    "section": "知识点",
+    "context": "参见概念的情境迁移、论据与论证保证。同一史例可以支持不同层次的观点，不必强定互斥。"
+  },
+  {
+    "source": "e-wh2026-law",
+    "target": "k-warrant",
+    "anchor": "c-072",
+    "fragment": "",
+    "section": "知识点",
+    "context": "参见概念的情境迁移、论据与论证保证。同一史例可以支持不同层次的观点，不必强定互斥。"
+  },
+  {
+    "source": "e-wh2026-law",
+    "target": "m-exam-autumn-2026",
+    "anchor": "c-076",
+    "fragment": "",
+    "section": "关联研习",
+    "context": "本篇收录于2026年秋季调研试题。文言词汇可结合词义研习比较同词异义；判义须同时检验搭配、句法和语境。"
+  },
+  {
+    "source": "e-wh2026-law",
+    "target": "m-lexicon",
+    "anchor": "c-076",
+    "fragment": "",
+    "section": "关联研习",
+    "context": "本篇收录于2026年秋季调研试题。文言词汇可结合词义研习比较同词异义；判义须同时检验搭配、句法和语境。"
+  },
+  {
+    "source": "e-wh2026-mother",
+    "target": "k-order",
+    "anchor": "c-040",
+    "fragment": "",
+    "section": "知识点",
+    "context": "参见叙事时序、回忆叙述的双重视角。不能将所有过去时叙述都归入插叙。"
+  },
+  {
+    "source": "e-wh2026-mother",
+    "target": "k-memory-perspective",
+    "anchor": "c-040",
+    "fragment": "",
+    "section": "知识点",
+    "context": "参见叙事时序、回忆叙述的双重视角。不能将所有过去时叙述都归入插叙。"
+  },
+  {
+    "source": "e-wh2026-mother",
+    "target": "k-character-mind",
+    "anchor": "c-055",
+    "fragment": "",
+    "section": "知识点",
+    "context": "参见人物心理、词句含义。身体状态和心理态度相关但不能直接等同。"
+  },
+  {
+    "source": "e-wh2026-mother",
+    "target": "k-sentence-meaning",
+    "anchor": "c-055",
+    "fragment": "",
+    "section": "知识点",
+    "context": "参见人物心理、词句含义。身体状态和心理态度相关但不能直接等同。"
+  },
+  {
+    "source": "e-wh2026-mother",
+    "target": "k-characterization",
+    "anchor": "c-066",
+    "fragment": "",
+    "section": "知识点",
+    "context": "参见人物描写、对比、呼告。细节、尺度与叙述者反应共同构成情感效果。"
+  },
+  {
+    "source": "e-wh2026-mother",
+    "target": "k-contrast",
+    "anchor": "c-066",
+    "fragment": "",
+    "section": "知识点",
+    "context": "参见人物描写、对比、呼告。细节、尺度与叙述者反应共同构成情感效果。"
+  },
+  {
+    "source": "e-wh2026-mother",
+    "target": "k-poetic-address",
+    "anchor": "c-066",
+    "fragment": "",
+    "section": "知识点",
+    "context": "参见人物描写、对比、呼告。细节、尺度与叙述者反应共同构成情感效果。"
+  },
+  {
+    "source": "e-wh2026-mother",
+    "target": "k-symbol",
+    "anchor": "c-076",
+    "fragment": "",
+    "section": "知识点",
+    "context": "参见象征、照应与线索。同一物象可以兼具真实物性、结构线索和情感象征。"
+  },
+  {
+    "source": "e-wh2026-mother",
+    "target": "k-callback",
+    "anchor": "c-076",
+    "fragment": "",
+    "section": "知识点",
+    "context": "参见象征、照应与线索。同一物象可以兼具真实物性、结构线索和情感象征。"
+  },
+  {
+    "source": "e-wh2026-mother",
+    "target": "m-exam-autumn-2026",
+    "anchor": "c-080",
+    "fragment": "",
+    "section": "关联研习",
+    "context": "本篇收录于2026年秋季调研试题。可由各题的知识点链接进入相关概念，比较不同文本中的适用条件。"
+  },
+  {
+    "source": "e-wh2026-sounds",
+    "target": "k-memory-perspective",
+    "anchor": "c-019",
+    "fragment": "",
+    "section": "知识点",
+    "context": "参见回忆叙述的双重视角、因果关系与因果推断、写作修订。"
+  },
+  {
+    "source": "e-wh2026-sounds",
+    "target": "k-causal-inference",
+    "anchor": "c-019",
+    "fragment": "",
+    "section": "知识点",
+    "context": "参见回忆叙述的双重视角、因果关系与因果推断、写作修订。"
+  },
+  {
+    "source": "e-wh2026-sounds",
+    "target": "k-writing-revision",
+    "anchor": "c-019",
+    "fragment": "",
+    "section": "知识点",
+    "context": "参见回忆叙述的双重视角、因果关系与因果推断、写作修订。"
+  },
+  {
+    "source": "e-wh2026-sounds",
+    "target": "m-exam-autumn-2026",
+    "anchor": "c-041",
+    "fragment": "",
+    "section": "关联研习",
+    "context": "本篇收录于2026年秋季调研试题。可由各题的知识点链接进入相关概念，比较不同文本中的适用条件。"
   },
   {
     "source": "e-wilderness",
@@ -25920,6 +26992,70 @@
     "context": "本词可联系词类活用与兼类分析；具体判义仍须检验搭配、句法与上下文。"
   },
   {
+    "source": "k-wenyan-bai",
+    "target": "e-nj2026-zhangyong",
+    "anchor": "c-020",
+    "fragment": "",
+    "section": "本篇语境与互证",
+    "context": "张咏的品行与政绩“闻莱公大拜”指听说寇准拜相；“大”说明显要的任命，不是大幅度行礼。"
+  },
+  {
+    "source": "k-wenyan-bai",
+    "target": "k-lexical-polysemy",
+    "anchor": "c-022",
+    "fragment": "",
+    "section": "辨析与迁移",
+    "context": "参见多义词与词义系统、词义与语境、词类活用。同形、同义、字形通用与词性变化属于不同问题。"
+  },
+  {
+    "source": "k-wenyan-bai",
+    "target": "k-context",
+    "anchor": "c-022",
+    "fragment": "",
+    "section": "辨析与迁移",
+    "context": "参见多义词与词义系统、词义与语境、词类活用。同形、同义、字形通用与词性变化属于不同问题。"
+  },
+  {
+    "source": "k-wenyan-bai",
+    "target": "k-lexical-conversion",
+    "anchor": "c-022",
+    "fragment": "",
+    "section": "辨析与迁移",
+    "context": "参见多义词与词义系统、词义与语境、词类活用。同形、同义、字形通用与词性变化属于不同问题。"
+  },
+  {
+    "source": "k-wenyan-bao",
+    "target": "e-qd2026-historians",
+    "anchor": "c-016",
+    "fragment": "",
+    "section": "本篇语境与互证",
+    "context": "史官的职责与品格用白珩与贤臣对照，重在重新界定国家所珍重之物：有助国事的人才比器物更可宝。"
+  },
+  {
+    "source": "k-wenyan-bao",
+    "target": "k-lexical-polysemy",
+    "anchor": "c-018",
+    "fragment": "",
+    "section": "辨析与迁移",
+    "context": "参见多义词与词义系统、词义与语境、词类活用。同形、同义、字形通用与词性变化属于不同问题。"
+  },
+  {
+    "source": "k-wenyan-bao",
+    "target": "k-context",
+    "anchor": "c-018",
+    "fragment": "",
+    "section": "辨析与迁移",
+    "context": "参见多义词与词义系统、词义与语境、词类活用。同形、同义、字形通用与词性变化属于不同问题。"
+  },
+  {
+    "source": "k-wenyan-bao",
+    "target": "k-lexical-conversion",
+    "anchor": "c-018",
+    "fragment": "",
+    "section": "辨析与迁移",
+    "context": "参见多义词与词义系统、词义与语境、词类活用。同形、同义、字形通用与词性变化属于不同问题。"
+  },
+  {
     "source": "k-wenyan-bei",
     "target": "m-lexicon",
     "anchor": "c-003",
@@ -27254,6 +28390,38 @@
     "fragment": "",
     "section": "辨析与迁移",
     "context": "本词可联系词类活用与兼类分析；具体判义仍须检验搭配、句法与上下文。"
+  },
+  {
+    "source": "k-wenyan-feidun",
+    "target": "e-nj2026-zhangyong",
+    "anchor": "c-012",
+    "fragment": "",
+    "section": "本篇语境与互证",
+    "context": "张咏的品行与政绩以拯民与肥遁相对，说明希夷子劝张咏在百姓困苦时出仕，不是揭发其贪腐。"
+  },
+  {
+    "source": "k-wenyan-feidun",
+    "target": "k-lexical-polysemy",
+    "anchor": "c-014",
+    "fragment": "",
+    "section": "辨析与迁移",
+    "context": "参见多义词与词义系统、词义与语境、词类活用。同形、同义、字形通用与词性变化属于不同问题。"
+  },
+  {
+    "source": "k-wenyan-feidun",
+    "target": "k-context",
+    "anchor": "c-014",
+    "fragment": "",
+    "section": "辨析与迁移",
+    "context": "参见多义词与词义系统、词义与语境、词类活用。同形、同义、字形通用与词性变化属于不同问题。"
+  },
+  {
+    "source": "k-wenyan-feidun",
+    "target": "k-lexical-conversion",
+    "anchor": "c-014",
+    "fragment": "",
+    "section": "辨析与迁移",
+    "context": "参见多义词与词义系统、词义与语境、词类活用。同形、同义、字形通用与词性变化属于不同问题。"
   },
   {
     "source": "k-wenyan-fu",
@@ -29048,6 +30216,38 @@
     "context": "本词可联系通假、古今字与异体字分析；具体判义仍须检验搭配、句法与上下文。"
   },
   {
+    "source": "k-wenyan-pin",
+    "target": "e-qd2026-historians",
+    "anchor": "c-016",
+    "fragment": "",
+    "section": "本篇语境与互证",
+    "context": "史官的职责与品格“王孙圉聘于晋”是楚臣出使晋国。其后晋定公设宴接待，印证邦交访问义。"
+  },
+  {
+    "source": "k-wenyan-pin",
+    "target": "k-lexical-polysemy",
+    "anchor": "c-018",
+    "fragment": "",
+    "section": "辨析与迁移",
+    "context": "参见多义词与词义系统、词义与语境、词类活用。同形、同义、字形通用与词性变化属于不同问题。"
+  },
+  {
+    "source": "k-wenyan-pin",
+    "target": "k-context",
+    "anchor": "c-018",
+    "fragment": "",
+    "section": "辨析与迁移",
+    "context": "参见多义词与词义系统、词义与语境、词类活用。同形、同义、字形通用与词性变化属于不同问题。"
+  },
+  {
+    "source": "k-wenyan-pin",
+    "target": "k-lexical-conversion",
+    "anchor": "c-018",
+    "fragment": "",
+    "section": "辨析与迁移",
+    "context": "参见多义词与词义系统、词义与语境、词类活用。同形、同义、字形通用与词性变化属于不同问题。"
+  },
+  {
     "source": "k-wenyan-postposition",
     "target": "e-2011-heguan",
     "anchor": "c-005",
@@ -29528,6 +30728,38 @@
     "context": "先确定搭配对象和句法位置，再把候选义放回整句，检验前后事件是否连贯。可参照语境如何限定词义，并从文言阅读索引比较同一语法位置的其他词。"
   },
   {
+    "source": "k-wenyan-rang",
+    "target": "e-nj2026-zhangyong",
+    "anchor": "c-020",
+    "fragment": "",
+    "section": "本篇语境与互证",
+    "context": "张咏的品行与政绩的“攘却戎狄”与“攘袂缨冠”分属抵御和捋袖，不能机械套用同一释义。"
+  },
+  {
+    "source": "k-wenyan-rang",
+    "target": "k-lexical-polysemy",
+    "anchor": "c-022",
+    "fragment": "",
+    "section": "辨析与迁移",
+    "context": "参见多义词与词义系统、词义与语境、词类活用。同形、同义、字形通用与词性变化属于不同问题。"
+  },
+  {
+    "source": "k-wenyan-rang",
+    "target": "k-context",
+    "anchor": "c-022",
+    "fragment": "",
+    "section": "辨析与迁移",
+    "context": "参见多义词与词义系统、词义与语境、词类活用。同形、同义、字形通用与词性变化属于不同问题。"
+  },
+  {
+    "source": "k-wenyan-rang",
+    "target": "k-lexical-conversion",
+    "anchor": "c-022",
+    "fragment": "",
+    "section": "辨析与迁移",
+    "context": "参见多义词与词义系统、词义与语境、词类活用。同形、同义、字形通用与词性变化属于不同问题。"
+  },
+  {
     "source": "k-wenyan-ru",
     "target": "m-lexicon",
     "anchor": "c-003",
@@ -29774,6 +31006,38 @@
     "fragment": "",
     "section": "辨析与迁移",
     "context": "本词可联系比喻引申分析；具体判义仍须检验搭配、句法与上下文。"
+  },
+  {
+    "source": "k-wenyan-she-release",
+    "target": "e-qd2026-historians",
+    "anchor": "c-024",
+    "fragment": "",
+    "section": "本篇语境与互证",
+    "context": "史官的职责与品格“乃舍之”承接杀史官与坚持书写的冲突，指放过、赦免这个人。不能一见“舍”便译作舍弃。"
+  },
+  {
+    "source": "k-wenyan-she-release",
+    "target": "k-lexical-polysemy",
+    "anchor": "c-026",
+    "fragment": "",
+    "section": "辨析与迁移",
+    "context": "参见多义词与词义系统、词义与语境、词类活用。同形、同义、字形通用与词性变化属于不同问题。"
+  },
+  {
+    "source": "k-wenyan-she-release",
+    "target": "k-context",
+    "anchor": "c-026",
+    "fragment": "",
+    "section": "辨析与迁移",
+    "context": "参见多义词与词义系统、词义与语境、词类活用。同形、同义、字形通用与词性变化属于不同问题。"
+  },
+  {
+    "source": "k-wenyan-she-release",
+    "target": "k-lexical-conversion",
+    "anchor": "c-026",
+    "fragment": "",
+    "section": "辨析与迁移",
+    "context": "参见多义词与词义系统、词义与语境、词类活用。同形、同义、字形通用与词性变化属于不同问题。"
   },
   {
     "source": "k-wenyan-sheng",
@@ -30864,6 +32128,38 @@
     "context": "本词可联系多义词与词义系统分析；具体判义仍须检验搭配、句法与上下文。"
   },
   {
+    "source": "k-wenyan-xiang-feast",
+    "target": "e-qd2026-historians",
+    "anchor": "c-020",
+    "fragment": "",
+    "section": "本篇语境与互证",
+    "context": "史官的职责与品格“定公飨之”的施事者为晋定公，接受宴请者为王孙圉；“飨”不能误成定公自己吃饭。"
+  },
+  {
+    "source": "k-wenyan-xiang-feast",
+    "target": "k-lexical-polysemy",
+    "anchor": "c-022",
+    "fragment": "",
+    "section": "辨析与迁移",
+    "context": "参见多义词与词义系统、词义与语境、词类活用。同形、同义、字形通用与词性变化属于不同问题。"
+  },
+  {
+    "source": "k-wenyan-xiang-feast",
+    "target": "k-context",
+    "anchor": "c-022",
+    "fragment": "",
+    "section": "辨析与迁移",
+    "context": "参见多义词与词义系统、词义与语境、词类活用。同形、同义、字形通用与词性变化属于不同问题。"
+  },
+  {
+    "source": "k-wenyan-xiang-feast",
+    "target": "k-lexical-conversion",
+    "anchor": "c-022",
+    "fragment": "",
+    "section": "辨析与迁移",
+    "context": "参见多义词与词义系统、词义与语境、词类活用。同形、同义、字形通用与词性变化属于不同问题。"
+  },
+  {
     "source": "k-wenyan-xie",
     "target": "m-lexicon",
     "anchor": "c-003",
@@ -31830,6 +33126,38 @@
     "fragment": "",
     "section": "辨析与迁移",
     "context": "先确定搭配对象和句法位置，再把候选义放回整句，检验前后事件是否连贯。可参照语境如何限定词义，并从文言阅读索引比较同一语法位置的其他词。"
+  },
+  {
+    "source": "k-wenyan-yuan",
+    "target": "e-wh2026-law",
+    "anchor": "c-020",
+    "fragment": "",
+    "section": "本篇语境与互证",
+    "context": "治人与治法中“君子者，法之原也”的“原”是名词；与“原庄宗之所以得天下”的动词用法不同。"
+  },
+  {
+    "source": "k-wenyan-yuan",
+    "target": "k-lexical-polysemy",
+    "anchor": "c-022",
+    "fragment": "",
+    "section": "辨析与迁移",
+    "context": "参见多义词与词义系统、词义与语境、词类活用。同形、同义、字形通用与词性变化属于不同问题。"
+  },
+  {
+    "source": "k-wenyan-yuan",
+    "target": "k-context",
+    "anchor": "c-022",
+    "fragment": "",
+    "section": "辨析与迁移",
+    "context": "参见多义词与词义系统、词义与语境、词类活用。同形、同义、字形通用与词性变化属于不同问题。"
+  },
+  {
+    "source": "k-wenyan-yuan",
+    "target": "k-lexical-conversion",
+    "anchor": "c-022",
+    "fragment": "",
+    "section": "辨析与迁移",
+    "context": "参见多义词与词义系统、词义与语境、词类活用。同形、同义、字形通用与词性变化属于不同问题。"
   },
   {
     "source": "k-wenyan-zai",
@@ -33902,6 +35230,214 @@
     "fragment": "",
     "section": "研习路径",
     "context": "写作可沿材料立意、概念迁移、有限定的论点进入各篇例文。题号在每个文本内重新编号；《观乐生传》的两个独立释义选择任务分别成题。"
+  },
+  {
+    "source": "m-exam-autumn-2026",
+    "target": "e-nj2026-kunlun",
+    "anchor": "c-002",
+    "fragment": "",
+    "section": "南京学情调研",
+    "context": "昆仑石刻的真伪之辨 · 实用类文本阅读 · 5题。"
+  },
+  {
+    "source": "m-exam-autumn-2026",
+    "target": "e-nj2026-game",
+    "anchor": "c-003",
+    "fragment": "",
+    "section": "南京学情调研",
+    "context": "游戏 · 小说阅读 · 4题。"
+  },
+  {
+    "source": "m-exam-autumn-2026",
+    "target": "e-nj2026-zhangyong",
+    "anchor": "c-004",
+    "fragment": "",
+    "section": "南京学情调研",
+    "context": "张咏的品行与政绩 · 文言文阅读 · 5题。"
+  },
+  {
+    "source": "m-exam-autumn-2026",
+    "target": "e-nj2026-hehu",
+    "anchor": "c-005",
+    "fragment": "",
+    "section": "南京学情调研",
+    "context": "贺胡侍郎新居落成 · 古典诗歌阅读 · 2题。"
+  },
+  {
+    "source": "m-exam-autumn-2026",
+    "target": "e-nj2026-guliu",
+    "anchor": "c-006",
+    "fragment": "",
+    "section": "南京学情调研",
+    "context": "追寻“古流” · 语言文字运用 · 5题。"
+  },
+  {
+    "source": "m-exam-autumn-2026",
+    "target": "e-nj2026-spiritual",
+    "anchor": "c-007",
+    "fragment": "",
+    "section": "南京学情调研",
+    "context": "日常生活与精神追求 · 写作 · 1题。"
+  },
+  {
+    "source": "m-exam-autumn-2026",
+    "target": "e-wh2026-ai",
+    "anchor": "c-008",
+    "fragment": "",
+    "section": "武汉九月调研",
+    "context": "对AI说“谢谢” · 非连续文本阅读 · 5题。"
+  },
+  {
+    "source": "m-exam-autumn-2026",
+    "target": "e-wh2026-mother",
+    "anchor": "c-009",
+    "fragment": "",
+    "section": "武汉九月调研",
+    "context": "母亲的土地 · 散文阅读 · 4题。"
+  },
+  {
+    "source": "m-exam-autumn-2026",
+    "target": "e-wh2026-law",
+    "anchor": "c-010",
+    "fragment": "",
+    "section": "武汉九月调研",
+    "context": "治人与治法 · 文言文阅读 · 5题。"
+  },
+  {
+    "source": "m-exam-autumn-2026",
+    "target": "e-wh2026-eagles",
+    "anchor": "c-011",
+    "fragment": "",
+    "section": "武汉九月调研",
+    "context": "咏鹰二首 · 古典诗歌阅读 · 2题。"
+  },
+  {
+    "source": "m-exam-autumn-2026",
+    "target": "e-wh2026-dictionaries",
+    "anchor": "c-012",
+    "fragment": "",
+    "section": "武汉九月调研",
+    "context": "数智时代的辞书 · 语言文字运用 · 5题。"
+  },
+  {
+    "source": "m-exam-autumn-2026",
+    "target": "e-wh2026-sounds",
+    "anchor": "c-013",
+    "fragment": "",
+    "section": "武汉九月调研",
+    "context": "同一种声音的认知变化 · 写作 · 1题。"
+  },
+  {
+    "source": "m-exam-autumn-2026",
+    "target": "e-qd2026-scientists",
+    "anchor": "c-014",
+    "fragment": "",
+    "section": "青岛期初调研",
+    "context": "科学家精神与家国情怀 · 非连续文本阅读 · 5题。"
+  },
+  {
+    "source": "m-exam-autumn-2026",
+    "target": "e-qd2026-village",
+    "anchor": "c-015",
+    "fragment": "",
+    "section": "青岛期初调研",
+    "context": "老村 · 小说阅读 · 4题。"
+  },
+  {
+    "source": "m-exam-autumn-2026",
+    "target": "e-qd2026-historians",
+    "anchor": "c-016",
+    "fragment": "",
+    "section": "青岛期初调研",
+    "context": "史官的职责与品格 · 文言文阅读 · 5题。"
+  },
+  {
+    "source": "m-exam-autumn-2026",
+    "target": "e-qd2026-plums",
+    "anchor": "c-017",
+    "fragment": "",
+    "section": "青岛期初调研",
+    "context": "题花光梅二首 · 古典诗歌阅读 · 2题。"
+  },
+  {
+    "source": "m-exam-autumn-2026",
+    "target": "e-qd2026-dazi",
+    "anchor": "c-018",
+    "fragment": "",
+    "section": "青岛期初调研",
+    "context": "“搭子社交”的词义与语境 · 语言文字运用 · 4题。"
+  },
+  {
+    "source": "m-exam-autumn-2026",
+    "target": "e-qd2026-distance",
+    "anchor": "c-019",
+    "fragment": "",
+    "section": "青岛期初调研",
+    "context": "远方与抵达 · 写作 · 1题。"
+  },
+  {
+    "source": "m-exam-autumn-2026",
+    "target": "k-wenyan-rang",
+    "anchor": "c-020",
+    "fragment": "",
+    "section": "文言词汇",
+    "context": "攘、原、舍、宝、聘、飨、拜、肥遁。词条按具体语境列出义项、例句、译释和词义关系。"
+  },
+  {
+    "source": "m-exam-autumn-2026",
+    "target": "k-wenyan-yuan",
+    "anchor": "c-020",
+    "fragment": "",
+    "section": "文言词汇",
+    "context": "攘、原、舍、宝、聘、飨、拜、肥遁。词条按具体语境列出义项、例句、译释和词义关系。"
+  },
+  {
+    "source": "m-exam-autumn-2026",
+    "target": "k-wenyan-she-release",
+    "anchor": "c-020",
+    "fragment": "",
+    "section": "文言词汇",
+    "context": "攘、原、舍、宝、聘、飨、拜、肥遁。词条按具体语境列出义项、例句、译释和词义关系。"
+  },
+  {
+    "source": "m-exam-autumn-2026",
+    "target": "k-wenyan-bao",
+    "anchor": "c-020",
+    "fragment": "",
+    "section": "文言词汇",
+    "context": "攘、原、舍、宝、聘、飨、拜、肥遁。词条按具体语境列出义项、例句、译释和词义关系。"
+  },
+  {
+    "source": "m-exam-autumn-2026",
+    "target": "k-wenyan-pin",
+    "anchor": "c-020",
+    "fragment": "",
+    "section": "文言词汇",
+    "context": "攘、原、舍、宝、聘、飨、拜、肥遁。词条按具体语境列出义项、例句、译释和词义关系。"
+  },
+  {
+    "source": "m-exam-autumn-2026",
+    "target": "k-wenyan-xiang-feast",
+    "anchor": "c-020",
+    "fragment": "",
+    "section": "文言词汇",
+    "context": "攘、原、舍、宝、聘、飨、拜、肥遁。词条按具体语境列出义项、例句、译释和词义关系。"
+  },
+  {
+    "source": "m-exam-autumn-2026",
+    "target": "k-wenyan-bai",
+    "anchor": "c-020",
+    "fragment": "",
+    "section": "文言词汇",
+    "context": "攘、原、舍、宝、聘、飨、拜、肥遁。词条按具体语境列出义项、例句、译释和词义关系。"
+  },
+  {
+    "source": "m-exam-autumn-2026",
+    "target": "k-wenyan-feidun",
+    "anchor": "c-020",
+    "fragment": "",
+    "section": "文言词汇",
+    "context": "攘、原、舍、宝、聘、飨、拜、肥遁。词条按具体语境列出义项、例句、译释和词义关系。"
   },
   {
     "source": "m-expression",
@@ -39390,5 +40926,333 @@
     "fragment": "s-context",
     "section": "文言随文释义 · 虚词",
     "context": "“盖欲其思而得之也”：承接受到宽厚处置、应加勉励的百姓，不指君主自己。"
+  },
+  {
+    "source": "e-nj2026-zhangyong",
+    "target": "k-wenyan-courtesy-name",
+    "anchor": "gloss-001",
+    "fragment": "s-context",
+    "section": "文言随文释义 · 文化常识",
+    "context": "“忠定公张公复之”：张咏的字。材料交替使用名、字、谥号，须合并为同一人物。"
+  },
+  {
+    "source": "e-nj2026-zhangyong",
+    "target": "k-wenyan-era-name",
+    "anchor": "gloss-002",
+    "fragment": "s-context",
+    "section": "文言随文释义 · 文化常识",
+    "context": "“太平兴国五年”：宋太宗年号。五年为该年号的第五年，不是公历第五年。"
+  },
+  {
+    "source": "e-nj2026-zhangyong",
+    "target": "k-wenyan-bai",
+    "anchor": "gloss-003",
+    "fragment": "s-sense-2",
+    "section": "文言随文释义 · 实词",
+    "context": "“召拜枢密直学士”：授予官职；本句张咏是受任者，可译为被授为枢密直学士。"
+  },
+  {
+    "source": "e-nj2026-zhangyong",
+    "target": "k-wenyan-rang",
+    "anchor": "gloss-004",
+    "fragment": "s-sense-2",
+    "section": "文言随文释义 · 实词",
+    "context": "“攘却戎狄”：抵御、排拒。宾语为军事对手，与下文“攘袂”不同。"
+  },
+  {
+    "source": "e-nj2026-zhangyong",
+    "target": "k-wenyan-gu-look",
+    "anchor": "gloss-005",
+    "fragment": "s-context",
+    "section": "文言随文释义 · 实词",
+    "context": "“而复之顾谓”：却、反而，副词；与前面对寇准的肯定形成转折，不是回头看。"
+  },
+  {
+    "source": "e-nj2026-zhangyong",
+    "target": "k-wenyan-xie",
+    "anchor": "gloss-006",
+    "fragment": "s-context",
+    "section": "文言随文释义 · 实词",
+    "context": "“乞斩丁谓以谢天下”：向天下谢罪、交代；不是感谢天下。"
+  },
+  {
+    "source": "e-nj2026-zhangyong",
+    "target": "k-wenyan-shi-envoy",
+    "anchor": "gloss-007",
+    "fragment": "s-context",
+    "section": "文言随文释义 · 虚词",
+    "context": "“使复之当平仲之任”：假使，引出尚未实际发生的假设；此处按虚词功能标记。"
+  },
+  {
+    "source": "e-nj2026-zhangyong",
+    "target": "k-wenyan-feidun",
+    "anchor": "gloss-008",
+    "fragment": "s-sense-2",
+    "section": "文言随文释义 · 实词",
+    "context": "“不宜辄自肥遁”：退隐不仕。与前文拯救百姓相对，不指谋私后逃责。"
+  },
+  {
+    "source": "e-nj2026-zhangyong",
+    "target": "k-wenyan-rang",
+    "anchor": "gloss-009",
+    "fragment": "s-sense-4",
+    "section": "文言随文释义 · 实词",
+    "context": "“攘袂缨冠”：捋起衣袖；袂为袖子，动作表示立即准备出仕。"
+  },
+  {
+    "source": "e-nj2026-zhangyong",
+    "target": "k-wenyan-hen",
+    "anchor": "gloss-010",
+    "fragment": "s-context",
+    "section": "文言随文释义 · 实词",
+    "context": "“旧史恨复之卞急躁竞”：遗憾，认为其性情有欠缺；下文作者正在反驳这种评价。"
+  },
+  {
+    "source": "e-nj2026-zhangyong",
+    "target": "k-lexical-conversion",
+    "anchor": "gloss-011",
+    "fragment": "s-principle",
+    "section": "文言随文释义 · 语法",
+    "context": "“缨冠，诚非得已”：缨在此作动词，系好帽带。与攘袂并列，不能把两者都只当名词。"
+  },
+  {
+    "source": "e-nj2026-zhangyong",
+    "target": "k-wenyan-adverbial-noun",
+    "anchor": "gloss-012",
+    "fragment": "s-context",
+    "section": "文言随文释义 · 语法",
+    "context": "“莱公兄事之”：名词作状语，像对待兄长那样；事的对象“之”指张咏。"
+  },
+  {
+    "source": "e-nj2026-zhangyong",
+    "target": "k-wenyan-bai",
+    "anchor": "gloss-013",
+    "fragment": "s-sense-2",
+    "section": "文言随文释义 · 实词",
+    "context": "“闻莱公大拜”：受任为宰相。主语莱公是寇准；不是张咏向寇准行拜礼。"
+  },
+  {
+    "source": "e-nj2026-zhangyong",
+    "target": "k-wenyan-gu-look",
+    "anchor": "gloss-014",
+    "fragment": "s-context",
+    "section": "文言随文释义 · 实词",
+    "context": "“既别，顾莱公曰”：回头看着，后面接向寇准说话；与前文转折副词顾不同。"
+  },
+  {
+    "source": "e-wh2026-law",
+    "target": "k-wenyan-lei",
+    "anchor": "gloss-001",
+    "fragment": "s-context",
+    "section": "文言随文释义 · 实词",
+    "context": "“类①不能自行”：类例、按事类形成的准则，承原注；不是种类自行移动。"
+  },
+  {
+    "source": "e-wh2026-law",
+    "target": "k-wenyan-yuan",
+    "anchor": "gloss-002",
+    "fragment": "s-sense-2",
+    "section": "文言随文释义 · 实词",
+    "context": "“君子者，法之原也”：根本，名词。本文强调实施法的人，不同于“原庄宗”的推究义。"
+  },
+  {
+    "source": "e-wh2026-law",
+    "target": "k-wenyan-judgment",
+    "anchor": "gloss-003",
+    "fragment": "s-context",
+    "section": "文言随文释义 · 语法",
+    "context": "“法者，治之端也”：者提示话题，也收束判断；说明法与治理的关系。"
+  },
+  {
+    "source": "e-wh2026-law",
+    "target": "k-syntax",
+    "anchor": "gloss-004",
+    "fragment": "s-principle",
+    "section": "文言随文释义 · 语法",
+    "context": "“君欲何以息其盗贼”：疑问代词何作介词以的宾语而前置，即“以何”：打算用什么办法。"
+  },
+  {
+    "source": "e-wh2026-law",
+    "target": "k-wenyan-an",
+    "anchor": "gloss-005",
+    "fragment": "s-context",
+    "section": "文言随文释义 · 实词",
+    "context": "“固欲安之也”：使百姓安定，安带宾语“之”表示使动关系。"
+  },
+  {
+    "source": "e-wh2026-law",
+    "target": "k-wenyan-yi",
+    "anchor": "gloss-006",
+    "fragment": "s-context",
+    "section": "文言随文释义 · 虚词",
+    "context": "“上以（龚遂）为渤海太守”：以……为……，任命某人为某官；括号中的龚遂是题面补明的对象。"
+  },
+  {
+    "source": "e-wh2026-law",
+    "target": "k-wenyan-postposition",
+    "anchor": "gloss-007",
+    "fragment": "s-context",
+    "section": "文言随文释义 · 语法",
+    "context": "“拘臣以文法”：以文法是动作拘的工具或依据，现代译文可提前为“用成文法令约束我”。"
+  },
+  {
+    "source": "e-wh2026-law",
+    "target": "k-wenyan-shu",
+    "anchor": "gloss-008",
+    "fragment": "s-context",
+    "section": "文言随文释义 · 实词",
+    "context": "“移书敕属县”：公文、文书；移书指发文告知。"
+  },
+  {
+    "source": "e-wh2026-law",
+    "target": "k-wenyan-jia",
+    "anchor": "gloss-009",
+    "fragment": "s-context",
+    "section": "文言随文释义 · 实词",
+    "context": "“开仓廪假贫民”：把粮食贷给贫民；与借助外物不同，须分清给予和借入方向。"
+  },
+  {
+    "source": "e-wh2026-law",
+    "target": "k-lexical-conversion",
+    "anchor": "gloss-010",
+    "fragment": "s-principle",
+    "section": "文言随文释义 · 语法",
+    "context": "“不田作”：田与作结合表示耕作，不田作即不从事农业劳动。"
+  },
+  {
+    "source": "e-wh2026-law",
+    "target": "k-lexical-conversion",
+    "anchor": "gloss-011",
+    "fragment": "s-principle",
+    "section": "文言随文释义 · 语法",
+    "context": "“以桑麻之”：名物作谓语，指在所授土地种植桑麻；“之”承上指土地。"
+  },
+  {
+    "source": "e-wh2026-law",
+    "target": "k-wenyan-wei-act",
+    "anchor": "gloss-012",
+    "fragment": "s-context",
+    "section": "文言随文释义 · 虚词",
+    "context": "“未尝为一己而立”：wèi，为了，引出立法所服务的目的与利益。"
+  },
+  {
+    "source": "e-wh2026-law",
+    "target": "k-wenyan-sheng",
+    "anchor": "gloss-013",
+    "fragment": "s-context",
+    "section": "文言随文释义 · 实词",
+    "context": "“前王不胜其利欲之私”：承受、克制不住利欲之私的驱使，不是取胜。"
+  },
+  {
+    "source": "e-wh2026-law",
+    "target": "k-wenyan-sheng",
+    "anchor": "gloss-014",
+    "fragment": "s-context",
+    "section": "文言随文释义 · 实词",
+    "context": "“后王或不胜其利欲之私”：不能抵挡私欲驱使；前王立法、后王毁法的行为虽异，词义相同。"
+  },
+  {
+    "source": "e-qd2026-historians",
+    "target": "k-syntax",
+    "anchor": "gloss-001",
+    "fragment": "s-principle",
+    "section": "文言随文释义 · 语法",
+    "context": "“以直笔见诛”：见置于动词前表被动：因为秉笔直书而被杀。"
+  },
+  {
+    "source": "e-qd2026-historians",
+    "target": "k-wenyan-shan",
+    "anchor": "gloss-002",
+    "fragment": "s-context",
+    "section": "文言随文释义 · 实词",
+    "context": "“彰善贬恶”：善行、美好的行为，名词作彰的宾语；与恶相对。"
+  },
+  {
+    "source": "e-qd2026-historians",
+    "target": "k-wenyan-she-release",
+    "anchor": "gloss-003",
+    "fragment": "s-sense-3",
+    "section": "文言随文释义 · 实词",
+    "context": "“乃舍之”：放过这个坚持书写的人，语境中与赦免相关。"
+  },
+  {
+    "source": "e-qd2026-historians",
+    "target": "k-wenyan-shu",
+    "anchor": "gloss-004",
+    "fragment": "s-context",
+    "section": "文言随文释义 · 实词",
+    "context": "“将复书之”：书写、记载；“之”指崔杼弑君的事实。"
+  },
+  {
+    "source": "e-qd2026-historians",
+    "target": "k-wenyan-jiu",
+    "anchor": "gloss-005",
+    "fragment": "s-context",
+    "section": "文言随文释义 · 实词",
+    "context": "“草创未就”：完成，指著述尚未完成；与后面“就极刑”的接受义不同。"
+  },
+  {
+    "source": "e-qd2026-historians",
+    "target": "k-wenyan-jiu",
+    "anchor": "gloss-006",
+    "fragment": "s-context",
+    "section": "文言随文释义 · 实词",
+    "context": "“是以就极刑而无愠色”：接受、承受，指接受极刑以继续完成著述。"
+  },
+  {
+    "source": "e-qd2026-historians",
+    "target": "k-wenyan-yi",
+    "anchor": "gloss-007",
+    "fragment": "s-context",
+    "section": "文言随文释义 · 虚词",
+    "context": "“是以就极刑”：是以即因此；是指前述惜其不成的缘故。"
+  },
+  {
+    "source": "e-qd2026-historians",
+    "target": "k-wenyan-pin",
+    "anchor": "gloss-008",
+    "fragment": "s-sense-1",
+    "section": "文言随文释义 · 实词",
+    "context": "“王孙圉聘于晋”：代表楚国出使晋国，属诸侯间聘问。"
+  },
+  {
+    "source": "e-qd2026-historians",
+    "target": "k-wenyan-xiang-feast",
+    "anchor": "gloss-009",
+    "fragment": "s-sense-1",
+    "section": "文言随文释义 · 实词",
+    "context": "“定公飨之”：设宴款待，之指来访的王孙圉。"
+  },
+  {
+    "source": "e-qd2026-historians",
+    "target": "k-wenyan-bao",
+    "anchor": "gloss-010",
+    "fragment": "s-sense-1",
+    "section": "文言随文释义 · 实词",
+    "context": "“未尝为宝”：珍宝，名词；为宝即看作宝物，不可把本处宝单独判为意动。"
+  },
+  {
+    "source": "e-qd2026-historians",
+    "target": "k-wenyan-bao",
+    "anchor": "gloss-011",
+    "fragment": "s-sense-2",
+    "section": "文言随文释义 · 实词",
+    "context": "“楚之所宝者”：珍视、以为宝，动词性用法，所宝指被珍视的人。"
+  },
+  {
+    "source": "e-qd2026-historians",
+    "target": "k-wenyan-adverbial-noun",
+    "anchor": "gloss-012",
+    "fragment": "s-context",
+    "section": "文言随文释义 · 语法",
+    "context": "“以朝夕献善败于寡君”：时间名词作状语，从早到晚、经常；修饰献。"
+  },
+  {
+    "source": "e-qd2026-historians",
+    "target": "k-wenyan-qi-pronoun",
+    "anchor": "gloss-013",
+    "fragment": "s-context",
+    "section": "文言随文释义 · 虚词",
+    "context": "“其为宝也”：指示白珩，承上文问话；不能笼统译成他的。"
   }
 ]

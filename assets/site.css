@@ -209,3 +209,5 @@
 .course-page .detail-grid{grid-template-columns:210px minmax(0,1fr)}
 @media(max-width:1050px){.course-grid{grid-template-columns:1fr}.course-card>p{min-height:0}.course-card h2{font-size:27px}.course-page .detail-grid{grid-template-columns:minmax(0,1fr)}}
 @media(max-width:700px){.course-card{padding:25px 22px}.course-grid{gap:18px}.course-page .prose h2{font-size:24px}.site-header nav{gap:23px}}
+
+.prose table caption{padding:.6em 0;text-align:left;font-weight:600;color:var(--forest,#254438)}
