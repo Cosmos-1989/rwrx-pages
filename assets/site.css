@@ -211,3 +211,26 @@
 @media(max-width:700px){.course-card{padding:25px 22px}.course-grid{gap:18px}.course-page .prose h2{font-size:24px}.site-header nav{gap:23px}}
 
 .prose table caption{padding:.6em 0;text-align:left;font-weight:600;color:var(--forest,#254438)}
+
+/* Local fieldwork notebook */
+.fieldwork { margin-block:1.5rem; }
+.fieldwork-steps { display:flex; gap:.6rem; flex-wrap:wrap; margin:1.5rem 0; }
+.fieldwork-steps a { padding:.6rem .8rem; background:#e8eddf; border-radius:3px; font:500 .9rem/1.4 system-ui,sans-serif; }
+.fieldwork section { margin:2rem 0; padding:1.5rem; background:#f0f1e9; border:1px solid #d7dccd; scroll-margin-top:7rem; }
+.fieldwork section:nth-of-type(even) { background:#e8ecdf; }
+.fieldwork label { display:block; font:500 .95rem/1.6 system-ui,sans-serif; margin:1rem 0; color:#344c40; }
+.fieldwork input,.fieldwork textarea,.fieldwork select { box-sizing:border-box; width:100%; display:block; margin-top:.4rem; border:1px solid #aeb8a5; background:#fffefa; border-radius:3px; padding:.7rem; font:400 1rem/1.7 system-ui,sans-serif; color:#263c31; }
+.fieldwork textarea { resize:vertical; }
+.fieldwork button { border:1px solid #9daa93; background:#fafaf4; color:#284c3c; border-radius:3px; padding:.65rem .9rem; cursor:pointer; font:500 .9rem/1.4 system-ui,sans-serif; }
+.fieldwork button:hover { background:#dde6d4; }
+.fieldwork :is(button,input,textarea,select,a):focus-visible { outline:3px solid #8e573e; outline-offset:3px; }
+.workbench-toolbar { display:flex; flex-wrap:wrap; gap:.6rem; align-items:center; }
+[data-fw-status] { font:400 .86rem/1.6 system-ui,sans-serif; }
+.fieldwork fieldset { min-width:0; margin:1rem 0; padding:1rem; border:1px solid #bdc7b2; }
+.fieldwork legend { color:#31533e; padding:0 .5rem; font-weight:600; }
+.fieldwork-check { font:400 .9rem/1.65 system-ui,sans-serif; padding:1rem 1rem 1rem 2rem; background:#fffbea; }
+@media(max-width:600px) { .fieldwork section { padding:1rem .65rem; } .fieldwork fieldset { padding:.65rem; } }
+@media print { .fieldwork button,.fieldwork-steps,.workbench-toolbar { display:none; } .fieldwork textarea { overflow:visible; } }
+
+.source-glyph{display:inline-block;position:relative;vertical-align:baseline}.prose .source-glyph-image{display:inline-block;height:1.05em;width:auto;vertical-align:-.08em;mix-blend-mode:multiply}.prose .verse-date{text-align:right;font-size:.85em;color:var(--muted)}
+.source-subheading{font-weight:700;font-family:var(--sans);font-size:.94em}
