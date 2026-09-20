@@ -234,3 +234,5 @@
 
 .source-glyph{display:inline-block;position:relative;vertical-align:baseline}.prose .source-glyph-image{display:inline-block;height:1.05em;width:auto;vertical-align:-.08em;mix-blend-mode:multiply}.prose .verse-date{text-align:right;font-size:.85em;color:var(--muted)}
 .source-subheading{font-weight:700;font-family:var(--sans);font-size:.94em}
+
+.course-reading-context{margin:0 0 2rem;padding:1rem 1.25rem;border-left:3px solid var(--accent);background:#eceee4;font:500 .9rem/1.7 var(--sans)}.course-reading-context p{margin:.35rem 0;font-weight:400}.course-reading-context>a:last-child{font-size:.85rem}
