@@ -236,3 +236,8 @@
 .source-subheading{font-weight:700;font-family:var(--sans);font-size:.94em}
 
 .course-reading-context{margin:0 0 2rem;padding:1rem 1.25rem;border-left:3px solid var(--accent);background:#eceee4;font:500 .9rem/1.7 var(--sans)}.course-reading-context p{margin:.35rem 0;font-weight:400}.course-reading-context>a:last-child{font-size:.85rem}
+
+/* Examples are subordinate to their knowledge section, in the page and TOC. */
+.prose .knowledge-subsection{margin:26px 0 0;padding:20px 0 0;border-top:1px solid var(--line)}
+.prose .knowledge-subsection>h3{font-size:21px;line-height:1.6;margin:0 0 18px}
+@media(max-width:700px){.prose .knowledge-subsection>h3{font-size:18px}}
