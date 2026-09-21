@@ -75,7 +75,7 @@ document.querySelector('#evidence-clear')?.addEventListener('click',dismissEvide
 document.addEventListener('keydown',event=>{if(event.key==='Escape'&&evidenceToolbar&&!evidenceToolbar.hidden&&!dialog.open)dismissEvidence();});
 function revealAnchor(scroll=false){document.querySelectorAll('.anchor-target').forEach(el=>el.classList.remove('anchor-target'));const target=document.getElementById(fragmentId());syncEvidence(target);if(!target)return;if(target.matches('.margin-note')&&target.hidden)filterMargins('全部');if(target.matches('details'))target.open=true;for(let d=target.closest('details');d;d=d.parentElement?.closest('details'))d.open=true;target.classList.add('anchor-target');const clearance=(document.querySelector('.site-header')?.getBoundingClientRect().height||98)+26;const rootPadding=parseFloat(getComputedStyle(document.documentElement).scrollPaddingTop)||0;target.style.scrollMarginTop=Math.max(0,clearance-rootPadding)+'px';if(scroll){const marginOnDesktop=target.matches('.margin-note')&&!matchMedia('(max-width:700px)').matches;target.scrollIntoView({block:marginOnDesktop?'nearest':'start',behavior:'instant'});target.setAttribute('tabindex','-1');target.focus({preventScroll:true});}}
 document.querySelectorAll('a[href^="#"]').forEach(a=>a.addEventListener('click',e=>{
- if(e.metaKey||e.ctrlKey||e.shiftKey||e.altKey||e.button!==0)return;
+ if(a.matches('.classical-mark')||e.metaKey||e.ctrlKey||e.shiftKey||e.altKey||e.button!==0)return;
  // SVG links do not expose HTMLAnchorElement.hash.
  const hash=a.getAttribute('href');
  if(!hash||!document.getElementById(fragmentId(hash)))return;
@@ -91,18 +91,28 @@ window.addEventListener('scroll',()=>{if(tocPending)return;tocPending=true;reque
 const classicalMarks=[...document.querySelectorAll('.classical-mark')];
 if(classicalMarks.length){
  const panel=document.createElement('aside');panel.className='classical-popover';panel.id='classical-popover';panel.hidden=true;panel.setAttribute('role','dialog');panel.setAttribute('aria-label','文言知识释义');
- const type=document.createElement('p');type.className='gloss-type';
- const heading=document.createElement('h3');heading.id='gloss-heading';
- const explanation=document.createElement('p');explanation.className='gloss-body';explanation.id='gloss-explanation';
- const detail=document.createElement('a');detail.className='gloss-link';detail.textContent='阅读知识条目 →';
+ const entries=document.createElement('div');entries.className='gloss-entries';
  const close=document.createElement('button');close.type='button';close.className='gloss-close';close.textContent='×';close.setAttribute('aria-label','关闭释义');
- panel.append(type,heading,explanation,detail,close);document.body.append(panel);
+ panel.append(entries,close);document.body.append(panel);
  let active=null,timer=null,pinned=false;
  function hide(returnFocus=false){clearTimeout(timer);const previous=active;active?.setAttribute('aria-expanded','false');panel.hidden=true;active=null;pinned=false;if(returnFocus&&previous){previous.focus({preventScroll:true});panel.hidden=true;active=null;previous.setAttribute('aria-expanded','false');}}
  function position(){if(!active||panel.hidden)return;const r=active.getBoundingClientRect(),box=panel.getBoundingClientRect(),gap=12;let x=Math.min(Math.max(gap,r.left),innerWidth-box.width-gap);let y=r.bottom+9;if(y+box.height>innerHeight-gap)y=Math.max(gap,r.top-box.height-9);panel.style.left=x+'px';panel.style.top=y+'px';}
- function show(a,lock=false){clearTimeout(timer);if(active!==a){active?.setAttribute('aria-expanded','false');pinned=false;}active=a;pinned=pinned||lock;type.textContent=a.dataset.kind;heading.textContent=a.dataset.label;explanation.textContent=a.dataset.explanation;detail.href=a.href;panel.hidden=false;a.setAttribute('aria-expanded','true');position();}
+ function show(a,lock=false){
+  clearTimeout(timer);if(active!==a){active?.setAttribute('aria-expanded','false');pinned=false;}active=a;pinned=pinned||lock;
+  const rows=JSON.parse(a.dataset.glosses||'[]');entries.replaceChildren();
+  rows.forEach(row=>{
+   const item=document.createElement('section');item.className='gloss-entry';
+   const type=document.createElement('p');type.className='gloss-type gloss-type-'+({'实词':'content','虚词':'function','语法':'grammar','文化常识':'culture'}[row.kind]||'content');type.textContent=row.kind;
+   const heading=document.createElement('h3');heading.textContent=row.label;
+   const explanation=document.createElement('p');explanation.className='gloss-body';explanation.textContent=row.explanation;
+   item.append(type,heading,explanation);
+   if(row.url){const detail=document.createElement('a');detail.className='gloss-link';detail.textContent='阅读知识条目 →';detail.href=row.url;item.append(detail);}
+   entries.append(item);
+  });
+  panel.hidden=false;a.setAttribute('aria-expanded','true');position();
+ }
  function later(){clearTimeout(timer);if(!pinned)timer=setTimeout(()=>{if(!panel.matches(':hover')&&!active?.matches(':hover')&&!panel.contains(document.activeElement)&&document.activeElement!==active)hide();},180);}
- classicalMarks.forEach(a=>{a.removeAttribute('title');a.setAttribute('aria-haspopup','dialog');a.setAttribute('aria-expanded','false');a.setAttribute('aria-controls',panel.id);a.addEventListener('pointerenter',e=>{if(e.pointerType!=='touch')show(a);});a.addEventListener('pointerleave',later);a.addEventListener('focus',()=>show(a));a.addEventListener('blur',later);a.addEventListener('click',e=>{if(e.ctrlKey||e.metaKey||e.shiftKey||e.altKey||e.button!==0)return;e.preventDefault();show(a,true);if(e.detail===0)detail.focus();});});
+ classicalMarks.forEach(a=>{a.removeAttribute('title');a.setAttribute('aria-haspopup','dialog');a.setAttribute('aria-expanded','false');a.setAttribute('aria-controls',panel.id);a.addEventListener('pointerenter',e=>{if(e.pointerType!=='touch')show(a);});a.addEventListener('pointerleave',later);a.addEventListener('focus',()=>show(a));a.addEventListener('blur',later);a.addEventListener('click',e=>{if(e.ctrlKey||e.metaKey||e.shiftKey||e.altKey||e.button!==0)return;e.preventDefault();show(a,true);if(e.detail===0)(panel.querySelector('.gloss-link')||close).focus();});});
  panel.addEventListener('pointerenter',()=>clearTimeout(timer));panel.addEventListener('pointerleave',later);panel.addEventListener('focusout',later);close.addEventListener('click',()=>hide(true));
  document.addEventListener('pointerdown',e=>{if(!panel.hidden&&!panel.contains(e.target)&&!e.target.closest('.classical-mark'))hide();});document.addEventListener('keydown',e=>{if(e.key==='Escape'&&!panel.hidden){e.preventDefault();hide(panel.contains(document.activeElement));}});
  window.addEventListener('scroll',()=>{if(!panel.hidden)hide();},{passive:true});window.addEventListener('resize',()=>{if(!panel.hidden)position();});
