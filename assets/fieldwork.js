@@ -1,9 +1,11 @@
 (() => {
   const root = document.querySelector('[data-fieldwork]');
   if (!root) return;
-  const storageKey = 'rwrx.fieldwork.v1';
+  const media = root.dataset.workbench === 'media';
+  const storageKey = media ? 'rwrx.media.v1' : 'rwrx.fieldwork.v1';
+  const reportName = media ? '媒介研习报告' : '家乡文化调查报告';
   const fields = ['project','question','scope','sampling','interview','observation','agreement','limits'];
-  const kinds = ['现场观察','访谈材料','文献材料','个人推断'];
+  const kinds = media ? ['原始记录','报道转述','调查材料','个人推断'] : ['现场观察','访谈材料','文献材料','个人推断'];
   const status = root.querySelector('[data-fw-status]');
   let dirty = false, nextRecord = 1, nextClaim = 1;
   const say = text => { status.textContent = text; };
@@ -71,15 +73,15 @@
     let content;
     if (format === 'json') content = JSON.stringify(data,null,2);
     else {
-      const labels = ['项目名称','研究问题','调查范围','对象选择与比较','访谈提纲','观察与文献方案','知情与资料使用约定','仍需核实的问题'];
-      const blocks = ['# 家乡文化调查报告', ...fields.map((key,i) => `## ${labels[i]}\n\n${data[key] || '（待填写）'}`), '## 材料记录'];
+      const labels = media ? ['项目名称','研究问题或传播任务','范围与时点','受众与材料选择','改写稿或访谈提纲','核查与比较方法','引文、图像与使用约定','未决问题与修订说明'] : ['项目名称','研究问题','调查范围','对象选择与比较','访谈提纲','观察与文献方案','知情与资料使用约定','仍需核实的问题'];
+      const blocks = ['# ' + reportName, ...fields.map((key,i) => `## ${labels[i]}\n\n${data[key] || '（待填写）'}`), '## 材料记录'];
       data.records.forEach(r => blocks.push(`### ${r.id} · ${r.kind}\n\n出处：${r.source}\n\n记录：${r.content}\n\n条件与可靠性：${r.context}`));
       blocks.push('## 结论与证据');
       data.claims.forEach(c => blocks.push(`### ${c.id}\n\n判断：${c.claim}\n\n依据：${c.refs}\n\n推理：${c.reason}\n\n反例与限定：${c.boundary}`));
       content = blocks.join('\n\n') + '\n';
     }
     const url = URL.createObjectURL(new Blob([content],{type:format === 'json' ? 'application/json;charset=utf-8' : 'text/markdown;charset=utf-8'}));
-    const a = document.createElement('a'); a.href = url; a.download = `家乡文化调查.${format === 'json' ? 'json' : 'md'}`; a.click(); setTimeout(() => URL.revokeObjectURL(url),1000);
+    const a = document.createElement('a'); a.href = url; a.download = `${reportName}.${format === 'json' ? 'json' : 'md'}`; a.click(); setTimeout(() => URL.revokeObjectURL(url),1000);
     say('已导出当前记录');
   }
   root.querySelectorAll('[data-fw-action]').forEach(button => button.addEventListener('click', () => {
@@ -95,7 +97,7 @@
     else if (action === 'example') {
       const data = snapshot();
       if (fields.some(key => data[key].trim()) || data.records.some(r => r.source || r.content || r.context) || data.claims.some(c => c.claim || c.refs || c.reason || c.boundary)) { say('为保留当前记录，未载入示例；请先导出并清空工作台。'); return; }
-      restore({project:'示例方案：老街早市的使用变化（尚未实施）',question:'不同年龄的居民如何使用老街早市，其说法与现场活动有何异同？',scope:'拟选一条街道、两个工作日和一个周末；仅讨论该场所，不外推至全城。',sampling:'拟邀请不同年龄的居民及店主，记录拒访与未覆盖群体。',interview:'请讲述最近一次来早市的经过。通常何时来？近几年有何变化？能举一个具体例子吗？',observation:'分时段记录活动类型及人流；先统一计数规则，再核对公开历史资料。',agreement:'开始前说明课堂研究用途；询问是否同意记录与匿名引用。',limits:'示例仅为研究设计，尚无实际观察、访谈或调查结论。'}); changed();
+      restore(media ? {project:'示例方案：同一招聘启事的两种改写（课堂模拟）',question:'怎样在广播和网络卡片中保持核心事实，并让目标受众明白报名条件？',scope:'仅使用教材第70页模拟招聘材料，尚未正式发布，也不填入真实邮箱。',sampling:'比较广播听众的一次性接收与网络读者的分区浏览；先请两名同学复述要点。',interview:'广播：开头说明岗位与对象，末尾重申截止时间和报名渠道。网络卡片：分列岗位、职责、条件、报名方式和截止时间。两版都保留人数与落款。',observation:'逐项对照原材料，记录复述中遗漏的信息；不把示例设计当成已经证明的传播效果。',agreement:'教材材料用于课堂模拟；使用图片时另核出处和可使用范围。',limits:'示例只提供设计，没有真实访谈数据和传播效果结论。'} : {project:'示例方案：老街早市的使用变化（尚未实施）',question:'不同年龄的居民如何使用老街早市，其说法与现场活动有何异同？',scope:'拟选一条街道、两个工作日和一个周末；仅讨论该场所，不外推至全城。',sampling:'拟邀请不同年龄的居民及店主，记录拒访与未覆盖群体。',interview:'请讲述最近一次来早市的经过。通常何时来？近几年有何变化？能举一个具体例子吗？',observation:'分时段记录活动类型及人流；先统一计数规则，再核对公开历史资料。',agreement:'开始前说明课堂研究用途；询问是否同意记录与匿名引用。',limits:'示例仅为研究设计，尚无实际观察、访谈或调查结论。'}); changed();
     }
   }));
   try {

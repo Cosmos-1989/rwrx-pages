@@ -241,3 +241,7 @@
 .prose .knowledge-subsection{margin:26px 0 0;padding:20px 0 0;border-top:1px solid var(--line)}
 .prose .knowledge-subsection>h3{font-size:21px;line-height:1.6;margin:0 0 18px}
 @media(max-width:700px){.prose .knowledge-subsection>h3{font-size:18px}}
+/* Script dialogue retains source text while separating speech from directions. */
+.prose .dramatic-speech { text-indent:0; }
+.prose .dramatic-speech > strong:first-child { display:inline; margin-right:.8em; font-family:system-ui,sans-serif; font-size:.88em; color:#325442; }
+.prose .stage-direction { text-indent:0; color:#676e64; padding-left:1.4em; border-left:2px solid #d8ddcf; font-size:.94em; }
