@@ -15,6 +15,12 @@ const marginButtons=[...document.querySelectorAll('[data-margin-filter]')];let m
 function filterMargins(kind){marginKind=kind;marginButtons.forEach(b=>b.setAttribute('aria-pressed',String(b.dataset.marginFilter===kind)));document.querySelectorAll('.margin-note').forEach(n=>n.hidden=kind!=='全部'&&n.dataset.noteKind!==kind);document.querySelectorAll('.margin-notes').forEach(d=>{const visible=d.querySelectorAll('.margin-note:not([hidden])').length;d.hidden=visible===0;d.querySelector('summary span').textContent=visible;});document.querySelectorAll('[data-annotation-ref]').forEach(a=>a.hidden=document.getElementById(a.dataset.annotationRef).hidden);}
 marginButtons.forEach(b=>b.addEventListener('click',()=>filterMargins(b.dataset.marginFilter)));
 if(matchMedia('(max-width:700px)').matches)document.querySelectorAll('.margin-notes').forEach(d=>d.open=false);
+// Native details work without JavaScript; the name attribute and this fallback
+// keep each action focused on one paragraph, including legacy fragment links.
+const paragraphTranslations=[...document.querySelectorAll('.paragraph-translation')];
+paragraphTranslations.forEach(d=>d.addEventListener('toggle',()=>{
+ if(d.open)paragraphTranslations.forEach(other=>{if(other!==d)other.open=false;});
+}));
 let printMarginKind='全部';
 window.addEventListener('beforeprint',()=>{printMarginKind=marginKind;filterMargins('全部');document.querySelectorAll('details.answer,details.margin-notes,details.context-group').forEach(d=>{d.dataset.previousOpen=String(d.open);d.open=true;});});
 window.addEventListener('afterprint',()=>{document.querySelectorAll('details.answer,details.margin-notes,details.context-group').forEach(d=>d.open=d.dataset.previousOpen==='true');filterMargins(printMarginKind);});
@@ -106,6 +112,13 @@ if(classicalMarks.length){
    const heading=document.createElement('h3');heading.textContent=row.label;
    const explanation=document.createElement('p');explanation.className='gloss-body';explanation.textContent=row.explanation;
    item.append(type,heading,explanation);
+   for(const source of row.sourceNotes||[]){
+    const extra=source.explanation!==row.explanation;
+    const notes=extra?document.createElement('details'):document.createElement('div');notes.className='gloss-source';
+    if(extra){const summary=document.createElement('summary');summary.textContent='原注与出处';const text=document.createElement('p');text.textContent=source.explanation;notes.append(summary,text);}
+    for(const link of source.links||[]){const a=document.createElement('a');a.href=link.url;a.textContent=link.label;notes.append(a);}
+    if(extra||notes.childElementCount)item.append(notes);
+   }
    if(row.url){const detail=document.createElement('a');detail.className='gloss-link';detail.textContent='阅读知识条目 →';detail.href=row.url;item.append(detail);}
    entries.append(item);
   });
@@ -117,4 +130,8 @@ if(classicalMarks.length){
  document.addEventListener('pointerdown',e=>{if(!panel.hidden&&!panel.contains(e.target)&&!e.target.closest('.classical-mark'))hide();});document.addEventListener('keydown',e=>{if(e.key==='Escape'&&!panel.hidden){e.preventDefault();hide(panel.contains(document.activeElement));}});
  window.addEventListener('scroll',()=>{if(!panel.hidden)hide();},{passive:true});window.addEventListener('resize',()=>{if(!panel.hidden)position();});
  window.addEventListener('beforeprint',()=>hide());
+ function revealGloss(){const id=document.getElementById(fragmentId())?.dataset.glossId;if(!id)return;const a=classicalMarks.find(a=>JSON.parse(a.dataset.glosses).some(row=>row.id===id));if(a)show(a,true);}
+ window.addEventListener('hashchange',revealGloss);window.addEventListener('popstate',revealGloss);
+ document.addEventListener('click',event=>{const a=event.target.closest('a[href^="#"]');if(a&&!a.matches('.classical-mark'))revealGloss();});
+ revealGloss();
 }
