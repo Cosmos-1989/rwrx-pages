@@ -271,3 +271,13 @@
 .prose .translation-guide p{font:13px/1.9 var(--sans);margin:10px 0}
 @media(max-width:700px){.reading-module>.margin-notes{grid-column:1;grid-row:2}.translation-text{padding:12px 14px}.classical-popover{max-height:60vh;overflow-y:auto}}
 @media print{.classical-mark{color:inherit}.translation-text{background:transparent}.paragraph-translation{break-inside:auto}}
+
+/* Keep each answer's claim and evidence together, with visible argument levels. */
+.prose .answer-points { margin: .8rem 0 1rem; padding-left: 1.65rem; }
+.prose .answer-points > li { padding-left: .2rem; margin: 0 0 .85rem; }
+.prose .answer-points > li::marker { color: var(--green, #315847); font-weight: 600; }
+.prose .answer-points > li > p { margin: 0; }
+.prose .answer-points > .explicit-point { list-style: none; margin-left: -1.3rem; padding-left: 0; }
+.prose .answer-group + .answer-group { margin-top: 1.35rem; }
+.prose .answer-group > h4 { margin: .65rem 0; font-size: 1em; line-height: 1.6; }
+@media print { .answer-points > li { break-inside: avoid; } }
