@@ -28536,6 +28536,14 @@
     "context": "《诗歌中的静穆》可与抒情转折对读：收束处的景象可能容纳此前情绪，也可能使冲突继续存在，不能把所有诗歌结尾都概括为从悲喜走向静穆。"
   },
   {
+    "source": "k-affect-tone",
+    "target": "k-jingjie",
+    "anchor": "c-027",
+    "fragment": "",
+    "section": "关联研习",
+    "context": "《人间词话》的境界说：王国维《人间词话》以“境界”评价诗词，强调景物与感情的真切呈现。"
+  },
+  {
     "source": "k-allusion",
     "target": "t-duange",
     "anchor": "c-005",
@@ -29016,6 +29024,182 @@
     "context": "继续辨析文本证据与阅读推论、信息概括与整合，分别检验概念之间的联系与差别。"
   },
   {
+    "source": "k-analytical-reading",
+    "target": "k-discourse-macrostructure",
+    "anchor": "c-029",
+    "fragment": "",
+    "section": "关联研习",
+    "context": "语篇的宏观结构：语篇宏观结构指跨越局部句子的总体意义组织，如问题、中心命题及其支撑关系。"
+  },
+  {
+    "source": "k-ancient-culture",
+    "target": "t-taishan",
+    "anchor": "c-003",
+    "fragment": "p-002",
+    "section": "登泰山记",
+    "context": "文本依据：“乾隆三十九年十二月”"
+  },
+  {
+    "source": "k-ancient-culture",
+    "target": "t-shishuo",
+    "anchor": "c-005",
+    "fragment": "p-004",
+    "section": "师说",
+    "context": "文本依据：“六艺经传皆通习之”"
+  },
+  {
+    "source": "k-ancient-culture",
+    "target": "k-wenyan-era-name",
+    "anchor": "c-008",
+    "fragment": "",
+    "section": "关联研习",
+    "context": "年号纪年 · 名与字 · 名器"
+  },
+  {
+    "source": "k-ancient-culture",
+    "target": "k-wenyan-courtesy-name",
+    "anchor": "c-008",
+    "fragment": "",
+    "section": "关联研习",
+    "context": "年号纪年 · 名与字 · 名器"
+  },
+  {
+    "source": "k-ancient-culture",
+    "target": "k-cultural-mingqi",
+    "anchor": "c-008",
+    "fragment": "",
+    "section": "关联研习",
+    "context": "年号纪年 · 名与字 · 名器"
+  },
+  {
+    "source": "k-ancient-function-words",
+    "target": "t-quanxue",
+    "anchor": "c-003",
+    "fragment": "p-002",
+    "section": "劝学",
+    "context": "文本依据：“青，取之于蓝，而青于蓝”"
+  },
+  {
+    "source": "k-ancient-function-words",
+    "target": "t-shishuo",
+    "anchor": "c-005",
+    "fragment": "p-002",
+    "section": "师说",
+    "context": "文本依据：“其皆出于此乎”"
+  },
+  {
+    "source": "k-ancient-function-words",
+    "target": "k-wenyan-yi",
+    "anchor": "c-008",
+    "fragment": "",
+    "section": "关联研习",
+    "context": "以 [yǐ] · 之 [zhī] · 其 [qí]"
+  },
+  {
+    "source": "k-ancient-function-words",
+    "target": "k-wenyan-zhi-particle",
+    "anchor": "c-008",
+    "fragment": "",
+    "section": "关联研习",
+    "context": "以 [yǐ] · 之 [zhī] · 其 [qí]"
+  },
+  {
+    "source": "k-ancient-function-words",
+    "target": "k-wenyan-qi-pronoun",
+    "anchor": "c-008",
+    "fragment": "",
+    "section": "关联研习",
+    "context": "以 [yǐ] · 之 [zhī] · 其 [qí]"
+  },
+  {
+    "source": "k-ancient-rhetoric",
+    "target": "t-quanxue",
+    "anchor": "c-003",
+    "fragment": "p-003",
+    "section": "劝学",
+    "context": "文本依据：“假舆马者，非利足也，而致千里；假舟楫者，非能水也，而绝江河”"
+  },
+  {
+    "source": "k-ancient-rhetoric",
+    "target": "t-pipa",
+    "anchor": "c-005",
+    "fragment": "p-002",
+    "section": "琵琶行并序",
+    "context": "文本依据：“主人下马客在船”"
+  },
+  {
+    "source": "k-ancient-rhetoric",
+    "target": "k-antithesis",
+    "anchor": "c-008",
+    "fragment": "",
+    "section": "关联研习",
+    "context": "对偶、对仗与对联 · 文言省略 · 文言翻译"
+  },
+  {
+    "source": "k-ancient-rhetoric",
+    "target": "k-wenyan-ellipsis",
+    "anchor": "c-008",
+    "fragment": "",
+    "section": "关联研习",
+    "context": "对偶、对仗与对联 · 文言省略 · 文言翻译"
+  },
+  {
+    "source": "k-ancient-rhetoric",
+    "target": "k-classical-translation",
+    "anchor": "c-008",
+    "fragment": "",
+    "section": "关联研习",
+    "context": "对偶、对仗与对联 · 文言省略 · 文言翻译"
+  },
+  {
+    "source": "k-ancient-syntax",
+    "target": "t-shishuo",
+    "anchor": "c-003",
+    "fragment": "p-002",
+    "section": "师说",
+    "context": "文本依据：“句读之不知，惑之不解”"
+  },
+  {
+    "source": "k-ancient-syntax",
+    "target": "t-shishuo",
+    "anchor": "c-005",
+    "fragment": "p-004",
+    "section": "师说",
+    "context": "文本依据：“不拘于时，学于余”"
+  },
+  {
+    "source": "k-ancient-syntax",
+    "target": "t-quanxue",
+    "anchor": "c-007",
+    "fragment": "p-004",
+    "section": "劝学",
+    "context": "文本依据：“上食埃土，下饮黄泉”"
+  },
+  {
+    "source": "k-ancient-syntax",
+    "target": "k-wenyan-judgment",
+    "anchor": "c-010",
+    "fragment": "",
+    "section": "关联研习",
+    "context": "文言判断句 · 动词后的介词短语 · 文言省略"
+  },
+  {
+    "source": "k-ancient-syntax",
+    "target": "k-wenyan-postposition",
+    "anchor": "c-010",
+    "fragment": "",
+    "section": "关联研习",
+    "context": "文言判断句 · 动词后的介词短语 · 文言省略"
+  },
+  {
+    "source": "k-ancient-syntax",
+    "target": "k-wenyan-ellipsis",
+    "anchor": "c-010",
+    "fragment": "",
+    "section": "关联研习",
+    "context": "文言判断句 · 动词后的介词短语 · 文言省略"
+  },
+  {
     "source": "k-antithesis",
     "target": "e-li-couplet",
     "anchor": "c-004",
@@ -29182,6 +29366,14 @@
     "fragment": "",
     "section": "易误辨析与迁移",
     "context": "继续辨析声调与语音修辞、语域与表达得体，分别检验概念之间的联系与差别。"
+  },
+  {
+    "source": "k-antithesis",
+    "target": "k-ancient-rhetoric",
+    "anchor": "c-024",
+    "fragment": "",
+    "section": "关联研习",
+    "context": "互文、对文与省文：古汉语常以相对、相承或省约的语句组织意义。"
   },
   {
     "source": "k-argument-methods",
@@ -29510,6 +29702,62 @@
     "fragment": "a-1",
     "section": "劝学 · 第1题选析",
     "context": "查看完整解析与全部证据"
+  },
+  {
+    "source": "k-argument-sequence",
+    "target": "k-exam-writing-process",
+    "anchor": "c-028",
+    "fragment": "",
+    "section": "关联研习",
+    "context": "考场写作的过程管理：考场写作是在规定任务、篇幅和时间内完成的写作活动。"
+  },
+  {
+    "source": "k-argumentation-dialogue",
+    "target": "t-daoshu",
+    "anchor": "c-003",
+    "fragment": "p-025",
+    "section": "喜看稻菽千重浪",
+    "context": "文本依据：“果真是这样吗？我想用事实来回答”"
+  },
+  {
+    "source": "k-argumentation-dialogue",
+    "target": "e-wh2026-ai",
+    "anchor": "c-005",
+    "fragment": "p-008",
+    "section": "对AI说“谢谢”",
+    "context": "文本依据：“二者并非非此即彼的对立关系”"
+  },
+  {
+    "source": "k-argumentation-dialogue",
+    "target": "e-wh2026-ai",
+    "anchor": "c-007",
+    "fragment": "q-4",
+    "section": "对AI说“谢谢”",
+    "context": "完整题目 · 解析与证据"
+  },
+  {
+    "source": "k-argumentation-dialogue",
+    "target": "e-wh2026-ai",
+    "anchor": "c-007",
+    "fragment": "a-4",
+    "section": "对AI说“谢谢”",
+    "context": "完整题目 · 解析与证据"
+  },
+  {
+    "source": "k-argumentation-dialogue",
+    "target": "k-counterargument",
+    "anchor": "c-009",
+    "fragment": "",
+    "section": "关联研习",
+    "context": "反驳与回应 · 常见论证谬误"
+  },
+  {
+    "source": "k-argumentation-dialogue",
+    "target": "k-informal-fallacies",
+    "anchor": "c-009",
+    "fragment": "",
+    "section": "关联研习",
+    "context": "反驳与回应 · 常见论证谬误"
   },
   {
     "source": "k-art-analysis",
@@ -31848,6 +32096,14 @@
     "context": "念奴娇·赤壁怀古、永遇乐·京口北固亭怀古、抒情转折"
   },
   {
+    "source": "k-ci-form",
+    "target": "k-classical-literary-history",
+    "anchor": "c-013",
+    "fragment": "",
+    "section": "关联研习",
+    "context": "中国古代文学的文体演进：中国古代文学的演进可从文体、表达观念和传播方式观察。"
+  },
+  {
     "source": "k-citation",
     "target": "e-rain-city",
     "anchor": "c-003",
@@ -32222,6 +32478,158 @@
     "fragment": "",
     "section": "易误辨析与迁移",
     "context": "删除空泛赞美，保留至少一处可回指的字句及其意义。参见比喻、对比与人物理解。"
+  },
+  {
+    "source": "k-classical-commentary",
+    "target": "k-classical-genre",
+    "anchor": "c-012",
+    "fragment": "",
+    "section": "关联研习",
+    "context": "文言文体与阅读路径：文言文体是历史形成的写作惯例，与用途、结构和表达方式有关。"
+  },
+  {
+    "source": "k-classical-genre",
+    "target": "t-shishuo",
+    "anchor": "c-003",
+    "fragment": "p-001",
+    "section": "师说",
+    "context": "文本依据：“道之所存，师之所存也”"
+  },
+  {
+    "source": "k-classical-genre",
+    "target": "t-chibifu",
+    "anchor": "c-005",
+    "fragment": "p-004",
+    "section": "赤壁赋",
+    "context": "文本依据：“客亦知夫水与月乎”"
+  },
+  {
+    "source": "k-classical-genre",
+    "target": "t-taishan",
+    "anchor": "c-007",
+    "fragment": "p-002",
+    "section": "登泰山记",
+    "context": "文本依据：“是月丁未，与知府朱孝纯子颍由南麓登”"
+  },
+  {
+    "source": "k-classical-genre",
+    "target": "k-preface-reading",
+    "anchor": "c-010",
+    "fragment": "",
+    "section": "关联研习",
+    "context": "自序阅读 · 文言随文评点 · 文言翻译"
+  },
+  {
+    "source": "k-classical-genre",
+    "target": "k-classical-commentary",
+    "anchor": "c-010",
+    "fragment": "",
+    "section": "关联研习",
+    "context": "自序阅读 · 文言随文评点 · 文言翻译"
+  },
+  {
+    "source": "k-classical-genre",
+    "target": "k-classical-translation",
+    "anchor": "c-010",
+    "fragment": "",
+    "section": "关联研习",
+    "context": "自序阅读 · 文言随文评点 · 文言翻译"
+  },
+  {
+    "source": "k-classical-literary-history",
+    "target": "t-fuyi",
+    "anchor": "c-003",
+    "fragment": "p-001",
+    "section": "芣苢",
+    "context": "文本依据：“采采芣苢，薄言采之”"
+  },
+  {
+    "source": "k-classical-literary-history",
+    "target": "t-duange",
+    "anchor": "c-005",
+    "fragment": "p-016",
+    "section": "短歌行",
+    "context": "文本依据：“周公吐哺，天下归心”"
+  },
+  {
+    "source": "k-classical-literary-history",
+    "target": "t-taishan",
+    "anchor": "c-007",
+    "fragment": "p-006",
+    "section": "登泰山记",
+    "context": "文本依据：“桐城姚鼐记”"
+  },
+  {
+    "source": "k-classical-literary-history",
+    "target": "k-literary-history",
+    "anchor": "c-010",
+    "fragment": "",
+    "section": "关联研习",
+    "context": "文学史的分期与语境 · 词体与词牌 · 古代诗论的基本问题"
+  },
+  {
+    "source": "k-classical-literary-history",
+    "target": "k-ci-form",
+    "anchor": "c-010",
+    "fragment": "",
+    "section": "关联研习",
+    "context": "文学史的分期与语境 · 词体与词牌 · 古代诗论的基本问题"
+  },
+  {
+    "source": "k-classical-literary-history",
+    "target": "k-classical-poetics",
+    "anchor": "c-010",
+    "fragment": "",
+    "section": "关联研习",
+    "context": "文学史的分期与语境 · 词体与词牌 · 古代诗论的基本问题"
+  },
+  {
+    "source": "k-classical-poetics",
+    "target": "t-duange",
+    "anchor": "c-003",
+    "fragment": "p-015",
+    "section": "短歌行",
+    "context": "文本依据：“山不厌高，海不厌深”"
+  },
+  {
+    "source": "k-classical-poetics",
+    "target": "t-guiyuan",
+    "anchor": "c-005",
+    "fragment": "p-003",
+    "section": "归园田居（其一）",
+    "context": "文本依据：“羁鸟恋旧林，池鱼思故渊”"
+  },
+  {
+    "source": "k-classical-poetics",
+    "target": "t-denggao",
+    "anchor": "c-007",
+    "fragment": "p-002",
+    "section": "登高",
+    "context": "文本依据：“无边落木萧萧下，不尽长江滚滚来”"
+  },
+  {
+    "source": "k-classical-poetics",
+    "target": "k-fubixing",
+    "anchor": "c-010",
+    "fragment": "",
+    "section": "关联研习",
+    "context": "赋比兴 · 《人间词话》的境界说 · 用典"
+  },
+  {
+    "source": "k-classical-poetics",
+    "target": "k-jingjie",
+    "anchor": "c-010",
+    "fragment": "",
+    "section": "关联研习",
+    "context": "赋比兴 · 《人间词话》的境界说 · 用典"
+  },
+  {
+    "source": "k-classical-poetics",
+    "target": "k-allusion",
+    "anchor": "c-010",
+    "fragment": "",
+    "section": "关联研习",
+    "context": "赋比兴 · 《人间词话》的境界说 · 用典"
   },
   {
     "source": "k-classical-punctuation",
@@ -33992,6 +34400,70 @@
     "context": "反对意见放在论证需要的位置即可，不必规定永远是倒数第二段。未经讨论的重大异议不宜突然放入结尾，参见论证次序。"
   },
   {
+    "source": "k-counterargument",
+    "target": "k-argumentation-dialogue",
+    "anchor": "c-016",
+    "fragment": "",
+    "section": "关联研习",
+    "context": "论辩立场与举证责任：论辩是围绕可争议问题提出主张、提供理由并回应质疑的活动。"
+  },
+  {
+    "source": "k-critical-approaches",
+    "target": "t-zhufu",
+    "anchor": "c-003",
+    "fragment": "p-071",
+    "section": "祝福",
+    "context": "文本依据：“祥林嫂，你放著罢！”"
+  },
+  {
+    "source": "k-critical-approaches",
+    "target": "t-ditan",
+    "anchor": "c-005",
+    "fragment": "p-005",
+    "section": "我与地坛（节选）",
+    "context": "文本依据：“园子荒芜但并不衰败”"
+  },
+  {
+    "source": "k-critical-approaches",
+    "target": "t-lijiang",
+    "anchor": "c-007",
+    "fragment": "p-001",
+    "section": "一滴水经过丽江",
+    "context": "文本依据：“我是一片雪”"
+  },
+  {
+    "source": "k-critical-approaches",
+    "target": "k-evidence",
+    "anchor": "c-010",
+    "fragment": "",
+    "section": "关联研习",
+    "context": "文本证据与阅读推论 · 阅读评价 · 比较阅读 · 文学性与审美经验"
+  },
+  {
+    "source": "k-critical-approaches",
+    "target": "k-evaluation",
+    "anchor": "c-010",
+    "fragment": "",
+    "section": "关联研习",
+    "context": "文本证据与阅读推论 · 阅读评价 · 比较阅读 · 文学性与审美经验"
+  },
+  {
+    "source": "k-critical-approaches",
+    "target": "k-comparison",
+    "anchor": "c-010",
+    "fragment": "",
+    "section": "关联研习",
+    "context": "文本证据与阅读推论 · 阅读评价 · 比较阅读 · 文学性与审美经验"
+  },
+  {
+    "source": "k-critical-approaches",
+    "target": "k-literariness",
+    "anchor": "c-010",
+    "fragment": "",
+    "section": "关联研习",
+    "context": "文本证据与阅读推论 · 阅读评价 · 比较阅读 · 文学性与审美经验"
+  },
+  {
     "source": "k-cultural-mingqi",
     "target": "e-xingshang-suzhe",
     "anchor": "c-006",
@@ -34110,6 +34582,70 @@
     "fragment": "",
     "section": "关联研习",
     "context": "乡土中国研读、礼治秩序、概念的情境迁移"
+  },
+  {
+    "source": "k-discourse-macrostructure",
+    "target": "e-2021-digital-humanities",
+    "anchor": "c-003",
+    "fragment": "p-004",
+    "section": "数字人文中的远读与细读",
+    "context": "文本依据：“需要补充的是”"
+  },
+  {
+    "source": "k-discourse-macrostructure",
+    "target": "e-2021-digital-humanities",
+    "anchor": "c-005",
+    "fragment": "q-2",
+    "section": "数字人文中的远读与细读",
+    "context": "完整题目 · 解析与证据"
+  },
+  {
+    "source": "k-discourse-macrostructure",
+    "target": "e-2021-digital-humanities",
+    "anchor": "c-005",
+    "fragment": "a-2",
+    "section": "数字人文中的远读与细读",
+    "context": "完整题目 · 解析与证据"
+  },
+  {
+    "source": "k-discourse-macrostructure",
+    "target": "t-dangbagu",
+    "anchor": "c-006",
+    "fragment": "p-002",
+    "section": "反对党八股（节选）",
+    "context": "文本依据：“党八股的第一条罪状是：空话连篇，言之无物”"
+  },
+  {
+    "source": "k-discourse-macrostructure",
+    "target": "t-nalai",
+    "anchor": "c-008",
+    "fragment": "p-007",
+    "section": "拿来主义",
+    "context": "文本依据：“所以我们要运用脑髓，放出眼光，自己来拿！”"
+  },
+  {
+    "source": "k-discourse-macrostructure",
+    "target": "k-analytical-reading",
+    "anchor": "c-011",
+    "fragment": "",
+    "section": "关联研习",
+    "context": "分析性阅读 · 信息概括与整合 · 句群与语篇关系"
+  },
+  {
+    "source": "k-discourse-macrostructure",
+    "target": "k-information-synthesis",
+    "anchor": "c-011",
+    "fragment": "",
+    "section": "关联研习",
+    "context": "分析性阅读 · 信息概括与整合 · 句群与语篇关系"
+  },
+  {
+    "source": "k-discourse-macrostructure",
+    "target": "k-discourse-relations",
+    "anchor": "c-011",
+    "fragment": "",
+    "section": "关联研习",
+    "context": "分析性阅读 · 信息概括与整合 · 句群与语篇关系"
   },
   {
     "source": "k-discourse-relations",
@@ -34680,6 +35216,14 @@
     "context": "基础研究与人工智能的迁移评价应分清工具作用、成果归属与验证责任。提出风险后的对策还需解释干预机制和实施条件，不能从一个原因自动推出唯一解决方案。参见多材料阅读与因果推断。"
   },
   {
+    "source": "k-evaluation",
+    "target": "k-critical-approaches",
+    "anchor": "c-027",
+    "fragment": "",
+    "section": "关联研习",
+    "context": "文学批评的路径与证据：文学批评通过解释、比较和评价讨论作品的意义与价值。"
+  },
+  {
     "source": "k-evidence",
     "target": "e-rain-city",
     "anchor": "c-006",
@@ -34920,6 +35464,14 @@
     "context": "查看完整解析与全部证据"
   },
   {
+    "source": "k-evidence",
+    "target": "k-critical-approaches",
+    "anchor": "c-038",
+    "fragment": "",
+    "section": "关联研习",
+    "context": "文学批评的路径与证据：文学批评通过解释、比较和评价讨论作品的意义与价值。"
+  },
+  {
     "source": "k-evidence-generalization",
     "target": "e-li-hanfu",
     "anchor": "c-004",
@@ -34982,6 +35534,78 @@
     "fragment": "",
     "section": "易误辨析与迁移",
     "context": "继续辨析信息概括与整合、信息转述与判断范围，分别检验概念之间的联系与差别。"
+  },
+  {
+    "source": "k-exam-writing-process",
+    "target": "e-2011-writing",
+    "anchor": "c-003",
+    "fragment": "p-002",
+    "section": "中国的变化",
+    "context": "文本依据：“其中最值得展示的突出变化又是什么呢”"
+  },
+  {
+    "source": "k-exam-writing-process",
+    "target": "e-2011-writing",
+    "anchor": "c-005",
+    "fragment": "q-1",
+    "section": "中国的变化",
+    "context": "完整题目 · 解析与证据"
+  },
+  {
+    "source": "k-exam-writing-process",
+    "target": "e-2011-writing",
+    "anchor": "c-005",
+    "fragment": "s-task-analysis",
+    "section": "中国的变化",
+    "context": "完整题目 · 解析与证据"
+  },
+  {
+    "source": "k-exam-writing-process",
+    "target": "e-nj2026-spiritual",
+    "anchor": "c-006",
+    "fragment": "p-001",
+    "section": "日常生活与精神追求",
+    "context": "文本依据：“精神追求藏在那些习以为常的生活场景中”"
+  },
+  {
+    "source": "k-exam-writing-process",
+    "target": "e-nj2026-spiritual",
+    "anchor": "c-008",
+    "fragment": "q-1",
+    "section": "日常生活与精神追求",
+    "context": "完整题目 · 解析与证据"
+  },
+  {
+    "source": "k-exam-writing-process",
+    "target": "e-nj2026-spiritual",
+    "anchor": "c-008",
+    "fragment": "a-1",
+    "section": "日常生活与精神追求",
+    "context": "完整题目 · 解析与证据"
+  },
+  {
+    "source": "k-exam-writing-process",
+    "target": "k-material-thesis",
+    "anchor": "c-010",
+    "fragment": "",
+    "section": "关联研习",
+    "context": "材料作文审题与立意 · 论证结构 · 写作修订"
+  },
+  {
+    "source": "k-exam-writing-process",
+    "target": "k-argument-sequence",
+    "anchor": "c-010",
+    "fragment": "",
+    "section": "关联研习",
+    "context": "材料作文审题与立意 · 论证结构 · 写作修订"
+  },
+  {
+    "source": "k-exam-writing-process",
+    "target": "k-writing-revision",
+    "anchor": "c-010",
+    "fragment": "",
+    "section": "关联研习",
+    "context": "材料作文审题与立意 · 论证结构 · 写作修订"
   },
   {
     "source": "k-explanation-methods",
@@ -35248,6 +35872,22 @@
     "context": "声音与聚焦区分作者和叙述者；证据原则区分文本解释与事实考证。"
   },
   {
+    "source": "k-fiction-truth",
+    "target": "k-literariness",
+    "anchor": "c-027",
+    "fragment": "",
+    "section": "关联研习",
+    "context": "文学性与审美经验：文学性讨论语言作品如何通过形式组织产生审美和意义效果。"
+  },
+  {
+    "source": "k-fiction-truth",
+    "target": "k-realism",
+    "anchor": "c-028",
+    "fragment": "",
+    "section": "关联研习",
+    "context": "现实主义：现实主义既可指特定历史阶段的文学思潮，也可在较宽意义上指一种重视社会生活具体关系、人物处境与行动逻辑的表现倾向。"
+  },
+  {
     "source": "k-field-observation",
     "target": "m-local-culture",
     "anchor": "c-006",
@@ -35286,6 +35926,38 @@
     "fragment": "",
     "section": "关联研习",
     "context": "家乡文化生活、访谈资料的生成、研究方法与问题、差序格局"
+  },
+  {
+    "source": "k-fixed-expressions",
+    "target": "t-daoshu",
+    "anchor": "c-003",
+    "fragment": "p-007",
+    "section": "喜看稻菽千重浪",
+    "context": "文本依据：“鹤立鸡群”"
+  },
+  {
+    "source": "k-fixed-expressions",
+    "target": "t-nalai",
+    "anchor": "c-005",
+    "fragment": "p-003",
+    "section": "拿来主义",
+    "context": "文本依据：“残羹冷炙”"
+  },
+  {
+    "source": "k-fixed-expressions",
+    "target": "k-idiom-context",
+    "anchor": "c-008",
+    "fragment": "",
+    "section": "关联研习",
+    "context": "成语的语境适配 · 近义词辨析"
+  },
+  {
+    "source": "k-fixed-expressions",
+    "target": "k-lexical-comparison",
+    "anchor": "c-008",
+    "fragment": "",
+    "section": "关联研习",
+    "context": "成语的语境适配 · 近义词辨析"
   },
   {
     "source": "k-focalization",
@@ -35590,6 +36262,54 @@
     "fragment": "",
     "section": "关联研习",
     "context": "芣苢、静女、比喻"
+  },
+  {
+    "source": "k-fubixing",
+    "target": "k-classical-poetics",
+    "anchor": "c-013",
+    "fragment": "",
+    "section": "关联研习",
+    "context": "古代诗论的基本问题：古代诗论围绕诗与情志、景物、声律、教化及审美经验的关系展开，不同时代和论者各有侧重。"
+  },
+  {
+    "source": "k-functional-analysis",
+    "target": "t-nalai",
+    "anchor": "c-003",
+    "fragment": "p-007",
+    "section": "拿来主义",
+    "context": "文本依据：“所以我们要运用脑髓，放出眼光，自己来拿！”"
+  },
+  {
+    "source": "k-functional-analysis",
+    "target": "t-lijiang",
+    "anchor": "c-005",
+    "fragment": "p-001",
+    "section": "一滴水经过丽江",
+    "context": "文本依据：“我是一片雪”"
+  },
+  {
+    "source": "k-functional-analysis",
+    "target": "k-sentence-components",
+    "anchor": "c-008",
+    "fragment": "",
+    "section": "关联研习",
+    "context": "句子成分与主干 · 信息结构与焦点 · 言语行为"
+  },
+  {
+    "source": "k-functional-analysis",
+    "target": "k-information-structure",
+    "anchor": "c-008",
+    "fragment": "",
+    "section": "关联研习",
+    "context": "句子成分与主干 · 信息结构与焦点 · 言语行为"
+  },
+  {
+    "source": "k-functional-analysis",
+    "target": "k-speech-action",
+    "anchor": "c-008",
+    "fragment": "",
+    "section": "关联研习",
+    "context": "句子成分与主干 · 信息结构与焦点 · 言语行为"
   },
   {
     "source": "k-huihuan",
@@ -35952,6 +36672,14 @@
     "context": "继续辨析词义与语境、近义词辨析，分别检验概念之间的联系与差别。"
   },
   {
+    "source": "k-idiom-context",
+    "target": "k-fixed-expressions",
+    "anchor": "c-026",
+    "fragment": "",
+    "section": "关联研习",
+    "context": "熟语的类型与运用：熟语是结构相对固定、为语言共同体沿用的表达。"
+  },
+  {
     "source": "k-imagination",
     "target": "e-wilderness",
     "anchor": "c-003",
@@ -36080,6 +36808,14 @@
     "context": "拟人说明人格属性的移用；虚实关系说明多种情境如何相互映照。"
   },
   {
+    "source": "k-imagination",
+    "target": "k-romanticism",
+    "anchor": "c-019",
+    "fragment": "",
+    "section": "关联研习",
+    "context": "浪漫主义：浪漫主义作为文学史概念，主要指特定历史语境中重视主体情感、想象、个性及人与自然关系的多样文学思潮。"
+  },
+  {
     "source": "k-informal-fallacies",
     "target": "e-li-tao-law",
     "anchor": "c-004",
@@ -36126,6 +36862,14 @@
     "fragment": "",
     "section": "易误辨析与迁移",
     "context": "继续辨析论据与论证保证、反驳与回应，分别检验概念之间的联系与差别。"
+  },
+  {
+    "source": "k-informal-fallacies",
+    "target": "k-argumentation-dialogue",
+    "anchor": "c-011",
+    "fragment": "",
+    "section": "关联研习",
+    "context": "论辩立场与举证责任：论辩是围绕可争议问题提出主张、提供理由并回应质疑的活动。"
   },
   {
     "source": "k-information-structure",
@@ -36238,6 +36982,14 @@
     "fragment": "",
     "section": "易误辨析与迁移",
     "context": "继续辨析话题链与零形回指、衔接与连贯，分别检验概念之间的联系与差别。"
+  },
+  {
+    "source": "k-information-structure",
+    "target": "k-functional-analysis",
+    "anchor": "c-020",
+    "fragment": "",
+    "section": "关联研习",
+    "context": "句法、语义与语用：句法、语义和语用分别考察结构关系、意义关系和语境中的使用。"
   },
   {
     "source": "k-information-synthesis",
@@ -36454,6 +37206,14 @@
     "fragment": "",
     "section": "易误辨析与迁移",
     "context": "每一条应能还原为原文事实，全部条目共同覆盖问题范围。参见判断范围和论证依据。"
+  },
+  {
+    "source": "k-information-synthesis",
+    "target": "k-discourse-macrostructure",
+    "anchor": "c-030",
+    "fragment": "",
+    "section": "关联研习",
+    "context": "语篇的宏观结构：语篇宏观结构指跨越局部句子的总体意义组织，如问题、中心命题及其支撑关系。"
   },
   {
     "source": "k-information-text",
@@ -36896,6 +37656,62 @@
     "context": "主题约束批评范围；延迟揭示可以制造情境反讽。"
   },
   {
+    "source": "k-jingjie",
+    "target": "t-guiyuan",
+    "anchor": "c-003",
+    "fragment": "p-008",
+    "section": "归园田居（其一）",
+    "context": "文本依据：“狗吠深巷中，鸡鸣桑树颠”"
+  },
+  {
+    "source": "k-jingjie",
+    "target": "t-shengshengman",
+    "anchor": "c-005",
+    "fragment": "p-001",
+    "section": "声声慢（寻寻觅觅）",
+    "context": "文本依据：“雁过也，正伤心，却是旧时相识”"
+  },
+  {
+    "source": "k-jingjie",
+    "target": "t-tianmu",
+    "anchor": "c-007",
+    "fragment": "p-002",
+    "section": "梦游天姥吟留别",
+    "context": "文本依据：“我欲因之梦吴越”"
+  },
+  {
+    "source": "k-jingjie",
+    "target": "k-poetic-image",
+    "anchor": "c-010",
+    "fragment": "",
+    "section": "关联研习",
+    "context": "意象组合 · 情感基调 · 虚实结合"
+  },
+  {
+    "source": "k-jingjie",
+    "target": "k-affect-tone",
+    "anchor": "c-010",
+    "fragment": "",
+    "section": "关联研习",
+    "context": "意象组合 · 情感基调 · 虚实结合"
+  },
+  {
+    "source": "k-jingjie",
+    "target": "k-virtual-real",
+    "anchor": "c-010",
+    "fragment": "",
+    "section": "关联研习",
+    "context": "意象组合 · 情感基调 · 虚实结合"
+  },
+  {
+    "source": "k-jingjie",
+    "target": "k-classical-poetics",
+    "anchor": "c-011",
+    "fragment": "",
+    "section": "关联研习",
+    "context": "古代诗论的基本问题：古代诗论围绕诗与情志、景物、声律、教化及审美经验的关系展开，不同时代和论者各有侧重。"
+  },
+  {
     "source": "k-lexical-comparison",
     "target": "e-li-china-whistle",
     "anchor": "c-004",
@@ -37054,6 +37870,14 @@
     "fragment": "",
     "section": "易误辨析与迁移",
     "context": "继续辨析词义与语境、词语锤炼与替换分析，分别检验概念之间的联系与差别。"
+  },
+  {
+    "source": "k-lexical-comparison",
+    "target": "k-fixed-expressions",
+    "anchor": "c-020",
+    "fragment": "",
+    "section": "关联研习",
+    "context": "熟语的类型与运用：熟语是结构相对固定、为语言共同体沿用的表达。"
   },
   {
     "source": "k-lexical-converse",
@@ -37456,6 +38280,14 @@
     "context": "文字训释并不免除语境分析。参看词义系统、活用与兼类，共同检验解释。"
   },
   {
+    "source": "k-lexical-loan",
+    "target": "k-variant-characters",
+    "anchor": "c-014",
+    "fragment": "",
+    "section": "关联研习",
+    "context": "异体字与规范字表：异体字关系涉及同一字的不同书写形式，必须结合音义和记词职能判断。"
+  },
+  {
     "source": "k-lexical-metaphoric-extension",
     "target": "k-wenyan-ben",
     "anchor": "c-006",
@@ -37832,6 +38664,206 @@
     "context": "分析译诗时，应明确所讨论的是译文分行与汉语句法。要判断原诗音步、押韵和节式，必须另据原文；汉译的整齐节数不能证明原语的全部格律。朗读层面另见节奏组织。"
   },
   {
+    "source": "k-literariness",
+    "target": "t-hetang",
+    "anchor": "c-003",
+    "fragment": "p-005",
+    "section": "荷塘月色",
+    "context": "文本依据：“酣眠固不可少，小睡也别有风味的”"
+  },
+  {
+    "source": "k-literariness",
+    "target": "t-lijiang",
+    "anchor": "c-005",
+    "fragment": "p-001",
+    "section": "一滴水经过丽江",
+    "context": "文本依据：“我是一片雪”"
+  },
+  {
+    "source": "k-literariness",
+    "target": "t-daoshu",
+    "anchor": "c-007",
+    "fragment": "p-003",
+    "section": "喜看稻菽千重浪",
+    "context": "文本依据：“泥腿子专家”"
+  },
+  {
+    "source": "k-literariness",
+    "target": "k-fiction-truth",
+    "anchor": "c-010",
+    "fragment": "",
+    "section": "关联研习",
+    "context": "虚构与文学真实 · 文学语言变异 · 感官描写与真切感"
+  },
+  {
+    "source": "k-literariness",
+    "target": "k-literary-variant",
+    "anchor": "c-010",
+    "fragment": "",
+    "section": "关联研习",
+    "context": "虚构与文学真实 · 文学语言变异 · 感官描写与真切感"
+  },
+  {
+    "source": "k-literariness",
+    "target": "k-sensory-experience",
+    "anchor": "c-010",
+    "fragment": "",
+    "section": "关联研习",
+    "context": "虚构与文学真实 · 文学语言变异 · 感官描写与真切感"
+  },
+  {
+    "source": "k-literary-genres",
+    "target": "t-pipa",
+    "anchor": "c-003",
+    "fragment": "p-005",
+    "section": "琵琶行并序",
+    "context": "文本依据：“同是天涯沦落人，相逢何必曾相识”"
+  },
+  {
+    "source": "k-literary-genres",
+    "target": "t-xiangxue",
+    "anchor": "c-005",
+    "fragment": "p-067",
+    "section": "哦，香雪",
+    "context": "文本依据：“她打算以最快的速度跑进车厢，以最快的速度用鸡蛋换回铅笔盒”"
+  },
+  {
+    "source": "k-literary-genres",
+    "target": "t-xiangxue",
+    "anchor": "c-007",
+    "fragment": "q-1",
+    "section": "哦，香雪",
+    "context": "完整题目 · 解析与证据"
+  },
+  {
+    "source": "k-literary-genres",
+    "target": "t-xiangxue",
+    "anchor": "c-007",
+    "fragment": "a-1",
+    "section": "哦，香雪",
+    "context": "完整题目 · 解析与证据"
+  },
+  {
+    "source": "k-literary-genres",
+    "target": "t-ditan",
+    "anchor": "c-008",
+    "fragment": "p-005",
+    "section": "我与地坛（节选）",
+    "context": "文本依据：“园子荒芜但并不衰败”"
+  },
+  {
+    "source": "k-literary-genres",
+    "target": "k-lyrical-fiction",
+    "anchor": "c-011",
+    "fragment": "",
+    "section": "关联研习",
+    "context": "散文化小说 · 散文的组织方式 · 诗行与跨行"
+  },
+  {
+    "source": "k-literary-genres",
+    "target": "k-prose-unity",
+    "anchor": "c-011",
+    "fragment": "",
+    "section": "关联研习",
+    "context": "散文化小说 · 散文的组织方式 · 诗行与跨行"
+  },
+  {
+    "source": "k-literary-genres",
+    "target": "k-line-break",
+    "anchor": "c-011",
+    "fragment": "",
+    "section": "关联研习",
+    "context": "散文化小说 · 散文的组织方式 · 诗行与跨行"
+  },
+  {
+    "source": "k-literary-history",
+    "target": "t-pipa",
+    "anchor": "c-003",
+    "fragment": "p-001",
+    "section": "琵琶行并序",
+    "context": "文本依据：“元和十年，予左迁九江郡司马”"
+  },
+  {
+    "source": "k-literary-history",
+    "target": "t-eduo",
+    "anchor": "c-005",
+    "fragment": "p-001",
+    "section": "峨日朵雪峰之侧",
+    "context": "文本依据：“这是我此刻仅能征服的高度了”"
+  },
+  {
+    "source": "k-literary-history",
+    "target": "t-xiangxue",
+    "anchor": "c-007",
+    "fragment": "p-049",
+    "section": "哦，香雪",
+    "context": "文本依据：“打听北京的大学要不要台儿沟人”"
+  },
+  {
+    "source": "k-literary-history",
+    "target": "t-xiangxue",
+    "anchor": "c-009",
+    "fragment": "q-1",
+    "section": "哦，香雪",
+    "context": "完整题目 · 解析与证据"
+  },
+  {
+    "source": "k-literary-history",
+    "target": "t-xiangxue",
+    "anchor": "c-009",
+    "fragment": "a-1",
+    "section": "哦，香雪",
+    "context": "完整题目 · 解析与证据"
+  },
+  {
+    "source": "k-literary-history",
+    "target": "k-realism",
+    "anchor": "c-011",
+    "fragment": "",
+    "section": "关联研习",
+    "context": "现实主义 · 浪漫主义 · 现代主义及其辨识 · 差序格局"
+  },
+  {
+    "source": "k-literary-history",
+    "target": "k-romanticism",
+    "anchor": "c-011",
+    "fragment": "",
+    "section": "关联研习",
+    "context": "现实主义 · 浪漫主义 · 现代主义及其辨识 · 差序格局"
+  },
+  {
+    "source": "k-literary-history",
+    "target": "k-modernism",
+    "anchor": "c-011",
+    "fragment": "",
+    "section": "关联研习",
+    "context": "现实主义 · 浪漫主义 · 现代主义及其辨识 · 差序格局"
+  },
+  {
+    "source": "k-literary-history",
+    "target": "k-differential-relations",
+    "anchor": "c-011",
+    "fragment": "",
+    "section": "关联研习",
+    "context": "现实主义 · 浪漫主义 · 现代主义及其辨识 · 差序格局"
+  },
+  {
+    "source": "k-literary-history",
+    "target": "k-classical-literary-history",
+    "anchor": "c-012",
+    "fragment": "",
+    "section": "关联研习",
+    "context": "中国古代文学的文体演进：中国古代文学的演进可从文体、表达观念和传播方式观察。"
+  },
+  {
+    "source": "k-literary-history",
+    "target": "k-modern-literary-history",
+    "anchor": "c-013",
+    "fragment": "",
+    "section": "关联研习",
+    "context": "中国现代文学与当代文学：中国现代文学与当代文学的分期是一种研究惯例：现代文学常以文学革命至1949年前后为基本范围，当代文学常由1949年起讨论。"
+  },
+  {
     "source": "k-literary-variant",
     "target": "e-laoshe",
     "anchor": "c-005",
@@ -37910,6 +38942,14 @@
     "fragment": "",
     "section": "规范核查与创造性表达",
     "context": "非常规表达能否解释、是否适应情境、是否便于理解，是分析维度，不是三个条件一满足就必定正确的公式。名词性状化还要求说明被凸显的具体性质。"
+  },
+  {
+    "source": "k-literary-variant",
+    "target": "k-literariness",
+    "anchor": "c-018",
+    "fragment": "",
+    "section": "关联研习",
+    "context": "文学性与审美经验：文学性讨论语言作品如何通过形式组织产生审美和意义效果。"
   },
   {
     "source": "k-logical-laws",
@@ -38264,6 +39304,14 @@
     "context": "研读完整题目 · 核对参考解析"
   },
   {
+    "source": "k-lyrical-fiction",
+    "target": "k-literary-genres",
+    "anchor": "c-016",
+    "fragment": "",
+    "section": "关联研习",
+    "context": "文学文体与表达惯例：文学文体是作品在表达方式、形式组织和阅读预期上形成的历史类型。"
+  },
+  {
     "source": "k-material-thesis",
     "target": "e-2011-writing",
     "anchor": "c-005",
@@ -38358,6 +39406,14 @@
     "fragment": "n-choice-1",
     "section": "中国的变化 · 随文细读",
     "context": "返回批注"
+  },
+  {
+    "source": "k-material-thesis",
+    "target": "k-exam-writing-process",
+    "anchor": "c-025",
+    "fragment": "",
+    "section": "关联研习",
+    "context": "考场写作的过程管理：考场写作是在规定任务、篇幅和时间内完成的写作活动。"
   },
   {
     "source": "k-memory-perspective",
@@ -39174,6 +40230,102 @@
     "fragment": "a-3",
     "section": "向导 · 第3题选析",
     "context": "查看完整解析与全部证据"
+  },
+  {
+    "source": "k-modern-literary-history",
+    "target": "t-fanghao",
+    "anchor": "c-003",
+    "fragment": "p-003",
+    "section": "立在地球边上放号",
+    "context": "文本依据：“力哟！力哟！”"
+  },
+  {
+    "source": "k-modern-literary-history",
+    "target": "t-hongzhu",
+    "anchor": "c-005",
+    "fragment": "p-001",
+    "section": "红烛",
+    "context": "文本依据：“红烛啊！”"
+  },
+  {
+    "source": "k-modern-literary-history",
+    "target": "t-xiangxue",
+    "anchor": "c-007",
+    "fragment": "p-049",
+    "section": "哦，香雪",
+    "context": "文本依据：“打听北京的大学要不要台儿沟人”"
+  },
+  {
+    "source": "k-modern-literary-history",
+    "target": "k-literary-history",
+    "anchor": "c-010",
+    "fragment": "",
+    "section": "关联研习",
+    "context": "文学史的分期与语境 · 现代主义及其辨识 · 重章叠句"
+  },
+  {
+    "source": "k-modern-literary-history",
+    "target": "k-modernism",
+    "anchor": "c-010",
+    "fragment": "",
+    "section": "关联研习",
+    "context": "文学史的分期与语境 · 现代主义及其辨识 · 重章叠句"
+  },
+  {
+    "source": "k-modern-literary-history",
+    "target": "k-stanza-refrain",
+    "anchor": "c-010",
+    "fragment": "",
+    "section": "关联研习",
+    "context": "文学史的分期与语境 · 现代主义及其辨识 · 重章叠句"
+  },
+  {
+    "source": "k-modernism",
+    "target": "t-eduo",
+    "anchor": "c-003",
+    "fragment": "p-001",
+    "section": "峨日朵雪峰之侧",
+    "context": "文本依据：“这是我此刻仅能征服的高度了”"
+  },
+  {
+    "source": "k-modernism",
+    "target": "e-rain-city",
+    "anchor": "c-005",
+    "fragment": "p-003",
+    "section": "暴雨倾城",
+    "context": "文本依据：“多年以后，海胖天仍然能记得”"
+  },
+  {
+    "source": "k-modernism",
+    "target": "k-speech-representation",
+    "anchor": "c-008",
+    "fragment": "",
+    "section": "关联研习",
+    "context": "话语与意识呈现 · 叙事时序 · 文学史的分期与语境"
+  },
+  {
+    "source": "k-modernism",
+    "target": "k-order",
+    "anchor": "c-008",
+    "fragment": "",
+    "section": "关联研习",
+    "context": "话语与意识呈现 · 叙事时序 · 文学史的分期与语境"
+  },
+  {
+    "source": "k-modernism",
+    "target": "k-literary-history",
+    "anchor": "c-008",
+    "fragment": "",
+    "section": "关联研习",
+    "context": "话语与意识呈现 · 叙事时序 · 文学史的分期与语境"
+  },
+  {
+    "source": "k-modernism",
+    "target": "k-modern-literary-history",
+    "anchor": "c-009",
+    "fragment": "",
+    "section": "关联研习",
+    "context": "中国现代文学与当代文学：中国现代文学与当代文学的分期是一种研究惯例：现代文学常以文学革命至1949年前后为基本范围，当代文学常由1949年起讨论。"
   },
   {
     "source": "k-modifier-order",
@@ -40216,6 +41368,14 @@
     "context": "用“报道对象—材料组合—主导表达”给出文体依据。所谓科学精神是从事迹中显出的价值内容，不等于文章已经开展了概念辩论。参见段落作用。"
   },
   {
+    "source": "k-news-genre",
+    "target": "k-practical-genres",
+    "anchor": "c-015",
+    "fragment": "",
+    "section": "关联研习",
+    "context": "实用文体的交际结构：实用文体以完成说明、告知、请求、建议、报告等社会交际任务为主要目的。"
+  },
+  {
     "source": "k-nominal-characterization",
     "target": "e-li-labubu",
     "anchor": "c-004",
@@ -40720,6 +41880,14 @@
     "context": "《一碗萝卜汤》以眼前交流为主要进程，对话又带入此前的饥饿经历；可表述为“整体顺叙，人物讲述中嵌入往事”。《一台‘照病机’》则先写离别，再回溯共同经历，结尾重返同一场告别。首尾重复呈现同一事件，改变的是读者理解所依据的信息，不是人物先后经历两次离别。"
   },
   {
+    "source": "k-order",
+    "target": "k-modernism",
+    "anchor": "c-032",
+    "fragment": "",
+    "section": "关联研习",
+    "context": "现代主义及其辨识：现代主义是涵盖多种文学艺术实验的历史性概念，常涉及对既定再现方式、叙述秩序和主体经验的重新探索。"
+  },
+  {
     "source": "k-orthography",
     "target": "e-li-short-video",
     "anchor": "c-004",
@@ -40862,6 +42030,14 @@
     "fragment": "",
     "section": "易误辨析与迁移",
     "context": "继续辨析汉字构形与六书、文学语言变异，分别检验概念之间的联系与差别。"
+  },
+  {
+    "source": "k-orthography",
+    "target": "k-variant-characters",
+    "anchor": "c-024",
+    "fragment": "",
+    "section": "关联研习",
+    "context": "异体字与规范字表：异体字关系涉及同一字的不同书写形式，必须结合音义和记词职能判断。"
   },
   {
     "source": "k-parallelism",
@@ -41438,6 +42614,54 @@
     "fragment": "",
     "section": "易误辨析与迁移",
     "context": "继续辨析声调与语音修辞、朗读节奏，分别检验概念之间的联系与差别。"
+  },
+  {
+    "source": "k-phonetics",
+    "target": "t-changsha",
+    "anchor": "c-003",
+    "fragment": "p-002",
+    "section": "沁园春·长沙",
+    "context": "文本依据：“看万山红遍”"
+  },
+  {
+    "source": "k-phonetics",
+    "target": "t-shengshengman",
+    "anchor": "c-005",
+    "fragment": "p-001",
+    "section": "声声慢（寻寻觅觅）",
+    "context": "文本依据：“寻寻觅觅”"
+  },
+  {
+    "source": "k-phonetics",
+    "target": "k-sound",
+    "anchor": "c-008",
+    "fragment": "",
+    "section": "关联研习",
+    "context": "声调与语音修辞 · 朗读节奏 · 普通话异读词审音"
+  },
+  {
+    "source": "k-phonetics",
+    "target": "k-rhythm",
+    "anchor": "c-008",
+    "fragment": "",
+    "section": "关联研习",
+    "context": "声调与语音修辞 · 朗读节奏 · 普通话异读词审音"
+  },
+  {
+    "source": "k-phonetics",
+    "target": "k-pronunciation-review",
+    "anchor": "c-008",
+    "fragment": "",
+    "section": "关联研习",
+    "context": "声调与语音修辞 · 朗读节奏 · 普通话异读词审音"
+  },
+  {
+    "source": "k-phonetics",
+    "target": "k-pronunciation-review",
+    "anchor": "c-009",
+    "fragment": "",
+    "section": "关联研习",
+    "context": "普通话异读词审音：异读词审音是对普通话词语中需要统一或区分的读音作规范审定。"
   },
   {
     "source": "k-plain-style",
@@ -42248,6 +43472,14 @@
     "context": "不要把所有呼告归结为“使感情更强烈”。更具体的问题是：谁被置于受者位置，主体想与它建立什么关系，关系在何处变化。相关变化可进一步用抒情转折与复现解释。"
   },
   {
+    "source": "k-poetic-address",
+    "target": "k-romanticism",
+    "anchor": "c-017",
+    "fragment": "",
+    "section": "关联研习",
+    "context": "浪漫主义：浪漫主义作为文学史概念，主要指特定历史语境中重视主体情感、想象、个性及人与自然关系的多样文学思潮。"
+  },
+  {
     "source": "k-poetic-image",
     "target": "k-symbol",
     "anchor": "c-004",
@@ -42406,6 +43638,86 @@
     "fragment": "",
     "section": "易误辨析与迁移",
     "context": "当分析对象转为反复语句，可接续复现的语境分析；当出现认识改变，可接续抒情转折。分类工具服务于解释，不能替代具体阅读。"
+  },
+  {
+    "source": "k-poetic-image",
+    "target": "k-poetic-language",
+    "anchor": "c-029",
+    "fragment": "",
+    "section": "关联研习",
+    "context": "诗家语：“诗家语”用来提示诗歌语言受声律、凝练和意象组织影响的特殊表达。"
+  },
+  {
+    "source": "k-poetic-image",
+    "target": "k-jingjie",
+    "anchor": "c-030",
+    "fragment": "",
+    "section": "关联研习",
+    "context": "《人间词话》的境界说：王国维《人间词话》以“境界”评价诗词，强调景物与感情的真切呈现。"
+  },
+  {
+    "source": "k-poetic-language",
+    "target": "t-denggao",
+    "anchor": "c-003",
+    "fragment": "p-003",
+    "section": "登高",
+    "context": "文本依据：“万里悲秋常作客，百年多病独登台”"
+  },
+  {
+    "source": "k-poetic-language",
+    "target": "t-denggao",
+    "anchor": "c-005",
+    "fragment": "q-2",
+    "section": "登高",
+    "context": "完整题目 · 解析与证据"
+  },
+  {
+    "source": "k-poetic-language",
+    "target": "t-denggao",
+    "anchor": "c-005",
+    "fragment": "a-2",
+    "section": "登高",
+    "context": "完整题目 · 解析与证据"
+  },
+  {
+    "source": "k-poetic-language",
+    "target": "t-guiyuan",
+    "anchor": "c-006",
+    "fragment": "p-007",
+    "section": "归园田居（其一）",
+    "context": "文本依据：“暧暧远人村，依依墟里烟”"
+  },
+  {
+    "source": "k-poetic-language",
+    "target": "t-shengshengman",
+    "anchor": "c-008",
+    "fragment": "p-002",
+    "section": "声声慢（寻寻觅觅）",
+    "context": "文本依据：“守着窗儿，独自怎生得黑”"
+  },
+  {
+    "source": "k-poetic-language",
+    "target": "k-poetic-image",
+    "anchor": "c-011",
+    "fragment": "",
+    "section": "关联研习",
+    "context": "意象组合 · 律诗 · 词语锤炼与替换分析"
+  },
+  {
+    "source": "k-poetic-language",
+    "target": "k-regulated-verse",
+    "anchor": "c-011",
+    "fragment": "",
+    "section": "关联研习",
+    "context": "意象组合 · 律诗 · 词语锤炼与替换分析"
+  },
+  {
+    "source": "k-poetic-language",
+    "target": "k-word-choice",
+    "anchor": "c-011",
+    "fragment": "",
+    "section": "关联研习",
+    "context": "意象组合 · 律诗 · 词语锤炼与替换分析"
   },
   {
     "source": "k-point-panorama",
@@ -42584,6 +43896,70 @@
     "context": "以“某一表达变化—降低哪种理解困难—是否保留必要信息”组织评析。参见语体适配和比较阅读。"
   },
   {
+    "source": "k-practical-genres",
+    "target": "t-daoshu",
+    "anchor": "c-003",
+    "fragment": "p-024",
+    "section": "喜看稻菽千重浪",
+    "context": "文本依据：“袁隆平写了一封信寄给了《人民日报》”"
+  },
+  {
+    "source": "k-practical-genres",
+    "target": "t-yituanhuo",
+    "anchor": "c-005",
+    "fragment": "p-002",
+    "section": "心有一团火，温暖众人心",
+    "context": "文本依据：“一团火”"
+  },
+  {
+    "source": "k-practical-genres",
+    "target": "e-2026-langqiao",
+    "anchor": "c-007",
+    "fragment": "p-005",
+    "section": "廊桥",
+    "context": "文本依据：“如果将桥梁的承重结构体理解为一个长条箱子”"
+  },
+  {
+    "source": "k-practical-genres",
+    "target": "e-2026-langqiao",
+    "anchor": "c-009",
+    "fragment": "q-4",
+    "section": "廊桥",
+    "context": "完整题目 · 解析与证据"
+  },
+  {
+    "source": "k-practical-genres",
+    "target": "e-2026-langqiao",
+    "anchor": "c-009",
+    "fragment": "a-4",
+    "section": "廊桥",
+    "context": "完整题目 · 解析与证据"
+  },
+  {
+    "source": "k-practical-genres",
+    "target": "k-news-genre",
+    "anchor": "c-011",
+    "fragment": "",
+    "section": "关联研习",
+    "context": "新闻文体 · 语域与表达得体 · 情境微写作"
+  },
+  {
+    "source": "k-practical-genres",
+    "target": "k-register",
+    "anchor": "c-011",
+    "fragment": "",
+    "section": "关联研习",
+    "context": "新闻文体 · 语域与表达得体 · 情境微写作"
+  },
+  {
+    "source": "k-practical-genres",
+    "target": "k-micro-writing",
+    "anchor": "c-011",
+    "fragment": "",
+    "section": "关联研习",
+    "context": "新闻文体 · 语域与表达得体 · 情境微写作"
+  },
+  {
     "source": "k-preface-reading",
     "target": "e-2026-qimin",
     "anchor": "c-006",
@@ -42630,6 +44006,14 @@
     "fragment": "",
     "section": "易误辨析与迁移",
     "context": "章学诚关于辨章学术、考镜源流的论述属于目录学思考，不能直接断定所有自序都必须完成同一任务。可联系信息概括与观点评价。"
+  },
+  {
+    "source": "k-preface-reading",
+    "target": "k-classical-genre",
+    "anchor": "c-012",
+    "fragment": "",
+    "section": "关联研习",
+    "context": "文言文体与阅读路径：文言文体是历史形成的写作惯例，与用途、结构和表达方式有关。"
   },
   {
     "source": "k-profile-report",
@@ -42878,6 +44262,94 @@
     "fragment": "",
     "section": "易误辨析与迁移",
     "context": "继续辨析话题链与零形回指、语域与表达得体，分别检验概念之间的联系与差别。"
+  },
+  {
+    "source": "k-pronunciation-errors",
+    "target": "t-shishuo",
+    "anchor": "c-003",
+    "fragment": "p-002",
+    "section": "师说",
+    "context": "文本依据：“授之书而习其句读者”"
+  },
+  {
+    "source": "k-pronunciation-errors",
+    "target": "t-daoshu",
+    "anchor": "c-005",
+    "fragment": "p-002",
+    "section": "喜看稻菽千重浪",
+    "context": "文本依据：“笼罩在薄雾之中”"
+  },
+  {
+    "source": "k-pronunciation-errors",
+    "target": "t-duange",
+    "anchor": "c-007",
+    "fragment": "p-016",
+    "section": "短歌行",
+    "context": "文本依据：“周公吐哺”"
+  },
+  {
+    "source": "k-pronunciation-errors",
+    "target": "k-pronunciation-review",
+    "anchor": "c-010",
+    "fragment": "",
+    "section": "关联研习",
+    "context": "普通话异读词审音 · 朗读节奏"
+  },
+  {
+    "source": "k-pronunciation-errors",
+    "target": "k-rhythm",
+    "anchor": "c-010",
+    "fragment": "",
+    "section": "关联研习",
+    "context": "普通话异读词审音 · 朗读节奏"
+  },
+  {
+    "source": "k-pronunciation-errors",
+    "target": "k-pronunciation-review",
+    "anchor": "c-011",
+    "fragment": "",
+    "section": "关联研习",
+    "context": "普通话异读词审音：异读词审音是对普通话词语中需要统一或区分的读音作规范审定。"
+  },
+  {
+    "source": "k-pronunciation-review",
+    "target": "t-duange",
+    "anchor": "c-003",
+    "fragment": "p-016",
+    "section": "短歌行",
+    "context": "文本依据：“周公吐哺”"
+  },
+  {
+    "source": "k-pronunciation-review",
+    "target": "t-daoshu",
+    "anchor": "c-005",
+    "fragment": "p-007",
+    "section": "喜看稻菽千重浪",
+    "context": "文本依据：“他屏气静神地伸出双手”"
+  },
+  {
+    "source": "k-pronunciation-review",
+    "target": "k-phonetics",
+    "anchor": "c-008",
+    "fragment": "",
+    "section": "关联研习",
+    "context": "语音单位与声韵调 · 易误读词的辨析"
+  },
+  {
+    "source": "k-pronunciation-review",
+    "target": "k-pronunciation-errors",
+    "anchor": "c-008",
+    "fragment": "",
+    "section": "关联研习",
+    "context": "语音单位与声韵调 · 易误读词的辨析"
+  },
+  {
+    "source": "k-pronunciation-review",
+    "target": "k-pronunciation-errors",
+    "anchor": "c-009",
+    "fragment": "",
+    "section": "关联研习",
+    "context": "易误读词的辨析：读音辨析的单位应当是处于具体语境中的词，而不是孤立字形。"
   },
   {
     "source": "k-prose-reflection",
@@ -43248,6 +44720,14 @@
     "context": "联想说明材料转换的触发点；照应与线索说明局部呼应和整体组织的差别。"
   },
   {
+    "source": "k-prose-unity",
+    "target": "k-literary-genres",
+    "anchor": "c-026",
+    "fragment": "",
+    "section": "关联研习",
+    "context": "文学文体与表达惯例：文学文体是作品在表达方式、形式组织和阅读预期上形成的历史类型。"
+  },
+  {
     "source": "k-pun",
     "target": "t-fuyi",
     "anchor": "c-005",
@@ -43314,7 +44794,7 @@
   {
     "source": "k-punctuation-system",
     "target": "e-li-short-video",
-    "anchor": "c-004",
+    "anchor": "c-007",
     "fragment": "",
     "section": "实例细读",
     "context": "短视频的注意机制用总领语引出三个机制。若各机制各自成段，冒号可分别管领各段；若合为同一句并连续嵌套，则应重新组织层次。"
@@ -43322,7 +44802,7 @@
   {
     "source": "k-punctuation-system",
     "target": "e-li-ai-remix",
-    "anchor": "c-005",
+    "anchor": "c-008",
     "fragment": "q-4",
     "section": "“AI魔改”与文化认知 · 第4题选析",
     "context": "研习任务：指出原文标记着重号的两处词语（“中青网”与“人工智能生成合成内容标识办法”）哪一处应当使用书名号，并简要说明理由。"
@@ -43330,7 +44810,7 @@
   {
     "source": "k-punctuation-system",
     "target": "e-li-ai-remix",
-    "anchor": "c-007",
+    "anchor": "c-010",
     "fragment": "ev-q4-p1-1",
     "section": "“AI魔改”与文化认知 · 第4题选析",
     "context": "文本依据：“人工智能生成合成内容标识办法”；“办法”；“规定”。"
@@ -43338,7 +44818,7 @@
   {
     "source": "k-punctuation-system",
     "target": "e-li-ai-remix",
-    "anchor": "c-007",
+    "anchor": "c-010",
     "fragment": "ev-q4-p1-2",
     "section": "“AI魔改”与文化认知 · 第4题选析",
     "context": "文本依据：“人工智能生成合成内容标识办法”；“办法”；“规定”。"
@@ -43346,7 +44826,7 @@
   {
     "source": "k-punctuation-system",
     "target": "e-li-ai-remix",
-    "anchor": "c-007",
+    "anchor": "c-010",
     "fragment": "ev-q4-p1-3",
     "section": "“AI魔改”与文化认知 · 第4题选析",
     "context": "文本依据：“人工智能生成合成内容标识办法”；“办法”；“规定”。"
@@ -43354,7 +44834,7 @@
   {
     "source": "k-punctuation-system",
     "target": "e-li-ai-remix",
-    "anchor": "c-009",
+    "anchor": "c-012",
     "fragment": "ev-q4-p2-1",
     "section": "“AI魔改”与文化认知 · 第4题选析",
     "context": "文本依据：“中青网”。"
@@ -43362,7 +44842,7 @@
   {
     "source": "k-punctuation-system",
     "target": "e-li-ai-remix",
-    "anchor": "c-010",
+    "anchor": "c-013",
     "fragment": "a-4",
     "section": "“AI魔改”与文化认知 · 第4题选析",
     "context": "查看完整解析与全部证据"
@@ -43370,7 +44850,7 @@
   {
     "source": "k-punctuation-system",
     "target": "k-colon",
-    "anchor": "c-013",
+    "anchor": "c-016",
     "fragment": "",
     "section": "易误辨析与迁移",
     "context": "继续辨析冒号的统摄范围、引号与点号的位置，分别检验概念之间的联系与差别。"
@@ -43378,7 +44858,7 @@
   {
     "source": "k-punctuation-system",
     "target": "k-quotation-boundary",
-    "anchor": "c-013",
+    "anchor": "c-016",
     "fragment": "",
     "section": "易误辨析与迁移",
     "context": "继续辨析冒号的统摄范围、引号与点号的位置，分别检验概念之间的联系与差别。"
@@ -43526,6 +45006,22 @@
     "fragment": "",
     "section": "易误辨析与迁移",
     "context": "检查论据是否支持论点实际使用的强度，删除无根据的“唯一、必然、完全”。参见回应合理异议和判断范围。"
+  },
+  {
+    "source": "k-qualified-thesis",
+    "target": "k-toulmin",
+    "anchor": "c-025",
+    "fragment": "",
+    "section": "关联研习",
+    "context": "图尔敏论证模型：图尔敏模型区分论证中不同成分承担的功能：论据支持主张，论证保证说明从论据到主张的推理为何可接受，支持材料为保证提供依据，限定语和反驳条件则刻画结论的强度与例外。"
+  },
+  {
+    "source": "k-qualified-thesis",
+    "target": "k-writing-evaluation",
+    "anchor": "c-026",
+    "fragment": "",
+    "section": "关联研习",
+    "context": "作文评价与修订依据：作文评价应说明采用的任务要求、质量维度及证据。"
   },
   {
     "source": "k-quotation",
@@ -43808,6 +45304,70 @@
     "context": "进一步参见分析性阅读、衔接与连贯、复句关系、比较阅读。这些概念分别解释阅读活动、语篇联系、句法语义关系与跨文本操作。"
   },
   {
+    "source": "k-realism",
+    "target": "t-zhufu",
+    "anchor": "c-003",
+    "fragment": "p-071",
+    "section": "祝福",
+    "context": "文本依据：“祥林嫂，你放著罢！”"
+  },
+  {
+    "source": "k-realism",
+    "target": "e-steak",
+    "anchor": "c-005",
+    "fragment": "p-001",
+    "section": "一块牛排",
+    "context": "文本依据：“他吃的饭不是最好的，也不够吃”"
+  },
+  {
+    "source": "k-realism",
+    "target": "e-steak",
+    "anchor": "c-007",
+    "fragment": "q-3",
+    "section": "一块牛排",
+    "context": "完整题目 · 解析与证据"
+  },
+  {
+    "source": "k-realism",
+    "target": "e-steak",
+    "anchor": "c-007",
+    "fragment": "a-3",
+    "section": "一块牛排",
+    "context": "完整题目 · 解析与证据"
+  },
+  {
+    "source": "k-realism",
+    "target": "k-social",
+    "anchor": "c-009",
+    "fragment": "",
+    "section": "关联研习",
+    "context": "社会环境与行动规则 · 虚构与文学真实 · 人物形象"
+  },
+  {
+    "source": "k-realism",
+    "target": "k-fiction-truth",
+    "anchor": "c-009",
+    "fragment": "",
+    "section": "关联研习",
+    "context": "社会环境与行动规则 · 虚构与文学真实 · 人物形象"
+  },
+  {
+    "source": "k-realism",
+    "target": "k-character",
+    "anchor": "c-009",
+    "fragment": "",
+    "section": "关联研习",
+    "context": "社会环境与行动规则 · 虚构与文学真实 · 人物形象"
+  },
+  {
+    "source": "k-realism",
+    "target": "k-literary-history",
+    "anchor": "c-010",
+    "fragment": "",
+    "section": "关联研习",
+    "context": "文学史的分期与语境：文学史研究作品、作家、文体、传播制度与阅读方式的历史变化。"
+  },
+  {
     "source": "k-register",
     "target": "k-context",
     "anchor": "c-005",
@@ -43912,6 +45472,14 @@
     "context": "“唐小喵”推介文案需要同时满足服务信息准确、互动友好和文化表达可理解。文学联想不能替代产品功能事实；礼貌与面子亦不能成为牺牲明确性的理由。"
   },
   {
+    "source": "k-register",
+    "target": "k-practical-genres",
+    "anchor": "c-023",
+    "fragment": "",
+    "section": "关联研习",
+    "context": "实用文体的交际结构：实用文体以完成说明、告知、请求、建议、报告等社会交际任务为主要目的。"
+  },
+  {
     "source": "k-regulated-verse",
     "target": "t-denggao",
     "anchor": "c-005",
@@ -43966,6 +45534,14 @@
     "fragment": "",
     "section": "关联研习",
     "context": "登高、对偶、对仗与对联、朗读节奏、词体与词牌"
+  },
+  {
+    "source": "k-regulated-verse",
+    "target": "k-poetic-language",
+    "anchor": "c-011",
+    "fragment": "",
+    "section": "关联研习",
+    "context": "诗家语：“诗家语”用来提示诗歌语言受声律、凝练和意象组织影响的特殊表达。"
   },
   {
     "source": "k-repetition",
@@ -44808,6 +46384,22 @@
     "context": "节奏分析须与语体要求和内容关系相互检验；“读来顺口”不是决定所有书面表达优劣的唯一尺度。"
   },
   {
+    "source": "k-rhythm",
+    "target": "k-phonetics",
+    "anchor": "c-029",
+    "fragment": "",
+    "section": "关联研习",
+    "context": "语音单位与声韵调：语音是语言的声音形式。"
+  },
+  {
+    "source": "k-rhythm",
+    "target": "k-pronunciation-errors",
+    "anchor": "c-030",
+    "fragment": "",
+    "section": "关联研习",
+    "context": "易误读词的辨析：读音辨析的单位应当是处于具体语境中的词，而不是孤立字形。"
+  },
+  {
     "source": "k-ritual",
     "target": "k-social",
     "anchor": "c-003",
@@ -44918,6 +46510,54 @@
     "fragment": "",
     "section": "关联研习",
     "context": "乡土中国研读、差序格局、调查结论的范围"
+  },
+  {
+    "source": "k-romanticism",
+    "target": "t-yunque",
+    "anchor": "c-003",
+    "fragment": "p-001",
+    "section": "致云雀",
+    "context": "文本依据：“你好啊，欢乐的精灵！”"
+  },
+  {
+    "source": "k-romanticism",
+    "target": "t-tianmu",
+    "anchor": "c-005",
+    "fragment": "p-003",
+    "section": "梦游天姥吟留别",
+    "context": "文本依据：“安能摧眉折腰事权贵，使我不得开心颜”"
+  },
+  {
+    "source": "k-romanticism",
+    "target": "k-imagination",
+    "anchor": "c-008",
+    "fragment": "",
+    "section": "关联研习",
+    "context": "文学想象 · 呼告 · 虚实结合"
+  },
+  {
+    "source": "k-romanticism",
+    "target": "k-poetic-address",
+    "anchor": "c-008",
+    "fragment": "",
+    "section": "关联研习",
+    "context": "文学想象 · 呼告 · 虚实结合"
+  },
+  {
+    "source": "k-romanticism",
+    "target": "k-virtual-real",
+    "anchor": "c-008",
+    "fragment": "",
+    "section": "关联研习",
+    "context": "文学想象 · 呼告 · 虚实结合"
+  },
+  {
+    "source": "k-romanticism",
+    "target": "k-literary-history",
+    "anchor": "c-009",
+    "fragment": "",
+    "section": "关联研习",
+    "context": "文学史的分期与语境：文学史研究作品、作家、文体、传播制度与阅读方式的历史变化。"
   },
   {
     "source": "k-scene",
@@ -45198,6 +46838,14 @@
     "fragment": "",
     "section": "易误辨析与迁移",
     "context": "把答案写成“发现了……，在……范围内支持……，仍需检验……”。参见限定范围与信息概括。"
+  },
+  {
+    "source": "k-scientific-claims",
+    "target": "k-source-evaluation",
+    "anchor": "c-027",
+    "fragment": "",
+    "section": "关联研习",
+    "context": "信息来源与证据核验：信息可信度的评价涉及来源、生成方法、适用范围及相互独立的核验。"
   },
   {
     "source": "k-sensory-experience",
@@ -45766,6 +47414,14 @@
     "fragment": "",
     "section": "易误辨析与迁移",
     "context": "继续辨析短语结构与层次分析、话题链与零形回指、病句辨析与修改，分别检验概念之间的联系与差别。"
+  },
+  {
+    "source": "k-sentence-components",
+    "target": "k-functional-analysis",
+    "anchor": "c-026",
+    "fragment": "",
+    "section": "关联研习",
+    "context": "句法、语义与语用：句法、语义和语用分别考察结构关系、意义关系和语境中的使用。"
   },
   {
     "source": "k-sentence-meaning",
@@ -46816,6 +48472,14 @@
     "context": "《新钥匙》把厕所使用权转成荣誉等级，钥匙分配影响教授的自我评价。《打野》则展示短视频传播怎样改变旁人对同一行动的命名。前者可结合反讽，后者可结合以小见大理解。"
   },
   {
+    "source": "k-social",
+    "target": "k-realism",
+    "anchor": "c-033",
+    "fragment": "",
+    "section": "关联研习",
+    "context": "现实主义：现实主义既可指特定历史阶段的文学思潮，也可在较宽意义上指一种重视社会生活具体关系、人物处境与行动逻辑的表现倾向。"
+  },
+  {
     "source": "k-sound",
     "target": "k-rhythm",
     "anchor": "c-005",
@@ -46958,6 +48622,94 @@
     "fragment": "",
     "section": "近音、押韵与意义联系",
     "context": "语感与汉语表达引用“血”与“雪”，按文读音分别为xuè、xuě，可说明声韵相近的回响；惨烈与清寒的关联还依赖诗境，不能由近音自动推出固定情感。进一步参见拟声与语音象征。"
+  },
+  {
+    "source": "k-sound",
+    "target": "k-phonetics",
+    "anchor": "c-026",
+    "fragment": "",
+    "section": "关联研习",
+    "context": "语音单位与声韵调：语音是语言的声音形式。"
+  },
+  {
+    "source": "k-source-evaluation",
+    "target": "e-2026-deep-sea",
+    "anchor": "c-003",
+    "fragment": "p-010",
+    "section": "深渊科考",
+    "context": "文本依据：“23潜次系统调查”"
+  },
+  {
+    "source": "k-source-evaluation",
+    "target": "e-2026-deep-sea",
+    "anchor": "c-005",
+    "fragment": "q-2",
+    "section": "深渊科考",
+    "context": "完整题目 · 解析与证据"
+  },
+  {
+    "source": "k-source-evaluation",
+    "target": "e-2026-deep-sea",
+    "anchor": "c-005",
+    "fragment": "a-2",
+    "section": "深渊科考",
+    "context": "完整题目 · 解析与证据"
+  },
+  {
+    "source": "k-source-evaluation",
+    "target": "e-wh2026-ai",
+    "anchor": "c-006",
+    "fragment": "p-005",
+    "section": "对AI说“谢谢”",
+    "context": "文本依据：“本研究在英语、中文与日语三类任务中”"
+  },
+  {
+    "source": "k-source-evaluation",
+    "target": "e-wh2026-ai",
+    "anchor": "c-008",
+    "fragment": "q-3",
+    "section": "对AI说“谢谢”",
+    "context": "完整题目 · 解析与证据"
+  },
+  {
+    "source": "k-source-evaluation",
+    "target": "e-wh2026-ai",
+    "anchor": "c-008",
+    "fragment": "a-3",
+    "section": "对AI说“谢谢”",
+    "context": "完整题目 · 解析与证据"
+  },
+  {
+    "source": "k-source-evaluation",
+    "target": "t-daoshu",
+    "anchor": "c-009",
+    "fragment": "p-026",
+    "section": "喜看稻菽千重浪",
+    "context": "文本依据：“品种不同，产量和品质是有差别的”"
+  },
+  {
+    "source": "k-source-evaluation",
+    "target": "k-scientific-claims",
+    "anchor": "c-012",
+    "fragment": "",
+    "section": "关联研习",
+    "context": "科学文本中的证据与假说 · 调查结论的范围 · 普通话异读词审音"
+  },
+  {
+    "source": "k-source-evaluation",
+    "target": "k-survey-scope",
+    "anchor": "c-012",
+    "fragment": "",
+    "section": "关联研习",
+    "context": "科学文本中的证据与假说 · 调查结论的范围 · 普通话异读词审音"
+  },
+  {
+    "source": "k-source-evaluation",
+    "target": "k-pronunciation-review",
+    "anchor": "c-012",
+    "fragment": "",
+    "section": "关联研习",
+    "context": "科学文本中的证据与假说 · 调查结论的范围 · 普通话异读词审音"
   },
   {
     "source": "k-speech-action",
@@ -47134,6 +48886,14 @@
     "fragment": "p-010",
     "section": "我与地坛（节选）",
     "context": "文本依据：“她从来没有对我说过”。"
+  },
+  {
+    "source": "k-speech-representation",
+    "target": "k-modernism",
+    "anchor": "c-018",
+    "fragment": "",
+    "section": "关联研习",
+    "context": "现代主义及其辨识：现代主义是涵盖多种文学艺术实验的历史性概念，常涉及对既定再现方式、叙述秩序和主体经验的重新探索。"
   },
   {
     "source": "k-stanza-refrain",
@@ -47598,6 +49358,14 @@
     "fragment": "",
     "section": "关联研习",
     "context": "家乡文化生活、归纳概括与证据强度、观察记录"
+  },
+  {
+    "source": "k-survey-scope",
+    "target": "k-source-evaluation",
+    "anchor": "c-009",
+    "fragment": "",
+    "section": "关联研习",
+    "context": "信息来源与证据核验：信息可信度的评价涉及来源、生成方法、适用范围及相互独立的核验。"
   },
   {
     "source": "k-suspense",
@@ -48800,6 +50568,86 @@
     "context": "查看完整解析与全部证据"
   },
   {
+    "source": "k-toulmin",
+    "target": "t-daoshu",
+    "anchor": "c-003",
+    "fragment": "p-026",
+    "section": "喜看稻菽千重浪",
+    "context": "文本依据：“但绝不能以个别品种的优劣来概括一般”"
+  },
+  {
+    "source": "k-toulmin",
+    "target": "e-2011-writing",
+    "anchor": "c-005",
+    "fragment": "p-004",
+    "section": "中国的变化",
+    "context": "文本依据：“减少费用障碍，并非替每个人预先决定人生”"
+  },
+  {
+    "source": "k-toulmin",
+    "target": "e-2011-writing",
+    "anchor": "c-007",
+    "fragment": "q-1",
+    "section": "中国的变化",
+    "context": "完整题目 · 解析与证据"
+  },
+  {
+    "source": "k-toulmin",
+    "target": "e-2011-writing",
+    "anchor": "c-007",
+    "fragment": "s-task-analysis",
+    "section": "中国的变化",
+    "context": "完整题目 · 解析与证据"
+  },
+  {
+    "source": "k-toulmin",
+    "target": "e-2021-digital-humanities",
+    "anchor": "c-008",
+    "fragment": "p-005",
+    "section": "数字人文中的远读与细读",
+    "context": "文本依据：“只有当数据量或者数据精度超出了个人阅读理解的能力范围时”"
+  },
+  {
+    "source": "k-toulmin",
+    "target": "e-2021-digital-humanities",
+    "anchor": "c-010",
+    "fragment": "q-2",
+    "section": "数字人文中的远读与细读",
+    "context": "完整题目 · 解析与证据"
+  },
+  {
+    "source": "k-toulmin",
+    "target": "e-2021-digital-humanities",
+    "anchor": "c-010",
+    "fragment": "a-2",
+    "section": "数字人文中的远读与细读",
+    "context": "完整题目 · 解析与证据"
+  },
+  {
+    "source": "k-toulmin",
+    "target": "k-warrant",
+    "anchor": "c-012",
+    "fragment": "",
+    "section": "关联研习",
+    "context": "论据与论证保证 · 论点的限定条件 · 反驳与回应"
+  },
+  {
+    "source": "k-toulmin",
+    "target": "k-qualified-thesis",
+    "anchor": "c-012",
+    "fragment": "",
+    "section": "关联研习",
+    "context": "论据与论证保证 · 论点的限定条件 · 反驳与回应"
+  },
+  {
+    "source": "k-toulmin",
+    "target": "k-counterargument",
+    "anchor": "c-012",
+    "fragment": "",
+    "section": "关联研习",
+    "context": "论据与论证保证 · 论点的限定条件 · 反驳与回应"
+  },
+  {
     "source": "k-unhurried-style",
     "target": "e-spring-poetry",
     "anchor": "c-003",
@@ -48854,6 +50702,38 @@
     "fragment": "",
     "section": "易误辨析与迁移",
     "context": "情感基调需要考察变化；叙事速度与风格感受不能混同。"
+  },
+  {
+    "source": "k-variant-characters",
+    "target": "t-quanxue",
+    "anchor": "c-003",
+    "fragment": "p-003",
+    "section": "劝学",
+    "context": "文本依据：“君子生非异也”"
+  },
+  {
+    "source": "k-variant-characters",
+    "target": "t-shishuo",
+    "anchor": "c-005",
+    "fragment": "p-001",
+    "section": "师说",
+    "context": "文本依据：“传道受业解惑也”"
+  },
+  {
+    "source": "k-variant-characters",
+    "target": "k-orthography",
+    "anchor": "c-008",
+    "fragment": "",
+    "section": "关联研习",
+    "context": "规范字形与词形 · 通假、古今字与异体字"
+  },
+  {
+    "source": "k-variant-characters",
+    "target": "k-lexical-loan",
+    "anchor": "c-008",
+    "fragment": "",
+    "section": "关联研习",
+    "context": "规范字形与词形 · 通假、古今字与异体字"
   },
   {
     "source": "k-virtual-real",
@@ -49350,6 +51230,14 @@
     "fragment": "",
     "section": "论题、论点与论据可靠性",
     "context": "论据的相关性与真实性须分别检查：真实但无关的事实不能支持结论，相关但不可靠的材料同样削弱论证。人形机器人的情感投射例子可以解释人的体验，却不能单独证明机器真正具有理解能力。这一区分与充分条件与必要条件相互补充。"
+  },
+  {
+    "source": "k-warrant",
+    "target": "k-toulmin",
+    "anchor": "c-028",
+    "fragment": "",
+    "section": "关联研习",
+    "context": "图尔敏论证模型：图尔敏模型区分论证中不同成分承担的功能：论据支持主张，论证保证说明从论据到主张的推理为何可接受，支持材料为保证提供依据，限定语和反驳条件则刻画结论的强度与例外。"
   },
   {
     "source": "k-wenyan-adverbial-noun",
@@ -50512,6 +52400,14 @@
     "context": "联系语境与词义区分字面释义和具体指称；在文言阅读索引中比较相关词语、句法与制度。"
   },
   {
+    "source": "k-wenyan-courtesy-name",
+    "target": "k-ancient-culture",
+    "anchor": "c-010",
+    "fragment": "",
+    "section": "关联研习",
+    "context": "古代名物制度的释读：古代名物制度知识用于解释人物行动的历史条件，包括称谓、职官、纪年、地域、礼俗及物质生活。"
+  },
+  {
     "source": "k-wenyan-dai",
     "target": "m-lexicon",
     "anchor": "c-003",
@@ -50984,6 +52880,14 @@
     "context": "联系语境与词义区分字面释义和具体指称；在文言阅读索引中比较相关词语、句法与制度。"
   },
   {
+    "source": "k-wenyan-ellipsis",
+    "target": "k-ancient-rhetoric",
+    "anchor": "c-012",
+    "fragment": "",
+    "section": "关联研习",
+    "context": "互文、对文与省文：古汉语常以相对、相承或省约的语句组织意义。"
+  },
+  {
     "source": "k-wenyan-er",
     "target": "e-2011-heguan",
     "anchor": "c-026",
@@ -51158,6 +53062,14 @@
     "fragment": "",
     "section": "易误辨析与迁移",
     "context": "联系语境与词义区分字面释义和具体指称；在文言阅读索引中比较相关词语、句法与制度。"
+  },
+  {
+    "source": "k-wenyan-era-name",
+    "target": "k-ancient-culture",
+    "anchor": "c-010",
+    "fragment": "",
+    "section": "关联研习",
+    "context": "古代名物制度的释读：古代名物制度知识用于解释人物行动的历史条件，包括称谓、职官、纪年、地域、礼俗及物质生活。"
   },
   {
     "source": "k-wenyan-fei",
@@ -52808,6 +54720,14 @@
     "context": "联系语境与词义区分字面释义和具体指称；在文言阅读索引中比较相关词语、句法与制度。"
   },
   {
+    "source": "k-wenyan-judgment",
+    "target": "k-ancient-syntax",
+    "anchor": "c-013",
+    "fragment": "",
+    "section": "关联研习",
+    "context": "文言句法分析：文言句法分析研究词语如何组成短语和句子。"
+  },
+  {
     "source": "k-wenyan-jue",
     "target": "m-lexicon",
     "anchor": "c-003",
@@ -53518,6 +55438,14 @@
     "fragment": "",
     "section": "易误辨析与迁移",
     "context": "联系语境与词义区分字面释义和具体指称；在文言阅读索引中比较相关词语、句法与制度。"
+  },
+  {
+    "source": "k-wenyan-postposition",
+    "target": "k-ancient-syntax",
+    "anchor": "c-013",
+    "fragment": "",
+    "section": "关联研习",
+    "context": "文言句法分析：文言句法分析研究词语如何组成短语和句子。"
   },
   {
     "source": "k-wenyan-qi",
@@ -56560,6 +58488,14 @@
     "context": "先确定搭配对象和句法位置，再把候选义放回整句，检验前后事件是否连贯。可参照语境如何限定词义，并从文言阅读索引比较同一语法位置的其他词。"
   },
   {
+    "source": "k-wenyan-yi",
+    "target": "k-ancient-function-words",
+    "anchor": "c-043",
+    "fragment": "",
+    "section": "关联研习",
+    "context": "文言虚词的语法功能：文言虚词的解释须以句法分布和语境关系为依据，不能把一个字固定译成一个现代词。"
+  },
+  {
     "source": "k-wenyan-yi-change",
     "target": "m-lexicon",
     "anchor": "c-003",
@@ -57752,6 +59688,14 @@
     "context": "先确定搭配对象和句法位置，再把候选义放回整句，检验前后事件是否连贯。可参照语境如何限定词义，并从文言阅读索引比较同一语法位置的其他词。"
   },
   {
+    "source": "k-wenyan-zhi-particle",
+    "target": "k-ancient-function-words",
+    "anchor": "c-055",
+    "fragment": "",
+    "section": "关联研习",
+    "context": "文言虚词的语法功能：文言虚词的解释须以句法分布和语境关系为依据，不能把一个字固定译成一个现代词。"
+  },
+  {
     "source": "k-wenyan-zhi-substance",
     "target": "m-lexicon",
     "anchor": "c-003",
@@ -58320,6 +60264,78 @@
     "context": "继续辨析短语结构与层次分析、名词性状化，分别检验概念之间的联系与差别。"
   },
   {
+    "source": "k-writing-evaluation",
+    "target": "e-2011-writing",
+    "anchor": "c-003",
+    "fragment": "p-007",
+    "section": "中国的变化",
+    "context": "文本依据：“承认机会扩大，并不意味着可以宣称所有差距已经消失”"
+  },
+  {
+    "source": "k-writing-evaluation",
+    "target": "e-2011-writing",
+    "anchor": "c-005",
+    "fragment": "q-1",
+    "section": "中国的变化",
+    "context": "完整题目 · 解析与证据"
+  },
+  {
+    "source": "k-writing-evaluation",
+    "target": "e-2011-writing",
+    "anchor": "c-005",
+    "fragment": "s-task-analysis",
+    "section": "中国的变化",
+    "context": "完整题目 · 解析与证据"
+  },
+  {
+    "source": "k-writing-evaluation",
+    "target": "e-nj2026-spiritual",
+    "anchor": "c-006",
+    "fragment": "p-001",
+    "section": "日常生活与精神追求",
+    "context": "文本依据：“用各种方式为日常增添意义与欢愉”"
+  },
+  {
+    "source": "k-writing-evaluation",
+    "target": "e-nj2026-spiritual",
+    "anchor": "c-008",
+    "fragment": "q-1",
+    "section": "日常生活与精神追求",
+    "context": "完整题目 · 解析与证据"
+  },
+  {
+    "source": "k-writing-evaluation",
+    "target": "e-nj2026-spiritual",
+    "anchor": "c-008",
+    "fragment": "a-1",
+    "section": "日常生活与精神追求",
+    "context": "完整题目 · 解析与证据"
+  },
+  {
+    "source": "k-writing-evaluation",
+    "target": "k-writing-revision",
+    "anchor": "c-010",
+    "fragment": "",
+    "section": "关联研习",
+    "context": "写作修订 · 论点的限定条件 · 考场写作的过程管理"
+  },
+  {
+    "source": "k-writing-evaluation",
+    "target": "k-qualified-thesis",
+    "anchor": "c-010",
+    "fragment": "",
+    "section": "关联研习",
+    "context": "写作修订 · 论点的限定条件 · 考场写作的过程管理"
+  },
+  {
+    "source": "k-writing-evaluation",
+    "target": "k-exam-writing-process",
+    "anchor": "c-010",
+    "fragment": "",
+    "section": "关联研习",
+    "context": "写作修订 · 论点的限定条件 · 考场写作的过程管理"
+  },
+  {
     "source": "k-writing-revision",
     "target": "e-2011-writing",
     "anchor": "c-005",
@@ -58414,6 +60430,78 @@
     "fragment": "",
     "section": "易误辨析与迁移",
     "context": "检查衔接时可以观察已知信息如何引出新信息，[2]但汉语具体句式仍须由话题与省略分析，不能把英语写作规则逐条照搬。"
+  },
+  {
+    "source": "k-writing-revision",
+    "target": "k-writing-evaluation",
+    "anchor": "c-022",
+    "fragment": "",
+    "section": "关联研习",
+    "context": "作文评价与修订依据：作文评价应说明采用的任务要求、质量维度及证据。"
+  },
+  {
+    "source": "m-ancient-foundations",
+    "target": "k-classical-translation",
+    "anchor": "c-008",
+    "fragment": "",
+    "section": "跨板块研习",
+    "context": "文言翻译 · 文言断句 · 用典"
+  },
+  {
+    "source": "m-ancient-foundations",
+    "target": "k-classical-punctuation",
+    "anchor": "c-008",
+    "fragment": "",
+    "section": "跨板块研习",
+    "context": "文言翻译 · 文言断句 · 用典"
+  },
+  {
+    "source": "m-ancient-foundations",
+    "target": "k-allusion",
+    "anchor": "c-008",
+    "fragment": "",
+    "section": "跨板块研习",
+    "context": "文言翻译 · 文言断句 · 用典"
+  },
+  {
+    "source": "m-ancient-foundations",
+    "target": "m-lexicon",
+    "anchor": "c-009",
+    "fragment": "",
+    "section": "跨板块研习",
+    "context": "专题研习：古汉语词汇研习"
+  },
+  {
+    "source": "m-argument-genres",
+    "target": "k-informal-fallacies",
+    "anchor": "c-006",
+    "fragment": "",
+    "section": "跨板块研习",
+    "context": "常见论证谬误 · 因果关系与因果推断 · 论点的限定条件 · 语域与表达得体"
+  },
+  {
+    "source": "m-argument-genres",
+    "target": "k-causal-inference",
+    "anchor": "c-006",
+    "fragment": "",
+    "section": "跨板块研习",
+    "context": "常见论证谬误 · 因果关系与因果推断 · 论点的限定条件 · 语域与表达得体"
+  },
+  {
+    "source": "m-argument-genres",
+    "target": "k-qualified-thesis",
+    "anchor": "c-006",
+    "fragment": "",
+    "section": "跨板块研习",
+    "context": "常见论证谬误 · 因果关系与因果推断 · 论点的限定条件 · 语域与表达得体"
+  },
+  {
+    "source": "m-argument-genres",
+    "target": "k-register",
+    "anchor": "c-006",
+    "fragment": "",
+    "section": "跨板块研习",
+    "context": "常见论证谬误 · 因果关系与因果推断 · 论点的限定条件 · 语域与表达得体"
   },
   {
     "source": "m-bixiu-tasks",
@@ -59297,8 +61385,48 @@
   },
   {
     "source": "m-classical",
+    "target": "k-ancient-syntax",
+    "anchor": "c-005",
+    "fragment": "",
+    "section": "跨板块研习",
+    "context": "文言句法分析 · 文言虚词的语法功能 · 古代名物制度的释读 · 互文、对文与省文 · 论据与论证保证"
+  },
+  {
+    "source": "m-classical",
+    "target": "k-ancient-function-words",
+    "anchor": "c-005",
+    "fragment": "",
+    "section": "跨板块研习",
+    "context": "文言句法分析 · 文言虚词的语法功能 · 古代名物制度的释读 · 互文、对文与省文 · 论据与论证保证"
+  },
+  {
+    "source": "m-classical",
+    "target": "k-ancient-culture",
+    "anchor": "c-005",
+    "fragment": "",
+    "section": "跨板块研习",
+    "context": "文言句法分析 · 文言虚词的语法功能 · 古代名物制度的释读 · 互文、对文与省文 · 论据与论证保证"
+  },
+  {
+    "source": "m-classical",
+    "target": "k-ancient-rhetoric",
+    "anchor": "c-005",
+    "fragment": "",
+    "section": "跨板块研习",
+    "context": "文言句法分析 · 文言虚词的语法功能 · 古代名物制度的释读 · 互文、对文与省文 · 论据与论证保证"
+  },
+  {
+    "source": "m-classical",
+    "target": "k-warrant",
+    "anchor": "c-005",
+    "fragment": "",
+    "section": "跨板块研习",
+    "context": "文言句法分析 · 文言虚词的语法功能 · 古代名物制度的释读 · 互文、对文与省文 · 论据与论证保证"
+  },
+  {
+    "source": "m-classical",
     "target": "e-2011-heguan",
-    "anchor": "c-002",
+    "anchor": "c-008",
     "fragment": "",
     "section": "阅读与证据",
     "context": "《宋史·何灌传》以任官、边防、治事与战事为线索，可检验同字异义、代词回指及省略成分。四类标记均通向独立条目，条目可返回对应原文。"
@@ -59306,7 +61434,7 @@
   {
     "source": "m-classical",
     "target": "k-wenyan-ji",
-    "anchor": "c-003",
+    "anchor": "c-009",
     "fragment": "",
     "section": "实词：义项与用法",
     "context": "汲 [jí]：本义是从井中取水。由具体的提取动作，可以理解牵引、引导等用法；“汲汲”的急切义另作辨析。"
@@ -59314,7 +61442,7 @@
   {
     "source": "m-classical",
     "target": "k-wenyan-ying",
-    "anchor": "c-004",
+    "anchor": "c-010",
     "fragment": "",
     "section": "实词：义项与用法",
     "context": "迎 [yíng]：本义与相逢、相遇有关。文言阅读要区分迎接、迎向和迎合，动作方向并不等于动作结果。"
@@ -59322,7 +61450,7 @@
   {
     "source": "m-classical",
     "target": "k-wenyan-lian",
-    "anchor": "c-005",
+    "anchor": "c-011",
     "fragment": "",
     "section": "实词：义项与用法",
     "context": "敛 [liǎn]：本义为收聚。收物、收兵、收束行为共享“由散开转向收拢”的意义线索，具体对象决定译法。"
@@ -59330,7 +61458,7 @@
   {
     "source": "m-classical",
     "target": "k-wenyan-che",
-    "anchor": "c-006",
+    "anchor": "c-012",
     "fragment": "",
     "section": "实词：义项与用法",
     "context": "彻 [chè]：汉典详细解释列撤去为本义，另列穿透、通达等用法；阅读时不应仅凭现代词“彻底”推义。"
@@ -59338,7 +61466,7 @@
   {
     "source": "m-classical",
     "target": "k-wenyan-yin",
-    "anchor": "c-007",
+    "anchor": "c-013",
     "fragment": "",
     "section": "实词：义项与用法",
     "context": "引 [yǐn]：本义为拉开弓。牵拉、导引、退避等用法要看宾语和动作方向；同篇中的两个“引”可以不同义。"
@@ -59346,7 +61474,7 @@
   {
     "source": "m-classical",
     "target": "k-wenyan-que",
-    "anchor": "c-008",
+    "anchor": "c-014",
     "fragment": "",
     "section": "实词：义项与用法",
     "context": "却 [què]：“却”在古文中常为退却的动词，也可表示推辞、去除；后世转折用法须另辨。"
@@ -59354,7 +61482,7 @@
   {
     "source": "m-classical",
     "target": "k-wenyan-qian",
-    "anchor": "c-009",
+    "anchor": "c-015",
     "fragment": "",
     "section": "实词：义项与用法",
     "context": "迁 [qiān]：“迁”以位置变化为主要意义线索。用于官职时可指升调，也可与贬谪语境相连，不能凭单字固定褒贬。"
@@ -59362,7 +61490,7 @@
   {
     "source": "m-classical",
     "target": "k-wenyan-zhi",
-    "anchor": "c-010",
+    "anchor": "c-016",
     "fragment": "",
     "section": "实词：义项与用法",
     "context": "知 [zhī；智慧义读 zhì]：认识、了解是常见核心义；在任官叙述中，“知”可表示主持、管理。通“智”的用法须另辨读音。"
@@ -59370,7 +61498,7 @@
   {
     "source": "m-classical",
     "target": "k-wenyan-sheng",
-    "anchor": "c-011",
+    "anchor": "c-017",
     "fragment": "",
     "section": "实词：义项与用法",
     "context": "胜 [shèng；承受义旧读 shēng]：本义指能够承担、禁受。战胜、胜过与优美等义应据对象和语法位置区分。"
@@ -59378,7 +61506,7 @@
   {
     "source": "m-classical",
     "target": "k-wenyan-di",
-    "anchor": "c-012",
+    "anchor": "c-018",
     "fragment": "",
     "section": "实词：义项与用法",
     "context": "籴 [dí]：本义为买入粮食，与“粜”（tiào，卖出粮食）相对。此字的常用意义集中，不必为记忆而虚造多条引申义。"
@@ -59386,7 +61514,7 @@
   {
     "source": "m-classical",
     "target": "k-wenyan-qi",
-    "anchor": "c-013",
+    "anchor": "c-019",
     "fragment": "",
     "section": "实词：义项与用法",
     "context": "葺 [qì]：本义是以茅草覆屋，后来用于修缮房屋和整治其他设施。具体修整对象决定现代译词。"
@@ -59394,7 +61522,7 @@
   {
     "source": "m-classical",
     "target": "k-wenyan-cong",
-    "anchor": "c-014",
+    "anchor": "c-020",
     "fragment": "",
     "section": "实词：义项与用法",
     "context": "从 [cóng]：本义是跟随；听从、采纳由人际行动转向意见或原则，介词“自、由”须另列。"
@@ -59402,7 +61530,7 @@
   {
     "source": "m-classical",
     "target": "k-wenyan-de",
-    "anchor": "c-015",
+    "anchor": "c-021",
     "fragment": "",
     "section": "实词：义项与用法",
     "context": "的 [dì／dí／de]：“一发破的”的“的”读dì，指箭靶中心。按读音区分靶心、确实与结构助词，可避免现代常用读音干扰。"
@@ -59410,7 +61538,7 @@
   {
     "source": "m-classical",
     "target": "k-wenyan-lao",
-    "anchor": "c-016",
+    "anchor": "c-022",
     "fragment": "",
     "section": "实词：义项与用法",
     "context": "劳 [láo]：劳作、疲劳与慰劳属于相联系的义域。辨义时要看“劳”是描述状态、使人辛苦，还是对人的慰问动作。"
@@ -59418,7 +61546,7 @@
   {
     "source": "m-classical",
     "target": "k-wenyan-ci",
-    "anchor": "c-017",
+    "anchor": "c-023",
     "fragment": "",
     "section": "实词：义项与用法",
     "context": "次 [cì]：行军停驻、顺序和次数是阅读中常见而须分辨的义项。这里按用法分支，不强定它们的历史派生顺序。"
@@ -59426,7 +61554,7 @@
   {
     "source": "m-classical",
     "target": "k-wenyan-xu",
-    "anchor": "c-018",
+    "anchor": "c-024",
     "fragment": "",
     "section": "实词：义项与用法",
     "context": "许 [xǔ]：本义是应允、许可。赞同与承诺可由应允理解；数量后的约数用法另列。"
@@ -59434,7 +61562,7 @@
   {
     "source": "m-classical",
     "target": "k-wenyan-bei",
-    "anchor": "c-019",
+    "anchor": "c-025",
     "fragment": "",
     "section": "实词：义项与用法",
     "context": "被 [bèi；披覆义可读 pī]：被子、覆盖、遭受以及被动标记需要区分。“被＋名词”和“被＋施事＋动词”具有不同结构。"
@@ -59442,7 +61570,7 @@
   {
     "source": "m-classical",
     "target": "k-wenyan-mo",
-    "anchor": "c-020",
+    "anchor": "c-026",
     "fragment": "",
     "section": "实词：义项与用法",
     "context": "没 [mò；否定义读 méi]：mò的基本义是沉入水中，可用于没入、隐没；死亡义又与“殁”相通。méi的否定义另属一组。"
@@ -59450,7 +61578,7 @@
   {
     "source": "m-classical",
     "target": "k-wenyan-fu",
-    "anchor": "c-021",
+    "anchor": "c-027",
     "fragment": "",
     "section": "虚词：义项与用法",
     "context": "甫 [fǔ]：时间副词表示才、刚刚；与附于表字后的男子美称、修饰名词的大义分别辨析。"
@@ -59458,7 +61586,7 @@
   {
     "source": "m-classical",
     "target": "k-wenyan-yi",
-    "anchor": "c-022",
+    "anchor": "c-028",
     "fragment": "",
     "section": "虚词：义项与用法",
     "context": "以 [yǐ]：古代“以”有“用”的实义，常见介词用法引出工具、原因等，连词用法连接目的或其他关系。"
@@ -59466,7 +61594,7 @@
   {
     "source": "m-classical",
     "target": "k-wenyan-zhi-particle",
-    "anchor": "c-023",
+    "anchor": "c-029",
     "fragment": "",
     "section": "虚词：义项与用法",
     "context": "之 [zhī]：“之”有代词、结构助词以及前往的动词用法。这里沿文言教学惯例把代词用法纳入虚词检索，但逐处注明其词性。"
@@ -59474,7 +61602,7 @@
   {
     "source": "m-classical",
     "target": "k-wenyan-er",
-    "anchor": "c-024",
+    "anchor": "c-030",
     "fragment": "",
     "section": "虚词：义项与用法",
     "context": "而 [ér]：作为连词，“而”所联系的关系来自前后语义。先还原两项内容，再判定承接、修饰、并列或转折。"
@@ -59482,7 +61610,7 @@
   {
     "source": "m-classical",
     "target": "k-wenyan-yu",
-    "anchor": "c-025",
+    "anchor": "c-031",
     "fragment": "",
     "section": "虚词：义项与用法",
     "context": "于 [yú]：介词“于”引出关系参与者：地点、对象、来源、比较对象或被动施事。不能只凭“于”字便判为倒装或被动。"
@@ -59490,7 +61618,7 @@
   {
     "source": "m-classical",
     "target": "k-wenyan-qi-pronoun",
-    "anchor": "c-026",
+    "anchor": "c-032",
     "fragment": "",
     "section": "虚词：义项与用法",
     "context": "其 [qí]：常用的“其”可指代人、物及其领属，也可表达推测或反问语气。依文言教学惯例纳入虚词检索，具体词性另注。"
@@ -59498,7 +61626,7 @@
   {
     "source": "m-classical",
     "target": "k-wenyan-ze",
-    "anchor": "c-027",
+    "anchor": "c-033",
     "fragment": "",
     "section": "虚词：义项与用法",
     "context": "则 [zé]：“则”连接条件与结果，也可突出前后对照。它另有准则的名词义；结构图按功能分类，不把名词义硬推为一条虚化史。"
@@ -59506,7 +61634,7 @@
   {
     "source": "m-classical",
     "target": "k-wenyan-er-particle",
-    "anchor": "c-028",
+    "anchor": "c-034",
     "fragment": "",
     "section": "虚词：义项与用法",
     "context": "耳 [ěr]：句末的“耳”常表示限止，可译“罢了”，也可收束并加强判断；耳朵的名词义另列。"
@@ -59514,7 +61642,7 @@
   {
     "source": "m-classical",
     "target": "k-wenyan-ruo",
-    "anchor": "c-029",
+    "anchor": "c-035",
     "fragment": "",
     "section": "虚词：义项与用法",
     "context": "若 [ruò；般若的若读 rě]：“若”可提出假设，也有如同、比得上以及第二人称代词等用法。不能把同字的全部义项视为一种词性。"
@@ -59522,7 +61650,7 @@
   {
     "source": "m-classical",
     "target": "k-wenyan-postposition",
-    "anchor": "c-030",
+    "anchor": "c-036",
     "fragment": "",
     "section": "语法",
     "context": "动词后的介词短语：文言中的介词短语可以置于动词后，引出处所、对象、来源等。所谓“介词结构后置”，是与常见现代译序比较的教学称呼，不意味着原文曾经由现代语序倒置而来。"
@@ -59530,7 +61658,7 @@
   {
     "source": "m-classical",
     "target": "k-wenyan-ellipsis",
-    "anchor": "c-031",
+    "anchor": "c-037",
     "fragment": "",
     "section": "语法",
     "context": "文言省略：文言叙事常不重复已知的主语、宾语。补足成分应综合谓语的角色要求、话题连续性与事件常识，不以“距离最近的人名”代替判断。"
@@ -59538,7 +61666,7 @@
   {
     "source": "m-classical",
     "target": "k-wenyan-adverbial-noun",
-    "anchor": "c-032",
+    "anchor": "c-038",
     "fragment": "",
     "section": "语法",
     "context": "名词作状语：名词或名词性成分可直接修饰谓语，交代动作的时间、地点、途径或方式。判定依句法功能，不是把一切出现在动词前的名词都称为活用。"
@@ -59546,7 +61674,7 @@
   {
     "source": "m-classical",
     "target": "k-wenyan-judgment",
-    "anchor": "c-033",
+    "anchor": "c-039",
     "fragment": "",
     "section": "语法",
     "context": "文言判断句：文言中的判断句可以直接用名词或名词短语作谓语。句末“也”常与判断相配合，但“也”本身不等于现代判断动词“是”。"
@@ -59554,7 +61682,7 @@
   {
     "source": "m-classical",
     "target": "k-wenyan-courtesy-name",
-    "anchor": "c-034",
+    "anchor": "c-040",
     "fragment": "",
     "section": "文化常识",
     "context": "名与字：“名”与“字”是古人称谓系统中的不同层次。传记开头“某，字某”的格式先举姓名，再举表字；不能把字与号混作完全相同的称谓。"
@@ -59562,7 +61690,7 @@
   {
     "source": "m-classical",
     "target": "k-wenyan-hu",
-    "anchor": "c-035",
+    "anchor": "c-041",
     "fragment": "",
     "section": "文化常识",
     "context": "笏：笏，读hù，是古代朝见时手持的狭长板状器物，兼有礼仪和记事用途。材料、规格与使用制度因时代、身份而异。"
@@ -59570,7 +61698,7 @@
   {
     "source": "m-classical",
     "target": "k-wenyan-grain-measure",
-    "anchor": "c-036",
+    "anchor": "c-042",
     "fragment": "",
     "section": "文化常识",
     "context": "古代粮食计量：古代“石”既用于容量，也见于重量等计量系统。粮食语境与具体制度是解释的前提，不能把古籍中的石直接替换成现代市斤或公斤。"
@@ -59578,7 +61706,7 @@
   {
     "source": "m-classical",
     "target": "k-wenyan-era-name",
-    "anchor": "c-037",
+    "anchor": "c-043",
     "fragment": "",
     "section": "文化常识",
     "context": "年号纪年：年号是帝王纪元使用的名号。某年号的“元年”指该纪元第一年，不自动等于一位皇帝一生中唯一的即位年。"
@@ -59586,7 +61714,7 @@
   {
     "source": "m-classical",
     "target": "k-wenyan-xunjian",
-    "anchor": "c-038",
+    "anchor": "c-044",
     "fragment": "",
     "section": "文化常识",
     "context": "巡检：巡检是历史官职名。宋代巡检为地方武职，其设置地域与所辖范围有所差异，阅读时应把官名、任职地域及实际行动联系起来。"
@@ -59594,7 +61722,7 @@
   {
     "source": "m-classical",
     "target": "k-context",
-    "anchor": "c-039",
+    "anchor": "c-045",
     "fragment": "",
     "section": "互证的方法",
     "context": "语境限定词义约束释义的选择；话题与省略帮助追踪未出现的成分。词义图的分类线与理解联系不能代替历时语言证据。"
@@ -59602,7 +61730,7 @@
   {
     "source": "m-classical",
     "target": "k-topic",
-    "anchor": "c-039",
+    "anchor": "c-045",
     "fragment": "",
     "section": "互证的方法",
     "context": "语境限定词义约束释义的选择；话题与省略帮助追踪未出现的成分。词义图的分类线与理解联系不能代替历时语言证据。"
@@ -59610,15 +61738,15 @@
   {
     "source": "m-classical",
     "target": "m-lexicon",
-    "anchor": "c-040",
+    "anchor": "c-046",
     "fragment": "",
-    "section": "",
+    "section": "延伸研习与对读",
     "context": "古汉语词汇以词义、读音与句法为线索，提供120词目录、词义图及逐义项书证。"
   },
   {
     "source": "m-classical",
     "target": "e-2026-qimin",
-    "anchor": "c-041",
+    "anchor": "c-047",
     "fragment": "",
     "section": "2026年研习文本",
     "context": "齐民要术·序：从重农安民的论述、循吏事例与收录凡例，理解自序的组织。"
@@ -59626,7 +61754,7 @@
   {
     "source": "m-classical",
     "target": "e-2026-sanzi",
-    "anchor": "c-042",
+    "anchor": "c-048",
     "fragment": "",
     "section": "2026年研习文本",
     "context": "三子治政：把“不能欺、不忍欺、不敢欺”的评语与具体政事实证相比较。"
@@ -59634,7 +61762,7 @@
   {
     "source": "m-classical",
     "target": "e-2026-guanlesheng",
-    "anchor": "c-043",
+    "anchor": "c-049",
     "fragment": "",
     "section": "2026年研习文本",
     "context": "观乐生传：沿读书、观物与答疑的言行，理解观乐生自得之乐及其与富贵之乐的差别。"
@@ -59642,7 +61770,7 @@
   {
     "source": "m-classical",
     "target": "e-2026-yangshu",
-    "anchor": "c-044",
+    "anchor": "c-050",
     "fragment": "",
     "section": "2026年研习文本",
     "context": "养树说：考察养树与治学的类比关系，区分论证层次并评价环境与修养的作用。"
@@ -59650,7 +61778,7 @@
   {
     "source": "m-classical",
     "target": "m-exam-2026",
-    "anchor": "c-045",
+    "anchor": "c-051",
     "fragment": "",
     "section": "2026年研习文本",
     "context": "全部题组与试卷归属。"
@@ -59658,7 +61786,7 @@
   {
     "source": "m-classical",
     "target": "e-xingshang-suzhe",
-    "anchor": "c-046",
+    "anchor": "c-052",
     "fragment": "",
     "section": "论说文的译读",
     "context": "苏辙《刑赏忠厚之至论》：辨明疑刑疑赏的条件，用文言选择句核验取舍，用名器说明制度语境。"
@@ -59666,7 +61794,7 @@
   {
     "source": "m-classical",
     "target": "k-wenyan-choice",
-    "anchor": "c-046",
+    "anchor": "c-052",
     "fragment": "",
     "section": "论说文的译读",
     "context": "苏辙《刑赏忠厚之至论》：辨明疑刑疑赏的条件，用文言选择句核验取舍，用名器说明制度语境。"
@@ -59674,7 +61802,7 @@
   {
     "source": "m-classical",
     "target": "k-cultural-mingqi",
-    "anchor": "c-046",
+    "anchor": "c-052",
     "fragment": "",
     "section": "论说文的译读",
     "context": "苏辙《刑赏忠厚之至论》：辨明疑刑疑赏的条件，用文言选择句核验取舍，用名器说明制度语境。"
@@ -60313,8 +62441,40 @@
   },
   {
     "source": "m-expression",
+    "target": "k-punctuation-system",
+    "anchor": "c-008",
+    "fragment": "",
+    "section": "跨板块研习",
+    "context": "标点的层级与功能 · 词义与语境 · 文本证据与阅读推论 · 图尔敏论证模型"
+  },
+  {
+    "source": "m-expression",
+    "target": "k-context",
+    "anchor": "c-008",
+    "fragment": "",
+    "section": "跨板块研习",
+    "context": "标点的层级与功能 · 词义与语境 · 文本证据与阅读推论 · 图尔敏论证模型"
+  },
+  {
+    "source": "m-expression",
+    "target": "k-evidence",
+    "anchor": "c-008",
+    "fragment": "",
+    "section": "跨板块研习",
+    "context": "标点的层级与功能 · 词义与语境 · 文本证据与阅读推论 · 图尔敏论证模型"
+  },
+  {
+    "source": "m-expression",
+    "target": "k-toulmin",
+    "anchor": "c-008",
+    "fragment": "",
+    "section": "跨板块研习",
+    "context": "标点的层级与功能 · 词义与语境 · 文本证据与阅读推论 · 图尔敏论证模型"
+  },
+  {
+    "source": "m-expression",
     "target": "k-morpheme",
-    "anchor": "c-002",
+    "anchor": "c-011",
     "fragment": "",
     "section": "分析单位与组合关系",
     "context": "汉字、语素与词：先确定分析单位，再以短语组合层次考察结构与歧义。"
@@ -60322,7 +62482,7 @@
   {
     "source": "m-expression",
     "target": "k-syntax",
-    "anchor": "c-002",
+    "anchor": "c-011",
     "fragment": "",
     "section": "分析单位与组合关系",
     "context": "汉字、语素与词：先确定分析单位，再以短语组合层次考察结构与歧义。"
@@ -60330,7 +62490,7 @@
   {
     "source": "m-expression",
     "target": "k-context",
-    "anchor": "c-003",
+    "anchor": "c-012",
     "fragment": "",
     "section": "分析单位与组合关系",
     "context": "语境限定词义：在常规义范围内解释具体用法，并将词义判断与句法成立与否分别说明。"
@@ -60338,7 +62498,7 @@
   {
     "source": "m-expression",
     "target": "k-cohesion",
-    "anchor": "c-004",
+    "anchor": "c-013",
     "fragment": "",
     "section": "句子如何构成语篇",
     "context": "衔接与连贯：将可见的语言联系与整体意义的可理解性相互检验。"
@@ -60346,7 +62506,7 @@
   {
     "source": "m-expression",
     "target": "k-topic",
-    "anchor": "c-005",
+    "anchor": "c-014",
     "fragment": "",
     "section": "句子如何构成语篇",
     "context": "零形回指：追踪省略成分在话题和语境中的指向，不能一律交给最近的名词。"
@@ -60354,7 +62514,7 @@
   {
     "source": "m-expression",
     "target": "k-register",
-    "anchor": "c-006",
+    "anchor": "c-015",
     "fragment": "",
     "section": "形式选择如何回应交际任务",
     "context": "表达得体：结合对象、目的与媒介评价表达；对历史文本还须进行文学变异的版本与语境检验。"
@@ -60362,7 +62522,7 @@
   {
     "source": "m-expression",
     "target": "k-literary-variant",
-    "anchor": "c-006",
+    "anchor": "c-015",
     "fragment": "",
     "section": "形式选择如何回应交际任务",
     "context": "表达得体：结合对象、目的与媒介评价表达；对历史文本还须进行文学变异的版本与语境检验。"
@@ -60370,7 +62530,7 @@
   {
     "source": "m-expression",
     "target": "k-quotation",
-    "anchor": "c-007",
+    "anchor": "c-016",
     "fragment": "",
     "section": "形式选择如何回应交际任务",
     "context": "引号功能：区分语用功能与引号内外的句读关系。"
@@ -60378,7 +62538,7 @@
   {
     "source": "m-expression",
     "target": "k-quotation-boundary",
-    "anchor": "c-007",
+    "anchor": "c-016",
     "fragment": "",
     "section": "形式选择如何回应交际任务",
     "context": "引号功能：区分语用功能与引号内外的句读关系。"
@@ -60386,7 +62546,7 @@
   {
     "source": "m-expression",
     "target": "k-sound",
-    "anchor": "c-008",
+    "anchor": "c-017",
     "fragment": "",
     "section": "形式选择如何回应交际任务",
     "context": "古今声调：先区分读音系统，再分析停连、重音与句长。"
@@ -60394,7 +62554,7 @@
   {
     "source": "m-expression",
     "target": "k-rhythm",
-    "anchor": "c-008",
+    "anchor": "c-017",
     "fragment": "",
     "section": "形式选择如何回应交际任务",
     "context": "古今声调：先区分读音系统，再分析停连、重音与句长。"
@@ -60402,7 +62562,7 @@
   {
     "source": "m-expression",
     "target": "e-laoshe",
-    "anchor": "c-009",
+    "anchor": "c-018",
     "fragment": "",
     "section": "文本分析",
     "context": "老舍谈文章修改：把篇章协调、朗读检验与选择性学习联系起来，并以证据关系限定结论。"
@@ -60410,7 +62570,7 @@
   {
     "source": "m-expression",
     "target": "k-evidence",
-    "anchor": "c-009",
+    "anchor": "c-018",
     "fragment": "",
     "section": "文本分析",
     "context": "老舍谈文章修改：把篇章协调、朗读检验与选择性学习联系起来，并以证据关系限定结论。"
@@ -60418,7 +62578,7 @@
   {
     "source": "m-expression",
     "target": "k-sentence-transform",
-    "anchor": "c-010",
+    "anchor": "c-019",
     "fragment": "",
     "section": "句式与信息的转换",
     "context": "句式变换检验句法重组后的信息范围，结合2011年语言文字运用题组分析改写、排序与仿句。"
@@ -60426,7 +62586,7 @@
   {
     "source": "m-expression",
     "target": "e-2011-language",
-    "anchor": "c-010",
+    "anchor": "c-019",
     "fragment": "",
     "section": "句式与信息的转换",
     "context": "句式变换检验句法重组后的信息范围，结合2011年语言文字运用题组分析改写、排序与仿句。"
@@ -60434,7 +62594,7 @@
   {
     "source": "m-expression",
     "target": "m-classical",
-    "anchor": "c-011",
+    "anchor": "c-020",
     "fragment": "",
     "section": "文言语境与历史制度",
     "context": "文言阅读按词义、句法与文化知识建立索引；同一个词的不同用法在原文和例句中互相验证。"
@@ -60442,15 +62602,15 @@
   {
     "source": "m-expression",
     "target": "m-lexicon",
-    "anchor": "c-012",
+    "anchor": "c-021",
     "fragment": "",
-    "section": "",
+    "section": "延伸研习与对读",
     "context": "古汉语词汇以词义、读音与句法为线索，提供120词目录、词义图及逐义项书证。"
   },
   {
     "source": "m-expression",
     "target": "e-2026-chupian",
-    "anchor": "c-013",
+    "anchor": "c-022",
     "fragment": "",
     "section": "2026年研习文本",
     "context": "“出片”与记录生活：从字形、语句衔接和病句修订，进入新词义项的分析与释义。"
@@ -60458,7 +62618,7 @@
   {
     "source": "m-expression",
     "target": "e-2026-language-creation",
-    "anchor": "c-014",
+    "anchor": "c-023",
     "fragment": "",
     "section": "2026年研习文本",
     "context": "普通语言中的创造：在普通语言中辨析创造、规范与语篇照应，练习平实改写。"
@@ -60466,7 +62626,7 @@
   {
     "source": "m-expression",
     "target": "e-2026-brain-interface",
-    "anchor": "c-015",
+    "anchor": "c-024",
     "fragment": "",
     "section": "2026年研习文本",
     "context": "脑机接口与康复生活：用话题对应、递进关系和情态强度检查排序与近义替换。"
@@ -60474,7 +62634,7 @@
   {
     "source": "m-expression",
     "target": "m-exam-2026",
-    "anchor": "c-016",
+    "anchor": "c-025",
     "fragment": "",
     "section": "2026年研习文本",
     "context": "全部题组与试卷归属。"
@@ -60482,10 +62642,50 @@
   {
     "source": "m-expression",
     "target": "m-language-info",
-    "anchor": "c-017",
+    "anchor": "c-026",
     "fragment": "",
     "section": "语言与信息研习",
     "context": "语言运用与信息阅读：从词义、句法、标点及语篇进入文本证据、条件推理和多材料比较。"
+  },
+  {
+    "source": "m-information-discourse",
+    "target": "k-warrant",
+    "anchor": "c-006",
+    "fragment": "",
+    "section": "跨板块研习",
+    "context": "论据与论证保证 · 图尔敏论证模型 · 句群与语篇关系 · 文本证据与阅读推论 · 研究方法与问题"
+  },
+  {
+    "source": "m-information-discourse",
+    "target": "k-toulmin",
+    "anchor": "c-006",
+    "fragment": "",
+    "section": "跨板块研习",
+    "context": "论据与论证保证 · 图尔敏论证模型 · 句群与语篇关系 · 文本证据与阅读推论 · 研究方法与问题"
+  },
+  {
+    "source": "m-information-discourse",
+    "target": "k-discourse-relations",
+    "anchor": "c-006",
+    "fragment": "",
+    "section": "跨板块研习",
+    "context": "论据与论证保证 · 图尔敏论证模型 · 句群与语篇关系 · 文本证据与阅读推论 · 研究方法与问题"
+  },
+  {
+    "source": "m-information-discourse",
+    "target": "k-evidence",
+    "anchor": "c-006",
+    "fragment": "",
+    "section": "跨板块研习",
+    "context": "论据与论证保证 · 图尔敏论证模型 · 句群与语篇关系 · 文本证据与阅读推论 · 研究方法与问题"
+  },
+  {
+    "source": "m-information-discourse",
+    "target": "k-research-fit",
+    "anchor": "c-006",
+    "fragment": "",
+    "section": "跨板块研习",
+    "context": "论据与论证保证 · 图尔敏论证模型 · 句群与语篇关系 · 文本证据与阅读推论 · 研究方法与问题"
   },
   {
     "source": "m-language-info",
@@ -61049,8 +63249,16 @@
   },
   {
     "source": "m-lexicon",
+    "target": "m-ancient-foundations",
+    "anchor": "c-001",
+    "fragment": "",
+    "section": "",
+    "context": "所属板块：古代汉语基础。本页作为专题研习入口，知识点均链接至原有独立页面。"
+  },
+  {
+    "source": "m-lexicon",
     "target": "k-lexical-polysemy",
-    "anchor": "c-005",
+    "anchor": "c-006",
     "fragment": "",
     "section": "词汇学问题",
     "context": "多义词与词义系统：本义回答来源问题，基本义回答系统中心问题，高频义回答使用分布问题；三者可能重合，也可能不同。"
@@ -61058,7 +63266,7 @@
   {
     "source": "m-lexicon",
     "target": "k-lexical-range",
-    "anchor": "c-006",
+    "anchor": "c-007",
     "fragment": "",
     "section": "词汇学问题",
     "context": "词义范围的变化：比较所指范围时，要固定时代、语域和意义维度；由一般范围转向特定对象叫缩小，反向变化叫扩大。"
@@ -61066,7 +63274,7 @@
   {
     "source": "m-lexicon",
     "target": "k-lexical-shift",
-    "anchor": "c-007",
+    "anchor": "c-008",
     "fragment": "",
     "section": "词汇学问题",
     "context": "古今常用义转移：词义的重心可以变化，而旧义仍保留在特定语域、搭配和文体中；变化的发生时间不能凭孤例划定。"
@@ -61074,7 +63282,7 @@
   {
     "source": "m-lexicon",
     "target": "k-lexical-metaphoric-extension",
-    "anchor": "c-008",
+    "anchor": "c-009",
     "fragment": "",
     "section": "词汇学问题",
     "context": "比喻引申：形状、功能或关系结构的相似可以支持新义；临时比喻与稳定的词汇义须区别。"
@@ -61082,7 +63290,7 @@
   {
     "source": "m-lexicon",
     "target": "k-lexical-metonymic-extension",
-    "anchor": "c-009",
+    "anchor": "c-010",
     "fragment": "",
     "section": "词汇学问题",
     "context": "相关性引申：器物与使用者、行为与产物、部分与整体等关系可以组织义项；相关不等于相似。"
@@ -61090,7 +63298,7 @@
   {
     "source": "m-lexicon",
     "target": "k-lexical-event-metonymy",
-    "anchor": "c-010",
+    "anchor": "c-011",
     "fragment": "",
     "section": "词汇学问题",
     "context": "事件关系与词义引申：描述行为、行为造成的状态和参与行为的人，是相关而不同的意义视角；所谓动静或因果关系必须落实到具体事件。"
@@ -61098,7 +63306,7 @@
   {
     "source": "m-lexicon",
     "target": "k-lexical-conversion",
-    "anchor": "c-011",
+    "anchor": "c-012",
     "fragment": "",
     "section": "词汇学问题",
     "context": "词类活用与兼类：某句中的特殊句法功能、长期稳定的多类用法和跨时代变化，不能统称为词无定性。"
@@ -61106,7 +63314,7 @@
   {
     "source": "m-lexicon",
     "target": "k-lexical-grammaticalization",
-    "anchor": "c-012",
+    "anchor": "c-013",
     "fragment": "",
     "section": "词汇学问题",
     "context": "语法化：实义成分发展为关系、时体或语气标记，涉及意义、句法和分布的共同变化；抽象义未必是语法义。"
@@ -61114,7 +63322,7 @@
   {
     "source": "m-lexicon",
     "target": "k-lexical-converse",
-    "anchor": "c-013",
+    "anchor": "c-014",
     "fragment": "",
     "section": "词汇学问题",
     "context": "反训：表面相反的译文可能来自同词多义，也可能来自参与者视角或借字；反训不能仅凭两个现代释词决定。"
@@ -61122,7 +63330,7 @@
   {
     "source": "m-lexicon",
     "target": "k-lexical-loan",
-    "anchor": "c-014",
+    "anchor": "c-015",
     "fragment": "",
     "section": "词汇学问题",
     "context": "通假、古今字与异体字：文字记录同一或不同词的方式，与一个词内部的意义发展不是同一层面；词义图应把特殊字用另列。"
@@ -61130,7 +63338,7 @@
   {
     "source": "m-lexicon",
     "target": "k-wenyan-ai",
-    "anchor": "c-015",
+    "anchor": "c-016",
     "fragment": "",
     "section": "常见词 001—010",
     "context": "爱：以对人、事物的喜爱与珍惜为中心，区分爱护、怜惜与吝惜；“爱而不见”另属借字用法。"
@@ -61138,7 +63346,7 @@
   {
     "source": "m-lexicon",
     "target": "k-wenyan-an",
-    "anchor": "c-016",
+    "anchor": "c-017",
     "fragment": "",
     "section": "常见词 001—010",
     "context": "安：“安定、安全”与“安适、安置”可作义域联系；疑问用法须单独辨认。"
@@ -61146,7 +63354,7 @@
   {
     "source": "m-lexicon",
     "target": "k-wenyan-bei",
-    "anchor": "c-017",
+    "anchor": "c-018",
     "fragment": "",
     "section": "常见词 001—010",
     "context": "被：“覆盖—蒙受—被动”之间可建立意义联系；被子、披着及古书特殊读法分别说明。"
@@ -61154,7 +63362,7 @@
   {
     "source": "m-lexicon",
     "target": "k-wenyan-bei-times",
-    "anchor": "c-018",
+    "anchor": "c-019",
     "fragment": "",
     "section": "常见词 001—010",
     "context": "倍：分别整理数量增加与背向、违背两组用法；“倍”与“背”的字用联系不等同于数量义的引申链。"
@@ -61162,7 +63370,7 @@
   {
     "source": "m-lexicon",
     "target": "k-wenyan-ben",
-    "anchor": "c-019",
+    "anchor": "c-020",
     "fragment": "",
     "section": "常见词 001—010",
     "context": "本：草木根部与事物根基形成稳定的意义联系；据此分辨根本、推原、本来及书册底本等用法。"
@@ -61170,7 +63378,7 @@
   {
     "source": "m-lexicon",
     "target": "k-wenyan-bi",
-    "anchor": "c-020",
+    "anchor": "c-021",
     "fragment": "",
     "section": "常见词 001—010",
     "context": "鄙：从地域名物到人物评价，须分清边邑、浅陋、轻视和谦称，不能把评价义倒套到所有地名语境。"
@@ -61178,7 +63386,7 @@
   {
     "source": "m-lexicon",
     "target": "k-wenyan-bing",
-    "anchor": "c-021",
+    "anchor": "c-022",
     "fragment": "",
     "section": "常见词 001—010",
     "context": "兵：围绕战争场景，兵器、持兵者、军队、战争和用兵策略互相关联；具体所指由动作及数量搭配限定。"
@@ -61186,7 +63394,7 @@
   {
     "source": "m-lexicon",
     "target": "k-wenyan-bing-ill",
-    "anchor": "c-022",
+    "anchor": "c-023",
     "fragment": "",
     "section": "常见词 001—010",
     "context": "病：古书常以“疾甚”为“病”，但疾病通称义与困乏、忧虑、弊端等义也须依具体时代和语境分辨。"
@@ -61194,7 +63402,7 @@
   {
     "source": "m-lexicon",
     "target": "k-wenyan-cha",
-    "anchor": "c-023",
+    "anchor": "c-024",
     "fragment": "",
     "section": "常见词 001—010",
     "context": "察：观察、辨察与考察举荐可相互参照；显明、苛察等状态义应按句法和评价色彩另辨。"
@@ -61202,7 +63410,7 @@
   {
     "source": "m-lexicon",
     "target": "k-wenyan-chao",
-    "anchor": "c-024",
+    "anchor": "c-025",
     "fragment": "",
     "section": "常见词 001—010",
     "context": "朝：zhāo用于早晨；cháo用于朝见、朝廷、朝代等。读音是区分词义和词性的第一条线索。"
@@ -61210,7 +63418,7 @@
   {
     "source": "m-lexicon",
     "target": "k-wenyan-zeng",
-    "anchor": "c-025",
+    "anchor": "c-026",
     "fragment": "",
     "section": "常见词 011—020",
     "context": "曾：céng多表曾经，zēng可加强语气、表隔代亲属或与“增”有关。借“层”表重叠另辨。"
@@ -61218,7 +63426,7 @@
   {
     "source": "m-lexicon",
     "target": "k-wenyan-cheng",
-    "anchor": "c-026",
+    "anchor": "c-027",
     "fragment": "",
     "section": "常见词 011—020",
     "context": "乘：登、骑乘、凭借与趁势可作联系；shèng用于车马计量等，另有史书名物义。"
@@ -61226,7 +63434,7 @@
   {
     "source": "m-lexicon",
     "target": "k-wenyan-cheng-sincere",
-    "anchor": "c-027",
+    "anchor": "c-028",
     "fragment": "",
     "section": "常见词 011—020",
     "context": "诚：真诚、真实与表示确认的“确实”相关；在未然条件句中，诚可译为“果真”，不能忽略句子的假设性质。"
@@ -61234,7 +63442,7 @@
   {
     "source": "m-lexicon",
     "target": "k-wenyan-chu",
-    "anchor": "c-028",
+    "anchor": "c-029",
     "fragment": "",
     "section": "常见词 011—020",
     "context": "除：台阶、清除与授官等用法应分域理解；“除官”在官职语境指任命，不能译作免官。"
@@ -61242,7 +63450,7 @@
   {
     "source": "m-lexicon",
     "target": "k-wenyan-ci-speech",
-    "anchor": "c-029",
+    "anchor": "c-030",
     "fragment": "",
     "section": "常见词 011—020",
     "context": "辞：分清所说的话、用话表达的行动，以及推辞、辞别、辞遣等不同交际行为。"
@@ -61250,7 +63458,7 @@
   {
     "source": "m-lexicon",
     "target": "k-wenyan-ci",
-    "anchor": "c-030",
+    "anchor": "c-031",
     "fragment": "",
     "section": "常见词 011—020",
     "context": "次：停驻、序列与处所分域整理；保留“次于”与“以次”的句法差异。"
@@ -61258,7 +63466,7 @@
   {
     "source": "m-lexicon",
     "target": "k-wenyan-cong",
-    "anchor": "c-031",
+    "anchor": "c-032",
     "fragment": "",
     "section": "常见词 011—020",
     "context": "从：随行、听从、参与与来源可以互证，亲属称谓、合纵等用法还须结合读音与固定组合。"
@@ -61266,7 +63474,7 @@
   {
     "source": "m-lexicon",
     "target": "k-wenyan-dai",
-    "anchor": "c-032",
+    "anchor": "c-033",
     "fragment": "",
     "section": "常见词 011—020",
     "context": "殆：危险、疲困等实义与大概、几乎等副词用法分别整理，不能用一个译词贯穿全部文句。"
@@ -61274,7 +63482,7 @@
   {
     "source": "m-lexicon",
     "target": "k-wenyan-dang",
-    "anchor": "c-033",
+    "anchor": "c-034",
     "fragment": "",
     "section": "常见词 011—020",
     "context": "当：面对、抵敌、承担与相当、适当分域整理；时间介词及应当、假使等须看句法位置。"
@@ -61282,7 +63490,7 @@
   {
     "source": "m-lexicon",
     "target": "k-wenyan-dao",
-    "anchor": "c-034",
+    "anchor": "c-035",
     "fragment": "",
     "section": "常见词 011—020",
     "context": "道：道路与行事途径、道理形成联系；言说、引导和行政区划等另依词性与时代辨认。"
@@ -61290,7 +63498,7 @@
   {
     "source": "m-lexicon",
     "target": "k-wenyan-de-get",
-    "anchor": "c-035",
+    "anchor": "c-036",
     "fragment": "",
     "section": "常见词 021—030",
     "context": "得：获得义与领会、心得、满足相关；能够、必须和感恩的借字用法须另辨。"
@@ -61298,7 +63506,7 @@
   {
     "source": "m-lexicon",
     "target": "k-wenyan-du",
-    "anchor": "c-036",
+    "anchor": "c-037",
     "fragment": "",
     "section": "常见词 021—030",
     "context": "度：dù常用于尺度、法度、限度及度过；duó常用于测量、揣度，读音与句法共同定意。"
@@ -61306,7 +63514,7 @@
   {
     "source": "m-lexicon",
     "target": "k-wenyan-fei",
-    "anchor": "c-037",
+    "anchor": "c-038",
     "fragment": "",
     "section": "常见词 021—030",
     "context": "非：以否定判断与评价错误为主要两组，分别处理不是、错误、非难及假设句中的若非。"
@@ -61314,7 +63522,7 @@
   {
     "source": "m-lexicon",
     "target": "k-wenyan-fu-return",
-    "anchor": "c-038",
+    "anchor": "c-039",
     "fragment": "",
     "section": "常见词 021—030",
     "context": "复：返回、恢复、答复属于往返义域；重复、繁复等还涉及传统“復”“複”的字形区别。"
@@ -61322,7 +63530,7 @@
   {
     "source": "m-lexicon",
     "target": "k-wenyan-fu-bear",
-    "anchor": "c-039",
+    "anchor": "c-040",
     "fragment": "",
     "section": "常见词 021—030",
     "context": "负：背负、依恃、承担与亏欠等义不能互相硬套；负约、负国、负债的宾语决定解释。"
@@ -61330,7 +63538,7 @@
   {
     "source": "m-lexicon",
     "target": "k-wenyan-gai",
-    "anchor": "c-040",
+    "anchor": "c-041",
     "fragment": "",
     "section": "常见词 021—030",
     "context": "盖：覆盖物与遮盖、超过可作联系；推测、解释原因、发语及通盍等独立辨认。"
@@ -61338,7 +63546,7 @@
   {
     "source": "m-lexicon",
     "target": "k-wenyan-gu",
-    "anchor": "c-041",
+    "anchor": "c-042",
     "fragment": "",
     "section": "常见词 021—030",
     "context": "故：原因与所以、旧与旧交、故意与仍然分别建立义域；不能把同形的各类用法混作一个现代词。"
@@ -61346,7 +63554,7 @@
   {
     "source": "m-lexicon",
     "target": "k-wenyan-gu-firm",
-    "anchor": "c-042",
+    "anchor": "c-043",
     "fragment": "",
     "section": "常见词 021—030",
     "context": "固：坚固与稳固、固执相联；本来、确实、坚决等副词用法须从被修饰成分判断。"
@@ -61354,7 +63562,7 @@
   {
     "source": "m-lexicon",
     "target": "k-wenyan-gu-look",
-    "anchor": "c-043",
+    "anchor": "c-044",
     "fragment": "",
     "section": "常见词 021—030",
     "context": "顾：回头看与顾念、探访可关联；顾引出的轻微转折须同动作义分开。"
@@ -61362,7 +63570,7 @@
   {
     "source": "m-lexicon",
     "target": "k-wenyan-gui",
-    "anchor": "c-044",
+    "anchor": "c-045",
     "fragment": "",
     "section": "常见词 021—030",
     "context": "归：返回与归还、归附、归属相互联系；女子出嫁也是古书常用义，但两者的历史关系不能靠现代因果想象证明。"
@@ -61370,7 +63578,7 @@
   {
     "source": "m-lexicon",
     "target": "k-wenyan-guo",
-    "anchor": "c-045",
+    "anchor": "c-046",
     "fragment": "",
     "section": "常见词 031—040",
     "context": "国：国可以指诸侯邦国、国都、封地或地方，必须结合政治制度和空间层次解释。"
@@ -61378,7 +63586,7 @@
   {
     "source": "m-lexicon",
     "target": "k-wenyan-guo-pass",
-    "anchor": "c-046",
+    "anchor": "c-047",
     "fragment": "",
     "section": "常见词 031—040",
     "context": "过：经过、超过与犯错、责备两组最需辨析，造访义则由人际行动限定。"
@@ -61386,7 +63594,7 @@
   {
     "source": "m-lexicon",
     "target": "k-wenyan-he",
-    "anchor": "c-047",
+    "anchor": "c-048",
     "fragment": "",
     "section": "常见词 031—040",
     "context": "何：疑问用法可问对象、原因、处所，亦可构成反问、感叹；负荷等古义不与疑问义强连。"
@@ -61394,7 +63602,7 @@
   {
     "source": "m-lexicon",
     "target": "k-wenyan-hen",
-    "anchor": "c-048",
+    "anchor": "c-049",
     "fragment": "",
     "section": "常见词 031—040",
     "context": "恨：怨恨与遗憾都常见于古书；感情对象和事件是否可挽回是重要判据。"
@@ -61402,7 +63610,7 @@
   {
     "source": "m-lexicon",
     "target": "k-wenyan-hu-word",
-    "anchor": "c-049",
+    "anchor": "c-050",
     "fragment": "",
     "section": "常见词 031—040",
     "context": "胡：疑问、族群旧称与颔下垂肉等为不同义域，不以现代胡须义贯通全部古文。"
@@ -61410,7 +63618,7 @@
   {
     "source": "m-lexicon",
     "target": "k-wenyan-huan",
-    "anchor": "c-050",
+    "anchor": "c-051",
     "fragment": "",
     "section": "常见词 031—040",
     "context": "患：忧虑的心理活动与作为其对象的祸患相联系，疾病、毛病又须看具体对象。"
@@ -61418,7 +63626,7 @@
   {
     "source": "m-lexicon",
     "target": "k-wenyan-huo",
-    "anchor": "c-051",
+    "anchor": "c-052",
     "fragment": "",
     "section": "常见词 031—040",
     "context": "或：有人、有的属于无定指代，有时、或许属于副词；古书中的或不必表示现代选择连词“或者”。"
@@ -61426,7 +63634,7 @@
   {
     "source": "m-lexicon",
     "target": "k-wenyan-ji-ill",
-    "anchor": "c-052",
+    "anchor": "c-053",
     "fragment": "",
     "section": "常见词 031—040",
     "context": "疾：疾病义与迅速、强烈、厌恶等并存，需以主语、宾语及比较对象选义。"
@@ -61434,7 +63642,7 @@
   {
     "source": "m-lexicon",
     "target": "k-wenyan-ji-reach",
-    "anchor": "c-053",
+    "anchor": "c-054",
     "fragment": "",
     "section": "常见词 031—040",
     "context": "及：从追及、达到到比较与关联，及的对象决定其关系；与及字并列的连词用法分开处理。"
@@ -61442,7 +63650,7 @@
   {
     "source": "m-lexicon",
     "target": "k-wenyan-ji-near",
-    "anchor": "c-054",
+    "anchor": "c-055",
     "fragment": "",
     "section": "常见词 031—040",
     "context": "即：接近、就位是动作义；就、立即与假如、即使是不同语法功能，不能以字形近似混同于既。"
@@ -61450,7 +63658,7 @@
   {
     "source": "m-lexicon",
     "target": "k-wenyan-ji-already",
-    "anchor": "c-055",
+    "anchor": "c-056",
     "fragment": "",
     "section": "常见词 041—050",
     "context": "既：从结束、完毕到已经的时间表达，与既然、既……又……等结构分别处理。"
@@ -61458,7 +63666,7 @@
   {
     "source": "m-lexicon",
     "target": "k-wenyan-jia",
-    "anchor": "c-056",
+    "anchor": "c-057",
     "fragment": "",
     "section": "常见词 041—050",
     "context": "假：借入借出、凭借与不真、暂代分别整理；同一“借”义的施受方向需由句法说明。"
@@ -61466,7 +63674,7 @@
   {
     "source": "m-lexicon",
     "target": "k-wenyan-jian",
-    "anchor": "c-057",
+    "anchor": "c-058",
     "fragment": "",
     "section": "常见词 041—050",
     "context": "间：jiān常用于中间、时段及房屋计量；jiàn用于空隙、参与、离间与暗中等。"
@@ -61474,7 +63682,7 @@
   {
     "source": "m-lexicon",
     "target": "k-wenyan-jian-see",
-    "anchor": "c-058",
+    "anchor": "c-059",
     "fragment": "",
     "section": "常见词 041—050",
     "context": "见：看见、会见与见解属于认知义域；表示被动、对我及显现的用法分别处理。"
@@ -61482,7 +63690,7 @@
   {
     "source": "m-lexicon",
     "target": "k-wenyan-jie",
-    "anchor": "c-059",
+    "anchor": "c-060",
     "fragment": "",
     "section": "常见词 041—050",
     "context": "解：分解、解开与解除、解释、理解相联；押送读jiè，松懈义和姓氏等读xiè。"
@@ -61490,7 +63698,7 @@
   {
     "source": "m-lexicon",
     "target": "k-wenyan-jiu",
-    "anchor": "c-060",
+    "anchor": "c-061",
     "fragment": "",
     "section": "常见词 041—050",
     "context": "就：趋近与就任、就刑属于趋向场景，完成义则说明过程达到结果。"
@@ -61498,7 +63706,7 @@
   {
     "source": "m-lexicon",
     "target": "k-wenyan-ju",
-    "anchor": "c-061",
+    "anchor": "c-062",
     "fragment": "",
     "section": "常见词 041—050",
     "context": "举：举起可联系提出、举荐与发动，但攻取、全体等用法还需由宾语与句法位置分辨。"
@@ -61506,7 +63714,7 @@
   {
     "source": "m-lexicon",
     "target": "k-wenyan-jue",
-    "anchor": "c-062",
+    "anchor": "c-063",
     "fragment": "",
     "section": "常见词 041—050",
     "context": "绝：断开、断绝与隔绝、极远形成联系；横渡、极其和绝无等须按对象和位置解释。"
@@ -61514,7 +63722,7 @@
   {
     "source": "m-lexicon",
     "target": "k-wenyan-kan",
-    "anchor": "c-063",
+    "anchor": "c-064",
     "fragment": "",
     "section": "常见词 041—050",
     "context": "堪：承受与能够是文言阅读中主要用法；字书的地形义、堪舆义不宜强接成未经证实的演变链。"
@@ -61522,7 +63730,7 @@
   {
     "source": "m-lexicon",
     "target": "k-wenyan-ke",
-    "anchor": "c-064",
+    "anchor": "c-065",
     "fragment": "",
     "section": "常见词 041—050",
     "context": "克：能够、战胜、克制和限定日期分别整理；现代重量单位不作为古文解释的默认义。"
@@ -61530,7 +63738,7 @@
   {
     "source": "m-lexicon",
     "target": "k-wenyan-lei",
-    "anchor": "c-065",
+    "anchor": "c-066",
     "fragment": "",
     "section": "常见词 051—060",
     "context": "类：种类、事例与相似、类推相连，副词大抵不宜与名词类别混用。"
@@ -61538,7 +63746,7 @@
   {
     "source": "m-lexicon",
     "target": "k-wenyan-lian-pity",
-    "anchor": "c-066",
+    "anchor": "c-067",
     "fragment": "",
     "section": "常见词 051—060",
     "context": "怜：怜既可表示同情，也可表示喜爱；“可怜”尤其需要在值得怜悯、可爱、可惜之间判断。"
@@ -61546,7 +63754,7 @@
   {
     "source": "m-lexicon",
     "target": "k-wenyan-mi",
-    "anchor": "c-067",
+    "anchor": "c-068",
     "fragment": "",
     "section": "常见词 051—060",
     "context": "弥：弥漫、充满与弥补、更加、长久分别整理；不把所有搭配都译成越发。"
@@ -61554,7 +63762,7 @@
   {
     "source": "m-lexicon",
     "target": "k-wenyan-mo-none",
-    "anchor": "c-068",
+    "anchor": "c-069",
     "fragment": "",
     "section": "常见词 051—060",
     "context": "莫：莫常为无定代词“没有谁”，也可表不要；与暮、漠相关的字用另辨。"
@@ -61562,7 +63770,7 @@
   {
     "source": "m-lexicon",
     "target": "k-wenyan-nei",
-    "anchor": "c-069",
+    "anchor": "c-070",
     "fragment": "",
     "section": "常见词 051—060",
     "context": "内：内外方位义与宫内、内心等特指义相联；读nà时可表接纳、使进入。"
@@ -61570,7 +63778,7 @@
   {
     "source": "m-lexicon",
     "target": "k-wenyan-qi-date",
-    "anchor": "c-070",
+    "anchor": "c-071",
     "fragment": "",
     "section": "常见词 051—060",
     "context": "期：约定、期限与期待同属时间安排；周年、期服等读jī，须按固定组合识别。"
@@ -61578,7 +63786,7 @@
   {
     "source": "m-lexicon",
     "target": "k-wenyan-qi-odd",
-    "anchor": "c-071",
+    "anchor": "c-072",
     "fragment": "",
     "section": "常见词 051—060",
     "context": "奇：qí用于奇异、出人意料，jī用于单数、零头及命数不偶；异读须与量词、评价词搭配互证。"
@@ -61586,7 +63794,7 @@
   {
     "source": "m-lexicon",
     "target": "k-wenyan-qian",
-    "anchor": "c-072",
+    "anchor": "c-073",
     "fragment": "",
     "section": "常见词 051—060",
     "context": "迁：“迁”以位置变化为主要意义线索。用于官职时可指升调，也可与贬谪语境相连，不能凭单字固定褒贬。"
@@ -61594,7 +63802,7 @@
   {
     "source": "m-lexicon",
     "target": "k-wenyan-qing",
-    "anchor": "c-073",
+    "anchor": "c-074",
     "fragment": "",
     "section": "常见词 051—060",
     "context": "请：请求、请允许我与邀请、请教、谒见分开解释，特别核对所请求行动的实施者。"
@@ -61602,7 +63810,7 @@
   {
     "source": "m-lexicon",
     "target": "k-wenyan-qiong",
-    "anchor": "c-074",
+    "anchor": "c-075",
     "fragment": "",
     "section": "常见词 051—060",
     "context": "穷：终尽、困窘与不得志是常用义，不能把穷一律缩为缺钱；穷尽、穷究体现动词用法。"
@@ -61610,7 +63818,7 @@
   {
     "source": "m-lexicon",
     "target": "k-wenyan-qu",
-    "anchor": "c-075",
+    "anchor": "c-076",
     "fragment": "",
     "section": "常见词 061—070",
     "context": "去：离开、去除、距离与过去的分别建立联系；后代前往义不能倒套到所有先秦用例。"
@@ -61618,7 +63826,7 @@
   {
     "source": "m-lexicon",
     "target": "k-wenyan-quan",
-    "anchor": "c-076",
+    "anchor": "c-077",
     "fragment": "",
     "section": "常见词 061—070",
     "context": "劝：鼓励、劝勉为重要常用义；劝说的具体方向由后接内容决定，不天然意味着劝阻。"
@@ -61626,7 +63834,7 @@
   {
     "source": "m-lexicon",
     "target": "k-wenyan-que",
-    "anchor": "c-077",
+    "anchor": "c-078",
     "fragment": "",
     "section": "常见词 061—070",
     "context": "却：“却”在古文中常为退却的动词，也可表示推辞、去除；后世转折用法须另辨。"
@@ -61634,7 +63842,7 @@
   {
     "source": "m-lexicon",
     "target": "k-wenyan-ru",
-    "anchor": "c-078",
+    "anchor": "c-079",
     "fragment": "",
     "section": "常见词 061—070",
     "context": "如：如同、比得上与前往、依照分列；假如和如……何是高频结构，不能逐字套现代如同。"
@@ -61642,7 +63850,7 @@
   {
     "source": "m-lexicon",
     "target": "k-wenyan-ruo",
-    "anchor": "c-079",
+    "anchor": "c-080",
     "fragment": "",
     "section": "常见词 061—070",
     "context": "若：“若”可提出假设，也有如同、比得上以及第二人称代词等用法。不能把同字的全部义项视为一种词性。"
@@ -61650,7 +63858,7 @@
   {
     "source": "m-lexicon",
     "target": "k-wenyan-shan",
-    "anchor": "c-080",
+    "anchor": "c-081",
     "fragment": "",
     "section": "常见词 061—070",
     "context": "善：好与善于、赞许、友好有关；羡慕和通缮的修治义另列，避免一概译为善良。"
@@ -61658,7 +63866,7 @@
   {
     "source": "m-lexicon",
     "target": "k-wenyan-shao",
-    "anchor": "c-081",
+    "anchor": "c-082",
     "fragment": "",
     "section": "常见词 061—070",
     "context": "少：数量、程度用法多读shǎo；年岁、长幼用法读shào。"
@@ -61666,7 +63874,7 @@
   {
     "source": "m-lexicon",
     "target": "k-wenyan-she",
-    "anchor": "c-082",
+    "anchor": "c-083",
     "fragment": "",
     "section": "常见词 061—070",
     "context": "涉：从渡水、经过到经历、涉及和广泛阅读，按动作对象辨义。"
@@ -61674,7 +63882,7 @@
   {
     "source": "m-lexicon",
     "target": "k-wenyan-sheng",
-    "anchor": "c-083",
+    "anchor": "c-084",
     "fragment": "",
     "section": "常见词 061—070",
     "context": "胜：本义指能够承担、禁受。战胜、胜过与优美等义应据对象和语法位置区分。"
@@ -61682,7 +63890,7 @@
   {
     "source": "m-lexicon",
     "target": "k-wenyan-shi",
-    "anchor": "c-084",
+    "anchor": "c-085",
     "fragment": "",
     "section": "常见词 061—070",
     "context": "识：认识、辨识读shí；记住、标记等用法读zhì，分别整理。"
@@ -61690,7 +63898,7 @@
   {
     "source": "m-lexicon",
     "target": "k-wenyan-shi-envoy",
-    "anchor": "c-085",
+    "anchor": "c-086",
     "fragment": "",
     "section": "常见词 071—080",
     "context": "使：由派遣、役使联系到致使；出使、使者与假设用法另列。"
@@ -61698,7 +63906,7 @@
   {
     "source": "m-lexicon",
     "target": "k-wenyan-shi-this",
-    "anchor": "c-086",
+    "anchor": "c-087",
     "fragment": "",
     "section": "常见词 071—080",
     "context": "是：区分指示词“这”、正误评价、判断词及宾语前置标记。"
@@ -61706,7 +63914,7 @@
   {
     "source": "m-lexicon",
     "target": "k-wenyan-shi-go",
-    "anchor": "c-087",
+    "anchor": "c-088",
     "fragment": "",
     "section": "常见词 071—080",
     "context": "适：往某地、出嫁、适合与适逢、刚才等用法按动词或副词区分。"
@@ -61714,7 +63922,7 @@
   {
     "source": "m-lexicon",
     "target": "k-wenyan-shu",
-    "anchor": "c-088",
+    "anchor": "c-089",
     "fragment": "",
     "section": "常见词 071—080",
     "context": "书：书写行为与其成果相联系，区分文字、书信、文书和书籍。"
@@ -61722,7 +63930,7 @@
   {
     "source": "m-lexicon",
     "target": "k-wenyan-shu-who",
-    "anchor": "c-089",
+    "anchor": "c-090",
     "fragment": "",
     "section": "常见词 071—080",
     "context": "孰：疑问代词“谁、哪一个”与“熟”的早期字用分别处理。"
@@ -61730,7 +63938,7 @@
   {
     "source": "m-lexicon",
     "target": "k-wenyan-shu-zhu",
-    "anchor": "c-090",
+    "anchor": "c-091",
     "fragment": "",
     "section": "常见词 071—080",
     "context": "属：种类、归属读shǔ；连接、撰写、嘱托通常读zhǔ。"
@@ -61738,7 +63946,7 @@
   {
     "source": "m-lexicon",
     "target": "k-wenyan-shu-shuo",
-    "anchor": "c-091",
+    "anchor": "c-092",
     "fragment": "",
     "section": "常见词 071—080",
     "context": "数：数量、计算、责数、屡次分音分义；密细用法还须识别cù。"
@@ -61746,7 +63954,7 @@
   {
     "source": "m-lexicon",
     "target": "k-wenyan-lv-shuai",
-    "anchor": "c-092",
+    "anchor": "c-093",
     "fragment": "",
     "section": "常见词 071—080",
     "context": "率：率领、遵循、大都读shuài；比例、标准等读lǜ。"
@@ -61754,7 +63962,7 @@
   {
     "source": "m-lexicon",
     "target": "k-wenyan-shuo",
-    "anchor": "c-093",
+    "anchor": "c-094",
     "fragment": "",
     "section": "常见词 071—080",
     "context": "说：说明、言论读shuō，劝说读shuì；表示喜悦时读yuè，另辨借字。"
@@ -61762,7 +63970,7 @@
   {
     "source": "m-lexicon",
     "target": "k-wenyan-si",
-    "anchor": "c-094",
+    "anchor": "c-095",
     "fragment": "",
     "section": "常见词 071—080",
     "context": "私：以公私之别组织常用义，进一步区分偏爱、私下和私利。"
@@ -61770,7 +63978,7 @@
   {
     "source": "m-lexicon",
     "target": "k-wenyan-su",
-    "anchor": "c-095",
+    "anchor": "c-096",
     "fragment": "",
     "section": "常见词 081—090",
     "context": "素：未染色的丝织物与白、朴素相联系；一向、白白等用法单列。"
@@ -61778,7 +63986,7 @@
   {
     "source": "m-lexicon",
     "target": "k-wenyan-tang",
-    "anchor": "c-096",
+    "anchor": "c-097",
     "fragment": "",
     "section": "常见词 081—090",
     "context": "汤：热水、羹汤、药汤与水势浩大的叠词用法分别说明。"
@@ -61786,7 +63994,7 @@
   {
     "source": "m-lexicon",
     "target": "k-wenyan-ti",
-    "anchor": "c-097",
+    "anchor": "c-098",
     "fragment": "",
     "section": "常见词 081—090",
     "context": "涕：古文常指眼泪，也可指流泪；鼻涕义与眼泪义长期并存。"
@@ -61794,7 +64002,7 @@
   {
     "source": "m-lexicon",
     "target": "k-wenyan-tu",
-    "anchor": "c-098",
+    "anchor": "c-099",
     "fragment": "",
     "section": "常见词 081—090",
     "context": "徒：徒步、门徒、同类、徒役与“仅仅、徒然”等用法分别辨认。"
@@ -61802,7 +64010,7 @@
   {
     "source": "m-lexicon",
     "target": "k-wenyan-wang-lose",
-    "anchor": "c-099",
+    "anchor": "c-100",
     "fragment": "",
     "section": "常见词 081—090",
     "context": "亡：逃亡、丧失、灭亡与“无”的借字用法分列。"
@@ -61810,7 +64018,7 @@
   {
     "source": "m-lexicon",
     "target": "k-wenyan-wang",
-    "anchor": "c-100",
+    "anchor": "c-101",
     "fragment": "",
     "section": "常见词 081—090",
     "context": "王：君主、封爵读wáng；称王、以王道统一天下的动词用法读wàng。"
@@ -61818,7 +64026,7 @@
   {
     "source": "m-lexicon",
     "target": "k-wenyan-wang-look",
-    "anchor": "c-101",
+    "anchor": "c-102",
     "fragment": "",
     "section": "常见词 081—090",
     "context": "望：远望与期望相联系；名望、怨望、历日术语分别列义。"
@@ -61826,7 +64034,7 @@
   {
     "source": "m-lexicon",
     "target": "k-wenyan-e-wu",
-    "anchor": "c-102",
+    "anchor": "c-103",
     "fragment": "",
     "section": "常见词 081—090",
     "context": "恶：坏、丑读è，憎恶读wù，疑问用法读wū；ě见于恶心等词。"
@@ -61834,7 +64042,7 @@
   {
     "source": "m-lexicon",
     "target": "k-wenyan-wei",
-    "anchor": "c-103",
+    "anchor": "c-104",
     "fragment": "",
     "section": "常见词 081—090",
     "context": "微：微小、衰微、隐微与稍微、暗中、假若没有等用法须区分。"
@@ -61842,7 +64050,7 @@
   {
     "source": "m-lexicon",
     "target": "k-wenyan-xi",
-    "anchor": "c-104",
+    "anchor": "c-105",
     "fragment": "",
     "section": "常见词 081—090",
     "context": "悉：从详尽组织“详知、尽述、全都”的用法，注意全称范围。"
@@ -61850,7 +64058,7 @@
   {
     "source": "m-lexicon",
     "target": "k-wenyan-xiang",
-    "anchor": "c-105",
+    "anchor": "c-106",
     "fragment": "",
     "section": "常见词 091—100",
     "context": "相：相互、偏指读xiāng；察看、辅佐、相貌与官名读xiàng。"
@@ -61858,7 +64066,7 @@
   {
     "source": "m-lexicon",
     "target": "k-wenyan-xie",
-    "anchor": "c-106",
+    "anchor": "c-107",
     "fragment": "",
     "section": "常见词 091—100",
     "context": "谢：辞谢、道歉、告辞、告知与感谢须依言语目的分别判断。"
@@ -61866,7 +64074,7 @@
   {
     "source": "m-lexicon",
     "target": "k-wenyan-xin",
-    "anchor": "c-107",
+    "anchor": "c-108",
     "fragment": "",
     "section": "常见词 091—100",
     "context": "信：从诚实、信用到信任、信物、信息，再区别确实、任凭与借作“伸”。"
@@ -61874,7 +64082,7 @@
   {
     "source": "m-lexicon",
     "target": "k-wenyan-xing",
-    "anchor": "c-108",
+    "anchor": "c-109",
     "fragment": "",
     "section": "常见词 091—100",
     "context": "兴：兴起、兴办读xīng；兴致、诗歌起兴读xìng。"
@@ -61882,7 +64090,7 @@
   {
     "source": "m-lexicon",
     "target": "k-wenyan-xing-hang",
-    "anchor": "c-109",
+    "anchor": "c-110",
     "fragment": "",
     "section": "常见词 091—100",
     "context": "行：行走、实行、品行与行列、辈行等不同读音分列。"
@@ -61890,7 +64098,7 @@
   {
     "source": "m-lexicon",
     "target": "k-wenyan-xing-lucky",
-    "anchor": "c-110",
+    "anchor": "c-111",
     "fragment": "",
     "section": "常见词 091—100",
     "context": "幸：侥幸、幸亏、希望与帝王宠幸、临幸分别列义。"
@@ -61898,7 +64106,7 @@
   {
     "source": "m-lexicon",
     "target": "k-wenyan-xiu",
-    "anchor": "c-111",
+    "anchor": "c-112",
     "fragment": "",
     "section": "常见词 091—100",
     "context": "修：整修、修养、修订、遵循与长、高等用法分列。"
@@ -61906,7 +64114,7 @@
   {
     "source": "m-lexicon",
     "target": "k-wenyan-xu-slow",
-    "anchor": "c-112",
+    "anchor": "c-113",
     "fragment": "",
     "section": "常见词 091—100",
     "context": "徐：常用义围绕缓慢、从容；国名与人名中的徐不纳入这条意义链。"
@@ -61914,7 +64122,7 @@
   {
     "source": "m-lexicon",
     "target": "k-wenyan-xu",
-    "anchor": "c-113",
+    "anchor": "c-114",
     "fragment": "",
     "section": "常见词 091—100",
     "context": "许：本义是应允、许可。赞同与承诺可由应允理解；数量后的约数用法另列。"
@@ -61922,7 +64130,7 @@
   {
     "source": "m-lexicon",
     "target": "k-wenyan-yang",
-    "anchor": "c-114",
+    "anchor": "c-115",
     "fragment": "",
     "section": "常见词 091—100",
     "context": "阳：地理方位、日光、温暖及明面上的行为分别组织；假装义另辨字用。"
@@ -61930,7 +64138,7 @@
   {
     "source": "m-lexicon",
     "target": "k-wenyan-yao",
-    "anchor": "c-115",
+    "anchor": "c-116",
     "fragment": "",
     "section": "常见词 101—110",
     "context": "要：腰、邀请、拦截读yāo；要点、重要、想要读yào。"
@@ -61938,7 +64146,7 @@
   {
     "source": "m-lexicon",
     "target": "k-wenyan-yi-suitable",
-    "anchor": "c-116",
+    "anchor": "c-117",
     "fragment": "",
     "section": "常见词 101—110",
     "context": "宜：合适、合宜与应该的情态用法相联系。"
@@ -61946,7 +64154,7 @@
   {
     "source": "m-lexicon",
     "target": "k-wenyan-yi-wei",
-    "anchor": "c-117",
+    "anchor": "c-118",
     "fragment": "",
     "section": "常见词 101—110",
     "context": "遗：丢失、遗漏、遗留读yí；赠送、送交读wèi。"
@@ -61954,7 +64162,7 @@
   {
     "source": "m-lexicon",
     "target": "k-wenyan-yi-give",
-    "anchor": "c-118",
+    "anchor": "c-119",
     "fragment": "",
     "section": "常见词 101—110",
     "context": "贻：赠送与留下相联系，可施及礼物、文章，也可施及祸患或笑柄。"
@@ -61962,7 +64170,7 @@
   {
     "source": "m-lexicon",
     "target": "k-wenyan-yi-change",
-    "anchor": "c-119",
+    "anchor": "c-120",
     "fragment": "",
     "section": "常见词 101—110",
     "context": "易：交换、改变、替代与容易、轻视分别列义。"
@@ -61970,7 +64178,7 @@
   {
     "source": "m-lexicon",
     "target": "k-wenyan-yin-shade",
-    "anchor": "c-120",
+    "anchor": "c-121",
     "fragment": "",
     "section": "常见词 101—110",
     "context": "阴：山北水南、背光阴影、阴暗寒冷与暗中等用法分别说明。"
@@ -61978,7 +64186,7 @@
   {
     "source": "m-lexicon",
     "target": "k-wenyan-you",
-    "anchor": "c-121",
+    "anchor": "c-122",
     "fragment": "",
     "section": "常见词 101—110",
     "context": "右：右方、高位、尊崇与辅助用法分别列义；方位的尊卑随制度变化。"
@@ -61986,7 +64194,7 @@
   {
     "source": "m-lexicon",
     "target": "k-wenyan-zai",
-    "anchor": "c-122",
+    "anchor": "c-123",
     "fragment": "",
     "section": "常见词 101—110",
     "context": "再：先秦两汉常指两次或第二次，后又有再度、重新等用法。"
@@ -61994,7 +64202,7 @@
   {
     "source": "m-lexicon",
     "target": "k-wenyan-zao",
-    "anchor": "c-123",
+    "anchor": "c-124",
     "fragment": "",
     "section": "常见词 101—110",
     "context": "造：到达、拜访与制作、制定分别组织，避免仅取现代制造义。"
@@ -62002,7 +64210,7 @@
   {
     "source": "m-lexicon",
     "target": "k-wenyan-zhi",
-    "anchor": "c-124",
+    "anchor": "c-125",
     "fragment": "",
     "section": "常见词 101—110",
     "context": "知：认识、了解是常见核心义；在任官叙述中，“知”可表示主持、管理。通“智”的用法须另辨读音。"
@@ -62010,7 +64218,7 @@
   {
     "source": "m-lexicon",
     "target": "k-wenyan-zhi-cause",
-    "anchor": "c-125",
+    "anchor": "c-126",
     "fragment": "",
     "section": "常见词 111—120",
     "context": "致：送达、招致、获得、表达与意趣须按论元和词性分别整理。"
@@ -62018,7 +64226,7 @@
   {
     "source": "m-lexicon",
     "target": "k-wenyan-zhi-substance",
-    "anchor": "c-126",
+    "anchor": "c-127",
     "fragment": "",
     "section": "常见词 111—120",
     "context": "质：人质、质地、朴实、质询与砧板等借字用法分列。"
@@ -62026,7 +64234,7 @@
   {
     "source": "m-lexicon",
     "target": "k-wenyan-zhi-govern",
-    "anchor": "c-127",
+    "anchor": "c-128",
     "fragment": "",
     "section": "常见词 111—120",
     "context": "治：整治、治理、医治、惩治与治世相联系；水名异读不混入常用义。"
@@ -62034,7 +64242,7 @@
   {
     "source": "m-lexicon",
     "target": "k-wenyan-zhu",
-    "anchor": "c-128",
+    "anchor": "c-129",
     "fragment": "",
     "section": "常见词 111—120",
     "context": "诸：众、各与“之于”“之乎”等合音用法分别说明。"
@@ -62042,7 +64250,7 @@
   {
     "source": "m-lexicon",
     "target": "k-wenyan-zei",
-    "anchor": "c-129",
+    "anchor": "c-130",
     "fragment": "",
     "section": "常见词 111—120",
     "context": "贼：残害与作乱者、敌人、祸害相联系，偷窃者义不能覆盖古文所有用例。"
@@ -62050,7 +64258,7 @@
   {
     "source": "m-lexicon",
     "target": "k-wenyan-zu",
-    "anchor": "c-130",
+    "anchor": "c-131",
     "fragment": "",
     "section": "常见词 111—120",
     "context": "族：宗族、类别、聚结与灭族分列；不同意义有聚合联系，但图不替代字源证明。"
@@ -62058,7 +64266,7 @@
   {
     "source": "m-lexicon",
     "target": "k-wenyan-zu-cu",
-    "anchor": "c-131",
+    "anchor": "c-132",
     "fragment": "",
     "section": "常见词 111—120",
     "context": "卒：士卒、终结、死亡、终于读zú；突然、仓猝读cù。"
@@ -62066,7 +64274,7 @@
   {
     "source": "m-lexicon",
     "target": "k-wenyan-zou",
-    "anchor": "c-132",
+    "anchor": "c-133",
     "fragment": "",
     "section": "常见词 111—120",
     "context": "走：古文常指跑、逃跑；现代通常所说的步行不能直接套入。"
@@ -62074,7 +64282,7 @@
   {
     "source": "m-lexicon",
     "target": "k-wenyan-zuo-left",
-    "anchor": "c-133",
+    "anchor": "c-134",
     "fragment": "",
     "section": "常见词 111—120",
     "context": "左：左方、贬位、辅助与僻远分列，尊卑须按具体制度解释。"
@@ -62082,7 +64290,7 @@
   {
     "source": "m-lexicon",
     "target": "k-wenyan-zuo-sit",
-    "anchor": "c-134",
+    "anchor": "c-135",
     "fragment": "",
     "section": "常见词 111—120",
     "context": "坐：坐下、座位、因罪受罚、因为等用法分别辨认。"
@@ -62090,7 +64298,7 @@
   {
     "source": "m-lexicon",
     "target": "k-wenyan-ze",
-    "anchor": "c-135",
+    "anchor": "c-136",
     "fragment": "",
     "section": "相关实词与虚词",
     "context": "则：“则”连接条件与结果，也可突出前后对照。它另有准则的名词义；结构图按功能分类，不把名词义硬推为一条虚化史。"
@@ -62098,7 +64306,7 @@
   {
     "source": "m-lexicon",
     "target": "k-wenyan-di",
-    "anchor": "c-136",
+    "anchor": "c-137",
     "fragment": "",
     "section": "相关实词与虚词",
     "context": "籴：本义为买入粮食，与“粜”（tiào，卖出粮食）相对。此字的常用意义集中，不必为记忆而虚造多条引申义。"
@@ -62106,7 +64314,7 @@
   {
     "source": "m-lexicon",
     "target": "k-wenyan-de",
-    "anchor": "c-137",
+    "anchor": "c-138",
     "fragment": "",
     "section": "相关实词与虚词",
     "context": "的：“一发破的”的“的”读dì，指箭靶中心。按读音区分靶心、确实与结构助词，可避免现代常用读音干扰。"
@@ -62114,7 +64322,7 @@
   {
     "source": "m-lexicon",
     "target": "k-wenyan-yi",
-    "anchor": "c-138",
+    "anchor": "c-139",
     "fragment": "",
     "section": "相关实词与虚词",
     "context": "以：古代“以”有“用”的实义，常见介词用法引出工具、原因等，连词用法连接目的或其他关系。"
@@ -62122,7 +64330,7 @@
   {
     "source": "m-lexicon",
     "target": "k-wenyan-er-particle",
-    "anchor": "c-139",
+    "anchor": "c-140",
     "fragment": "",
     "section": "相关实词与虚词",
     "context": "耳：句末的“耳”常表示限止，可译“罢了”，也可收束并加强判断；耳朵的名词义另列。"
@@ -62130,7 +64338,7 @@
   {
     "source": "m-lexicon",
     "target": "k-wenyan-zhi-particle",
-    "anchor": "c-140",
+    "anchor": "c-141",
     "fragment": "",
     "section": "相关实词与虚词",
     "context": "之：“之”有代词、结构助词以及前往的动词用法。这里沿文言教学惯例把代词用法纳入虚词检索，但逐处注明其词性。"
@@ -62138,7 +64346,7 @@
   {
     "source": "m-lexicon",
     "target": "k-wenyan-mo",
-    "anchor": "c-141",
+    "anchor": "c-142",
     "fragment": "",
     "section": "相关实词与虚词",
     "context": "没：mò的基本义是沉入水中，可用于没入、隐没；死亡义又与“殁”相通。méi的否定义另属一组。"
@@ -62146,7 +64354,7 @@
   {
     "source": "m-lexicon",
     "target": "k-wenyan-yin",
-    "anchor": "c-142",
+    "anchor": "c-143",
     "fragment": "",
     "section": "相关实词与虚词",
     "context": "引：本义为拉开弓。牵拉、导引、退避等用法要看宾语和动作方向；同篇中的两个“引”可以不同义。"
@@ -62154,7 +64362,7 @@
   {
     "source": "m-lexicon",
     "target": "k-wenyan-che",
-    "anchor": "c-143",
+    "anchor": "c-144",
     "fragment": "",
     "section": "相关实词与虚词",
     "context": "彻：汉典详细解释列撤去为本义，另列穿透、通达等用法；阅读时不应仅凭现代词“彻底”推义。"
@@ -62162,7 +64370,7 @@
   {
     "source": "m-lexicon",
     "target": "k-wenyan-qi",
-    "anchor": "c-144",
+    "anchor": "c-145",
     "fragment": "",
     "section": "相关实词与虚词",
     "context": "葺：本义是以茅草覆屋，后来用于修缮房屋和整治其他设施。具体修整对象决定现代译词。"
@@ -62170,7 +64378,7 @@
   {
     "source": "m-lexicon",
     "target": "k-wenyan-ji",
-    "anchor": "c-145",
+    "anchor": "c-146",
     "fragment": "",
     "section": "相关实词与虚词",
     "context": "汲：本义是从井中取水。由具体的提取动作，可以理解牵引、引导等用法；“汲汲”的急切义另作辨析。"
@@ -62178,7 +64386,7 @@
   {
     "source": "m-lexicon",
     "target": "k-wenyan-ying",
-    "anchor": "c-146",
+    "anchor": "c-147",
     "fragment": "",
     "section": "相关实词与虚词",
     "context": "迎：本义与相逢、相遇有关。文言阅读要区分迎接、迎向和迎合，动作方向并不等于动作结果。"
@@ -62186,7 +64394,7 @@
   {
     "source": "m-lexicon",
     "target": "k-wenyan-lian",
-    "anchor": "c-147",
+    "anchor": "c-148",
     "fragment": "",
     "section": "相关实词与虚词",
     "context": "敛：本义为收聚。收物、收兵、收束行为共享“由散开转向收拢”的意义线索，具体对象决定译法。"
@@ -62194,7 +64402,7 @@
   {
     "source": "m-lexicon",
     "target": "k-wenyan-qi-pronoun",
-    "anchor": "c-148",
+    "anchor": "c-149",
     "fragment": "",
     "section": "相关实词与虚词",
     "context": "其：常用的“其”可指代人、物及其领属，也可表达推测或反问语气。依文言教学惯例纳入虚词检索，具体词性另注。"
@@ -62202,7 +64410,7 @@
   {
     "source": "m-lexicon",
     "target": "k-wenyan-er",
-    "anchor": "c-149",
+    "anchor": "c-150",
     "fragment": "",
     "section": "相关实词与虚词",
     "context": "而：作为连词，“而”所联系的关系来自前后语义。先还原两项内容，再判定承接、修饰、并列或转折。"
@@ -62210,7 +64418,7 @@
   {
     "source": "m-lexicon",
     "target": "k-wenyan-yu",
-    "anchor": "c-150",
+    "anchor": "c-151",
     "fragment": "",
     "section": "相关实词与虚词",
     "context": "于：介词“于”引出关系参与者：地点、对象、来源、比较对象或被动施事。不能只凭“于”字便判为倒装或被动。"
@@ -62218,7 +64426,7 @@
   {
     "source": "m-lexicon",
     "target": "k-wenyan-lao",
-    "anchor": "c-151",
+    "anchor": "c-152",
     "fragment": "",
     "section": "相关实词与虚词",
     "context": "劳：劳作、疲劳与慰劳属于相联系的义域。辨义时要看“劳”是描述状态、使人辛苦，还是对人的慰问动作。"
@@ -62226,7 +64434,7 @@
   {
     "source": "m-lexicon",
     "target": "k-wenyan-fu",
-    "anchor": "c-152",
+    "anchor": "c-153",
     "fragment": "",
     "section": "相关实词与虚词",
     "context": "甫：“甫”可作时间副词，表示才、刚刚；男子美称与大义另列。各用法按词性分支，不强定历史派生关系。"
@@ -62234,7 +64442,7 @@
   {
     "source": "m-lexicon",
     "target": "e-2011-heguan",
-    "anchor": "c-153",
+    "anchor": "c-154",
     "fragment": "",
     "section": "从词汇回到原文",
     "context": "《何灌传》保留词义、虚词、语法和文化常识的随文标记，可由原句进入词条并返回原文。"
@@ -62242,7 +64450,7 @@
   {
     "source": "m-lexicon",
     "target": "m-classical",
-    "anchor": "c-154",
+    "anchor": "c-155",
     "fragment": "",
     "section": "从词汇回到原文",
     "context": "文言阅读按句法与制度组织知识；语境限定词义说明为什么熟记常用义后仍须检查整句。"
@@ -62250,7 +64458,7 @@
   {
     "source": "m-lexicon",
     "target": "k-context",
-    "anchor": "c-154",
+    "anchor": "c-155",
     "fragment": "",
     "section": "从词汇回到原文",
     "context": "文言阅读按句法与制度组织知识；语境限定词义说明为什么熟记常用义后仍须检查整句。"
@@ -62258,7 +64466,7 @@
   {
     "source": "m-lexicon",
     "target": "k-wenyan-wei-act",
-    "anchor": "c-155",
+    "anchor": "c-156",
     "fragment": "",
     "section": "2026年研习文本",
     "context": "为 [wéi / wèi]、常 [cháng]、厌 [yàn；yā（相关读法）]、粒 [lì]、罄 [qìng]、敌 [dí]。义项须结合2026年文言题组中的具体用法研习。"
@@ -62266,7 +64474,7 @@
   {
     "source": "m-lexicon",
     "target": "k-wenyan-chang",
-    "anchor": "c-155",
+    "anchor": "c-156",
     "fragment": "",
     "section": "2026年研习文本",
     "context": "为 [wéi / wèi]、常 [cháng]、厌 [yàn；yā（相关读法）]、粒 [lì]、罄 [qìng]、敌 [dí]。义项须结合2026年文言题组中的具体用法研习。"
@@ -62274,7 +64482,7 @@
   {
     "source": "m-lexicon",
     "target": "k-wenyan-yan-satisfy",
-    "anchor": "c-155",
+    "anchor": "c-156",
     "fragment": "",
     "section": "2026年研习文本",
     "context": "为 [wéi / wèi]、常 [cháng]、厌 [yàn；yā（相关读法）]、粒 [lì]、罄 [qìng]、敌 [dí]。义项须结合2026年文言题组中的具体用法研习。"
@@ -62282,7 +64490,7 @@
   {
     "source": "m-lexicon",
     "target": "k-wenyan-li-grain",
-    "anchor": "c-155",
+    "anchor": "c-156",
     "fragment": "",
     "section": "2026年研习文本",
     "context": "为 [wéi / wèi]、常 [cháng]、厌 [yàn；yā（相关读法）]、粒 [lì]、罄 [qìng]、敌 [dí]。义项须结合2026年文言题组中的具体用法研习。"
@@ -62290,7 +64498,7 @@
   {
     "source": "m-lexicon",
     "target": "k-wenyan-qing-exhaust",
-    "anchor": "c-155",
+    "anchor": "c-156",
     "fragment": "",
     "section": "2026年研习文本",
     "context": "为 [wéi / wèi]、常 [cháng]、厌 [yàn；yā（相关读法）]、粒 [lì]、罄 [qìng]、敌 [dí]。义项须结合2026年文言题组中的具体用法研习。"
@@ -62298,15 +64506,7 @@
   {
     "source": "m-lexicon",
     "target": "k-wenyan-di-match",
-    "anchor": "c-155",
-    "fragment": "",
-    "section": "2026年研习文本",
-    "context": "为 [wéi / wèi]、常 [cháng]、厌 [yàn；yā（相关读法）]、粒 [lì]、罄 [qìng]、敌 [dí]。义项须结合2026年文言题组中的具体用法研习。"
-  },
-  {
-    "source": "m-lexicon",
-    "target": "m-exam-2026",
-    "anchor": "c-155",
+    "anchor": "c-156",
     "fragment": "",
     "section": "2026年研习文本",
     "context": "为 [wéi / wèi]、常 [cháng]、厌 [yàn；yā（相关读法）]、粒 [lì]、罄 [qìng]、敌 [dí]。义项须结合2026年文言题组中的具体用法研习。"
@@ -62317,12 +64517,68 @@
     "anchor": "c-156",
     "fragment": "",
     "section": "2026年研习文本",
+    "context": "为 [wéi / wèi]、常 [cháng]、厌 [yàn；yā（相关读法）]、粒 [lì]、罄 [qìng]、敌 [dí]。义项须结合2026年文言题组中的具体用法研习。"
+  },
+  {
+    "source": "m-lexicon",
+    "target": "m-exam-2026",
+    "anchor": "c-157",
+    "fragment": "",
+    "section": "2026年研习文本",
     "context": "全部题组与试卷归属。"
   },
   {
     "source": "m-literary-reading",
+    "target": "k-metaphor",
+    "anchor": "c-009",
+    "fragment": "",
+    "section": "跨板块研习",
+    "context": "比喻 · 象征 · 回环 · 文学性与审美经验 · 文学史的分期与语境"
+  },
+  {
+    "source": "m-literary-reading",
+    "target": "k-symbol",
+    "anchor": "c-009",
+    "fragment": "",
+    "section": "跨板块研习",
+    "context": "比喻 · 象征 · 回环 · 文学性与审美经验 · 文学史的分期与语境"
+  },
+  {
+    "source": "m-literary-reading",
+    "target": "k-huihuan",
+    "anchor": "c-009",
+    "fragment": "",
+    "section": "跨板块研习",
+    "context": "比喻 · 象征 · 回环 · 文学性与审美经验 · 文学史的分期与语境"
+  },
+  {
+    "source": "m-literary-reading",
+    "target": "k-literariness",
+    "anchor": "c-009",
+    "fragment": "",
+    "section": "跨板块研习",
+    "context": "比喻 · 象征 · 回环 · 文学性与审美经验 · 文学史的分期与语境"
+  },
+  {
+    "source": "m-literary-reading",
+    "target": "k-literary-history",
+    "anchor": "c-009",
+    "fragment": "",
+    "section": "跨板块研习",
+    "context": "比喻 · 象征 · 回环 · 文学性与审美经验 · 文学史的分期与语境"
+  },
+  {
+    "source": "m-literary-reading",
+    "target": "m-reading",
+    "anchor": "c-010",
+    "fragment": "",
+    "section": "跨板块研习",
+    "context": "专题研习：叙事阅读研习"
+  },
+  {
+    "source": "m-literary-reading",
     "target": "k-character",
-    "anchor": "c-003",
+    "anchor": "c-014",
     "fragment": "",
     "section": "人物、情节、环境与主题",
     "context": "人物形象（概括）：人物形象。"
@@ -62330,7 +64586,7 @@
   {
     "source": "m-literary-reading",
     "target": "k-character",
-    "anchor": "c-004",
+    "anchor": "c-015",
     "fragment": "",
     "section": "人物、情节、环境与主题",
     "context": "人物形象（分析）：人物形象。"
@@ -62338,7 +64594,7 @@
   {
     "source": "m-literary-reading",
     "target": "k-passage-function",
-    "anchor": "c-005",
+    "anchor": "c-016",
     "fragment": "",
     "section": "人物、情节、环境与主题",
     "context": "情节作用：语段的结构作用。"
@@ -62346,7 +64602,7 @@
   {
     "source": "m-literary-reading",
     "target": "k-suspense",
-    "anchor": "c-006",
+    "anchor": "c-017",
     "fragment": "",
     "section": "人物、情节、环境与主题",
     "context": "悬念与铺垫：悬念与铺垫。"
@@ -62354,7 +64610,7 @@
   {
     "source": "m-literary-reading",
     "target": "k-suspense",
-    "anchor": "c-007",
+    "anchor": "c-018",
     "fragment": "",
     "section": "人物、情节、环境与主题",
     "context": "伏笔与照应：悬念与铺垫；照应与线索。"
@@ -62362,7 +64618,7 @@
   {
     "source": "m-literary-reading",
     "target": "k-callback",
-    "anchor": "c-007",
+    "anchor": "c-018",
     "fragment": "",
     "section": "人物、情节、环境与主题",
     "context": "伏笔与照应：悬念与铺垫；照应与线索。"
@@ -62370,7 +64626,7 @@
   {
     "source": "m-literary-reading",
     "target": "k-setting",
-    "anchor": "c-008",
+    "anchor": "c-019",
     "fragment": "",
     "section": "人物、情节、环境与主题",
     "context": "自然环境的作用：叙事环境。"
@@ -62378,7 +64634,7 @@
   {
     "source": "m-literary-reading",
     "target": "k-social",
-    "anchor": "c-009",
+    "anchor": "c-020",
     "fragment": "",
     "section": "人物、情节、环境与主题",
     "context": "社会环境的作用：社会环境与行动规则。"
@@ -62386,7 +64642,7 @@
   {
     "source": "m-literary-reading",
     "target": "k-theme",
-    "anchor": "c-010",
+    "anchor": "c-021",
     "fragment": "",
     "section": "人物、情节、环境与主题",
     "context": "主题：主题分析。"
@@ -62394,7 +64650,7 @@
   {
     "source": "m-literary-reading",
     "target": "k-title",
-    "anchor": "c-011",
+    "anchor": "c-022",
     "fragment": "",
     "section": "人物、情节、环境与主题",
     "context": "标题（表层义与深层义）：标题意蕴与作用。"
@@ -62402,7 +64658,7 @@
   {
     "source": "m-literary-reading",
     "target": "k-title",
-    "anchor": "c-012",
+    "anchor": "c-023",
     "fragment": "",
     "section": "人物、情节、环境与主题",
     "context": "标题（意蕴分层）：标题意蕴与作用。"
@@ -62410,7 +64666,7 @@
   {
     "source": "m-literary-reading",
     "target": "k-callback",
-    "anchor": "c-013",
+    "anchor": "c-024",
     "fragment": "",
     "section": "人物、情节、环境与主题",
     "context": "线索：照应与线索。"
@@ -62418,7 +64674,7 @@
   {
     "source": "m-literary-reading",
     "target": "k-focalization",
-    "anchor": "c-015",
+    "anchor": "c-026",
     "fragment": "",
     "section": "叙述、视角与时间",
     "context": "第一人称叙述：叙述声音与聚焦。"
@@ -62426,7 +64682,7 @@
   {
     "source": "m-literary-reading",
     "target": "k-focalization",
-    "anchor": "c-016",
+    "anchor": "c-027",
     "fragment": "",
     "section": "叙述、视角与时间",
     "context": "第三人称叙述：叙述声音与聚焦。"
@@ -62434,7 +64690,7 @@
   {
     "source": "m-literary-reading",
     "target": "k-focalization",
-    "anchor": "c-017",
+    "anchor": "c-028",
     "fragment": "",
     "section": "叙述、视角与时间",
     "context": "全知视角：叙述声音与聚焦。"
@@ -62442,7 +64698,7 @@
   {
     "source": "m-literary-reading",
     "target": "k-focalization",
-    "anchor": "c-018",
+    "anchor": "c-029",
     "fragment": "",
     "section": "叙述、视角与时间",
     "context": "限知视角：叙述声音与聚焦。"
@@ -62450,7 +64706,7 @@
   {
     "source": "m-literary-reading",
     "target": "k-memory-perspective",
-    "anchor": "c-019",
+    "anchor": "c-030",
     "fragment": "",
     "section": "叙述、视角与时间",
     "context": "特殊视角（儿童视角、物象拟人视角）：回忆叙述的双重视角；比拟。"
@@ -62458,7 +64714,7 @@
   {
     "source": "m-literary-reading",
     "target": "k-personification",
-    "anchor": "c-019",
+    "anchor": "c-030",
     "fragment": "",
     "section": "叙述、视角与时间",
     "context": "特殊视角（儿童视角、物象拟人视角）：回忆叙述的双重视角；比拟。"
@@ -62466,7 +64722,7 @@
   {
     "source": "m-literary-reading",
     "target": "k-order",
-    "anchor": "c-020",
+    "anchor": "c-031",
     "fragment": "",
     "section": "叙述、视角与时间",
     "context": "顺叙：叙事时序。"
@@ -62474,7 +64730,7 @@
   {
     "source": "m-literary-reading",
     "target": "k-order",
-    "anchor": "c-021",
+    "anchor": "c-032",
     "fragment": "",
     "section": "叙述、视角与时间",
     "context": "倒叙：叙事时序。"
@@ -62482,7 +64738,7 @@
   {
     "source": "m-literary-reading",
     "target": "k-order",
-    "anchor": "c-022",
+    "anchor": "c-033",
     "fragment": "",
     "section": "叙述、视角与时间",
     "context": "插叙：叙事时序。"
@@ -62490,7 +64746,7 @@
   {
     "source": "m-literary-reading",
     "target": "k-order",
-    "anchor": "c-023",
+    "anchor": "c-034",
     "fragment": "",
     "section": "叙述、视角与时间",
     "context": "补叙：叙事时序。"
@@ -62498,7 +64754,7 @@
   {
     "source": "m-literary-reading",
     "target": "k-narrative-pace",
-    "anchor": "c-024",
+    "anchor": "c-035",
     "fragment": "",
     "section": "叙述、视角与时间",
     "context": "叙事节奏：叙事速度。"
@@ -62506,7 +64762,7 @@
   {
     "source": "m-literary-reading",
     "target": "k-fiction-truth",
-    "anchor": "c-025",
+    "anchor": "c-036",
     "fragment": "",
     "section": "叙述、视角与时间",
     "context": "虚构与真实：虚构与文学真实。"
@@ -62514,7 +64770,7 @@
   {
     "source": "m-literary-reading",
     "target": "k-prose-unity",
-    "anchor": "c-027",
+    "anchor": "c-038",
     "fragment": "",
     "section": "散文的材料组织与风格",
     "context": "形散神聚：散文的组织方式。"
@@ -62522,7 +64778,7 @@
   {
     "source": "m-literary-reading",
     "target": "k-atmosphere",
-    "anchor": "c-028",
+    "anchor": "c-039",
     "fragment": "",
     "section": "散文的材料组织与风格",
     "context": "借景抒情：环境氛围与人物心境。"
@@ -62530,7 +64786,7 @@
   {
     "source": "m-literary-reading",
     "target": "k-object-aspiration",
-    "anchor": "c-029",
+    "anchor": "c-040",
     "fragment": "",
     "section": "散文的材料组织与风格",
     "context": "托物言志：托物言志。"
@@ -62538,7 +64794,7 @@
   {
     "source": "m-literary-reading",
     "target": "k-small-scale",
-    "anchor": "c-030",
+    "anchor": "c-041",
     "fragment": "",
     "section": "散文的材料组织与风格",
     "context": "以小见大：以小见大。"
@@ -62546,7 +64802,7 @@
   {
     "source": "m-literary-reading",
     "target": "k-association",
-    "anchor": "c-031",
+    "anchor": "c-042",
     "fragment": "",
     "section": "散文的材料组织与风格",
     "context": "联想：联想。"
@@ -62554,7 +64810,7 @@
   {
     "source": "m-literary-reading",
     "target": "k-imagination",
-    "anchor": "c-032",
+    "anchor": "c-043",
     "fragment": "",
     "section": "散文的材料组织与风格",
     "context": "想象：文学想象。"
@@ -62562,7 +64818,7 @@
   {
     "source": "m-literary-reading",
     "target": "k-prose-reflection",
-    "anchor": "c-033",
+    "anchor": "c-044",
     "fragment": "",
     "section": "散文的材料组织与风格",
     "context": "情理交融：散文中的哲理。"
@@ -62570,7 +64826,7 @@
   {
     "source": "m-literary-reading",
     "target": "k-text-key",
-    "anchor": "c-034",
+    "anchor": "c-045",
     "fragment": "",
     "section": "散文的材料组织与风格",
     "context": "文眼：文眼。"
@@ -62578,7 +64834,7 @@
   {
     "source": "m-literary-reading",
     "target": "k-plain-style",
-    "anchor": "c-035",
+    "anchor": "c-046",
     "fragment": "",
     "section": "散文的材料组织与风格",
     "context": "语言风格·平淡有味：平淡语言的表现力。"
@@ -62586,7 +64842,7 @@
   {
     "source": "m-literary-reading",
     "target": "k-unhurried-style",
-    "anchor": "c-036",
+    "anchor": "c-047",
     "fragment": "",
     "section": "散文的材料组织与风格",
     "context": "语言风格·冲淡闲适：冲淡闲适的风格。"
@@ -62594,7 +64850,7 @@
   {
     "source": "m-literary-reading",
     "target": "k-metaphor",
-    "anchor": "c-038",
+    "anchor": "c-049",
     "fragment": "",
     "section": "修辞、描写与语言",
     "context": "比喻与拟人（比拟）：比喻；比拟。"
@@ -62602,7 +64858,7 @@
   {
     "source": "m-literary-reading",
     "target": "k-personification",
-    "anchor": "c-038",
+    "anchor": "c-049",
     "fragment": "",
     "section": "修辞、描写与语言",
     "context": "比喻与拟人（比拟）：比喻；比拟。"
@@ -62610,7 +64866,7 @@
   {
     "source": "m-literary-reading",
     "target": "k-parallelism",
-    "anchor": "c-039",
+    "anchor": "c-050",
     "fragment": "",
     "section": "修辞、描写与语言",
     "context": "排比与反复：排比；反复与复现。"
@@ -62618,7 +64874,7 @@
   {
     "source": "m-literary-reading",
     "target": "k-repetition",
-    "anchor": "c-039",
+    "anchor": "c-050",
     "fragment": "",
     "section": "修辞、描写与语言",
     "context": "排比与反复：排比；反复与复现。"
@@ -62626,7 +64882,7 @@
   {
     "source": "m-literary-reading",
     "target": "k-synaesthesia",
-    "anchor": "c-040",
+    "anchor": "c-051",
     "fragment": "",
     "section": "修辞、描写与语言",
     "context": "通感：通感。"
@@ -62634,7 +64890,7 @@
   {
     "source": "m-literary-reading",
     "target": "k-contrast",
-    "anchor": "c-041",
+    "anchor": "c-052",
     "fragment": "",
     "section": "修辞、描写与语言",
     "context": "对比：对比。"
@@ -62642,7 +64898,7 @@
   {
     "source": "m-literary-reading",
     "target": "k-hyperbole",
-    "anchor": "c-042",
+    "anchor": "c-053",
     "fragment": "",
     "section": "修辞、描写与语言",
     "context": "夸张：夸张。"
@@ -62650,7 +64906,7 @@
   {
     "source": "m-literary-reading",
     "target": "k-citation",
-    "anchor": "c-043",
+    "anchor": "c-054",
     "fragment": "",
     "section": "修辞、描写与语言",
     "context": "引用：引用。"
@@ -62658,7 +64914,7 @@
   {
     "source": "m-literary-reading",
     "target": "k-symbol",
-    "anchor": "c-044",
+    "anchor": "c-055",
     "fragment": "",
     "section": "修辞、描写与语言",
     "context": "象征：象征。"
@@ -62666,7 +64922,7 @@
   {
     "source": "m-literary-reading",
     "target": "k-supporting-description",
-    "anchor": "c-045",
+    "anchor": "c-056",
     "fragment": "",
     "section": "修辞、描写与语言",
     "context": "衬托（含侧面烘托）：侧面描写与烘托。"
@@ -62674,7 +64930,7 @@
   {
     "source": "m-literary-reading",
     "target": "k-virtual-real",
-    "anchor": "c-046",
+    "anchor": "c-057",
     "fragment": "",
     "section": "修辞、描写与语言",
     "context": "虚实相生：虚实结合。"
@@ -62682,7 +64938,7 @@
   {
     "source": "m-literary-reading",
     "target": "k-point-panorama",
-    "anchor": "c-047",
+    "anchor": "c-058",
     "fragment": "",
     "section": "修辞、描写与语言",
     "context": "点面结合与欲扬先抑：点面结合；抑扬。"
@@ -62690,7 +64946,7 @@
   {
     "source": "m-literary-reading",
     "target": "k-suppress-praise",
-    "anchor": "c-047",
+    "anchor": "c-058",
     "fragment": "",
     "section": "修辞、描写与语言",
     "context": "点面结合与欲扬先抑：点面结合；抑扬。"
@@ -62698,7 +64954,7 @@
   {
     "source": "m-literary-reading",
     "target": "k-character",
-    "anchor": "c-048",
+    "anchor": "c-059",
     "fragment": "",
     "section": "修辞、描写与语言",
     "context": "描写类型：人物形象。"
@@ -62706,7 +64962,7 @@
   {
     "source": "m-literary-reading",
     "target": "k-word-choice",
-    "anchor": "c-049",
+    "anchor": "c-060",
     "fragment": "",
     "section": "修辞、描写与语言",
     "context": "词语锤炼：词语锤炼与替换分析。"
@@ -62714,7 +64970,7 @@
   {
     "source": "m-literary-reading",
     "target": "k-choice-reading",
-    "anchor": "c-051",
+    "anchor": "c-062",
     "fragment": "",
     "section": "题型与论证方法",
     "context": "内容理解选择题（设误类型）：选择题的证据核验。"
@@ -62722,7 +64978,7 @@
   {
     "source": "m-literary-reading",
     "target": "k-choice-reading",
-    "anchor": "c-052",
+    "anchor": "c-063",
     "fragment": "",
     "section": "题型与论证方法",
     "context": "艺术特色选择题（设误类型）：选择题的证据核验；艺术手法赏析。"
@@ -62730,7 +64986,7 @@
   {
     "source": "m-literary-reading",
     "target": "k-art-analysis",
-    "anchor": "c-052",
+    "anchor": "c-063",
     "fragment": "",
     "section": "题型与论证方法",
     "context": "艺术特色选择题（设误类型）：选择题的证据核验；艺术手法赏析。"
@@ -62738,7 +64994,7 @@
   {
     "source": "m-literary-reading",
     "target": "k-sentence-meaning",
-    "anchor": "c-053",
+    "anchor": "c-064",
     "fragment": "",
     "section": "题型与论证方法",
     "context": "词句含义题：词句含义。"
@@ -62746,7 +65002,7 @@
   {
     "source": "m-literary-reading",
     "target": "k-passage-function",
-    "anchor": "c-054",
+    "anchor": "c-065",
     "fragment": "",
     "section": "题型与论证方法",
     "context": "作用题：语段的结构作用。"
@@ -62754,7 +65010,7 @@
   {
     "source": "m-literary-reading",
     "target": "k-character",
-    "anchor": "c-055",
+    "anchor": "c-066",
     "fragment": "",
     "section": "题型与论证方法",
     "context": "形象概括题：人物形象。"
@@ -62762,7 +65018,7 @@
   {
     "source": "m-literary-reading",
     "target": "k-art-analysis",
-    "anchor": "c-056",
+    "anchor": "c-067",
     "fragment": "",
     "section": "题型与论证方法",
     "context": "手法赏析题：艺术手法赏析。"
@@ -62770,7 +65026,7 @@
   {
     "source": "m-literary-reading",
     "target": "k-evaluation",
-    "anchor": "c-057",
+    "anchor": "c-068",
     "fragment": "",
     "section": "题型与论证方法",
     "context": "探究评价题：阅读评价。"
@@ -62778,7 +65034,7 @@
   {
     "source": "m-literary-reading",
     "target": "k-comparison",
-    "anchor": "c-058",
+    "anchor": "c-069",
     "fragment": "",
     "section": "题型与论证方法",
     "context": "比较阅读题：比较阅读。"
@@ -62786,7 +65042,7 @@
   {
     "source": "m-literary-reading",
     "target": "k-micro-writing",
-    "anchor": "c-059",
+    "anchor": "c-070",
     "fragment": "",
     "section": "题型与论证方法",
     "context": "情境微写作（续写/口吻写作）：情境微写作。"
@@ -62794,7 +65050,7 @@
   {
     "source": "m-literary-reading",
     "target": "k-evidence",
-    "anchor": "c-061",
+    "anchor": "c-072",
     "fragment": "",
     "section": "解释的证据与边界",
     "context": "文本依据原则：文本证据与阅读推论。"
@@ -62802,7 +65058,7 @@
   {
     "source": "m-literary-reading",
     "target": "k-evidence",
-    "anchor": "c-062",
+    "anchor": "c-073",
     "fragment": "",
     "section": "解释的证据与边界",
     "context": "过度解读之戒：文本证据与阅读推论。"
@@ -62810,7 +65066,7 @@
   {
     "source": "m-literary-reading",
     "target": "k-affect-tone",
-    "anchor": "c-063",
+    "anchor": "c-074",
     "fragment": "",
     "section": "解释的证据与边界",
     "context": "情感基调的准确拿捏：情感基调。"
@@ -62818,7 +65074,7 @@
   {
     "source": "m-literary-reading",
     "target": "k-evidence",
-    "anchor": "c-064",
+    "anchor": "c-075",
     "fragment": "",
     "section": "解释的证据与边界",
     "context": "整体与局部：文本证据与阅读推论。"
@@ -62826,7 +65082,7 @@
   {
     "source": "m-literary-reading",
     "target": "k-irony",
-    "anchor": "c-065",
+    "anchor": "c-076",
     "fragment": "",
     "section": "解释的证据与边界",
     "context": "反讽的识别：反讽。"
@@ -62834,7 +65090,7 @@
   {
     "source": "m-literary-reading",
     "target": "k-symbol",
-    "anchor": "c-066",
+    "anchor": "c-077",
     "fragment": "",
     "section": "解释的证据与边界",
     "context": "象征与隐喻的分辨：象征；比喻。"
@@ -62842,7 +65098,7 @@
   {
     "source": "m-literary-reading",
     "target": "k-metaphor",
-    "anchor": "c-066",
+    "anchor": "c-077",
     "fragment": "",
     "section": "解释的证据与边界",
     "context": "象征与隐喻的分辨：象征；比喻。"
@@ -62850,7 +65106,7 @@
   {
     "source": "m-literary-reading",
     "target": "k-evaluation",
-    "anchor": "c-067",
+    "anchor": "c-078",
     "fragment": "",
     "section": "解释的证据与边界",
     "context": "多元解读的边界：阅读评价。"
@@ -62858,7 +65114,7 @@
   {
     "source": "m-literary-reading",
     "target": "k-choice-reading",
-    "anchor": "c-068",
+    "anchor": "c-079",
     "fragment": "",
     "section": "解释的证据与边界",
     "context": "答题的概念精确性：选择题的证据核验。"
@@ -62866,7 +65122,7 @@
   {
     "source": "m-literary-reading",
     "target": "e-rain-city",
-    "anchor": "c-069",
+    "anchor": "c-080",
     "fragment": "",
     "section": "阅读篇目与题组",
     "context": "海飞《暴雨倾城》：作品让说书、私人怀念与当下锄奸相互映照，呈现市井艺人在乱世中对家国责任的感受与回应。结尾集体诵词把个体经验引向共同情感。"
@@ -62874,7 +65130,7 @@
   {
     "source": "m-literary-reading",
     "target": "e-dongfeng240",
-    "anchor": "c-070",
+    "anchor": "c-081",
     "fragment": "",
     "section": "阅读篇目与题组",
     "context": "孙晓青《拯救东风240》：叙述通过救车的艰辛表现技术能力、补救失误的决心和战友情，并由一个人的经历引向对戍边群体的敬意。善意、判断不足与责任担当须分时段辨析。"
@@ -62882,7 +65138,7 @@
   {
     "source": "m-literary-reading",
     "target": "e-yudu",
-    "anchor": "c-071",
+    "anchor": "c-082",
     "fragment": "",
     "section": "阅读篇目与题组",
     "context": "李晓君《于都河》：于都河既见证艰辛迁徙，也送别远征者。文章在山川、群体与历史之间建立联系，赞叹人的韧性，同时保留对牺牲和未归的深切痛惜。"
@@ -62890,7 +65146,7 @@
   {
     "source": "m-literary-reading",
     "target": "e-wilderness",
-    "anchor": "c-072",
+    "anchor": "c-083",
     "fragment": "",
     "section": "阅读篇目与题组",
     "context": "张炜《荒野的声音》：外祖母的言传和儿童的感官体验使草木生灵进入相互关怀的世界。文章重视对自然差异的辨认，也展示想象怎样丰富生命理解。"
@@ -62898,7 +65154,7 @@
   {
     "source": "m-literary-reading",
     "target": "e-wall-universe",
-    "anchor": "c-073",
+    "anchor": "c-084",
     "fragment": "",
     "section": "阅读篇目与题组",
     "context": "葛水平《壁上乾坤》：参观者由壁画的形式与技艺进入文明记忆，继而追述保护和搬迁。文中的历史概括带有散文作者的评价，应与可独立核查的史实分别理解。"
@@ -62906,7 +65162,7 @@
   {
     "source": "m-literary-reading",
     "target": "e-lamp",
-    "anchor": "c-074",
+    "anchor": "c-085",
     "fragment": "",
     "section": "阅读篇目与题组",
     "context": "刘庆邦《灯》：父亲以不说破的行动成全女儿，女儿又以家常关怀回应父亲。作品在不幸处境中呈现相互体恤，并以留白保持情感的分寸。"
@@ -62914,7 +65170,7 @@
   {
     "source": "m-literary-reading",
     "target": "e-beiping",
-    "anchor": "c-075",
+    "anchor": "c-086",
     "fragment": "",
     "section": "阅读篇目与题组",
     "context": "老舍《想北平》：北平的不可替代性来自生活经验与情感归属，花蔬、布局和细小记忆共同构成“我的北平”。真爱难言与不断诉说形成抒情张力。"
@@ -62922,7 +65178,7 @@
   {
     "source": "m-literary-reading",
     "target": "e-dengzhi",
-    "anchor": "c-076",
+    "anchor": "c-087",
     "fragment": "",
     "section": "阅读篇目与题组",
     "context": "罗贯中（原著）《邓芝使吴》：选文通过威逼、廷辩和态度转变塑造使臣胆识与辩才。作品中的人物立场与戏剧化情节应作为文学表达理解，不直接等同外交史实。"
@@ -62930,7 +65186,7 @@
   {
     "source": "m-literary-reading",
     "target": "e-linchong",
-    "anchor": "c-077",
+    "anchor": "c-088",
     "fragment": "",
     "section": "阅读篇目与题组",
     "context": "茅盾《豹子头林冲》：林冲从个人复仇冲动转向对滥杀、山寨领导和共同出路的思考。勇武与克制并存，体现现代改写对古典人物精神世界的重新展开。"
@@ -62938,7 +65194,7 @@
   {
     "source": "m-literary-reading",
     "target": "e-steak",
-    "anchor": "c-078",
+    "anchor": "c-089",
     "fragment": "",
     "section": "阅读篇目与题组",
     "context": "杰克·伦敦《一块牛排》：身体衰老、贫困和职业竞争共同限制老拳手的选择。牛排使抽象的生存困境获得具体形态，经验与意志不能自动克服物质匮乏。"
@@ -62946,7 +65202,7 @@
   {
     "source": "m-literary-reading",
     "target": "e-new-key",
-    "anchor": "c-079",
+    "anchor": "c-090",
     "fragment": "",
     "section": "阅读篇目与题组",
     "context": "祖别茨《新钥匙》：如厕资格与荣誉身份被荒诞地联系起来，教授的郑重申请暴露身份依附的困境。结尾使其受辱推断动摇，同时留下制度运作的模糊地带。"
@@ -62954,7 +65210,7 @@
   {
     "source": "m-literary-reading",
     "target": "e-spring-poetry",
-    "anchor": "c-080",
+    "anchor": "c-091",
     "fragment": "",
     "section": "阅读篇目与题组",
     "context": "李汉荣《泉边，诗的时光》：作者既肯定青春写诗的精神价值，又由泉边体验发现文字创作之外的诗意。由急于表达转向澄明感受，是认识的变化，并非取消创作实践。"
@@ -62962,7 +65218,7 @@
   {
     "source": "m-literary-reading",
     "target": "e-daye",
-    "anchor": "c-081",
+    "anchor": "c-092",
     "fragment": "",
     "section": "阅读篇目与题组",
     "context": "毕飞宇《打野》：挖荠菜对母亲意味着生存和传承，对追随者却成为流行活动。作品通过语调、身份和行动意义的错位，追问传播热度能否真正理解他人的苦难。"
@@ -62970,7 +65226,7 @@
   {
     "source": "m-literary-reading",
     "target": "e-duck-eggs",
-    "anchor": "c-082",
+    "anchor": "c-093",
     "fragment": "",
     "section": "阅读篇目与题组",
     "context": "汪曾祺《端午的鸭蛋》：一枚鸭蛋连接物产、节俗、童趣与文化记忆。平淡口语和典籍化用相互映衬，传递乡情与日常生活的审美趣味。"
@@ -62978,7 +65234,7 @@
   {
     "source": "m-literary-reading",
     "target": "e-jicai",
-    "anchor": "c-083",
+    "anchor": "c-094",
     "fragment": "",
     "section": "阅读篇目与题组",
     "context": "吴伯箫《荠菜花》：荠菜引出明丽的童年与淳朴乡情，结尾炮声使回忆转为难言的苦痛。作品既感叹时光不可复返，也对战乱毁伤日常生活表达沉痛。"
@@ -62986,7 +65242,7 @@
   {
     "source": "m-literary-reading",
     "target": "e-dongfeng240",
-    "anchor": "c-084",
+    "anchor": "c-095",
     "fragment": "",
     "section": "比较阅读路径",
     "context": "《拯救东风240》与《永远的雪域高原》：比较极端环境、行动选择与结尾对群体的呈现。"
@@ -62994,7 +65250,7 @@
   {
     "source": "m-literary-reading",
     "target": "e-snow",
-    "anchor": "c-084",
+    "anchor": "c-095",
     "fragment": "",
     "section": "比较阅读路径",
     "context": "《拯救东风240》与《永远的雪域高原》：比较极端环境、行动选择与结尾对群体的呈现。"
@@ -63002,7 +65258,7 @@
   {
     "source": "m-literary-reading",
     "target": "e-lamp",
-    "anchor": "c-085",
+    "anchor": "c-096",
     "fragment": "",
     "section": "比较阅读路径",
     "context": "《灯》、《想北平》与《端午的鸭蛋》：比较日常细物怎样承载亲情和乡情，区分象征、比喻与叙事媒介。"
@@ -63010,7 +65266,7 @@
   {
     "source": "m-literary-reading",
     "target": "e-beiping",
-    "anchor": "c-085",
+    "anchor": "c-096",
     "fragment": "",
     "section": "比较阅读路径",
     "context": "《灯》、《想北平》与《端午的鸭蛋》：比较日常细物怎样承载亲情和乡情，区分象征、比喻与叙事媒介。"
@@ -63018,7 +65274,7 @@
   {
     "source": "m-literary-reading",
     "target": "e-duck-eggs",
-    "anchor": "c-085",
+    "anchor": "c-096",
     "fragment": "",
     "section": "比较阅读路径",
     "context": "《灯》、《想北平》与《端午的鸭蛋》：比较日常细物怎样承载亲情和乡情，区分象征、比喻与叙事媒介。"
@@ -63026,7 +65282,7 @@
   {
     "source": "m-literary-reading",
     "target": "e-daye",
-    "anchor": "c-086",
+    "anchor": "c-097",
     "fragment": "",
     "section": "比较阅读路径",
     "context": "《打野》与《荠菜花》：同写荠菜，记忆、叙述语调和社会关联各有不同。"
@@ -63034,7 +65290,7 @@
   {
     "source": "m-literary-reading",
     "target": "e-jicai",
-    "anchor": "c-086",
+    "anchor": "c-097",
     "fragment": "",
     "section": "比较阅读路径",
     "context": "《打野》与《荠菜花》：同写荠菜，记忆、叙述语调和社会关联各有不同。"
@@ -63042,7 +65298,7 @@
   {
     "source": "m-literary-reading",
     "target": "e-new-key",
-    "anchor": "c-087",
+    "anchor": "c-098",
     "fragment": "",
     "section": "比较阅读路径",
     "context": "《新钥匙》与《一块牛排》：区分人物自我理解、叙述信息和读者判断，再检验续写的情境约束。"
@@ -63050,7 +65306,7 @@
   {
     "source": "m-literary-reading",
     "target": "e-steak",
-    "anchor": "c-087",
+    "anchor": "c-098",
     "fragment": "",
     "section": "比较阅读路径",
     "context": "《新钥匙》与《一块牛排》：区分人物自我理解、叙述信息和读者判断，再检验续写的情境约束。"
@@ -63058,7 +65314,7 @@
   {
     "source": "m-literary-reading",
     "target": "m-reading",
-    "anchor": "c-088",
+    "anchor": "c-099",
     "fragment": "",
     "section": "比较阅读路径",
     "context": "进一步参阅叙事阅读、诗歌阅读与写作研究，将相邻概念放入具体任务中辨析。"
@@ -63066,7 +65322,7 @@
   {
     "source": "m-literary-reading",
     "target": "m-poetry",
-    "anchor": "c-088",
+    "anchor": "c-099",
     "fragment": "",
     "section": "比较阅读路径",
     "context": "进一步参阅叙事阅读、诗歌阅读与写作研究，将相邻概念放入具体任务中辨析。"
@@ -63074,7 +65330,7 @@
   {
     "source": "m-literary-reading",
     "target": "m-writing",
-    "anchor": "c-088",
+    "anchor": "c-099",
     "fragment": "",
     "section": "比较阅读路径",
     "context": "进一步参阅叙事阅读、诗歌阅读与写作研究，将相邻概念放入具体任务中辨析。"
@@ -63082,7 +65338,7 @@
   {
     "source": "m-literary-reading",
     "target": "e-2026-dajuzi",
-    "anchor": "c-089",
+    "anchor": "c-100",
     "fragment": "",
     "section": "2026年研习文本",
     "context": "打橘子：沿橘子与旧居的记忆，辨认嬉戏之乐、重访怅惘和怀人情思。"
@@ -63090,7 +65346,7 @@
   {
     "source": "m-literary-reading",
     "target": "e-2026-gecao",
-    "anchor": "c-090",
+    "anchor": "c-101",
     "fragment": "",
     "section": "2026年研习文本",
     "context": "割草：从列文的犹疑与身体经验中，观察劳动如何改变他与农民的关系。"
@@ -63098,7 +65354,7 @@
   {
     "source": "m-literary-reading",
     "target": "e-2026-repair-time",
-    "anchor": "c-091",
+    "anchor": "c-102",
     "fragment": "",
     "section": "2026年研习文本",
     "context": "修补时间的人：由旧书店的日常、关闭与延续，理解修书如何连接人与历史。"
@@ -63106,7 +65362,7 @@
   {
     "source": "m-literary-reading",
     "target": "m-exam-2026",
-    "anchor": "c-092",
+    "anchor": "c-103",
     "fragment": "",
     "section": "2026年研习文本",
     "context": "全部题组与试卷归属。"
@@ -63114,7 +65370,7 @@
   {
     "source": "m-literary-reading",
     "target": "t-hetang",
-    "anchor": "c-093",
+    "anchor": "c-104",
     "fragment": "",
     "section": "散文结构细读",
     "context": "《荷塘月色》：由游踪、观察顺序与抒情进程三个维度考察同一篇章；参照阅读单位辨别自然段、结构层次与句群。"
@@ -63122,10 +65378,42 @@
   {
     "source": "m-literary-reading",
     "target": "k-reading-units",
-    "anchor": "c-093",
+    "anchor": "c-104",
     "fragment": "",
     "section": "散文结构细读",
     "context": "《荷塘月色》：由游踪、观察顺序与抒情进程三个维度考察同一篇章；参照阅读单位辨别自然段、结构层次与句群。"
+  },
+  {
+    "source": "m-literary-theory",
+    "target": "k-focalization",
+    "anchor": "c-006",
+    "fragment": "",
+    "section": "跨板块研习",
+    "context": "叙述声音与聚焦 · 人物形象 · 文学批评的路径与证据 · 《人间词话》的境界说"
+  },
+  {
+    "source": "m-literary-theory",
+    "target": "k-character",
+    "anchor": "c-006",
+    "fragment": "",
+    "section": "跨板块研习",
+    "context": "叙述声音与聚焦 · 人物形象 · 文学批评的路径与证据 · 《人间词话》的境界说"
+  },
+  {
+    "source": "m-literary-theory",
+    "target": "k-critical-approaches",
+    "anchor": "c-006",
+    "fragment": "",
+    "section": "跨板块研习",
+    "context": "叙述声音与聚焦 · 人物形象 · 文学批评的路径与证据 · 《人间词话》的境界说"
+  },
+  {
+    "source": "m-literary-theory",
+    "target": "k-jingjie",
+    "anchor": "c-006",
+    "fragment": "",
+    "section": "跨板块研习",
+    "context": "叙述声音与聚焦 · 人物形象 · 文学批评的路径与证据 · 《人间词话》的境界说"
   },
   {
     "source": "m-local-culture",
@@ -63160,9 +65448,89 @@
     "context": "具体方法参见观察记录、提问设计、访谈资料的生成与调查结论的范围。"
   },
   {
+    "source": "m-modern-foundations",
+    "target": "k-sound",
+    "anchor": "c-007",
+    "fragment": "",
+    "section": "跨板块研习",
+    "context": "声调与语音修辞 · 朗读节奏 · 多义词与词义系统 · 通假、古今字与异体字"
+  },
+  {
+    "source": "m-modern-foundations",
+    "target": "k-rhythm",
+    "anchor": "c-007",
+    "fragment": "",
+    "section": "跨板块研习",
+    "context": "声调与语音修辞 · 朗读节奏 · 多义词与词义系统 · 通假、古今字与异体字"
+  },
+  {
+    "source": "m-modern-foundations",
+    "target": "k-lexical-polysemy",
+    "anchor": "c-007",
+    "fragment": "",
+    "section": "跨板块研习",
+    "context": "声调与语音修辞 · 朗读节奏 · 多义词与词义系统 · 通假、古今字与异体字"
+  },
+  {
+    "source": "m-modern-foundations",
+    "target": "k-lexical-loan",
+    "anchor": "c-007",
+    "fragment": "",
+    "section": "跨板块研习",
+    "context": "声调与语音修辞 · 朗读节奏 · 多义词与词义系统 · 通假、古今字与异体字"
+  },
+  {
+    "source": "m-modern-foundations",
+    "target": "m-word-study",
+    "anchor": "c-008",
+    "fragment": "",
+    "section": "跨板块研习",
+    "context": "专题研习：词语积累与词语解释"
+  },
+  {
+    "source": "m-poetry",
+    "target": "k-antithesis",
+    "anchor": "c-006",
+    "fragment": "",
+    "section": "跨板块研习",
+    "context": "对偶、对仗与对联 · 互文、对文与省文 · 重章叠句 · 文学史的分期与语境 · 浪漫主义"
+  },
+  {
+    "source": "m-poetry",
+    "target": "k-ancient-rhetoric",
+    "anchor": "c-006",
+    "fragment": "",
+    "section": "跨板块研习",
+    "context": "对偶、对仗与对联 · 互文、对文与省文 · 重章叠句 · 文学史的分期与语境 · 浪漫主义"
+  },
+  {
+    "source": "m-poetry",
+    "target": "k-stanza-refrain",
+    "anchor": "c-006",
+    "fragment": "",
+    "section": "跨板块研习",
+    "context": "对偶、对仗与对联 · 互文、对文与省文 · 重章叠句 · 文学史的分期与语境 · 浪漫主义"
+  },
+  {
+    "source": "m-poetry",
+    "target": "k-literary-history",
+    "anchor": "c-006",
+    "fragment": "",
+    "section": "跨板块研习",
+    "context": "对偶、对仗与对联 · 互文、对文与省文 · 重章叠句 · 文学史的分期与语境 · 浪漫主义"
+  },
+  {
+    "source": "m-poetry",
+    "target": "k-romanticism",
+    "anchor": "c-006",
+    "fragment": "",
+    "section": "跨板块研习",
+    "context": "对偶、对仗与对联 · 互文、对文与省文 · 重章叠句 · 文学史的分期与语境 · 浪漫主义"
+  },
+  {
     "source": "m-poetry",
     "target": "k-poetic-image",
-    "anchor": "c-002",
+    "anchor": "c-009",
     "fragment": "",
     "section": "形象怎样组织经验",
     "context": "感官意象的组合：比较景物的空间、动静和感官层次，再讨论整体意境。象征解释进一步检验形象是否持续指向超出字面的意义。"
@@ -63170,7 +65538,7 @@
   {
     "source": "m-poetry",
     "target": "k-symbol",
-    "anchor": "c-002",
+    "anchor": "c-009",
     "fragment": "",
     "section": "形象怎样组织经验",
     "context": "感官意象的组合：比较景物的空间、动静和感官层次，再讨论整体意境。象征解释进一步检验形象是否持续指向超出字面的意义。"
@@ -63178,7 +65546,7 @@
   {
     "source": "m-poetry",
     "target": "t-changsha",
-    "anchor": "c-003",
+    "anchor": "c-010",
     "fragment": "",
     "section": "形象怎样组织经验",
     "context": "《沁园春·长沙》由秋景转向主体追问；《峨日朵雪峰之侧》从自然的巨大转向微小生命的共同存在。可比较两篇如何组织观察尺度。"
@@ -63186,7 +65554,7 @@
   {
     "source": "m-poetry",
     "target": "t-eduo",
-    "anchor": "c-003",
+    "anchor": "c-010",
     "fragment": "",
     "section": "形象怎样组织经验",
     "context": "《沁园春·长沙》由秋景转向主体追问；《峨日朵雪峰之侧》从自然的巨大转向微小生命的共同存在。可比较两篇如何组织观察尺度。"
@@ -63194,7 +65562,7 @@
   {
     "source": "m-poetry",
     "target": "k-line-break",
-    "anchor": "c-004",
+    "anchor": "c-011",
     "fragment": "",
     "section": "声音与分行如何参与意义",
     "context": "诗行与句法边界：比较语法完成和视觉分行。朗读节奏：把停连、重音与句长作为解释的可听表现，并留意历史声调与现代读音的区别。"
@@ -63202,7 +65570,7 @@
   {
     "source": "m-poetry",
     "target": "k-rhythm",
-    "anchor": "c-004",
+    "anchor": "c-011",
     "fragment": "",
     "section": "声音与分行如何参与意义",
     "context": "诗行与句法边界：比较语法完成和视觉分行。朗读节奏：把停连、重音与句长作为解释的可听表现，并留意历史声调与现代读音的区别。"
@@ -63210,7 +65578,7 @@
   {
     "source": "m-poetry",
     "target": "k-sound",
-    "anchor": "c-004",
+    "anchor": "c-011",
     "fragment": "",
     "section": "声音与分行如何参与意义",
     "context": "诗行与句法边界：比较语法完成和视觉分行。朗读节奏：把停连、重音与句长作为解释的可听表现，并留意历史声调与现代读音的区别。"
@@ -63218,7 +65586,7 @@
   {
     "source": "m-poetry",
     "target": "t-fanghao",
-    "anchor": "c-005",
+    "anchor": "c-012",
     "fragment": "",
     "section": "声音与分行如何参与意义",
     "context": "《立在地球边上放号》以短呼喊与长排比表现力量；《致云雀》在五行节组中保持跨行的语法联系。译诗的汉语形式须与原语格律区别。"
@@ -63226,7 +65594,7 @@
   {
     "source": "m-poetry",
     "target": "t-yunque",
-    "anchor": "c-005",
+    "anchor": "c-012",
     "fragment": "",
     "section": "声音与分行如何参与意义",
     "context": "《立在地球边上放号》以短呼喊与长排比表现力量；《致云雀》在五行节组中保持跨行的语法联系。译诗的汉语形式须与原语格律区别。"
@@ -63234,7 +65602,7 @@
   {
     "source": "m-poetry",
     "target": "k-poetic-address",
-    "anchor": "c-006",
+    "anchor": "c-013",
     "fragment": "",
     "section": "主体怎样在言说中改变认识",
     "context": "呼告建立主体与受者的关系，抒情转折追踪提问、否定和祈求的变化，复现解释同一句式在不同阶段的作用。"
@@ -63242,7 +65610,7 @@
   {
     "source": "m-poetry",
     "target": "k-lyric-turn",
-    "anchor": "c-006",
+    "anchor": "c-013",
     "fragment": "",
     "section": "主体怎样在言说中改变认识",
     "context": "呼告建立主体与受者的关系，抒情转折追踪提问、否定和祈求的变化，复现解释同一句式在不同阶段的作用。"
@@ -63250,7 +65618,7 @@
   {
     "source": "m-poetry",
     "target": "k-repetition",
-    "anchor": "c-006",
+    "anchor": "c-013",
     "fragment": "",
     "section": "主体怎样在言说中改变认识",
     "context": "呼告建立主体与受者的关系，抒情转折追踪提问、否定和祈求的变化，复现解释同一句式在不同阶段的作用。"
@@ -63258,7 +65626,7 @@
   {
     "source": "m-poetry",
     "target": "t-hongzhu",
-    "anchor": "c-007",
+    "anchor": "c-014",
     "fragment": "",
     "section": "主体怎样在言说中改变认识",
     "context": "《红烛》通过疑问与自我纠正理解奉献，《致云雀》由称颂转向反观自身与求教；二者都使对物的言说成为诗人的自我认识。"
@@ -63266,7 +65634,7 @@
   {
     "source": "m-poetry",
     "target": "t-yunque",
-    "anchor": "c-007",
+    "anchor": "c-014",
     "fragment": "",
     "section": "主体怎样在言说中改变认识",
     "context": "《红烛》通过疑问与自我纠正理解奉献，《致云雀》由称颂转向反观自身与求教；二者都使对物的言说成为诗人的自我认识。"
@@ -63274,7 +65642,7 @@
   {
     "source": "m-poetry",
     "target": "k-evidence",
-    "anchor": "c-008",
+    "anchor": "c-015",
     "fragment": "",
     "section": "从细读形成札记与朗读方案",
     "context": "札记围绕一个可检验的判断，提供具体词句、关系解释与结论范围；朗读则把这一理解转换为有依据的重音、停连和语气选择。两者均应遵循证据与结论的关系。"
@@ -63282,7 +65650,7 @@
   {
     "source": "m-poetry",
     "target": "t-changsha",
-    "anchor": "c-009",
+    "anchor": "c-016",
     "fragment": "q-2",
     "section": "从细读形成札记与朗读方案",
     "context": "各篇的“教材研习”保留意象札记和朗读互评任务；《沁园春·长沙》的资料研读题另要求把文献查找与炼字分析结合。参考作答与分析方法可以提供路径，开放性问题仍须由具体证据支撑不同判断。"
@@ -63290,7 +65658,7 @@
   {
     "source": "m-poetry",
     "target": "e-2026-congma",
-    "anchor": "c-010",
+    "anchor": "c-017",
     "fragment": "",
     "section": "2026年研习文本",
     "context": "骢马二首：比较两首咏马诗的昂扬气象、形象刻画和情志指向。"
@@ -63298,7 +65666,7 @@
   {
     "source": "m-poetry",
     "target": "e-2026-feng",
-    "anchor": "c-011",
+    "anchor": "c-018",
     "fragment": "",
     "section": "2026年研习文本",
     "context": "风：从风中之物、风中之声及其触发的情思理解侧面描写。"
@@ -63306,253 +65674,13 @@
   {
     "source": "m-poetry",
     "target": "e-2026-xiyu",
-    "anchor": "c-012",
+    "anchor": "c-019",
     "fragment": "",
     "section": "2026年研习文本",
     "context": "沔阳道中喜雨：追踪从身体清凉、行旅畅快到雨少忧农的情感变化。"
   },
   {
     "source": "m-poetry",
-    "target": "m-exam-2026",
-    "anchor": "c-013",
-    "fragment": "",
-    "section": "2026年研习文本",
-    "context": "全部题组与试卷归属。"
-  },
-  {
-    "source": "m-reading",
-    "target": "k-setting",
-    "anchor": "c-002",
-    "fragment": "",
-    "section": "环境如何进入叙事",
-    "context": "环境作用：先说明环境与人物、事件的关系，再分别讨论情节条件、社会空间与仪式资格。"
-  },
-  {
-    "source": "m-reading",
-    "target": "k-plot",
-    "anchor": "c-002",
-    "fragment": "",
-    "section": "环境如何进入叙事",
-    "context": "环境作用：先说明环境与人物、事件的关系，再分别讨论情节条件、社会空间与仪式资格。"
-  },
-  {
-    "source": "m-reading",
-    "target": "k-social",
-    "anchor": "c-002",
-    "fragment": "",
-    "section": "环境如何进入叙事",
-    "context": "环境作用：先说明环境与人物、事件的关系，再分别讨论情节条件、社会空间与仪式资格。"
-  },
-  {
-    "source": "m-reading",
-    "target": "k-ritual",
-    "anchor": "c-002",
-    "fragment": "",
-    "section": "环境如何进入叙事",
-    "context": "环境作用：先说明环境与人物、事件的关系，再分别讨论情节条件、社会空间与仪式资格。"
-  },
-  {
-    "source": "m-reading",
-    "target": "k-atmosphere",
-    "anchor": "c-003",
-    "fragment": "",
-    "section": "环境如何进入叙事",
-    "context": "氛围与心境：景物感受与人物心理分别取证，再用象征解释考察是否存在稳定的意义指向。"
-  },
-  {
-    "source": "m-reading",
-    "target": "k-symbol",
-    "anchor": "c-003",
-    "fragment": "",
-    "section": "环境如何进入叙事",
-    "context": "氛围与心境：景物感受与人物心理分别取证，再用象征解释考察是否存在稳定的意义指向。"
-  },
-  {
-    "source": "m-reading",
-    "target": "k-focalization",
-    "anchor": "c-004",
-    "fragment": "",
-    "section": "谁提供信息，何时提供信息",
-    "context": "声音与聚焦：区分讲述者与信息范围；回忆文本还可进一步讨论经历时与讲述时。"
-  },
-  {
-    "source": "m-reading",
-    "target": "k-memory-perspective",
-    "anchor": "c-004",
-    "fragment": "",
-    "section": "谁提供信息，何时提供信息",
-    "context": "声音与聚焦：区分讲述者与信息范围；回忆文本还可进一步讨论经历时与讲述时。"
-  },
-  {
-    "source": "m-reading",
-    "target": "k-order",
-    "anchor": "c-005",
-    "fragment": "",
-    "section": "谁提供信息，何时提供信息",
-    "context": "叙述次序：比较已知结局与延迟揭示对阅读期待的不同影响。"
-  },
-  {
-    "source": "m-reading",
-    "target": "k-revelation",
-    "anchor": "c-005",
-    "fragment": "",
-    "section": "谁提供信息，何时提供信息",
-    "context": "叙述次序：比较已知结局与延迟揭示对阅读期待的不同影响。"
-  },
-  {
-    "source": "m-reading",
-    "target": "k-repetition",
-    "anchor": "c-006",
-    "fragment": "",
-    "section": "重复的材料为何产生不同意义",
-    "context": "物象复现：记录出现位置与语境变化，再判断是否构成照应或线索。"
-  },
-  {
-    "source": "m-reading",
-    "target": "k-callback",
-    "anchor": "c-006",
-    "fragment": "",
-    "section": "重复的材料为何产生不同意义",
-    "context": "物象复现：记录出现位置与语境变化，再判断是否构成照应或线索。"
-  },
-  {
-    "source": "m-reading",
-    "target": "k-evidence",
-    "anchor": "c-007",
-    "fragment": "",
-    "section": "重复的材料为何产生不同意义",
-    "context": "证据与结论：所有结构与主题判断均须明确其文本依据，并接受反例的检验。"
-  },
-  {
-    "source": "m-reading",
-    "target": "t-zhufu",
-    "anchor": "c-008",
-    "fragment": "",
-    "section": "对读材料",
-    "context": "《祝福》：比较仪式资格、重复话语与叙述次序。"
-  },
-  {
-    "source": "m-reading",
-    "target": "e-shouwang",
-    "anchor": "c-009",
-    "fragment": "",
-    "section": "对读材料",
-    "context": "《守望》：比较空间边界、哀悼与幸福的并存。"
-  },
-  {
-    "source": "m-reading",
-    "target": "e-snow",
-    "anchor": "c-010",
-    "fragment": "",
-    "section": "对读材料",
-    "context": "《永远的雪域高原》：比较事件因果、苹果的照应与结尾揭示。"
-  },
-  {
-    "source": "m-reading",
-    "target": "t-baicao",
-    "anchor": "c-011",
-    "fragment": "",
-    "section": "对读材料",
-    "context": "《从百草园到三味书屋》：比较回忆视角与空间中的儿童活动。"
-  },
-  {
-    "source": "m-reading",
-    "target": "m-literary-reading",
-    "anchor": "c-012",
-    "fragment": "",
-    "section": "文学类阅读的延伸路径",
-    "context": "文学类文本阅读将人物、结构、语言与作答方法相互连接。"
-  },
-  {
-    "source": "m-reading",
-    "target": "e-spring-poetry",
-    "anchor": "c-013",
-    "fragment": "",
-    "section": "文学类阅读的延伸路径",
-    "context": "《泉边，诗的时光》的先抑后扬可结合抑扬关系辨析；《荠菜花》可结合点面结合与比较阅读展开。"
-  },
-  {
-    "source": "m-reading",
-    "target": "k-suppress-praise",
-    "anchor": "c-013",
-    "fragment": "",
-    "section": "文学类阅读的延伸路径",
-    "context": "《泉边，诗的时光》的先抑后扬可结合抑扬关系辨析；《荠菜花》可结合点面结合与比较阅读展开。"
-  },
-  {
-    "source": "m-reading",
-    "target": "e-jicai",
-    "anchor": "c-013",
-    "fragment": "",
-    "section": "文学类阅读的延伸路径",
-    "context": "《泉边，诗的时光》的先抑后扬可结合抑扬关系辨析；《荠菜花》可结合点面结合与比较阅读展开。"
-  },
-  {
-    "source": "m-reading",
-    "target": "k-point-panorama",
-    "anchor": "c-013",
-    "fragment": "",
-    "section": "文学类阅读的延伸路径",
-    "context": "《泉边，诗的时光》的先抑后扬可结合抑扬关系辨析；《荠菜花》可结合点面结合与比较阅读展开。"
-  },
-  {
-    "source": "m-reading",
-    "target": "k-comparison",
-    "anchor": "c-013",
-    "fragment": "",
-    "section": "文学类阅读的延伸路径",
-    "context": "《泉边，诗的时光》的先抑后扬可结合抑扬关系辨析；《荠菜花》可结合点面结合与比较阅读展开。"
-  },
-  {
-    "source": "m-reading",
-    "target": "e-2026-langqiao",
-    "anchor": "c-014",
-    "fragment": "",
-    "section": "2026年研习文本",
-    "context": "廊桥：辨析廊桥的定义、命名与中西结构差异，并比较专业说明与科普问答。"
-  },
-  {
-    "source": "m-reading",
-    "target": "e-2026-deep-sea",
-    "anchor": "c-015",
-    "fragment": "",
-    "section": "2026年研习文本",
-    "context": "深渊科考：比较新闻与论文如何组织同一科研事实，区分发现、假说与验证。"
-  },
-  {
-    "source": "m-reading",
-    "target": "e-2026-interview",
-    "anchor": "c-016",
-    "fragment": "",
-    "section": "2026年研习文本",
-    "context": "访谈作为研究与史料：理解访谈的互动建构、解释空间和史料价值，并据研究任务选择方法。"
-  },
-  {
-    "source": "m-reading",
-    "target": "e-2026-dajuzi",
-    "anchor": "c-017",
-    "fragment": "",
-    "section": "2026年研习文本",
-    "context": "打橘子：沿橘子与旧居的记忆，辨认嬉戏之乐、重访怅惘和怀人情思。"
-  },
-  {
-    "source": "m-reading",
-    "target": "e-2026-gecao",
-    "anchor": "c-018",
-    "fragment": "",
-    "section": "2026年研习文本",
-    "context": "割草：从列文的犹疑与身体经验中，观察劳动如何改变他与农民的关系。"
-  },
-  {
-    "source": "m-reading",
-    "target": "e-2026-repair-time",
-    "anchor": "c-019",
-    "fragment": "",
-    "section": "2026年研习文本",
-    "context": "修补时间的人：由旧书店的日常、关闭与延续，理解修书如何连接人与历史。"
-  },
-  {
-    "source": "m-reading",
     "target": "m-exam-2026",
     "anchor": "c-020",
     "fragment": "",
@@ -63561,8 +65689,256 @@
   },
   {
     "source": "m-reading",
-    "target": "m-language-info",
+    "target": "m-literary-reading",
+    "anchor": "c-001",
+    "fragment": "",
+    "section": "",
+    "context": "所属板块：文学文本分析与批评。本页作为专题研习入口，知识点均链接至原有独立页面。"
+  },
+  {
+    "source": "m-reading",
+    "target": "k-setting",
+    "anchor": "c-003",
+    "fragment": "",
+    "section": "环境如何进入叙事",
+    "context": "环境作用：先说明环境与人物、事件的关系，再分别讨论情节条件、社会空间与仪式资格。"
+  },
+  {
+    "source": "m-reading",
+    "target": "k-plot",
+    "anchor": "c-003",
+    "fragment": "",
+    "section": "环境如何进入叙事",
+    "context": "环境作用：先说明环境与人物、事件的关系，再分别讨论情节条件、社会空间与仪式资格。"
+  },
+  {
+    "source": "m-reading",
+    "target": "k-social",
+    "anchor": "c-003",
+    "fragment": "",
+    "section": "环境如何进入叙事",
+    "context": "环境作用：先说明环境与人物、事件的关系，再分别讨论情节条件、社会空间与仪式资格。"
+  },
+  {
+    "source": "m-reading",
+    "target": "k-ritual",
+    "anchor": "c-003",
+    "fragment": "",
+    "section": "环境如何进入叙事",
+    "context": "环境作用：先说明环境与人物、事件的关系，再分别讨论情节条件、社会空间与仪式资格。"
+  },
+  {
+    "source": "m-reading",
+    "target": "k-atmosphere",
+    "anchor": "c-004",
+    "fragment": "",
+    "section": "环境如何进入叙事",
+    "context": "氛围与心境：景物感受与人物心理分别取证，再用象征解释考察是否存在稳定的意义指向。"
+  },
+  {
+    "source": "m-reading",
+    "target": "k-symbol",
+    "anchor": "c-004",
+    "fragment": "",
+    "section": "环境如何进入叙事",
+    "context": "氛围与心境：景物感受与人物心理分别取证，再用象征解释考察是否存在稳定的意义指向。"
+  },
+  {
+    "source": "m-reading",
+    "target": "k-focalization",
+    "anchor": "c-005",
+    "fragment": "",
+    "section": "谁提供信息，何时提供信息",
+    "context": "声音与聚焦：区分讲述者与信息范围；回忆文本还可进一步讨论经历时与讲述时。"
+  },
+  {
+    "source": "m-reading",
+    "target": "k-memory-perspective",
+    "anchor": "c-005",
+    "fragment": "",
+    "section": "谁提供信息，何时提供信息",
+    "context": "声音与聚焦：区分讲述者与信息范围；回忆文本还可进一步讨论经历时与讲述时。"
+  },
+  {
+    "source": "m-reading",
+    "target": "k-order",
+    "anchor": "c-006",
+    "fragment": "",
+    "section": "谁提供信息，何时提供信息",
+    "context": "叙述次序：比较已知结局与延迟揭示对阅读期待的不同影响。"
+  },
+  {
+    "source": "m-reading",
+    "target": "k-revelation",
+    "anchor": "c-006",
+    "fragment": "",
+    "section": "谁提供信息，何时提供信息",
+    "context": "叙述次序：比较已知结局与延迟揭示对阅读期待的不同影响。"
+  },
+  {
+    "source": "m-reading",
+    "target": "k-repetition",
+    "anchor": "c-007",
+    "fragment": "",
+    "section": "重复的材料为何产生不同意义",
+    "context": "物象复现：记录出现位置与语境变化，再判断是否构成照应或线索。"
+  },
+  {
+    "source": "m-reading",
+    "target": "k-callback",
+    "anchor": "c-007",
+    "fragment": "",
+    "section": "重复的材料为何产生不同意义",
+    "context": "物象复现：记录出现位置与语境变化，再判断是否构成照应或线索。"
+  },
+  {
+    "source": "m-reading",
+    "target": "k-evidence",
+    "anchor": "c-008",
+    "fragment": "",
+    "section": "重复的材料为何产生不同意义",
+    "context": "证据与结论：所有结构与主题判断均须明确其文本依据，并接受反例的检验。"
+  },
+  {
+    "source": "m-reading",
+    "target": "t-zhufu",
+    "anchor": "c-009",
+    "fragment": "",
+    "section": "对读材料",
+    "context": "《祝福》：比较仪式资格、重复话语与叙述次序。"
+  },
+  {
+    "source": "m-reading",
+    "target": "e-shouwang",
+    "anchor": "c-010",
+    "fragment": "",
+    "section": "对读材料",
+    "context": "《守望》：比较空间边界、哀悼与幸福的并存。"
+  },
+  {
+    "source": "m-reading",
+    "target": "e-snow",
+    "anchor": "c-011",
+    "fragment": "",
+    "section": "对读材料",
+    "context": "《永远的雪域高原》：比较事件因果、苹果的照应与结尾揭示。"
+  },
+  {
+    "source": "m-reading",
+    "target": "t-baicao",
+    "anchor": "c-012",
+    "fragment": "",
+    "section": "对读材料",
+    "context": "《从百草园到三味书屋》：比较回忆视角与空间中的儿童活动。"
+  },
+  {
+    "source": "m-reading",
+    "target": "m-literary-reading",
+    "anchor": "c-013",
+    "fragment": "",
+    "section": "文学类阅读的延伸路径",
+    "context": "文学类文本阅读将人物、结构、语言与作答方法相互连接。"
+  },
+  {
+    "source": "m-reading",
+    "target": "e-spring-poetry",
+    "anchor": "c-014",
+    "fragment": "",
+    "section": "文学类阅读的延伸路径",
+    "context": "《泉边，诗的时光》的先抑后扬可结合抑扬关系辨析；《荠菜花》可结合点面结合与比较阅读展开。"
+  },
+  {
+    "source": "m-reading",
+    "target": "k-suppress-praise",
+    "anchor": "c-014",
+    "fragment": "",
+    "section": "文学类阅读的延伸路径",
+    "context": "《泉边，诗的时光》的先抑后扬可结合抑扬关系辨析；《荠菜花》可结合点面结合与比较阅读展开。"
+  },
+  {
+    "source": "m-reading",
+    "target": "e-jicai",
+    "anchor": "c-014",
+    "fragment": "",
+    "section": "文学类阅读的延伸路径",
+    "context": "《泉边，诗的时光》的先抑后扬可结合抑扬关系辨析；《荠菜花》可结合点面结合与比较阅读展开。"
+  },
+  {
+    "source": "m-reading",
+    "target": "k-point-panorama",
+    "anchor": "c-014",
+    "fragment": "",
+    "section": "文学类阅读的延伸路径",
+    "context": "《泉边，诗的时光》的先抑后扬可结合抑扬关系辨析；《荠菜花》可结合点面结合与比较阅读展开。"
+  },
+  {
+    "source": "m-reading",
+    "target": "k-comparison",
+    "anchor": "c-014",
+    "fragment": "",
+    "section": "文学类阅读的延伸路径",
+    "context": "《泉边，诗的时光》的先抑后扬可结合抑扬关系辨析；《荠菜花》可结合点面结合与比较阅读展开。"
+  },
+  {
+    "source": "m-reading",
+    "target": "e-2026-langqiao",
+    "anchor": "c-015",
+    "fragment": "",
+    "section": "2026年研习文本",
+    "context": "廊桥：辨析廊桥的定义、命名与中西结构差异，并比较专业说明与科普问答。"
+  },
+  {
+    "source": "m-reading",
+    "target": "e-2026-deep-sea",
+    "anchor": "c-016",
+    "fragment": "",
+    "section": "2026年研习文本",
+    "context": "深渊科考：比较新闻与论文如何组织同一科研事实，区分发现、假说与验证。"
+  },
+  {
+    "source": "m-reading",
+    "target": "e-2026-interview",
+    "anchor": "c-017",
+    "fragment": "",
+    "section": "2026年研习文本",
+    "context": "访谈作为研究与史料：理解访谈的互动建构、解释空间和史料价值，并据研究任务选择方法。"
+  },
+  {
+    "source": "m-reading",
+    "target": "e-2026-dajuzi",
+    "anchor": "c-018",
+    "fragment": "",
+    "section": "2026年研习文本",
+    "context": "打橘子：沿橘子与旧居的记忆，辨认嬉戏之乐、重访怅惘和怀人情思。"
+  },
+  {
+    "source": "m-reading",
+    "target": "e-2026-gecao",
+    "anchor": "c-019",
+    "fragment": "",
+    "section": "2026年研习文本",
+    "context": "割草：从列文的犹疑与身体经验中，观察劳动如何改变他与农民的关系。"
+  },
+  {
+    "source": "m-reading",
+    "target": "e-2026-repair-time",
+    "anchor": "c-020",
+    "fragment": "",
+    "section": "2026年研习文本",
+    "context": "修补时间的人：由旧书店的日常、关闭与延续，理解修书如何连接人与历史。"
+  },
+  {
+    "source": "m-reading",
+    "target": "m-exam-2026",
     "anchor": "c-021",
+    "fragment": "",
+    "section": "2026年研习文本",
+    "context": "全部题组与试卷归属。"
+  },
+  {
+    "source": "m-reading",
+    "target": "m-language-info",
+    "anchor": "c-022",
     "fragment": "",
     "section": "语言与信息研习",
     "context": "语言运用与信息阅读：从词义、句法、标点及语篇进入文本证据、条件推理和多材料比较。"
@@ -63570,7 +65946,7 @@
   {
     "source": "m-reading",
     "target": "k-plot-summary",
-    "anchor": "c-022",
+    "anchor": "c-023",
     "fragment": "",
     "section": "情节与人物",
     "context": "情节梳理整理事件与关系；人物描写、人物心理与人物发展区分塑造方式、即时状态和长期变化；次要人物考察关系网络；叙事结尾检验反转、照应与未决意义。人物与情节研习提供对应文本与问题。"
@@ -63578,7 +65954,7 @@
   {
     "source": "m-reading",
     "target": "k-characterization",
-    "anchor": "c-022",
+    "anchor": "c-023",
     "fragment": "",
     "section": "情节与人物",
     "context": "情节梳理整理事件与关系；人物描写、人物心理与人物发展区分塑造方式、即时状态和长期变化；次要人物考察关系网络；叙事结尾检验反转、照应与未决意义。人物与情节研习提供对应文本与问题。"
@@ -63586,7 +65962,7 @@
   {
     "source": "m-reading",
     "target": "k-character-mind",
-    "anchor": "c-022",
+    "anchor": "c-023",
     "fragment": "",
     "section": "情节与人物",
     "context": "情节梳理整理事件与关系；人物描写、人物心理与人物发展区分塑造方式、即时状态和长期变化；次要人物考察关系网络；叙事结尾检验反转、照应与未决意义。人物与情节研习提供对应文本与问题。"
@@ -63594,7 +65970,7 @@
   {
     "source": "m-reading",
     "target": "k-character-change",
-    "anchor": "c-022",
+    "anchor": "c-023",
     "fragment": "",
     "section": "情节与人物",
     "context": "情节梳理整理事件与关系；人物描写、人物心理与人物发展区分塑造方式、即时状态和长期变化；次要人物考察关系网络；叙事结尾检验反转、照应与未决意义。人物与情节研习提供对应文本与问题。"
@@ -63602,7 +65978,7 @@
   {
     "source": "m-reading",
     "target": "k-minor-character",
-    "anchor": "c-022",
+    "anchor": "c-023",
     "fragment": "",
     "section": "情节与人物",
     "context": "情节梳理整理事件与关系；人物描写、人物心理与人物发展区分塑造方式、即时状态和长期变化；次要人物考察关系网络；叙事结尾检验反转、照应与未决意义。人物与情节研习提供对应文本与问题。"
@@ -63610,7 +65986,7 @@
   {
     "source": "m-reading",
     "target": "k-narrative-ending",
-    "anchor": "c-022",
+    "anchor": "c-023",
     "fragment": "",
     "section": "情节与人物",
     "context": "情节梳理整理事件与关系；人物描写、人物心理与人物发展区分塑造方式、即时状态和长期变化；次要人物考察关系网络；叙事结尾检验反转、照应与未决意义。人物与情节研习提供对应文本与问题。"
@@ -63618,7 +65994,7 @@
   {
     "source": "m-reading",
     "target": "m-character-plot",
-    "anchor": "c-022",
+    "anchor": "c-023",
     "fragment": "",
     "section": "情节与人物",
     "context": "情节梳理整理事件与关系；人物描写、人物心理与人物发展区分塑造方式、即时状态和长期变化；次要人物考察关系网络；叙事结尾检验反转、照应与未决意义。人物与情节研习提供对应文本与问题。"
@@ -63626,15 +66002,23 @@
   {
     "source": "m-reading",
     "target": "m-environment-reading",
-    "anchor": "c-023",
+    "anchor": "c-024",
     "fragment": "",
     "section": "环境阅读",
     "context": "环境阅读研习按自然环境、风俗背景、环境与情节、环境意象组织文本和题组。"
   },
   {
     "source": "m-word-study",
+    "target": "m-modern-foundations",
+    "anchor": "c-001",
+    "fragment": "",
+    "section": "",
+    "context": "所属板块：现代汉语基础。本页作为专题研习入口，知识点均链接至原有独立页面。"
+  },
+  {
+    "source": "m-word-study",
     "target": "k-vocabulary-record",
-    "anchor": "c-002",
+    "anchor": "c-003",
     "fragment": "",
     "section": "积累：从词表到语境卡",
     "context": "每张卡保留词形、读音、原句、出处、本处义项、搭配和相近词。参见词汇积累、辞书义项与一词多义。"
@@ -63642,7 +66026,7 @@
   {
     "source": "m-word-study",
     "target": "k-dictionary-senses",
-    "anchor": "c-002",
+    "anchor": "c-003",
     "fragment": "",
     "section": "积累：从词表到语境卡",
     "context": "每张卡保留词形、读音、原句、出处、本处义项、搭配和相近词。参见词汇积累、辞书义项与一词多义。"
@@ -63650,7 +66034,7 @@
   {
     "source": "m-word-study",
     "target": "k-lexical-polysemy",
-    "anchor": "c-002",
+    "anchor": "c-003",
     "fragment": "",
     "section": "积累：从词表到语境卡",
     "context": "每张卡保留词形、读音、原句、出处、本处义项、搭配和相近词。参见词汇积累、辞书义项与一词多义。"
@@ -63658,7 +66042,7 @@
   {
     "source": "m-word-study",
     "target": "k-lexical-shift",
-    "anchor": "c-003",
+    "anchor": "c-004",
     "fragment": "",
     "section": "古今：区别连续与变化",
     "context": "先判断语句时代与句法位置，再考察词义范围、感情色彩或所指对象是否变化；不要把所有陌生词都归为通假。参见古今词义、词义范围及文言词汇。"
@@ -63666,7 +66050,7 @@
   {
     "source": "m-word-study",
     "target": "k-lexical-range",
-    "anchor": "c-003",
+    "anchor": "c-004",
     "fragment": "",
     "section": "古今：区别连续与变化",
     "context": "先判断语句时代与句法位置，再考察词义范围、感情色彩或所指对象是否变化；不要把所有陌生词都归为通假。参见古今词义、词义范围及文言词汇。"
@@ -63674,7 +66058,7 @@
   {
     "source": "m-word-study",
     "target": "m-lexicon",
-    "anchor": "c-003",
+    "anchor": "c-004",
     "fragment": "",
     "section": "古今：区别连续与变化",
     "context": "先判断语句时代与句法位置，再考察词义范围、感情色彩或所指对象是否变化；不要把所有陌生词都归为通假。参见古今词义、词义范围及文言词汇。"
@@ -63682,7 +66066,7 @@
   {
     "source": "m-word-study",
     "target": "k-lexical-comparison",
-    "anchor": "c-004",
+    "anchor": "c-005",
     "fragment": "",
     "section": "辨析：在具体表达中换词",
     "context": "比较近义词时，控制语境中的其他条件，检验语义范围、搭配、语体与评价色彩。参见词义辨析、语域与语境。"
@@ -63690,7 +66074,7 @@
   {
     "source": "m-word-study",
     "target": "k-register",
-    "anchor": "c-004",
+    "anchor": "c-005",
     "fragment": "",
     "section": "辨析：在具体表达中换词",
     "context": "比较近义词时，控制语境中的其他条件，检验语义范围、搭配、语体与评价色彩。参见词义辨析、语域与语境。"
@@ -63698,7 +66082,7 @@
   {
     "source": "m-word-study",
     "target": "k-context",
-    "anchor": "c-004",
+    "anchor": "c-005",
     "fragment": "",
     "section": "辨析：在具体表达中换词",
     "context": "比较近义词时，控制语境中的其他条件，检验语义范围、搭配、语体与评价色彩。参见词义辨析、语域与语境。"
@@ -63706,7 +66090,7 @@
   {
     "source": "m-word-study",
     "target": "m-bixiu-upper",
-    "anchor": "c-008",
+    "anchor": "c-009",
     "fragment": "unit-8",
     "section": "关联研习",
     "context": "本专题对应必修上册第八单元，具体实词与虚词可进入词汇专题。"
@@ -63714,15 +66098,55 @@
   {
     "source": "m-word-study",
     "target": "m-lexicon",
-    "anchor": "c-008",
+    "anchor": "c-009",
     "fragment": "",
     "section": "关联研习",
     "context": "本专题对应必修上册第八单元，具体实词与虚词可进入词汇专题。"
   },
   {
     "source": "m-writing",
+    "target": "k-toulmin",
+    "anchor": "c-006",
+    "fragment": "",
+    "section": "跨板块研习",
+    "context": "图尔敏论证模型 · 反驳与回应 · 语域与表达得体 · 病句辨析与修改 · 标点的层级与功能"
+  },
+  {
+    "source": "m-writing",
+    "target": "k-counterargument",
+    "anchor": "c-006",
+    "fragment": "",
+    "section": "跨板块研习",
+    "context": "图尔敏论证模型 · 反驳与回应 · 语域与表达得体 · 病句辨析与修改 · 标点的层级与功能"
+  },
+  {
+    "source": "m-writing",
+    "target": "k-register",
+    "anchor": "c-006",
+    "fragment": "",
+    "section": "跨板块研习",
+    "context": "图尔敏论证模型 · 反驳与回应 · 语域与表达得体 · 病句辨析与修改 · 标点的层级与功能"
+  },
+  {
+    "source": "m-writing",
+    "target": "k-sentence-repair",
+    "anchor": "c-006",
+    "fragment": "",
+    "section": "跨板块研习",
+    "context": "图尔敏论证模型 · 反驳与回应 · 语域与表达得体 · 病句辨析与修改 · 标点的层级与功能"
+  },
+  {
+    "source": "m-writing",
+    "target": "k-punctuation-system",
+    "anchor": "c-006",
+    "fragment": "",
+    "section": "跨板块研习",
+    "context": "图尔敏论证模型 · 反驳与回应 · 语域与表达得体 · 病句辨析与修改 · 标点的层级与功能"
+  },
+  {
+    "source": "m-writing",
     "target": "k-material-thesis",
-    "anchor": "c-002",
+    "anchor": "c-009",
     "fragment": "",
     "section": "从材料到判断",
     "context": "材料作文立意：先理解材料关系，再提出可以展开的认识；事实到论点的推理：解释依据为什么支持判断。"
@@ -63730,7 +66154,7 @@
   {
     "source": "m-writing",
     "target": "k-warrant",
-    "anchor": "c-002",
+    "anchor": "c-009",
     "fragment": "",
     "section": "从材料到判断",
     "context": "材料作文立意：先理解材料关系，再提出可以展开的认识；事实到论点的推理：解释依据为什么支持判断。"
@@ -63738,7 +66162,7 @@
   {
     "source": "m-writing",
     "target": "k-argument-sequence",
-    "anchor": "c-003",
+    "anchor": "c-010",
     "fragment": "",
     "section": "从理由到文章",
     "context": "段落次序：按认识任务组织材料；回应合理异议：用同一尺度说明主张与边界。"
@@ -63746,7 +66170,7 @@
   {
     "source": "m-writing",
     "target": "k-counterargument",
-    "anchor": "c-003",
+    "anchor": "c-010",
     "fragment": "",
     "section": "从理由到文章",
     "context": "段落次序：按认识任务组织材料；回应合理异议：用同一尺度说明主张与边界。"
@@ -63754,7 +66178,7 @@
   {
     "source": "m-writing",
     "target": "k-writing-revision",
-    "anchor": "c-004",
+    "anchor": "c-011",
     "fragment": "",
     "section": "从初稿到修订",
     "context": "修订层次与逆向提纲：先检查内容与结构，再调整语言；句式变换：在重组表达时保持信息关系。"
@@ -63762,7 +66186,7 @@
   {
     "source": "m-writing",
     "target": "k-sentence-transform",
-    "anchor": "c-004",
+    "anchor": "c-011",
     "fragment": "",
     "section": "从初稿到修订",
     "context": "修订层次与逆向提纲：先检查内容与结构，再调整语言；句式变换：在重组表达时保持信息关系。"
@@ -63770,7 +66194,7 @@
   {
     "source": "m-writing",
     "target": "e-2011-writing",
-    "anchor": "c-005",
+    "anchor": "c-012",
     "fragment": "",
     "section": "完整题例",
     "context": "2011年“中国的变化”作文包括题面、命题分析、立意分析、范文与逐项评析。"
@@ -63778,7 +66202,7 @@
   {
     "source": "m-writing",
     "target": "e-2011-language",
-    "anchor": "c-006",
+    "anchor": "c-013",
     "fragment": "",
     "section": "完整题例",
     "context": "2011年语言文字运用提供句序、长句改写与仿写任务，可将整体写作与局部表达相互联系。"
@@ -63786,7 +66210,7 @@
   {
     "source": "m-writing",
     "target": "k-evidence",
-    "anchor": "c-007",
+    "anchor": "c-014",
     "fragment": "",
     "section": "完整题例",
     "context": "研究材料的解释还须遵守阅读证据与结论范围，考察语言关系可转入语言分析专题。"
@@ -63794,7 +66218,7 @@
   {
     "source": "m-writing",
     "target": "m-expression",
-    "anchor": "c-007",
+    "anchor": "c-014",
     "fragment": "",
     "section": "完整题例",
     "context": "研究材料的解释还须遵守阅读证据与结论范围，考察语言关系可转入语言分析专题。"
@@ -63802,7 +66226,7 @@
   {
     "source": "m-writing",
     "target": "e-2026-writing-word",
-    "anchor": "c-008",
+    "anchor": "c-015",
     "fragment": "",
     "section": "2026年研习文本",
     "context": "词语理解之变：以一个词语理解的变化呈现具体的成长经验与意义。"
@@ -63810,7 +66234,7 @@
   {
     "source": "m-writing",
     "target": "e-2026-writing-root",
-    "anchor": "c-009",
+    "anchor": "c-016",
     "fragment": "",
     "section": "2026年研习文本",
     "context": "日月之体与江汉之源：辨析困境与根本条件的关系，讨论坚守、补充与调整。"
@@ -63818,7 +66242,7 @@
   {
     "source": "m-writing",
     "target": "e-2026-writing-water",
-    "anchor": "c-010",
+    "anchor": "c-017",
     "fragment": "",
     "section": "2026年研习文本",
     "context": "井水与河水：在边界、差异与相通之间建立有条件的判断。"
@@ -63826,7 +66250,7 @@
   {
     "source": "m-writing",
     "target": "e-2026-writing-imagination",
-    "anchor": "c-011",
+    "anchor": "c-018",
     "fragment": "",
     "section": "2026年研习文本",
     "context": "科技与想象：区分科技对想象材料、表达工具和选择路径的不同作用。"
@@ -63834,7 +66258,7 @@
   {
     "source": "m-writing",
     "target": "m-exam-2026",
-    "anchor": "c-012",
+    "anchor": "c-019",
     "fragment": "",
     "section": "2026年研习文本",
     "context": "全部题组与试卷归属。"
