@@ -13285,7 +13285,15 @@
     "anchor": "c-035",
     "fragment": "",
     "section": "知识点",
-    "context": "比喻可以借母子关系表现归属，但喻体不自动成为当前叙述的事实。参见比喻与词句含义。"
+    "context": "比喻可以借母子关系表现归属，但喻体不自动成为当前叙述的事实。参见比喻、关键信息导引律与词句含义：以“我的北平”限定对象，再由后文生活细节检验。"
+  },
+  {
+    "source": "e-beiping",
+    "target": "k-key-information-law",
+    "anchor": "c-035",
+    "fragment": "",
+    "section": "知识点",
+    "context": "比喻可以借母子关系表现归属，但喻体不自动成为当前叙述的事实。参见比喻、关键信息导引律与词句含义：以“我的北平”限定对象，再由后文生活细节检验。"
   },
   {
     "source": "e-beiping",
@@ -13293,7 +13301,7 @@
     "anchor": "c-035",
     "fragment": "",
     "section": "知识点",
-    "context": "比喻可以借母子关系表现归属，但喻体不自动成为当前叙述的事实。参见比喻与词句含义。"
+    "context": "比喻可以借母子关系表现归属，但喻体不自动成为当前叙述的事实。参见比喻、关键信息导引律与词句含义：以“我的北平”限定对象，再由后文生活细节检验。"
   },
   {
     "source": "e-beiping",
@@ -35517,7 +35525,7 @@
     "anchor": "c-044",
     "fragment": "",
     "section": "关联研习",
-    "context": "短歌行、永遇乐·京口北固亭怀古、引用"
+    "context": "短歌行、永遇乐·京口北固亭怀古、引用。辨明典故所指之后，还应按文外诸因互解律回到当前作品，检验典故承担的具体表达作用。"
   },
   {
     "source": "k-allusion",
@@ -35525,7 +35533,7 @@
     "anchor": "c-044",
     "fragment": "",
     "section": "关联研习",
-    "context": "短歌行、永遇乐·京口北固亭怀古、引用"
+    "context": "短歌行、永遇乐·京口北固亭怀古、引用。辨明典故所指之后，还应按文外诸因互解律回到当前作品，检验典故承担的具体表达作用。"
   },
   {
     "source": "k-allusion",
@@ -35533,7 +35541,15 @@
     "anchor": "c-044",
     "fragment": "",
     "section": "关联研习",
-    "context": "短歌行、永遇乐·京口北固亭怀古、引用"
+    "context": "短歌行、永遇乐·京口北固亭怀古、引用。辨明典故所指之后，还应按文外诸因互解律回到当前作品，检验典故承担的具体表达作用。"
+  },
+  {
+    "source": "k-allusion",
+    "target": "k-external-interaction-law",
+    "anchor": "c-044",
+    "fragment": "",
+    "section": "关联研习",
+    "context": "短歌行、永遇乐·京口北固亭怀古、引用。辨明典故所指之后，还应按文外诸因互解律回到当前作品，检验典故承担的具体表达作用。"
   },
   {
     "source": "k-analogy-limits",
@@ -36086,6 +36102,14 @@
     "fragment": "",
     "section": "关联研习",
     "context": "语篇的宏观结构：语篇宏观结构指跨越局部句子的总体意义组织，如问题、中心命题及其支撑关系。"
+  },
+  {
+    "source": "k-analytical-reading",
+    "target": "k-wang-reading-method",
+    "anchor": "c-036",
+    "fragment": "",
+    "section": "关联研习",
+    "context": "文本解读的证据路径将关键信息、文内关系和必要的文外条件结合起来；它是王俊鸣提出的解读框架，与本页的分析程序可相互参照。"
   },
   {
     "source": "k-ancient-culture",
@@ -45240,6 +45264,14 @@
     "context": "文学批评的路径与证据：文学批评通过解释、比较和评价讨论作品的意义与价值。"
   },
   {
+    "source": "k-evidence",
+    "target": "k-internal-interaction-law",
+    "anchor": "c-039",
+    "fragment": "",
+    "section": "关联研习",
+    "context": "王俊鸣提出的文内诸因互解律强调词句、段落之间的互相制约；本页则检验这些材料能否支持具体结论。"
+  },
+  {
     "source": "k-evidence-generalization",
     "target": "e-li-hanfu",
     "anchor": "c-004",
@@ -45542,6 +45574,86 @@
     "fragment": "",
     "section": "易误辨析与迁移",
     "context": "继续辨析定义与分类、论证方法，分别检验概念之间的联系与差别。"
+  },
+  {
+    "source": "k-external-interaction-law",
+    "target": "t-yongyule",
+    "anchor": "c-004",
+    "fragment": "q-1",
+    "section": "实例细读",
+    "context": "《永遇乐·京口北固亭怀古》第1题须先辨孙权、刘裕、刘义隆各指何人，不能把“寄奴”误认作元嘉年间用兵者。但史实只解决指称；“金戈铁马”与“元嘉草草”的正反安排，才说明词人为何并列这些典故。"
+  },
+  {
+    "source": "k-external-interaction-law",
+    "target": "t-yongyule",
+    "anchor": "c-004",
+    "fragment": "p-001",
+    "section": "实例细读",
+    "context": "《永遇乐·京口北固亭怀古》第1题须先辨孙权、刘裕、刘义隆各指何人，不能把“寄奴”误认作元嘉年间用兵者。但史实只解决指称；“金戈铁马”与“元嘉草草”的正反安排，才说明词人为何并列这些典故。"
+  },
+  {
+    "source": "k-external-interaction-law",
+    "target": "t-yongyule",
+    "anchor": "c-004",
+    "fragment": "p-002",
+    "section": "实例细读",
+    "context": "《永遇乐·京口北固亭怀古》第1题须先辨孙权、刘裕、刘义隆各指何人，不能把“寄奴”误认作元嘉年间用兵者。但史实只解决指称；“金戈铁马”与“元嘉草草”的正反安排，才说明词人为何并列这些典故。"
+  },
+  {
+    "source": "k-external-interaction-law",
+    "target": "t-guizhixiang",
+    "anchor": "c-005",
+    "fragment": "q-2",
+    "section": "实例细读",
+    "context": "《桂枝香·金陵怀古》第2题涉及“门外楼头”“后庭遗曲”。先明白典故所指，再由“千古凭高对此，谩嗟荣辱”和结尾的再唱判断其在词中的讽戒作用；若只陈列陈后主故事，尚未解释本词。"
+  },
+  {
+    "source": "k-external-interaction-law",
+    "target": "t-guizhixiang",
+    "anchor": "c-005",
+    "fragment": "ev-q2-p1-1",
+    "section": "实例细读",
+    "context": "《桂枝香·金陵怀古》第2题涉及“门外楼头”“后庭遗曲”。先明白典故所指，再由“千古凭高对此，谩嗟荣辱”和结尾的再唱判断其在词中的讽戒作用；若只陈列陈后主故事，尚未解释本词。"
+  },
+  {
+    "source": "k-external-interaction-law",
+    "target": "t-guizhixiang",
+    "anchor": "c-005",
+    "fragment": "ev-q2-p2-2",
+    "section": "实例细读",
+    "context": "《桂枝香·金陵怀古》第2题涉及“门外楼头”“后庭遗曲”。先明白典故所指，再由“千古凭高对此，谩嗟荣辱”和结尾的再唱判断其在词中的讽戒作用；若只陈列陈后主故事，尚未解释本词。"
+  },
+  {
+    "source": "k-external-interaction-law",
+    "target": "t-yueyang",
+    "anchor": "c-006",
+    "fragment": "q-2",
+    "section": "实例细读",
+    "context": "《登岳阳楼》第2题的历史背景可以帮助辨认“戎马关山北”的战事指向，但“老病有孤舟”与“凭轩涕泗流”把身世和时局连到一起，不能把流泪单归于个人疾病，也不能凭战乱背景删去个人处境。"
+  },
+  {
+    "source": "k-external-interaction-law",
+    "target": "t-chibifu",
+    "anchor": "c-007",
+    "fragment": "q-1",
+    "section": "实例细读",
+    "context": "《赤壁赋》第1题可参考苏轼黄州时期的处境；但要理解客的生命短促之叹与苏子对水月的回应，仍需循篇内问答的推进。背景有助于提出问题，不能替人物直接作答。"
+  },
+  {
+    "source": "k-external-interaction-law",
+    "target": "k-source-evaluation",
+    "anchor": "c-008",
+    "fragment": "",
+    "section": "易误辨析与迁移",
+    "context": "外部史料有误或与文本时代不合，解释就失去支点；即使背景真实，也不表示所有细节都有作者自传意义。“以情解文”并非读者自我投射。对于考试题，文外知识只在设问允许且与文本证据相连时引入；材料阅读题首先按所给材料判断，不用背景常识越过材料限定。参见信息来源与证据核验、用典。"
+  },
+  {
+    "source": "k-external-interaction-law",
+    "target": "k-allusion",
+    "anchor": "c-008",
+    "fragment": "",
+    "section": "易误辨析与迁移",
+    "context": "外部史料有误或与文本时代不合，解释就失去支点；即使背景真实，也不表示所有细节都有作者自传意义。“以情解文”并非读者自我投射。对于考试题，文外知识只在设问允许且与文本证据相连时引入；材料阅读题首先按所给材料判断，不用背景常识越过材料限定。参见信息来源与证据核验、用典。"
   },
   {
     "source": "k-fiction-truth",
@@ -48024,6 +48136,86 @@
     "context": "继续辨析新闻文体、说明对象、方法与顺序，分别检验概念之间的联系与差别。"
   },
   {
+    "source": "k-internal-interaction-law",
+    "target": "t-guiyuan",
+    "anchor": "c-004",
+    "fragment": "q-2",
+    "section": "实例细读",
+    "context": "《归园田居（其一）》第2题中，开头的“性本爱丘山”与末尾的“复得返自然”首尾相应；“尘网／樊笼”又把受拘束的经历与归田的选择联系起来。结句“自然”由全诗限制为自然环境与不违本性的生活方式，不能直接等同现代生态口号。"
+  },
+  {
+    "source": "k-internal-interaction-law",
+    "target": "t-guiyuan",
+    "anchor": "c-004",
+    "fragment": "ev-q2-p1-1",
+    "section": "实例细读",
+    "context": "《归园田居（其一）》第2题中，开头的“性本爱丘山”与末尾的“复得返自然”首尾相应；“尘网／樊笼”又把受拘束的经历与归田的选择联系起来。结句“自然”由全诗限制为自然环境与不违本性的生活方式，不能直接等同现代生态口号。"
+  },
+  {
+    "source": "k-internal-interaction-law",
+    "target": "t-guiyuan",
+    "anchor": "c-004",
+    "fragment": "ev-q2-p2-1",
+    "section": "实例细读",
+    "context": "《归园田居（其一）》第2题中，开头的“性本爱丘山”与末尾的“复得返自然”首尾相应；“尘网／樊笼”又把受拘束的经历与归田的选择联系起来。结句“自然”由全诗限制为自然环境与不违本性的生活方式，不能直接等同现代生态口号。"
+  },
+  {
+    "source": "k-internal-interaction-law",
+    "target": "t-ditan",
+    "anchor": "c-005",
+    "fragment": "q-4",
+    "section": "实例细读",
+    "context": "《我与地坛（节选）》第4题须把写作出路与母亲所盼的幸福放在一起读。“儿子得有一条路走向自己的幸福”扩大了“一条路”的含义；结尾关于母亲足迹的追想使理解进一步转向关系与记忆。只取“报刊”二字，会缩窄母亲的愿望。"
+  },
+  {
+    "source": "k-internal-interaction-law",
+    "target": "t-ditan",
+    "anchor": "c-005",
+    "fragment": "ev-q4-p1-2",
+    "section": "实例细读",
+    "context": "《我与地坛（节选）》第4题须把写作出路与母亲所盼的幸福放在一起读。“儿子得有一条路走向自己的幸福”扩大了“一条路”的含义；结尾关于母亲足迹的追想使理解进一步转向关系与记忆。只取“报刊”二字，会缩窄母亲的愿望。"
+  },
+  {
+    "source": "k-internal-interaction-law",
+    "target": "e-2021-digital-humanities",
+    "anchor": "c-006",
+    "fragment": "q-2",
+    "section": "实例细读",
+    "context": "《数字人文中的远读与细读》第2题同时说计算机能处理海量语料、不能理解文本内容。“能处理”与“不能理解”针对不同操作层次，前后两句互相限定，而非互相否定。"
+  },
+  {
+    "source": "k-internal-interaction-law",
+    "target": "e-2021-digital-humanities",
+    "anchor": "c-006",
+    "fragment": "ev-q2-a-2",
+    "section": "实例细读",
+    "context": "《数字人文中的远读与细读》第2题同时说计算机能处理海量语料、不能理解文本内容。“能处理”与“不能理解”针对不同操作层次，前后两句互相限定，而非互相否定。"
+  },
+  {
+    "source": "k-internal-interaction-law",
+    "target": "e-2011-heguan",
+    "anchor": "c-007",
+    "fragment": "q-2",
+    "section": "实例细读",
+    "context": "《宋史·何灌传》第2题要区分“愿以运费增价就籴之”的建议与“得善田二万六千顷”的既成结果；事件先后与动词语气相互限定，不能把提出方案直接判作方案已经成功。"
+  },
+  {
+    "source": "k-internal-interaction-law",
+    "target": "k-cohesion",
+    "anchor": "c-008",
+    "fragment": "",
+    "section": "易误辨析与迁移",
+    "context": "平行句式可帮助推测词义，但不得只凭形式制造不存在的同义关系；叙述先后未必是因果；一个人物的话也未必代表全文立场。所谓“互解”应标明关系类型和文本区间，并接受全篇相反材料的检验。参看衔接与连贯、文本证据与阅读推论。"
+  },
+  {
+    "source": "k-internal-interaction-law",
+    "target": "k-evidence",
+    "anchor": "c-008",
+    "fragment": "",
+    "section": "易误辨析与迁移",
+    "context": "平行句式可帮助推测词义，但不得只凭形式制造不存在的同义关系；叙述先后未必是因果；一个人物的话也未必代表全文立场。所谓“互解”应标明关系类型和文本区间，并接受全篇相反材料的检验。参看衔接与连贯、文本证据与阅读推论。"
+  },
+  {
     "source": "k-interview-construction",
     "target": "e-2026-interview",
     "anchor": "c-006",
@@ -48630,6 +48822,86 @@
     "fragment": "",
     "section": "关联研习",
     "context": "古代诗论的基本问题：古代诗论围绕诗与情志、景物、声律、教化及审美经验的关系展开，不同时代和论者各有侧重。"
+  },
+  {
+    "source": "k-key-information-law",
+    "target": "e-beiping",
+    "anchor": "c-004",
+    "fragment": "p-001",
+    "section": "实例细读",
+    "context": "《想北平》以“我的北平”限定城市书写的视角；“我真爱北平”表明情感立场。其后巴黎与北平的比较、花蔬果子的生活细节，分别使“我”与“爱”获得具体内容。相关题组不应把母亲之爱这一比喻误作独立的童年回忆。"
+  },
+  {
+    "source": "k-key-information-law",
+    "target": "e-beiping",
+    "anchor": "c-004",
+    "fragment": "p-002",
+    "section": "实例细读",
+    "context": "《想北平》以“我的北平”限定城市书写的视角；“我真爱北平”表明情感立场。其后巴黎与北平的比较、花蔬果子的生活细节，分别使“我”与“爱”获得具体内容。相关题组不应把母亲之爱这一比喻误作独立的童年回忆。"
+  },
+  {
+    "source": "k-key-information-law",
+    "target": "e-beiping",
+    "anchor": "c-004",
+    "fragment": "q-1",
+    "section": "实例细读",
+    "context": "《想北平》以“我的北平”限定城市书写的视角；“我真爱北平”表明情感立场。其后巴黎与北平的比较、花蔬果子的生活细节，分别使“我”与“爱”获得具体内容。相关题组不应把母亲之爱这一比喻误作独立的童年回忆。"
+  },
+  {
+    "source": "k-key-information-law",
+    "target": "t-muye",
+    "anchor": "c-005",
+    "fragment": "q-2",
+    "section": "实例细读",
+    "context": "《说‘木叶’》第2题里，“木叶”与“落木”的差别把研究焦点从字数多少引向“木”的作用；“诗人们似乎都不再考虑文字洗练的问题”又直接排除了过窄的原假设。关键语并非单独给出答案，而是引导读者核验例证。"
+  },
+  {
+    "source": "k-key-information-law",
+    "target": "t-muye",
+    "anchor": "c-005",
+    "fragment": "ev-q2-p1-2",
+    "section": "实例细读",
+    "context": "《说‘木叶’》第2题里，“木叶”与“落木”的差别把研究焦点从字数多少引向“木”的作用；“诗人们似乎都不再考虑文字洗练的问题”又直接排除了过窄的原假设。关键语并非单独给出答案，而是引导读者核验例证。"
+  },
+  {
+    "source": "k-key-information-law",
+    "target": "e-li-humanoid",
+    "anchor": "c-006",
+    "fragment": "q-4",
+    "section": "实例细读",
+    "context": "《人形机器人》第4题从“欲罢不能”的设问转入投射心理解释，又以真实联系的反问推进到伦理疑问。只抓开头设问，会遗漏论述后半程的问题变化。"
+  },
+  {
+    "source": "k-key-information-law",
+    "target": "e-li-humanoid",
+    "anchor": "c-006",
+    "fragment": "ev-q4-p2-1",
+    "section": "实例细读",
+    "context": "《人形机器人》第4题从“欲罢不能”的设问转入投射心理解释，又以真实联系的反问推进到伦理疑问。只抓开头设问，会遗漏论述后半程的问题变化。"
+  },
+  {
+    "source": "k-key-information-law",
+    "target": "t-yongyule",
+    "anchor": "c-007",
+    "fragment": "q-2",
+    "section": "实例细读",
+    "context": "《永遇乐·京口北固亭怀古》第2题以末句“凭谁问”标出渴望获用与担忧不被理解并存；问句的语气制约了“全词只有豪情”的判断。"
+  },
+  {
+    "source": "k-key-information-law",
+    "target": "k-discourse-macrostructure",
+    "anchor": "c-008",
+    "fragment": "",
+    "section": "易误辨析与迁移",
+    "context": "频次、位置与修辞醒目度只是候选指标；要论证某句为“文眼”或中心命题，还须展示它能解释哪些分散材料，以及哪些材料不受它统摄。篇章可有多个层级的关键点，题目问局部语义时不必勉强提升为全文主旨。参见语篇的宏观结构与文眼。"
+  },
+  {
+    "source": "k-key-information-law",
+    "target": "k-text-key",
+    "anchor": "c-008",
+    "fragment": "",
+    "section": "易误辨析与迁移",
+    "context": "频次、位置与修辞醒目度只是候选指标；要论证某句为“文眼”或中心命题，还须展示它能解释哪些分散材料，以及哪些材料不受它统摄。篇章可有多个层级的关键点，题目问局部语义时不必勉强提升为全文主旨。参见语篇的宏观结构与文眼。"
   },
   {
     "source": "k-lexical-comparison",
@@ -66030,6 +66302,94 @@
     "fragment": "",
     "section": "关联研习",
     "context": "词语积累与词语解释、义项划分与词典释义、多义词与词义系统、词义与语境"
+  },
+  {
+    "source": "k-wang-reading-method",
+    "target": "k-key-information-law",
+    "anchor": "c-003",
+    "fragment": "",
+    "section": "三条规律与五条思维路线",
+    "context": "关键信息导引律关注对篇章理解有导向作用的指示语、概括语和情态语，形成“以纲统文”的线索；文内诸因互解律利用同义、连义、对义等内部关系，实行“以文解文”；文外诸因互解律在证据允许时，分别借助可核事实、事理与情态理解文本，即“以事解文、以理解文、以情解文”。这五条路线来自王俊鸣的理论表述，并非五个必须依次完成的机械步骤。"
+  },
+  {
+    "source": "k-wang-reading-method",
+    "target": "k-internal-interaction-law",
+    "anchor": "c-003",
+    "fragment": "",
+    "section": "三条规律与五条思维路线",
+    "context": "关键信息导引律关注对篇章理解有导向作用的指示语、概括语和情态语，形成“以纲统文”的线索；文内诸因互解律利用同义、连义、对义等内部关系，实行“以文解文”；文外诸因互解律在证据允许时，分别借助可核事实、事理与情态理解文本，即“以事解文、以理解文、以情解文”。这五条路线来自王俊鸣的理论表述，并非五个必须依次完成的机械步骤。"
+  },
+  {
+    "source": "k-wang-reading-method",
+    "target": "k-external-interaction-law",
+    "anchor": "c-003",
+    "fragment": "",
+    "section": "三条规律与五条思维路线",
+    "context": "关键信息导引律关注对篇章理解有导向作用的指示语、概括语和情态语，形成“以纲统文”的线索；文内诸因互解律利用同义、连义、对义等内部关系，实行“以文解文”；文外诸因互解律在证据允许时，分别借助可核事实、事理与情态理解文本，即“以事解文、以理解文、以情解文”。这五条路线来自王俊鸣的理论表述，并非五个必须依次完成的机械步骤。"
+  },
+  {
+    "source": "k-wang-reading-method",
+    "target": "e-beiping",
+    "anchor": "c-005",
+    "fragment": "q-1",
+    "section": "实例细读",
+    "context": "《想北平》第1题要从“我的北平”与“真爱北平”识别叙述对象和态度，再用城市对照及日常物象核验；一句“说不出”不足以推出作者没有表达。《说‘木叶’》第2题则由“木叶”“落木”等关键词进入差异分析，全文例证会修正“只是为了文字洗练”的初步解释。"
+  },
+  {
+    "source": "k-wang-reading-method",
+    "target": "t-muye",
+    "anchor": "c-005",
+    "fragment": "q-2",
+    "section": "实例细读",
+    "context": "《想北平》第1题要从“我的北平”与“真爱北平”识别叙述对象和态度，再用城市对照及日常物象核验；一句“说不出”不足以推出作者没有表达。《说‘木叶’》第2题则由“木叶”“落木”等关键词进入差异分析，全文例证会修正“只是为了文字洗练”的初步解释。"
+  },
+  {
+    "source": "k-wang-reading-method",
+    "target": "t-yongyule",
+    "anchor": "c-006",
+    "fragment": "q-1",
+    "section": "实例细读",
+    "context": "《永遇乐·京口北固亭怀古》第1题中，孙权、刘裕与刘义隆的史实身份有助于辨清用典，却不能代替词内“金戈铁马”与“元嘉草草”的正反对照。三层证据共同决定结论。"
+  },
+  {
+    "source": "k-wang-reading-method",
+    "target": "t-yueyang",
+    "anchor": "c-007",
+    "fragment": "q-2",
+    "section": "同一题解中的三层检验",
+    "context": "《登岳阳楼》第2题先以“昔闻／今上”提出登临经验的变化，再由“亲朋无一字，老病有孤舟”限制把登楼写成纯粹喜悦的理解。教材所注关山战事提供时代背景；真正使个人身世与天下忧思相接的，仍是原文尾联“戎马关山北”。"
+  },
+  {
+    "source": "k-wang-reading-method",
+    "target": "t-yueyang",
+    "anchor": "c-007",
+    "fragment": "ev-q2-p2-1",
+    "section": "同一题解中的三层检验",
+    "context": "《登岳阳楼》第2题先以“昔闻／今上”提出登临经验的变化，再由“亲朋无一字，老病有孤舟”限制把登楼写成纯粹喜悦的理解。教材所注关山战事提供时代背景；真正使个人身世与天下忧思相接的，仍是原文尾联“戎马关山北”。"
+  },
+  {
+    "source": "k-wang-reading-method",
+    "target": "k-evidence",
+    "anchor": "c-009",
+    "fragment": "",
+    "section": "易误辨析与迁移",
+    "context": "题解写作可与文本证据与阅读推论、分析性阅读、主观题的推导与组织结合。"
+  },
+  {
+    "source": "k-wang-reading-method",
+    "target": "k-analytical-reading",
+    "anchor": "c-009",
+    "fragment": "",
+    "section": "易误辨析与迁移",
+    "context": "题解写作可与文本证据与阅读推论、分析性阅读、主观题的推导与组织结合。"
+  },
+  {
+    "source": "k-wang-reading-method",
+    "target": "k-subjective-answer",
+    "anchor": "c-009",
+    "fragment": "",
+    "section": "易误辨析与迁移",
+    "context": "题解写作可与文本证据与阅读推论、分析性阅读、主观题的推导与组织结合。"
   },
   {
     "source": "k-warrant",
@@ -89397,7 +89757,7 @@
     "anchor": "c-005",
     "fragment": "",
     "section": "跨板块研习",
-    "context": "文言句法分析 · 文言虚词的语法功能 · 古代名物制度的释读 · 互文、对文与省文 · 论据与论证保证"
+    "context": "文言句法分析 · 文言虚词的语法功能 · 古代名物制度的释读 · 互文、对文与省文 · 文内诸因互解律 · 文外诸因互解律 · 论据与论证保证"
   },
   {
     "source": "m-classical",
@@ -89405,7 +89765,7 @@
     "anchor": "c-005",
     "fragment": "",
     "section": "跨板块研习",
-    "context": "文言句法分析 · 文言虚词的语法功能 · 古代名物制度的释读 · 互文、对文与省文 · 论据与论证保证"
+    "context": "文言句法分析 · 文言虚词的语法功能 · 古代名物制度的释读 · 互文、对文与省文 · 文内诸因互解律 · 文外诸因互解律 · 论据与论证保证"
   },
   {
     "source": "m-classical",
@@ -89413,7 +89773,7 @@
     "anchor": "c-005",
     "fragment": "",
     "section": "跨板块研习",
-    "context": "文言句法分析 · 文言虚词的语法功能 · 古代名物制度的释读 · 互文、对文与省文 · 论据与论证保证"
+    "context": "文言句法分析 · 文言虚词的语法功能 · 古代名物制度的释读 · 互文、对文与省文 · 文内诸因互解律 · 文外诸因互解律 · 论据与论证保证"
   },
   {
     "source": "m-classical",
@@ -89421,7 +89781,23 @@
     "anchor": "c-005",
     "fragment": "",
     "section": "跨板块研习",
-    "context": "文言句法分析 · 文言虚词的语法功能 · 古代名物制度的释读 · 互文、对文与省文 · 论据与论证保证"
+    "context": "文言句法分析 · 文言虚词的语法功能 · 古代名物制度的释读 · 互文、对文与省文 · 文内诸因互解律 · 文外诸因互解律 · 论据与论证保证"
+  },
+  {
+    "source": "m-classical",
+    "target": "k-internal-interaction-law",
+    "anchor": "c-005",
+    "fragment": "",
+    "section": "跨板块研习",
+    "context": "文言句法分析 · 文言虚词的语法功能 · 古代名物制度的释读 · 互文、对文与省文 · 文内诸因互解律 · 文外诸因互解律 · 论据与论证保证"
+  },
+  {
+    "source": "m-classical",
+    "target": "k-external-interaction-law",
+    "anchor": "c-005",
+    "fragment": "",
+    "section": "跨板块研习",
+    "context": "文言句法分析 · 文言虚词的语法功能 · 古代名物制度的释读 · 互文、对文与省文 · 文内诸因互解律 · 文外诸因互解律 · 论据与论证保证"
   },
   {
     "source": "m-classical",
@@ -89429,7 +89805,7 @@
     "anchor": "c-005",
     "fragment": "",
     "section": "跨板块研习",
-    "context": "文言句法分析 · 文言虚词的语法功能 · 古代名物制度的释读 · 互文、对文与省文 · 论据与论证保证"
+    "context": "文言句法分析 · 文言虚词的语法功能 · 古代名物制度的释读 · 互文、对文与省文 · 文内诸因互解律 · 文外诸因互解律 · 论据与论证保证"
   },
   {
     "source": "m-classical",
@@ -95469,7 +95845,7 @@
     "anchor": "c-011",
     "fragment": "",
     "section": "跨板块研习",
-    "context": "比喻 · 象征 · 回环 · 文学性与审美经验 · 文学史的分期与语境"
+    "context": "比喻 · 象征 · 回环 · 文本解读的证据路径 · 文学性与审美经验 · 文学史的分期与语境"
   },
   {
     "source": "m-literary-reading",
@@ -95477,7 +95853,7 @@
     "anchor": "c-011",
     "fragment": "",
     "section": "跨板块研习",
-    "context": "比喻 · 象征 · 回环 · 文学性与审美经验 · 文学史的分期与语境"
+    "context": "比喻 · 象征 · 回环 · 文本解读的证据路径 · 文学性与审美经验 · 文学史的分期与语境"
   },
   {
     "source": "m-literary-reading",
@@ -95485,7 +95861,15 @@
     "anchor": "c-011",
     "fragment": "",
     "section": "跨板块研习",
-    "context": "比喻 · 象征 · 回环 · 文学性与审美经验 · 文学史的分期与语境"
+    "context": "比喻 · 象征 · 回环 · 文本解读的证据路径 · 文学性与审美经验 · 文学史的分期与语境"
+  },
+  {
+    "source": "m-literary-reading",
+    "target": "k-wang-reading-method",
+    "anchor": "c-011",
+    "fragment": "",
+    "section": "跨板块研习",
+    "context": "比喻 · 象征 · 回环 · 文本解读的证据路径 · 文学性与审美经验 · 文学史的分期与语境"
   },
   {
     "source": "m-literary-reading",
@@ -95493,7 +95877,7 @@
     "anchor": "c-011",
     "fragment": "",
     "section": "跨板块研习",
-    "context": "比喻 · 象征 · 回环 · 文学性与审美经验 · 文学史的分期与语境"
+    "context": "比喻 · 象征 · 回环 · 文本解读的证据路径 · 文学性与审美经验 · 文学史的分期与语境"
   },
   {
     "source": "m-literary-reading",
@@ -95501,7 +95885,7 @@
     "anchor": "c-011",
     "fragment": "",
     "section": "跨板块研习",
-    "context": "比喻 · 象征 · 回环 · 文学性与审美经验 · 文学史的分期与语境"
+    "context": "比喻 · 象征 · 回环 · 文本解读的证据路径 · 文学性与审美经验 · 文学史的分期与语境"
   },
   {
     "source": "m-literary-reading",
@@ -96717,7 +97101,7 @@
     "anchor": "c-006",
     "fragment": "",
     "section": "跨板块研习",
-    "context": "对偶、对仗与对联 · 互文、对文与省文 · 重章叠句 · 文学史的分期与语境 · 浪漫主义"
+    "context": "对偶、对仗与对联 · 互文、对文与省文 · 重章叠句 · 关键信息导引律 · 文内诸因互解律 · 文外诸因互解律 · 文学史的分期与语境 · 浪漫主义"
   },
   {
     "source": "m-poetry",
@@ -96725,7 +97109,7 @@
     "anchor": "c-006",
     "fragment": "",
     "section": "跨板块研习",
-    "context": "对偶、对仗与对联 · 互文、对文与省文 · 重章叠句 · 文学史的分期与语境 · 浪漫主义"
+    "context": "对偶、对仗与对联 · 互文、对文与省文 · 重章叠句 · 关键信息导引律 · 文内诸因互解律 · 文外诸因互解律 · 文学史的分期与语境 · 浪漫主义"
   },
   {
     "source": "m-poetry",
@@ -96733,7 +97117,31 @@
     "anchor": "c-006",
     "fragment": "",
     "section": "跨板块研习",
-    "context": "对偶、对仗与对联 · 互文、对文与省文 · 重章叠句 · 文学史的分期与语境 · 浪漫主义"
+    "context": "对偶、对仗与对联 · 互文、对文与省文 · 重章叠句 · 关键信息导引律 · 文内诸因互解律 · 文外诸因互解律 · 文学史的分期与语境 · 浪漫主义"
+  },
+  {
+    "source": "m-poetry",
+    "target": "k-key-information-law",
+    "anchor": "c-006",
+    "fragment": "",
+    "section": "跨板块研习",
+    "context": "对偶、对仗与对联 · 互文、对文与省文 · 重章叠句 · 关键信息导引律 · 文内诸因互解律 · 文外诸因互解律 · 文学史的分期与语境 · 浪漫主义"
+  },
+  {
+    "source": "m-poetry",
+    "target": "k-internal-interaction-law",
+    "anchor": "c-006",
+    "fragment": "",
+    "section": "跨板块研习",
+    "context": "对偶、对仗与对联 · 互文、对文与省文 · 重章叠句 · 关键信息导引律 · 文内诸因互解律 · 文外诸因互解律 · 文学史的分期与语境 · 浪漫主义"
+  },
+  {
+    "source": "m-poetry",
+    "target": "k-external-interaction-law",
+    "anchor": "c-006",
+    "fragment": "",
+    "section": "跨板块研习",
+    "context": "对偶、对仗与对联 · 互文、对文与省文 · 重章叠句 · 关键信息导引律 · 文内诸因互解律 · 文外诸因互解律 · 文学史的分期与语境 · 浪漫主义"
   },
   {
     "source": "m-poetry",
@@ -96741,7 +97149,7 @@
     "anchor": "c-006",
     "fragment": "",
     "section": "跨板块研习",
-    "context": "对偶、对仗与对联 · 互文、对文与省文 · 重章叠句 · 文学史的分期与语境 · 浪漫主义"
+    "context": "对偶、对仗与对联 · 互文、对文与省文 · 重章叠句 · 关键信息导引律 · 文内诸因互解律 · 文外诸因互解律 · 文学史的分期与语境 · 浪漫主义"
   },
   {
     "source": "m-poetry",
@@ -96749,7 +97157,7 @@
     "anchor": "c-006",
     "fragment": "",
     "section": "跨板块研习",
-    "context": "对偶、对仗与对联 · 互文、对文与省文 · 重章叠句 · 文学史的分期与语境 · 浪漫主义"
+    "context": "对偶、对仗与对联 · 互文、对文与省文 · 重章叠句 · 关键信息导引律 · 文内诸因互解律 · 文外诸因互解律 · 文学史的分期与语境 · 浪漫主义"
   },
   {
     "source": "m-poetry",
@@ -99053,7 +99461,7 @@
     "anchor": "c-049",
     "fragment": "",
     "section": "知识点",
-    "context": "参见照应与线索、词义与语境。"
+    "context": "参见照应与线索、词义与语境与文内诸因互解律。本题用首尾词语的对应关系限定“自然”的具体意义。"
   },
   {
     "source": "t-guiyuan",
@@ -99061,7 +99469,15 @@
     "anchor": "c-049",
     "fragment": "",
     "section": "知识点",
-    "context": "参见照应与线索、词义与语境。"
+    "context": "参见照应与线索、词义与语境与文内诸因互解律。本题用首尾词语的对应关系限定“自然”的具体意义。"
+  },
+  {
+    "source": "t-guiyuan",
+    "target": "k-internal-interaction-law",
+    "anchor": "c-049",
+    "fragment": "",
+    "section": "知识点",
+    "context": "参见照应与线索、词义与语境与文内诸因互解律。本题用首尾词语的对应关系限定“自然”的具体意义。"
   },
   {
     "source": "t-guiyuan",
@@ -99109,7 +99525,7 @@
     "anchor": "c-043",
     "fragment": "",
     "section": "知识点",
-    "context": "参见用典、照应与线索。"
+    "context": "参见用典、照应与线索与文外诸因互解律。典故的历史所指与它在本词中的讽戒功能须分别核明。"
   },
   {
     "source": "t-guizhixiang",
@@ -99117,7 +99533,15 @@
     "anchor": "c-043",
     "fragment": "",
     "section": "知识点",
-    "context": "参见用典、照应与线索。"
+    "context": "参见用典、照应与线索与文外诸因互解律。典故的历史所指与它在本词中的讽戒功能须分别核明。"
+  },
+  {
+    "source": "t-guizhixiang",
+    "target": "k-external-interaction-law",
+    "anchor": "c-043",
+    "fragment": "",
+    "section": "知识点",
+    "context": "参见用典、照应与线索与文外诸因互解律。典故的历史所指与它在本词中的讽戒功能须分别核明。"
   },
   {
     "source": "t-guizhixiang",
@@ -100453,7 +100877,15 @@
     "anchor": "c-049",
     "fragment": "",
     "section": "知识点",
-    "context": "参见分析性阅读、反驳与回应。"
+    "context": "参见分析性阅读、关键信息导引律与反驳与回应。这里的关键字须由反例和后文论证共同确认。"
+  },
+  {
+    "source": "t-muye",
+    "target": "k-key-information-law",
+    "anchor": "c-049",
+    "fragment": "",
+    "section": "知识点",
+    "context": "参见分析性阅读、关键信息导引律与反驳与回应。这里的关键字须由反例和后文论证共同确认。"
   },
   {
     "source": "t-muye",
@@ -100461,7 +100893,7 @@
     "anchor": "c-049",
     "fragment": "",
     "section": "知识点",
-    "context": "参见分析性阅读、反驳与回应。"
+    "context": "参见分析性阅读、关键信息导引律与反驳与回应。这里的关键字须由反例和后文论证共同确认。"
   },
   {
     "source": "t-muye",
@@ -101797,7 +102229,15 @@
     "anchor": "c-023",
     "fragment": "",
     "section": "知识点",
-    "context": "参见用典、论点的限定条件。"
+    "context": "参见用典、文外诸因互解律与论点的限定条件。先核人物史实，再由词内正反对照说明用典作用。"
+  },
+  {
+    "source": "t-yongyule",
+    "target": "k-external-interaction-law",
+    "anchor": "c-023",
+    "fragment": "",
+    "section": "知识点",
+    "context": "参见用典、文外诸因互解律与论点的限定条件。先核人物史实，再由词内正反对照说明用典作用。"
   },
   {
     "source": "t-yongyule",
@@ -101805,7 +102245,7 @@
     "anchor": "c-023",
     "fragment": "",
     "section": "知识点",
-    "context": "参见用典、论点的限定条件。"
+    "context": "参见用典、文外诸因互解律与论点的限定条件。先核人物史实，再由词内正反对照说明用典作用。"
   },
   {
     "source": "t-yongyule",
@@ -102784,76 +103224,252 @@
     "context": "“蓬勃起枯田”：诗家语·谓语凝缩。“起”写枯田重新生发，含使之兴起之意；不是田地在空间上站起来。"
   },
   {
-    "source": "e-thinking-wenyizaidao",
-    "target": "k-wenyan-sui-867d",
-    "anchor": "inline-gloss-003",
-    "fragment": "s-context",
-    "section": "文言随文释义 · 虚词",
-    "context": "“虽”：即使或虽然，引让步；辞采之美不能独自保证为人无可议。"
+    "source": "t-afang",
+    "target": "k-ancient-syntax",
+    "anchor": "gloss-001",
+    "fragment": "s-definition",
+    "section": "文言随文释义 · 语法",
+    "context": "“后人哀之而不鉴之”：把前人的败亡作为借鉴；“鉴”与单纯哀叹相对。"
   },
   {
-    "source": "t-youyuan",
+    "source": "t-afang",
+    "target": "k-wenyan-yan-7109",
+    "anchor": "inline-gloss-011",
+    "fragment": "s-sense-4",
+    "section": "文言随文释义 · 虚词",
+    "context": "“焉”：形容状态的词尾，……的样子。"
+  },
+  {
+    "source": "t-afang",
+    "target": "k-wenyan-suo-6240",
+    "anchor": "inline-gloss-020",
+    "fragment": "s-context",
+    "section": "文言随文释义 · 虚词",
+    "context": "“所”：置于动词之（到、往）前，组成所往之处的名词性结构。"
+  },
+  {
+    "source": "t-yumeiren",
+    "target": "k-wenyan-guo",
+    "anchor": "inline-gloss-004",
+    "fragment": "s-context",
+    "section": "文言随文释义 · 实词",
+    "context": "“故国”：指南唐。（《语文·必修上册》第142页注。）"
+  },
+  {
+    "source": "t-yumeiren",
     "target": "k-poetic-language",
     "anchor": "inline-gloss-005",
     "fragment": "s-definition",
     "section": "文言随文释义 · 语法",
-    "context": "“良辰美景奈何天，赏心乐事谁家院”：诗家语·曲语凝缩。“奈何天”是令人无可奈何的春天，“谁家院”是对赏心乐事所在的设问；曲句在格律中凝缩常规陈述关系。"
+    "context": "“故国不堪回首月明中”：诗家语·时间环境后置。“月明中”是回首的情境，可先说月明时回首故国；故国为被回首的对象，并非故国自己回首。"
   },
   {
-    "source": "t-youyuan",
+    "source": "t-yumeiren",
     "target": "k-poetic-language",
-    "anchor": "inline-gloss-009",
+    "anchor": "inline-gloss-011",
     "fragment": "s-definition",
     "section": "文言随文释义 · 语法",
-    "context": "“朝飞暮卷，云霞翠轩”：诗家语·用典中的省约与意象组合。教材引王勃“画栋朝飞南浦云，珠帘暮卷西山雨”；曲句省约原诗成分，以朝暮、云霞、翠轩组合楼阁春景。译读补出云、帘须明示，不能把“飞”“卷”都机械解释成帘幕的动作。"
+    "context": "“问君能有几多愁”：诗家语·人称转向。“君”可作自问的称呼，构成抒情问答，不必另造一个听话者。"
   },
   {
-    "source": "t-guodongting",
-    "target": "k-wenyan-geng-66f4",
-    "anchor": "inline-gloss-002",
+    "source": "e-qd2026-plums",
+    "target": "k-poetic-language",
+    "anchor": "inline-gloss-003",
+    "fragment": "s-definition",
+    "section": "文言随文释义 · 语法",
+    "context": "“枝枝点点是微酸”：诗家语·感觉凝缩。以滋味“微酸”指向枝间点点梅实，省略“结着梅子”等直述成分；须区分字面滋味与托物寄意。"
+  },
+  {
+    "source": "e-qd2026-plums",
+    "target": "k-poetic-language",
+    "anchor": "inline-gloss-005",
+    "fragment": "s-definition",
+    "section": "文言随文释义 · 语法",
+    "context": "“已作商家鼎鼐③香”：诗家语·时间超前与用典凝缩。未熟的梅被写成已在商家鼎中调味，想象与典故使当下、未来相接，并非普通叙事的时间错误。"
+  },
+  {
+    "source": "e-qd2026-plums",
+    "target": "k-wenyan-qie-4e14",
+    "anchor": "inline-gloss-008",
     "fragment": "s-context",
     "section": "文言随文释义 · 虚词",
-    "context": "“更”：副词，表示在已有情境上追加，无一点风的迹象。"
+    "context": "“且”：副词，暂且。"
   },
   {
-    "source": "t-guodongting",
-    "target": "k-poetic-language",
-    "anchor": "inline-gloss-008",
-    "fragment": "s-definition",
-    "section": "文言随文释义 · 语法",
-    "context": "“素月分辉，明河共影”：诗家语·共享处所省略。月与银河的光影共同映在湖中，处所由上文湖水承接；“共影”不能译为月、银河只有一个影子。"
-  },
-  {
-    "source": "t-guodongting",
-    "target": "k-poetic-language",
-    "anchor": "inline-gloss-012",
-    "fragment": "s-definition",
-    "section": "文言随文释义 · 语法",
-    "context": "“稳泛沧浪空阔”：诗家语·修饰成分移置。“空阔”后置描写沧浪，可释“泛于空阔的沧浪”；它的节奏位置与前句组织相连，不等同于误用现代语法。"
-  },
-  {
-    "source": "t-guodongting",
-    "target": "k-poetic-language",
-    "anchor": "inline-gloss-015",
-    "fragment": "s-definition",
-    "section": "文言随文释义 · 语法",
-    "context": "“细斟北斗”：诗家语·工具关系省略。以北斗为酒器，斟取江水，夸张性宇宙想象与“万象为宾客”相连，不译成日常酒席事实。"
-  },
-  {
-    "source": "t-yueyang",
-    "target": "k-poetic-language",
-    "anchor": "inline-gloss-001",
-    "fragment": "s-definition",
-    "section": "文言随文释义 · 语法",
-    "context": "“吴楚东南坼”：诗家语·施事省略与话题凸显。吴楚放在句首，洞庭湖分开吴楚的力量未明说；宜补明空间关系，不能说吴楚自行断裂。"
-  },
-  {
-    "source": "t-yueyang",
+    "source": "e-2011-qinhuai",
     "target": "k-poetic-language",
     "anchor": "inline-gloss-004",
     "fragment": "s-definition",
     "section": "文言随文释义 · 语法",
-    "context": "“亲朋无一字，老病有孤舟”：诗家语·关系省略与对举。前句无亲朋书信，后句年老多病仅有孤舟；两句“无”“有”构成张力，不能把老病当作孤舟所有的属性。"
+    "context": "“牛马放多春草尽”：诗家语·因果压缩。放牧多与春草尽并列，因果关系由前后语义推出；原句没有“因为……所以”。"
+  },
+  {
+    "source": "e-2011-qinhuai",
+    "target": "k-poetic-language",
+    "anchor": "inline-gloss-005",
+    "fragment": "s-definition",
+    "section": "文言随文释义 · 语法",
+    "context": "“云和积雪苍山晚”：诗家语·意象压缩。“云和积雪”与“苍山晚”紧接，省去较多连接语，宜分辨云雪、苍山和暮色三层，不必强改为单一倒装句。"
+  },
+  {
+    "source": "t-chayang",
+    "target": "k-poetic-language",
+    "anchor": "inline-gloss-001",
+    "fragment": "s-definition",
+    "section": "文言随文释义 · 语法",
+    "context": "“笠是兜鍪蓑是甲”：诗家语·隐喻的判断形式。以农具、雨具对应武备，两小句紧接；“是”保持判断功能，不应再说句中省了判断词。"
+  },
+  {
+    "source": "t-chayang",
+    "target": "k-poetic-language",
+    "anchor": "inline-gloss-006",
+    "fragment": "s-definition",
+    "section": "文言随文释义 · 语法",
+    "context": "“低头折腰只不答”：诗家语·对话转换。“不答”是未应允停工，下一句却直接说出嘱托；不宜机械读成完全沉默而与下文矛盾。"
+  },
+  {
+    "source": "e-thinking-shu",
+    "target": "k-wenyan-du-7b03",
+    "anchor": "inline-gloss-001",
+    "fragment": "s-context",
+    "section": "文言随文释义 · 实词",
+    "context": "“笃”：厚道、诚实，侧重内心与行为基础。"
+  },
+  {
+    "source": "e-thinking-shu",
+    "target": "k-wenyan-du-7b03",
+    "anchor": "inline-gloss-005",
+    "fragment": "s-context",
+    "section": "文言随文释义 · 实词",
+    "context": "“笃”：厚道、诚实，侧重内心与行为基础。"
+  },
+  {
+    "source": "e-thinking-shu",
+    "target": "k-wenyan-du-7b03",
+    "anchor": "inline-gloss-009",
+    "fragment": "s-context",
+    "section": "文言随文释义 · 实词",
+    "context": "“笃”：厚道、诚实，侧重内心与行为基础。"
+  },
+  {
+    "source": "e-thinking-shu",
+    "target": "k-wenyan-du-7b03",
+    "anchor": "inline-gloss-011",
+    "fragment": "s-context",
+    "section": "文言随文释义 · 实词",
+    "context": "“笃”：厚道、诚实，侧重内心与行为基础。"
+  },
+  {
+    "source": "e-thinking-shu",
+    "target": "k-wenyan-du-7b03",
+    "anchor": "inline-gloss-013",
+    "fragment": "s-context",
+    "section": "文言随文释义 · 实词",
+    "context": "“笃”：厚道、诚实，侧重内心与行为基础。"
+  },
+  {
+    "source": "e-thinking-shu",
+    "target": "k-wenyan-du-7b03",
+    "anchor": "inline-gloss-016",
+    "fragment": "s-context",
+    "section": "文言随文释义 · 实词",
+    "context": "“笃”：厚道、诚实，侧重内心与行为基础。"
+  },
+  {
+    "source": "e-thinking-shu",
+    "target": "k-wenyan-yu-4e0e",
+    "anchor": "inline-gloss-026",
+    "fragment": "s-context",
+    "section": "文言随文释义 · 实词",
+    "context": "“与”：交往、相处。"
+  },
+  {
+    "source": "e-thinking-shu",
+    "target": "k-wenyan-yu-4e0e",
+    "anchor": "inline-gloss-027",
+    "fragment": "s-sense-5",
+    "section": "文言随文释义 · 虚词",
+    "context": "“与”：句末疑问语气词，通欤；此“与”不同于“与人”的动词。"
+  },
+  {
+    "source": "t-paoding",
+    "target": "k-wenyan-shan",
+    "anchor": "gloss-004",
+    "fragment": "s-map",
+    "section": "文言随文释义 · 实词",
+    "context": "“善”：这里指揩拭。"
+  },
+  {
+    "source": "t-paoding",
+    "target": "k-wenyan-yu",
+    "anchor": "gloss-005",
+    "fragment": "s-core",
+    "section": "文言随文释义 · 虚词",
+    "context": "“所解数千牛矣，而刀刃若新发于硎”：引出磨刀的处所；全句说刀刃好像刚在磨刀石上磨过。"
+  },
+  {
+    "source": "t-paoding",
+    "target": "k-ancient-function-words",
+    "anchor": "gloss-006",
+    "fragment": "s-definition",
+    "section": "文言随文释义 · 虚词",
+    "context": "“依乎天理”：相当于“于”，引出依循的对象。“天理”在此指牛体的天然结构。"
+  },
+  {
+    "source": "t-paoding",
+    "target": "k-wenyan-nai-4e43",
+    "anchor": "inline-gloss-009",
+    "fragment": "s-context",
+    "section": "文言随文释义 · 虚词",
+    "context": "“乃”：副词，又、并且；强调节奏相合。"
+  },
+  {
+    "source": "t-paoding",
+    "target": "k-wenyan-gai",
+    "anchor": "inline-gloss-011",
+    "fragment": "s-map",
+    "section": "文言随文释义 · 虚词",
+    "context": "“盖”：疑问词，通“盍”，怎么。"
+  },
+  {
+    "source": "t-paoding",
+    "target": "k-wenyan-dao",
+    "anchor": "inline-gloss-013",
+    "fragment": "s-map",
+    "section": "文言随文释义 · 实词",
+    "context": "“道”：〔道〕天道，自然的规律。（教材第8页注释。）"
+  },
+  {
+    "source": "t-paoding",
+    "target": "k-wenyan-hu-4e4e",
+    "anchor": "inline-gloss-015",
+    "fragment": "s-context",
+    "section": "文言随文释义 · 虚词",
+    "context": "“乎”：介词，比，表示所好之道超过技艺。"
+  },
+  {
+    "source": "t-paoding",
+    "target": "k-wenyan-yin-56e0",
+    "anchor": "inline-gloss-023",
+    "fragment": "s-context",
+    "section": "文言随文释义 · 虚词",
+    "context": "“因”：介词，依照、顺着。"
+  },
+  {
+    "source": "t-paoding",
+    "target": "k-wenyan-geng-66f4",
+    "anchor": "inline-gloss-029",
+    "fragment": "s-sense-1",
+    "section": "文言随文释义 · 实词",
+    "context": "“更”：〔更〕更换。（教材第8页注释。）"
+  },
+  {
+    "source": "t-paoding",
+    "target": "k-wenyan-wei",
+    "anchor": "inline-gloss-045",
+    "fragment": "s-map",
+    "section": "文言随文释义 · 实词",
+    "context": "“微”：〔微〕轻。（教材第9页注释。）"
   },
   {
     "source": "t-qihuan-jinwen",
@@ -103040,60 +103656,140 @@
     "context": "“苟”：假设连词，如果。"
   },
   {
-    "source": "t-jingnv",
-    "target": "k-wenyan-jian-see",
+    "source": "t-queqiaoxian",
+    "target": "k-wenyan-sheng",
+    "anchor": "gloss-001",
+    "fragment": "s-context",
+    "section": "文言随文释义 · 实词",
+    "context": "“便胜却人间无数”：从感情价值作比较，不能理解为战争胜利。"
+  },
+  {
+    "source": "t-queqiaoxian",
+    "target": "k-poetic-language",
+    "anchor": "inline-gloss-005",
+    "fragment": "s-definition",
+    "section": "文言随文释义 · 语法",
+    "context": "“银汉迢迢暗度”：诗家语·处所前置与主语省略。牛郎织女暗渡迢迢银河，银河被提到句首；不是银河自己暗渡。"
+  },
+  {
+    "source": "e-nj2026-zhangyong",
+    "target": "k-wenyan-courtesy-name",
+    "anchor": "gloss-001",
+    "fragment": "s-context",
+    "section": "文言随文释义 · 文化常识",
+    "context": "“忠定公张公复之”：张咏的字。材料交替使用名、字、谥号，须合并为同一人物。"
+  },
+  {
+    "source": "e-nj2026-zhangyong",
+    "target": "k-wenyan-era-name",
     "anchor": "gloss-002",
     "fragment": "s-context",
-    "section": "文言随文释义 · 实词",
-    "context": "“爱而不见”：读xiàn，出现。"
+    "section": "文言随文释义 · 文化常识",
+    "context": "“太平兴国五年”：宋太宗年号。五年为该年号的第五年，不是公历第五年。"
   },
   {
-    "source": "t-jingnv",
-    "target": "k-wenyan-shuo",
+    "source": "e-nj2026-zhangyong",
+    "target": "k-wenyan-bai",
     "anchor": "gloss-003",
-    "fragment": "s-context",
+    "fragment": "s-sense-2",
     "section": "文言随文释义 · 实词",
-    "context": "“说怿女美”：读yuè，喜悦。"
+    "context": "“召拜枢密直学士”：授予官职；本句张咏是受任者，可译为被授为枢密直学士。"
   },
   {
-    "source": "t-jingnv",
-    "target": "k-wenyan-gui",
+    "source": "e-nj2026-zhangyong",
+    "target": "k-wenyan-rang",
     "anchor": "gloss-004",
-    "fragment": "s-context",
+    "fragment": "s-sense-2",
     "section": "文言随文释义 · 实词",
-    "context": "“自牧归荑”：赠送。"
+    "context": "“攘却戎狄”：抵御、排拒。宾语为军事对手，与下文“攘袂”不同。"
   },
   {
-    "source": "t-jingnv",
-    "target": "k-wenyan-ai",
-    "anchor": "inline-gloss-005",
+    "source": "e-nj2026-zhangyong",
+    "target": "k-wenyan-xie",
+    "anchor": "gloss-006",
     "fragment": "s-context",
     "section": "文言随文释义 · 实词",
-    "context": "“爱”：同“（ài）”，隐藏。（《语文·必修上册》第140页注。）"
+    "context": "“乞斩丁谓以谢天下”：向天下谢罪、交代；不是感谢天下。"
   },
   {
-    "source": "t-jingnv",
-    "target": "k-poetic-language",
+    "source": "e-nj2026-zhangyong",
+    "target": "k-wenyan-rang",
+    "anchor": "gloss-009",
+    "fragment": "s-sense-4",
+    "section": "文言随文释义 · 实词",
+    "context": "“攘袂缨冠”：捋起衣袖；袂为袖子，动作表示立即准备出仕。"
+  },
+  {
+    "source": "e-nj2026-zhangyong",
+    "target": "k-wenyan-hen",
+    "anchor": "gloss-010",
+    "fragment": "s-context",
+    "section": "文言随文释义 · 实词",
+    "context": "“旧史恨复之卞急躁竞”：遗憾，认为其性情有欠缺；下文作者正在反驳这种评价。"
+  },
+  {
+    "source": "e-nj2026-zhangyong",
+    "target": "k-lexical-conversion",
+    "anchor": "gloss-011",
+    "fragment": "s-principle",
+    "section": "文言随文释义 · 语法",
+    "context": "“缨冠，诚非得已”：缨在此作动词，系好帽带。与攘袂并列，不能把两者都只当名词。"
+  },
+  {
+    "source": "e-nj2026-zhangyong",
+    "target": "k-wenyan-adverbial-noun",
+    "anchor": "gloss-012",
+    "fragment": "s-context",
+    "section": "文言随文释义 · 语法",
+    "context": "“莱公兄事之”：名词作状语，像对待兄长那样；事的对象“之”指张咏。"
+  },
+  {
+    "source": "e-nj2026-zhangyong",
+    "target": "k-wenyan-bai",
+    "anchor": "gloss-013",
+    "fragment": "s-sense-2",
+    "section": "文言随文释义 · 实词",
+    "context": "“闻莱公大拜”：受任为宰相。主语莱公是寇准；不是张咏向寇准行拜礼。"
+  },
+  {
+    "source": "e-nj2026-zhangyong",
+    "target": "k-wenyan-gu-look",
+    "anchor": "gloss-014",
+    "fragment": "s-context",
+    "section": "文言随文释义 · 实词",
+    "context": "“既别，顾莱公曰”：回头看着，后面接向寇准说话；与前文转折副词顾不同。"
+  },
+  {
+    "source": "e-nj2026-zhangyong",
+    "target": "k-wenyan-gu-look",
     "anchor": "inline-gloss-007",
-    "fragment": "s-definition",
-    "section": "文言随文释义 · 语法",
-    "context": "“爱而不见，搔首踟蹰”：诗家语·主语切换而省略。前一分句承“静女”，后一分句转向“我”；如把全句主语固定为女子，就会误解情境。"
-  },
-  {
-    "source": "t-jingnv",
-    "target": "k-wenyan-qie-4e14",
-    "anchor": "inline-gloss-020",
-    "fragment": "s-sense-1",
+    "fragment": "s-context",
     "section": "文言随文释义 · 虚词",
-    "context": "“且”：连词，并且，连接美与异。"
+    "context": "“顾”：副词，却。"
   },
   {
-    "source": "t-jingnv",
-    "target": "k-poetic-language",
-    "anchor": "inline-gloss-023",
-    "fragment": "s-definition",
-    "section": "文言随文释义 · 语法",
-    "context": "“匪女之为美，美人之贻”：诗家语·判断理由省略。“女”指荑；不是物本身使人喜爱，而因它是美人所赠。后句省去完整的判断和原因连接语。"
+    "source": "e-nj2026-zhangyong",
+    "target": "k-wenyan-shi-envoy",
+    "anchor": "inline-gloss-008",
+    "fragment": "s-context",
+    "section": "文言随文释义 · 虚词",
+    "context": "“使”：假设连词，假如。"
+  },
+  {
+    "source": "e-nj2026-zhangyong",
+    "target": "k-wenyan-huan-8fd8",
+    "anchor": "inline-gloss-012",
+    "fragment": "s-context",
+    "section": "文言随文释义 · 虚词",
+    "context": "“还”：副词，又、重新。"
+  },
+  {
+    "source": "e-nj2026-zhangyong",
+    "target": "k-wenyan-feidun",
+    "anchor": "inline-gloss-015",
+    "fragment": "s-sense-2",
+    "section": "文言随文释义 · 实词",
+    "context": "“肥遁”：退隐而自得。"
   },
   {
     "source": "t-duange",
@@ -103136,1532 +103832,140 @@
     "context": "“山不厌高，海不厌深”：诗家语·拟人并列。山海被赋予“不满足”的意愿，借形象写包容；不是因语序异常而成立的句子。"
   },
   {
-    "source": "t-zhuzhiwu",
-    "target": "k-ancient-syntax",
-    "anchor": "gloss-002",
-    "fragment": "s-definition",
-    "section": "文言随文释义 · 语法",
-    "context": "“越国以鄙远”：“鄙”本指边邑，此处为把远地当作边邑；“远”指远方的郑国。"
-  },
-  {
-    "source": "t-zhuzhiwu",
-    "target": "k-ancient-syntax",
-    "anchor": "gloss-003",
-    "fragment": "s-definition",
-    "section": "文言随文释义 · 语法",
-    "context": "“晋军函陵”：“军”在此指驻军；不宜按现代名词军队直译。"
-  },
-  {
-    "source": "t-zhuzhiwu",
-    "target": "k-wenyan-qie-4e14",
-    "anchor": "inline-gloss-004",
-    "fragment": "s-context",
-    "section": "文言随文释义 · 虚词",
-    "context": "“且”：连词，而且，补充围郑的另一原因。"
-  },
-  {
-    "source": "t-zhuzhiwu",
-    "target": "k-wenyan-xu",
-    "anchor": "inline-gloss-016",
-    "fragment": "s-map",
-    "section": "文言随文释义 · 实词",
-    "context": "“许”：〔许〕答应。（教材第10页注释。）"
-  },
-  {
-    "source": "t-zhuzhiwu",
-    "target": "k-wenyan-nai-4e43",
-    "anchor": "inline-gloss-036",
-    "fragment": "s-sense-1",
-    "section": "文言随文释义 · 虚词",
-    "context": "“乃”：副词，于是、就。"
-  },
-  {
-    "source": "t-zhuzhiwu",
-    "target": "k-wenyan-yin-56e0",
-    "anchor": "inline-gloss-039",
-    "fragment": "s-sense-1",
-    "section": "文言随文释义 · 虚词",
-    "context": "“因”：介词，依靠。"
-  },
-  {
-    "source": "t-cuzhi",
-    "target": "k-wenyan-adverbial-noun",
-    "anchor": "gloss-003",
-    "fragment": "s-principle",
-    "section": "文言随文释义 · 语法",
-    "context": "“岁征民间”：表示每年，修饰征收的动作。"
-  },
-  {
-    "source": "t-cuzhi",
-    "target": "k-wenyan-jin-8fdb",
-    "anchor": "inline-gloss-007",
-    "fragment": "s-context",
-    "section": "文言随文释义 · 实词",
-    "context": "“进”：〔进〕进奉。（教材第119页注释。）"
-  },
-  {
-    "source": "t-cuzhi",
-    "target": "k-wenyan-ze-8d23",
-    "anchor": "inline-gloss-009",
-    "fragment": "s-context",
-    "section": "文言随文释义 · 实词",
-    "context": "“责”：〔责〕责令。（教材第119页注释。）"
-  },
-  {
-    "source": "t-cuzhi",
-    "target": "k-wenyan-sui-867d",
-    "anchor": "inline-gloss-048",
-    "fragment": "s-sense-1",
-    "section": "文言随文释义 · 虚词",
-    "context": "“虽”：让步连词，即使。"
-  },
-  {
-    "source": "t-cuzhi",
-    "target": "k-wenyan-sai-585e",
-    "anchor": "inline-gloss-050",
-    "fragment": "s-context",
-    "section": "文言随文释义 · 实词",
-    "context": "“塞”：〔塞〕充抵。（教材第120页注释。）"
-  },
-  {
-    "source": "t-cuzhi",
-    "target": "k-wenyan-fa-53d1",
-    "anchor": "inline-gloss-051",
-    "fragment": "s-sense-1",
-    "section": "文言随文释义 · 实词",
-    "context": "“发”：〔发〕打开。（教材第120页注释。）"
-  },
-  {
-    "source": "t-cuzhi",
-    "target": "k-wenyan-bei",
-    "anchor": "inline-gloss-057",
-    "fragment": "s-map",
-    "section": "文言随文释义 · 实词",
-    "context": "“被”：〔被〕覆盖。（教材第120页注释。）"
-  },
-  {
-    "source": "t-cuzhi",
-    "target": "k-wenyan-cai-88c1",
-    "anchor": "inline-gloss-067",
-    "fragment": "s-context",
-    "section": "文言随文释义 · 实词",
-    "context": "“裁”：〔裁〕同“才”。（教材第121页注释。）"
-  },
-  {
-    "source": "t-cuzhi",
-    "target": "k-wenyan-gu-look",
-    "anchor": "inline-gloss-081",
-    "fragment": "s-map",
-    "section": "文言随文释义 · 实词",
-    "context": "“顾”：〔顾〕但。（教材第121页注释。）"
-  },
-  {
-    "source": "t-cuzhi",
-    "target": "k-wenyan-wen-95fb",
-    "anchor": "inline-gloss-097",
-    "fragment": "s-context",
-    "section": "文言随文释义 · 实词",
-    "context": "“闻”：〔闻〕上报。（教材第122页注释。）"
-  },
-  {
-    "source": "t-cuzhi",
-    "target": "k-wenyan-fu-592b",
-    "anchor": "inline-gloss-115",
-    "fragment": "s-context",
-    "section": "文言随文释义 · 虚词",
-    "context": "“夫”：感叹语气词，啊，读fú。"
-  },
-  {
-    "source": "t-tianmu",
-    "target": "k-wenyan-xin",
-    "anchor": "gloss-001",
-    "fragment": "s-context",
-    "section": "文言随文释义 · 虚词",
-    "context": "“烟涛微茫信难求”：副词，加强难求的判断，与后文或可睹的推测语气有别。"
-  },
-  {
-    "source": "t-tianmu",
-    "target": "k-wenyan-huo",
-    "anchor": "gloss-002",
-    "fragment": "s-context",
-    "section": "文言随文释义 · 虚词",
-    "context": "“云霞明灭或可睹”：表示可能，不是“有的人”。"
-  },
-  {
-    "source": "t-tianmu",
-    "target": "k-wenyan-an",
-    "anchor": "gloss-003",
-    "fragment": "s-context",
-    "section": "文言随文释义 · 虚词",
-    "context": "“安能摧眉折腰事权贵”：疑问副词，与能连用构成反问。"
-  },
-  {
-    "source": "t-tianmu",
-    "target": "k-wenyan-ba-62d4",
-    "anchor": "inline-gloss-006",
-    "fragment": "s-sense-3",
-    "section": "文言随文释义 · 实词",
-    "context": "“拔”：超出，高于。"
-  },
-  {
-    "source": "t-tianmu",
-    "target": "k-poetic-language",
-    "anchor": "inline-gloss-009",
-    "fragment": "s-definition",
-    "section": "文言随文释义 · 语法",
-    "context": "“一夜飞度镜湖月”：诗家语·意象凝缩。“镜湖月”把镜湖及月光合成路径背景，译读须补出月照湖面的关系；不应说飞越的是月亮实体。"
-  },
-  {
-    "source": "t-tianmu",
-    "target": "k-poetic-language",
-    "anchor": "inline-gloss-029",
-    "fragment": "s-definition",
-    "section": "文言随文释义 · 语法",
-    "context": "“霓为衣兮风为马”：诗家语·介词省略与对偶，可解为“以霓为衣、以风为马”；补出“以”帮助揭示关系，神仙意象仍保留在译文中。"
-  },
-  {
-    "source": "t-tianmu",
-    "target": "k-poetic-language",
-    "anchor": "inline-gloss-037",
-    "fragment": "s-definition",
-    "section": "文言随文释义 · 语法",
-    "context": "“古来万事东流水”：诗家语·名词性比喻。万事与东流水直接相接，含如流水逝去之意；不可把“东”看成修饰万事。"
-  },
-  {
-    "source": "t-shengshengman",
-    "target": "k-wenyan-di-match",
-    "anchor": "gloss-001",
-    "fragment": "s-context",
-    "section": "文言随文释义 · 实词",
-    "context": "“怎敌他、晚来风急”：指酒无法抵挡风寒带来的感受。"
-  },
-  {
-    "source": "t-shengshengman",
-    "target": "k-poetic-language",
-    "anchor": "inline-gloss-001",
-    "fragment": "s-definition",
-    "section": "文言随文释义 · 语法",
-    "context": "“寻寻觅觅，冷冷清清，凄凄惨惨戚戚”：诗家语·叠词与句法省略。动作、环境感受和内心情状连续呈现，主语和衔接词不明说；不能把三组都当作同义情感词。"
-  },
-  {
-    "source": "t-shengshengman",
-    "target": "k-poetic-language",
-    "anchor": "inline-gloss-010",
-    "fragment": "s-definition",
-    "section": "文言随文释义 · 语法",
-    "context": "“梧桐更兼细雨”：诗家语·意象并置与谓语省略。梧桐、细雨并置，“更兼”使两者叠加，具体落雨动作由后句点点滴滴补足。"
-  },
-  {
-    "source": "t-zhuke",
-    "target": "k-wenyan-adverbial-noun",
-    "anchor": "gloss-004",
-    "fragment": "s-principle",
-    "section": "文言随文释义 · 语法",
-    "context": "“西并巴、蜀”：表示向西，修饰“并”；与后面的北收、南取等相应。"
-  },
-  {
-    "source": "t-zhuke",
-    "target": "k-wenyan-bing-5e76",
-    "anchor": "inline-gloss-007",
-    "fragment": "s-sense-1",
-    "section": "文言随文释义 · 实词",
-    "context": "“并”：〔并〕兼并，吞并。（教材第85页注释。）"
-  },
-  {
-    "source": "t-zhuke",
-    "target": "k-wenyan-ju",
-    "anchor": "inline-gloss-012",
-    "fragment": "s-map",
-    "section": "文言随文释义 · 实词",
-    "context": "“举”：〔举〕攻克，占领。（教材第85页注释。）"
-  },
-  {
-    "source": "t-zhuke",
-    "target": "k-wenyan-shi-65bd",
-    "anchor": "inline-gloss-024",
-    "fragment": "s-context",
-    "section": "文言随文释义 · 实词",
-    "context": "“施”：〔施（yì）〕延续。（教材第86页注释。）"
-  },
-  {
-    "source": "t-zhuke",
-    "target": "k-wenyan-que",
-    "anchor": "inline-gloss-030",
-    "fragment": "s-map",
-    "section": "文言随文释义 · 实词",
-    "context": "“却”：〔却〕推辞，拒绝。（教材第86页注释。）"
-  },
-  {
-    "source": "t-zhuke",
-    "target": "k-wenyan-jiu",
-    "anchor": "inline-gloss-056",
-    "fragment": "s-map",
-    "section": "文言随文释义 · 实词",
-    "context": "“就”：〔就〕成就。（教材第87页注释。）"
-  },
-  {
-    "source": "t-zhuke",
-    "target": "k-wenyan-nai-4e43",
-    "anchor": "inline-gloss-060",
-    "fragment": "s-sense-3",
-    "section": "文言随文释义 · 虚词",
-    "context": "“乃”：副词，却、竟然，表示转折出乎预期。"
-  },
-  {
-    "source": "t-zhuke",
-    "target": "k-wenyan-ye-4e1a",
-    "anchor": "inline-gloss-063",
-    "fragment": "s-context",
-    "section": "文言随文释义 · 实词",
-    "context": "“业”：〔业〕使成就霸业。（教材第87页注释。）"
-  },
-  {
-    "source": "t-zhuke",
-    "target": "k-wenyan-zhe-8005",
-    "anchor": "inline-gloss-065",
-    "fragment": "s-context",
-    "section": "文言随文释义 · 虚词",
-    "context": "“者”：结构助词，组成所指之物的名词性结构。"
-  },
-  {
-    "source": "e-qd2026-plums",
-    "target": "k-poetic-language",
-    "anchor": "inline-gloss-003",
-    "fragment": "s-definition",
-    "section": "文言随文释义 · 语法",
-    "context": "“枝枝点点是微酸”：诗家语·感觉凝缩。以滋味“微酸”指向枝间点点梅实，省略“结着梅子”等直述成分；须区分字面滋味与托物寄意。"
-  },
-  {
-    "source": "e-qd2026-plums",
-    "target": "k-poetic-language",
-    "anchor": "inline-gloss-005",
-    "fragment": "s-definition",
-    "section": "文言随文释义 · 语法",
-    "context": "“已作商家鼎鼐③香”：诗家语·时间超前与用典凝缩。未熟的梅被写成已在商家鼎中调味，想象与典故使当下、未来相接，并非普通叙事的时间错误。"
-  },
-  {
-    "source": "e-qd2026-plums",
-    "target": "k-wenyan-qie-4e14",
-    "anchor": "inline-gloss-008",
-    "fragment": "s-context",
-    "section": "文言随文释义 · 虚词",
-    "context": "“且”：副词，暂且。"
-  },
-  {
-    "source": "e-2026-feng",
-    "target": "k-poetic-language",
-    "anchor": "inline-gloss-002",
-    "fragment": "s-definition",
-    "section": "文言随文释义 · 语法",
-    "context": "“林端翻远刹”：诗家语·施事隐含和视象变动。风是全诗隐含的动力；“翻”把林梢间远寺忽隐忽现的视觉感受写成运动，不能按实体被翻转理解。"
-  },
-  {
-    "source": "e-2026-feng",
-    "target": "k-poetic-language",
-    "anchor": "inline-gloss-005",
-    "fragment": "s-definition",
-    "section": "文言随文释义 · 语法",
-    "context": "“花外转疏钟”：诗家语·以声音代发声事件。“钟”指钟声，“转”写声音随风传来；钟声与方位压缩为五字，保持与上句的对偶关系。"
-  },
-  {
-    "source": "t-taishan",
-    "target": "k-wenyan-yin-shade",
-    "anchor": "gloss-002",
-    "fragment": "s-context",
-    "section": "文言随文释义 · 实词",
-    "context": "“其阴，济水东流”：山的北面。"
-  },
-  {
-    "source": "t-taishan",
-    "target": "k-wenyan-fu-bear",
-    "anchor": "gloss-005",
-    "fragment": "s-context",
-    "section": "文言随文释义 · 实词",
-    "context": "“苍山负雪”：山体覆盖积雪，以背负的形态写出山势与雪色。"
-  },
-  {
-    "source": "t-taishan",
-    "target": "k-wenyan-huo",
-    "anchor": "gloss-006",
-    "fragment": "s-context",
-    "section": "文言随文释义 · 虚词",
-    "context": "“或得日”：有的山峰受到日光照射，有的没有。"
-  },
-  {
-    "source": "t-taishan",
-    "target": "k-wenyan-yi",
-    "anchor": "gloss-007",
-    "fragment": "s-context",
-    "section": "文言随文释义 · 虚词",
-    "context": "“回视日观以西峰”：与方位词西连用，表示日观峰以西。"
-  },
-  {
-    "source": "t-taishan",
-    "target": "k-wenyan-yang",
-    "anchor": "inline-gloss-001",
-    "fragment": "s-context",
-    "section": "文言随文释义 · 实词",
-    "context": "“阳”：山南为阳，山北为阴。具体判断须以所指地形为准。"
-  },
-  {
-    "source": "t-taishan",
-    "target": "k-wenyan-era-name",
-    "anchor": "inline-gloss-008",
-    "fragment": "s-context",
-    "section": "文言随文释义 · 文化常识",
-    "context": "“乾隆三十九年”：公元年。乾隆，清高宗的年号（1736—1795）。（《语文·必修上册》第120页注。）"
-  },
-  {
-    "source": "t-taishan",
-    "target": "k-wenyan-cheng",
-    "anchor": "inline-gloss-009",
-    "fragment": "s-context",
-    "section": "文言随文释义 · 实词",
-    "context": "“乘”：这里是“冒”的意思。（《语文·必修上册》第120页注。）"
-  },
-  {
-    "source": "t-taishan",
-    "target": "k-wenyan-ju-5c45",
-    "anchor": "inline-gloss-022",
-    "fragment": "s-sense-2",
-    "section": "文言随文释义 · 实词",
-    "context": "“居”：停留。（《语文·必修上册》第121页注。）"
-  },
-  {
-    "source": "t-taishan",
-    "target": "k-wenyan-ran-7136",
-    "anchor": "inline-gloss-023",
-    "fragment": "s-context",
-    "section": "文言随文释义 · 虚词",
-    "context": "“然”：形容比况的词尾，……的样子。"
-  },
-  {
-    "source": "t-taishan",
-    "target": "k-wenyan-shao-7a0d",
-    "anchor": "inline-gloss-028",
-    "fragment": "s-sense-1",
-    "section": "文言随文释义 · 实词",
-    "context": "“稍”：逐渐。（《语文·必修上册》第121页注。）"
-  },
-  {
-    "source": "t-shizuo",
-    "target": "k-ancient-function-words",
-    "anchor": "gloss-003",
-    "fragment": "s-definition",
-    "section": "文言随文释义 · 虚词",
-    "context": "“浴乎沂”：引出动作发生的处所，相当于“于”；可译为在。"
-  },
-  {
-    "source": "t-shizuo",
-    "target": "k-ancient-culture",
-    "anchor": "gloss-004",
-    "fragment": "s-definition",
-    "section": "文言随文释义 · 文化常识",
-    "context": "“宗庙之事”：天子、诸侯等祭祀祖先的处所；此处关联宗庙祭祀礼仪。"
-  },
-  {
-    "source": "t-shizuo",
-    "target": "k-wenyan-hu-4e4e",
-    "anchor": "inline-gloss-002",
-    "fragment": "s-context",
-    "section": "文言随文释义 · 虚词",
-    "context": "“乎”：介词，比，引出比较对象。"
-  },
-  {
-    "source": "t-shizuo",
-    "target": "k-wenyan-er-5c14",
-    "anchor": "inline-gloss-003",
-    "fragment": "s-sense-1",
-    "section": "文言随文释义 · 虚词",
-    "context": "“尔”：第二人称代词，你们。"
-  },
-  {
-    "source": "t-shizuo",
-    "target": "k-wenyan-ju-5c45",
-    "anchor": "inline-gloss-006",
-    "fragment": "s-context",
-    "section": "文言随文释义 · 实词",
-    "context": "“居”：平日、平时。"
-  },
-  {
-    "source": "t-shizuo",
-    "target": "k-ancient-syntax",
-    "anchor": "inline-gloss-009",
-    "fragment": "s-definition",
-    "section": "文言随文释义 · 语法",
-    "context": "“不吾知”：否定句中代词宾语前置，即不知吾。"
-  },
-  {
-    "source": "t-shizuo",
-    "target": "k-wenyan-hu-4e4e",
-    "anchor": "inline-gloss-020",
-    "fragment": "s-context",
-    "section": "文言随文释义 · 虚词",
-    "context": "“乎”：介词，于，在，引出处所。"
-  },
-  {
-    "source": "t-shizuo",
-    "target": "k-wenyan-qie-4e14",
-    "anchor": "inline-gloss-030",
-    "fragment": "s-sense-1",
-    "section": "文言随文释义 · 虚词",
-    "context": "“且”：连词，并且，连接有勇与知方，有进一步增加的意味。"
-  },
-  {
-    "source": "t-shizuo",
-    "target": "k-wenyan-fang-65b9",
-    "anchor": "inline-gloss-031",
-    "fragment": "s-sense-1",
-    "section": "文言随文释义 · 实词",
-    "context": "“方”：〔方〕合乎礼义的行事准则。（教材第2页注释。）"
-  },
-  {
-    "source": "t-shizuo",
-    "target": "k-wenyan-fang-65b9",
-    "anchor": "inline-gloss-034",
-    "fragment": "s-context",
-    "section": "文言随文释义 · 实词",
-    "context": "“方”：计量土地纵横长度的用语，下接以里计的数值；不是“且知方”的方（为人之道）。"
-  },
-  {
-    "source": "t-shizuo",
-    "target": "k-wenyan-yan-7109",
-    "anchor": "inline-gloss-042",
-    "fragment": "s-context",
-    "section": "文言随文释义 · 虚词",
-    "context": "“焉”：句末语气词，可不译；与“浴乎沂”的处所介词不同。"
-  },
-  {
-    "source": "t-shizuo",
-    "target": "k-wenyan-xiang",
-    "anchor": "inline-gloss-046",
-    "fragment": "s-map",
-    "section": "文言随文释义 · 文化常识",
-    "context": "“相”：〔相〕诸侯祭祀、会盟或朝见天子时，主持赞礼的司仪官。所谓“小相”，也是公西华的谦辞。（教材第3页注释。）"
-  },
-  {
-    "source": "t-shizuo",
-    "target": "k-wenyan-yu-4e0e",
-    "anchor": "inline-gloss-066",
-    "fragment": "s-sense-5",
-    "section": "文言随文释义 · 虚词",
-    "context": "“与”：疑问语气词，同“欤”，表示反问。"
-  },
-  {
-    "source": "t-shizuo",
-    "target": "k-wenyan-fang-65b9",
-    "anchor": "inline-gloss-068",
-    "fragment": "s-context",
-    "section": "文言随文释义 · 实词",
-    "context": "“方”：计量土地纵横长度的用语，下接以里计的数值；不是“且知方”的方（为人之道）。"
-  },
-  {
-    "source": "t-shizuo",
-    "target": "k-wenyan-yu-4e0e",
-    "anchor": "inline-gloss-070",
-    "fragment": "s-sense-5",
-    "section": "文言随文释义 · 虚词",
-    "context": "“与”：疑问语气词，同“欤”，表示反问。"
-  },
-  {
-    "source": "t-niannujiao",
-    "target": "k-wenyan-gu",
-    "anchor": "gloss-001",
-    "fragment": "s-context",
-    "section": "文言随文释义 · 实词",
-    "context": "“故国神游”：这里联系赤壁往事指旧地，并非说北宋已亡国。"
-  },
-  {
-    "source": "t-niannujiao",
-    "target": "k-poetic-language",
-    "anchor": "inline-gloss-007",
-    "fragment": "s-definition",
-    "section": "文言随文释义 · 语法",
-    "context": "“羽扇纶巾”：诗家语·名词性描写。以服饰器物呈现人物姿态，承前省去持、戴等谓语；译文补足动作时须明示。"
-  },
-  {
-    "source": "t-niannujiao",
-    "target": "k-poetic-language",
-    "anchor": "inline-gloss-011",
-    "fragment": "s-definition",
-    "section": "文言随文释义 · 语法",
-    "context": "“故国神游”：诗家语·话题前置与处所省介词。可释为“神游于故国”，故国指旧地；并非“故国”自己神游。"
-  },
-  {
-    "source": "t-niannujiao",
-    "target": "k-poetic-language",
-    "anchor": "inline-gloss-012",
-    "fragment": "s-definition",
-    "section": "文言随文释义 · 语法",
-    "context": "“多情应笑我”：诗家语·语序调整。通行释读为“应笑我多情”，把多情先提出；另有周瑜笑我的解释，需与前后语境辨析，不能把未明示的主语当作定论。"
-  },
-  {
-    "source": "e-thinking-wuwang",
-    "target": "k-wenyan-chen-9648",
-    "anchor": "inline-gloss-007",
-    "fragment": "s-context",
-    "section": "文言随文释义 · 实词",
-    "context": "“陈”：通“阵”，军阵。"
-  },
-  {
-    "source": "e-thinking-wuwang",
-    "target": "k-wenyan-an-6848",
-    "anchor": "inline-gloss-017",
-    "fragment": "s-sense-3",
-    "section": "文言随文释义 · 实词",
-    "context": "“案”：通“按”，考察、查验。"
-  },
-  {
-    "source": "t-liuguo",
-    "target": "k-ancient-syntax",
-    "anchor": "gloss-002",
-    "fragment": "s-definition",
-    "section": "文言随文释义 · 语法",
-    "context": "“为国者无使为积威之所劫哉”：“为……所……”表示被动，即被长期形成的威势胁迫。"
-  },
-  {
-    "source": "t-liuguo",
-    "target": "k-wenyan-lv-shuai",
-    "anchor": "inline-gloss-004",
-    "fragment": "s-map",
-    "section": "文言随文释义 · 实词",
-    "context": "“率”：〔率〕全都，一概。（教材第150页注释。）"
-  },
-  {
-    "source": "t-chibifu",
-    "target": "k-wenyan-xu-slow",
-    "anchor": "gloss-001",
-    "fragment": "s-context",
-    "section": "文言随文释义 · 实词",
-    "context": "“清风徐来”：徐修饰来，表示缓缓地。"
-  },
-  {
-    "source": "t-chibifu",
-    "target": "k-wenyan-shu-zhu",
-    "anchor": "gloss-002",
-    "fragment": "s-context",
-    "section": "文言随文释义 · 实词",
-    "context": "“举酒属客”：读zhǔ，劝客饮酒。"
-  },
-  {
-    "source": "t-chibifu",
-    "target": "k-wenyan-adverbial-noun",
-    "anchor": "gloss-003",
-    "fragment": "s-context",
-    "section": "文言随文释义 · 语法",
-    "context": "“西望夏口”：表示向西，修饰望。"
-  },
-  {
-    "source": "t-chibifu",
-    "target": "k-wenyan-gu-firm",
-    "anchor": "gloss-004",
-    "fragment": "s-context",
-    "section": "文言随文释义 · 虚词",
-    "context": "“固一世之雄也”：副词，承认曹操的英雄地位，再转问其如今何在。"
-  },
-  {
-    "source": "t-chibifu",
-    "target": "k-wenyan-zu-cu",
-    "anchor": "gloss-005",
-    "fragment": "s-context",
-    "section": "文言随文释义 · 虚词",
-    "context": "“而卒莫消长也”：副词，总归、终究。"
-  },
-  {
-    "source": "t-chibifu",
-    "target": "k-wenyan-shi-go",
-    "anchor": "gloss-006",
-    "fragment": "s-context",
-    "section": "文言随文释义 · 实词",
-    "context": "“而吾与子之所共适”：共同享有清风明月带来的声色之美。"
-  },
-  {
-    "source": "t-chibifu",
-    "target": "k-wenyan-kun-56f0",
-    "anchor": "inline-gloss-027",
-    "fragment": "s-context",
-    "section": "文言随文释义 · 实词",
-    "context": "“困”：受困。指曹操败于赤壁。（《语文·必修上册》第119页注。）"
-  },
-  {
-    "source": "t-chibifu",
-    "target": "k-wenyan-gou-82df",
-    "anchor": "inline-gloss-044",
-    "fragment": "s-sense-1",
-    "section": "文言随文释义 · 虚词",
-    "context": "“苟”：假设连词，如果。"
-  },
-  {
-    "source": "t-chibifu",
-    "target": "k-wenyan-yu-4e0e",
-    "anchor": "inline-gloss-045",
-    "fragment": "s-context",
-    "section": "文言随文释义 · 虚词",
-    "context": "“与”：连词，和。"
-  },
-  {
-    "source": "t-chibifu",
-    "target": "k-wenyan-geng-66f4",
-    "anchor": "inline-gloss-047",
-    "fragment": "s-context",
-    "section": "文言随文释义 · 实词",
-    "context": "“更”：再。（《语文·必修上册》第120页注。）"
-  },
-  {
-    "source": "e-thinking-caocao",
-    "target": "k-wenyan-cha-5dee",
-    "anchor": "inline-gloss-011",
-    "fragment": "s-context",
-    "section": "文言随文释义 · 实词",
-    "context": "“差”：读chā，区别等次、按等次安排。"
-  },
-  {
-    "source": "t-dasima",
-    "target": "k-wenyan-yu",
-    "anchor": "gloss-003",
-    "fragment": "s-core",
-    "section": "文言随文释义 · 虚词",
-    "context": "“受命于人主”：引出命令的来源，即从君主那里接受命令。"
-  },
-  {
-    "source": "t-dasima",
-    "target": "k-wenyan-ju",
-    "anchor": "inline-gloss-019",
-    "fragment": "s-map",
-    "section": "文言随文释义 · 实词",
-    "context": "“举”：〔举〕施行。（教材第146页注释。）"
-  },
-  {
-    "source": "t-dasima",
-    "target": "k-wenyan-nai-4e43",
-    "anchor": "inline-gloss-025",
-    "fragment": "s-context",
-    "section": "文言随文释义 · 虚词",
-    "context": "“乃”：副词，却。"
-  },
-  {
-    "source": "t-dasima",
-    "target": "k-wenyan-shi-this",
-    "anchor": "inline-gloss-035",
-    "fragment": "s-map",
-    "section": "文言随文释义 · 实词",
-    "context": "“是”：〔是〕认为正确。（教材第147页注释。）"
-  },
-  {
-    "source": "t-yumeiren",
-    "target": "k-wenyan-guo",
-    "anchor": "inline-gloss-004",
-    "fragment": "s-context",
-    "section": "文言随文释义 · 实词",
-    "context": "“故国”：指南唐。（《语文·必修上册》第142页注。）"
-  },
-  {
-    "source": "t-yumeiren",
-    "target": "k-poetic-language",
-    "anchor": "inline-gloss-005",
-    "fragment": "s-definition",
-    "section": "文言随文释义 · 语法",
-    "context": "“故国不堪回首月明中”：诗家语·时间环境后置。“月明中”是回首的情境，可先说月明时回首故国；故国为被回首的对象，并非故国自己回首。"
-  },
-  {
-    "source": "t-yumeiren",
-    "target": "k-poetic-language",
-    "anchor": "inline-gloss-011",
-    "fragment": "s-definition",
-    "section": "文言随文释义 · 语法",
-    "context": "“问君能有几多愁”：诗家语·人称转向。“君”可作自问的称呼，构成抒情问答，不必另造一个听话者。"
-  },
-  {
-    "source": "e-qd2026-historians",
-    "target": "k-syntax",
-    "anchor": "gloss-001",
-    "fragment": "s-principle",
-    "section": "文言随文释义 · 语法",
-    "context": "“以直笔见诛”：见置于动词前表被动：因为秉笔直书而被杀。"
-  },
-  {
-    "source": "e-qd2026-historians",
+    "source": "e-2026-sanzi",
     "target": "k-wenyan-shan",
-    "anchor": "gloss-002",
+    "anchor": "gloss-001",
     "fragment": "s-context",
     "section": "文言随文释义 · 实词",
-    "context": "“彰善贬恶”：善行、美好的行为，名词作彰的宾语；与恶相对。"
+    "context": "“其所善者”：认为好、称善，指百姓对政令的肯定；不同于与某人交好。"
   },
   {
-    "source": "e-qd2026-historians",
-    "target": "k-wenyan-she-release",
+    "source": "e-2026-sanzi",
+    "target": "k-lexical-conversion",
+    "anchor": "gloss-002",
+    "fragment": "s-concepts",
+    "section": "文言随文释义 · 语法",
+    "context": "“吾闻而药之”：名词意动，以议论为药：把批评当成改进治政的帮助。"
+  },
+  {
+    "source": "e-2026-sanzi",
+    "target": "k-wenyan-yi",
     "anchor": "gloss-003",
-    "fragment": "s-sense-3",
-    "section": "文言随文释义 · 实词",
-    "context": "“乃舍之”：放过这个坚持书写的人，语境中与赦免相关。"
+    "fragment": "s-context",
+    "section": "文言随文释义 · 虚词",
+    "context": "“以论执政”：连词，表示目的，来议论执政者的政事。"
   },
   {
-    "source": "e-qd2026-historians",
-    "target": "k-wenyan-shu",
+    "source": "e-2026-sanzi",
+    "target": "k-wenyan-ke",
     "anchor": "gloss-004",
     "fragment": "s-context",
     "section": "文言随文释义 · 实词",
-    "context": "“将复书之”：书写、记载；“之”指崔杼弑君的事实。"
+    "context": "“吾不克救也”：能够；这里说决口伤人之后来不及救。"
   },
   {
-    "source": "e-qd2026-historians",
-    "target": "k-wenyan-jiu",
+    "source": "e-2026-sanzi",
+    "target": "k-wenyan-dao",
     "anchor": "gloss-005",
     "fragment": "s-context",
     "section": "文言随文释义 · 实词",
-    "context": "“草创未就”：完成，指著述尚未完成；与后面“就极刑”的接受义不同。"
+    "context": "“不如小决使道”：同“导”，疏导；不可按现代道路义翻译。"
   },
   {
-    "source": "e-qd2026-historians",
-    "target": "k-wenyan-jiu",
+    "source": "e-2026-sanzi",
+    "target": "k-wenyan-ruo",
     "anchor": "gloss-006",
     "fragment": "s-context",
-    "section": "文言随文释义 · 实词",
-    "context": "“是以就极刑而无愠色”：接受、承受，指接受极刑以继续完成著述。"
+    "section": "文言随文释义 · 虚词",
+    "context": "“若果行此”：连词，假如；以实行该办法为假设条件。"
   },
   {
-    "source": "e-qd2026-historians",
-    "target": "k-wenyan-yi",
+    "source": "e-2026-sanzi",
+    "target": "k-wenyan-jian-see",
     "anchor": "gloss-007",
     "fragment": "s-context",
-    "section": "文言随文释义 · 虚词",
-    "context": "“是以就极刑”：是以即因此；是指前述惜其不成的缘故。"
-  },
-  {
-    "source": "e-qd2026-historians",
-    "target": "k-wenyan-pin",
-    "anchor": "gloss-008",
-    "fragment": "s-sense-1",
     "section": "文言随文释义 · 实词",
-    "context": "“王孙圉聘于晋”：代表楚国出使晋国，属诸侯间聘问。"
+    "context": "“见夜渔者”：看见，后接夜间捕鱼的人。"
   },
   {
-    "source": "e-qd2026-historians",
-    "target": "k-wenyan-xiang-feast",
-    "anchor": "gloss-009",
-    "fragment": "s-sense-1",
-    "section": "文言随文释义 · 实词",
-    "context": "“定公飨之”：设宴款待，之指来访的王孙圉。"
-  },
-  {
-    "source": "e-qd2026-historians",
-    "target": "k-wenyan-bao",
-    "anchor": "gloss-010",
-    "fragment": "s-sense-1",
-    "section": "文言随文释义 · 实词",
-    "context": "“未尝为宝”：珍宝，名词；为宝即看作宝物，不可把本处宝单独判为意动。"
-  },
-  {
-    "source": "e-qd2026-historians",
-    "target": "k-wenyan-bao",
-    "anchor": "gloss-011",
-    "fragment": "s-sense-2",
-    "section": "文言随文释义 · 实词",
-    "context": "“楚之所宝者”：珍视、以为宝，动词性用法，所宝指被珍视的人。"
-  },
-  {
-    "source": "e-qd2026-historians",
-    "target": "k-wenyan-adverbial-noun",
-    "anchor": "gloss-012",
-    "fragment": "s-context",
-    "section": "文言随文释义 · 语法",
-    "context": "“以朝夕献善败于寡君”：时间名词作状语，从早到晚、经常；修饰献。"
-  },
-  {
-    "source": "e-qd2026-historians",
-    "target": "k-wenyan-gou-82df",
-    "anchor": "inline-gloss-002",
-    "fragment": "s-sense-1",
-    "section": "文言随文释义 · 虚词",
-    "context": "“苟”：假设连词，如果。"
-  },
-  {
-    "source": "e-qd2026-historians",
-    "target": "k-wenyan-qi-pronoun",
-    "anchor": "inline-gloss-017",
-    "fragment": "s-context",
-    "section": "文言随文释义 · 虚词",
-    "context": "“其”：代词，它，指白珩。"
-  },
-  {
-    "source": "e-thinking-zhengtong",
-    "target": "k-wenyan-gou-82df",
-    "anchor": "inline-gloss-018",
-    "fragment": "s-context",
-    "section": "文言随文释义 · 虚词",
-    "context": "“苟”：假使，表假设。"
-  },
-  {
-    "source": "e-2026-yangshu",
-    "target": "k-wenyan-ze",
-    "anchor": "gloss-001",
-    "fragment": "s-context",
-    "section": "文言随文释义 · 虚词",
-    "context": "“则内养固”：承接前面关于环境和志向的条件，引出内在修养稳固的结果。"
-  },
-  {
-    "source": "e-2026-yangshu",
-    "target": "k-wenyan-judgment",
-    "anchor": "gloss-002",
-    "fragment": "s-context",
-    "section": "文言随文释义 · 语法",
-    "context": "“士之于学，犹地之于树也”：以士人与学习、土地与树木的关系相比，确立后文类比说理的起点；“也”收束判断。"
-  },
-  {
-    "source": "e-2026-yangshu",
-    "target": "k-wenyan-qie-4e14",
-    "anchor": "inline-gloss-011",
-    "fragment": "s-sense-2",
-    "section": "文言随文释义 · 虚词",
-    "context": "“且”：副词，将要、将不断。"
-  },
-  {
-    "source": "e-thinking-dongpo",
-    "target": "k-wenyan-yin-56e0",
-    "anchor": "inline-gloss-003",
-    "fragment": "s-sense-1",
-    "section": "文言随文释义 · 实词",
-    "context": "“因”：依据、凭借。"
-  },
-  {
-    "source": "e-thinking-dongpo",
-    "target": "k-wenyan-shu-758f",
-    "anchor": "inline-gloss-008",
-    "fragment": "s-context",
-    "section": "文言随文释义 · 实词",
-    "context": "“疏”：分条陈报。"
-  },
-  {
-    "source": "t-pipa",
-    "target": "k-wenyan-xin",
-    "anchor": "gloss-003",
-    "fragment": "s-context",
-    "section": "文言随文释义 · 虚词",
-    "context": "“低眉信手续续弹”：随手、任凭，不是诚实或书信。"
-  },
-  {
-    "source": "t-pipa",
-    "target": "k-wenyan-ci-speech",
-    "anchor": "gloss-004",
-    "fragment": "s-context",
-    "section": "文言随文释义 · 实词",
-    "context": "“莫辞更坐弹一曲”：不要推辞再坐下弹奏。"
-  },
-  {
-    "source": "t-pipa",
-    "target": "k-wenyan-que",
-    "anchor": "gloss-005",
-    "fragment": "s-context",
-    "section": "文言随文释义 · 实词",
-    "context": "“却坐促弦弦转急”：退回坐下，并非现代常用的转折副词。"
-  },
-  {
-    "source": "t-pipa",
-    "target": "k-wenyan-era-name",
-    "anchor": "inline-gloss-001",
-    "fragment": "s-context",
-    "section": "文言随文释义 · 文化常识",
-    "context": "“元和十年”：公元815年。元和，唐宪宗的年号（806—820）。（《语文·必修上册》第62页注。）"
-  },
-  {
-    "source": "t-pipa",
-    "target": "k-wenyan-qian",
-    "anchor": "inline-gloss-002",
-    "fragment": "s-context",
-    "section": "文言随文释义 · 实词",
-    "context": "“左迁”：贬官、降职的委婉说法。白居易因越职上书言事，触怒当朝权贵，被贬为江州司马。（《语文·必修上册》第62页注。）"
-  },
-  {
-    "source": "t-pipa",
-    "target": "k-poetic-language",
-    "anchor": "inline-gloss-022",
-    "fragment": "s-definition",
-    "section": "文言随文释义 · 语法",
-    "context": "“主人下马客在船”：诗家语·交错叙写。主人下马、客在船并列，动作主体转换而不重复交代登船过程；常按互文理解为主客下马上船，但补译需标明，不能据此细造行动次序。"
-  },
-  {
-    "source": "t-pipa",
-    "target": "k-poetic-language",
-    "anchor": "inline-gloss-045",
-    "fragment": "s-definition",
-    "section": "文言随文释义 · 语法",
-    "context": "“东船西舫悄无言”：诗家语·处所借代。东船西舫指船上的人，写听众无言，并非船本身会说话。"
-  },
-  {
-    "source": "t-pipa",
-    "target": "k-poetic-language",
-    "anchor": "inline-gloss-066",
-    "fragment": "s-definition",
-    "section": "文言随文释义 · 语法",
-    "context": "“终岁不闻丝竹声”：诗家语·借代。“丝竹”代管弦音乐；“不闻”在后文山歌村笛的对照下指缺少可欣赏的雅乐，不等于环境中绝无声音。"
-  },
-  {
-    "source": "t-pipa",
-    "target": "k-wenyan-geng-66f4",
-    "anchor": "inline-gloss-070",
-    "fragment": "s-context",
-    "section": "文言随文释义 · 实词",
-    "context": "“更”：再。（《语文·必修上册》第64页注。）"
-  },
-  {
-    "source": "t-shejiang",
-    "target": "k-wenyan-gu-look",
-    "anchor": "gloss-002",
-    "fragment": "s-context",
-    "section": "文言随文释义 · 实词",
-    "context": "“还顾望旧乡”：转头看，联系旧乡说明目光方向。"
-  },
-  {
-    "source": "t-shejiang",
-    "target": "k-wenyan-yi-wei",
-    "anchor": "inline-gloss-003",
-    "fragment": "s-context",
-    "section": "文言随文释义 · 实词",
-    "context": "“遗”：赠送。（《语文·必修上册》第141页注。）"
-  },
-  {
-    "source": "t-shejiang",
-    "target": "k-poetic-language",
-    "anchor": "inline-gloss-007",
-    "fragment": "s-definition",
-    "section": "文言随文释义 · 语法",
-    "context": "“同心而离居”：诗家语·主语省略。心意相同者与离居者为同一双方；“而”连接相同心意与分处两地的转折关系，不能漏译。"
-  },
-  {
-    "source": "t-queqiaoxian",
-    "target": "k-wenyan-sheng",
-    "anchor": "gloss-001",
-    "fragment": "s-context",
-    "section": "文言随文释义 · 实词",
-    "context": "“便胜却人间无数”：从感情价值作比较，不能理解为战争胜利。"
-  },
-  {
-    "source": "t-queqiaoxian",
-    "target": "k-poetic-language",
-    "anchor": "inline-gloss-005",
-    "fragment": "s-definition",
-    "section": "文言随文释义 · 语法",
-    "context": "“银汉迢迢暗度”：诗家语·处所前置与主语省略。牛郎织女暗渡迢迢银河，银河被提到句首；不是银河自己暗渡。"
-  },
-  {
-    "source": "t-yongyule",
-    "target": "k-wenyan-kan",
-    "anchor": "gloss-001",
-    "fragment": "s-context",
-    "section": "文言随文释义 · 实词",
-    "context": "“可堪回首”：可堪以反诘语气表示不忍回首。"
-  },
-  {
-    "source": "t-yongyule",
-    "target": "k-poetic-language",
-    "anchor": "inline-gloss-001",
-    "fragment": "s-definition",
-    "section": "文言随文释义 · 语法",
-    "context": "“英雄无觅，孙仲谋处”：诗家语·语序和停顿调整。意思是在这里找不到英雄孙仲谋的踪迹；“孙仲谋”承接英雄，“无觅”即无处寻觅，不按标点割成两件事。"
-  },
-  {
-    "source": "t-yongyule",
-    "target": "k-poetic-language",
-    "anchor": "inline-gloss-011",
-    "fragment": "s-definition",
-    "section": "文言随文释义 · 语法",
-    "context": "“四十三年，望中犹记，烽火扬州路”：诗家语·时间跨接。现在的眺望引出四十三年前的战火，省去回忆的完整叙述；不是将四十三年当作战火持续时长。"
-  },
-  {
-    "source": "e-wh2026-law",
-    "target": "k-wenyan-yuan",
-    "anchor": "gloss-002",
-    "fragment": "s-sense-2",
-    "section": "文言随文释义 · 实词",
-    "context": "“君子者，法之原也”：根本，名词。本文强调实施法的人，不同于“原庄宗”的推究义。"
-  },
-  {
-    "source": "e-wh2026-law",
-    "target": "k-wenyan-judgment",
-    "anchor": "gloss-003",
-    "fragment": "s-context",
-    "section": "文言随文释义 · 语法",
-    "context": "“法者，治之端也”：者提示话题，也收束判断；说明法与治理的关系。"
-  },
-  {
-    "source": "e-wh2026-law",
-    "target": "k-syntax",
-    "anchor": "gloss-004",
-    "fragment": "s-principle",
-    "section": "文言随文释义 · 语法",
-    "context": "“君欲何以息其盗贼”：疑问代词何作介词以的宾语而前置，即“以何”：打算用什么办法。"
-  },
-  {
-    "source": "e-wh2026-law",
-    "target": "k-wenyan-an",
-    "anchor": "gloss-005",
-    "fragment": "s-context",
-    "section": "文言随文释义 · 实词",
-    "context": "“固欲安之也”：使百姓安定，安带宾语“之”表示使动关系。"
-  },
-  {
-    "source": "e-wh2026-law",
-    "target": "k-wenyan-yi",
-    "anchor": "gloss-006",
-    "fragment": "s-context",
-    "section": "文言随文释义 · 虚词",
-    "context": "“上以（龚遂）为渤海太守”：以……为……，任命某人为某官；括号中的龚遂是题面补明的对象。"
-  },
-  {
-    "source": "e-wh2026-law",
-    "target": "k-wenyan-shu",
-    "anchor": "gloss-008",
-    "fragment": "s-context",
-    "section": "文言随文释义 · 实词",
-    "context": "“移书敕属县”：公文、文书；移书指发文告知。"
-  },
-  {
-    "source": "e-wh2026-law",
-    "target": "k-wenyan-jia",
-    "anchor": "gloss-009",
-    "fragment": "s-context",
-    "section": "文言随文释义 · 实词",
-    "context": "“开仓廪假贫民”：把粮食贷给贫民；与借助外物不同，须分清给予和借入方向。"
-  },
-  {
-    "source": "e-wh2026-law",
-    "target": "k-lexical-conversion",
-    "anchor": "gloss-010",
-    "fragment": "s-principle",
-    "section": "文言随文释义 · 语法",
-    "context": "“不田作”：田与作结合表示耕作，不田作即不从事农业劳动。"
-  },
-  {
-    "source": "e-wh2026-law",
-    "target": "k-lexical-conversion",
-    "anchor": "gloss-011",
-    "fragment": "s-principle",
-    "section": "文言随文释义 · 语法",
-    "context": "“以桑麻之”：名物作谓语，指在所授土地种植桑麻；“之”承上指土地。"
-  },
-  {
-    "source": "e-wh2026-law",
+    "source": "e-2026-sanzi",
     "target": "k-wenyan-wei-act",
-    "anchor": "gloss-012",
+    "anchor": "gloss-008",
     "fragment": "s-context",
     "section": "文言随文释义 · 虚词",
-    "context": "“未尝为一己而立”：wèi，为了，引出立法所服务的目的与利益。"
+    "context": "“渔为得也”：wèi，为了；说明捕鱼的目的在于获得鱼。"
   },
   {
-    "source": "e-wh2026-law",
-    "target": "k-wenyan-sheng",
+    "source": "e-2026-sanzi",
+    "target": "k-wenyan-adverbial-noun",
+    "anchor": "gloss-010",
+    "fragment": "s-context",
+    "section": "文言随文释义 · 语法",
+    "context": "“文侯身行其县”：亲身、亲自，名词作状语。"
+  },
+  {
+    "source": "e-2026-sanzi",
+    "target": "k-lexical-conversion",
+    "anchor": "gloss-011",
+    "fragment": "s-concepts",
+    "section": "文言随文释义 · 语法",
+    "context": "“王主富民”：使动用法，使百姓富足；不是只说百姓已经富足。"
+  },
+  {
+    "source": "e-2026-sanzi",
+    "target": "k-wenyan-chang",
+    "anchor": "gloss-012",
+    "fragment": "s-context",
+    "section": "文言随文释义 · 实词",
+    "context": "“燕常侵魏八城”：通“尝”，曾经，记叙此前发生的侵地之事。"
+  },
+  {
+    "source": "e-2026-sanzi",
+    "target": "k-wenyan-adverbial-noun",
     "anchor": "gloss-013",
     "fragment": "s-context",
-    "section": "文言随文释义 · 实词",
-    "context": "“前王不胜其利欲之私”：承受、克制不住利欲之私的驱使，不是取胜。"
+    "section": "文言随文释义 · 语法",
+    "context": "“臣请北击之”：方位名词作状语，向北，修饰“击”。"
   },
   {
-    "source": "e-wh2026-law",
-    "target": "k-wenyan-sheng",
-    "anchor": "gloss-014",
+    "source": "e-2026-sanzi",
+    "target": "k-wenyan-suo-6240",
+    "anchor": "inline-gloss-008",
+    "fragment": "s-context",
+    "section": "文言随文释义 · 虚词",
+    "context": "“所”：与善组成名词性结构，所认为好的事。"
+  },
+  {
+    "source": "e-2026-sanzi",
+    "target": "k-wenyan-er",
+    "anchor": "inline-gloss-016",
+    "fragment": "s-context",
+    "section": "文言随文释义 · 虚词",
+    "context": "“而”：转折连词，却。"
+  },
+  {
+    "source": "e-thinking-liyue",
+    "target": "k-wenyan-zhong-4e2d",
+    "anchor": "inline-gloss-006",
     "fragment": "s-context",
     "section": "文言随文释义 · 实词",
-    "context": "“后王或不胜其利欲之私”：不能抵挡私欲驱使；前王立法、后王毁法的行为虽异，词义相同。"
+    "context": "“中”：读zhòng，合宜、合乎准则；与“中绳”有语义联系，不能只靠两种译词强分。"
   },
   {
-    "source": "e-wh2026-law",
-    "target": "k-wenyan-lei",
-    "anchor": "inline-gloss-002",
-    "fragment": "s-context",
+    "source": "e-thinking-liyue",
+    "target": "k-wenyan-shi-98df",
+    "anchor": "inline-gloss-013",
+    "fragment": "s-sense-3",
     "section": "文言随文释义 · 实词",
-    "context": "“类”：法的类例、原则，供应事类推。"
+    "context": "“食”：此处供给食物、供养，注意下文各职业须具备职能资格。"
   },
   {
-    "source": "e-wh2026-law",
+    "source": "e-thinking-liyue",
     "target": "k-wenyan-sui-867d",
-    "anchor": "inline-gloss-004",
-    "fragment": "s-sense-2",
-    "section": "文言随文释义 · 虚词",
-    "context": "“虽”：让步连词，虽然。"
-  },
-  {
-    "source": "e-wh2026-law",
-    "target": "k-wenyan-qie-4e14",
-    "anchor": "inline-gloss-010",
-    "fragment": "s-context",
-    "section": "文言随文释义 · 虚词",
-    "context": "“且”：副词，暂且。"
-  },
-  {
-    "source": "e-wh2026-law",
-    "target": "k-wenyan-postposition",
-    "anchor": "inline-gloss-011",
-    "fragment": "s-context",
-    "section": "文言随文释义 · 语法",
-    "context": "“拘臣以文法”：以文法为动后介词短语，意为用法律条文拘束我。"
-  },
-  {
-    "source": "t-hongmen",
-    "target": "k-ancient-syntax",
-    "anchor": "gloss-009",
-    "fragment": "s-definition",
-    "section": "文言随文释义 · 语法",
-    "context": "“籍何以至此”：“何以”即以何，凭什么、怎么会；须连同疑问语气理解。"
-  },
-  {
-    "source": "t-hongmen",
-    "target": "k-wenyan-adverbial-noun",
-    "anchor": "gloss-010",
-    "fragment": "s-principle",
-    "section": "文言随文释义 · 语法",
-    "context": "“常以身翼蔽沛公”：“翼”修饰“蔽”，像鸟张开翅膀一样掩护。"
-  },
-  {
-    "source": "t-hongmen",
-    "target": "k-wenyan-xiang-feast",
-    "anchor": "inline-gloss-007",
-    "fragment": "s-map",
-    "section": "文言随文释义 · 实词",
-    "context": "“飨”：〔飨（xiǎng）〕用酒食款待宾客。这里是“犒劳”的意思。（教材第13页注释。）"
-  },
-  {
-    "source": "t-hongmen",
-    "target": "k-ancient-culture",
-    "anchor": "inline-gloss-010",
-    "fragment": "s-definition",
-    "section": "文言随文释义 · 文化常识",
-    "context": "“山东”：〔山东〕崤（xiáo）山以东，泛指东方六国之地。（教材第13页注释。）"
-  },
-  {
-    "source": "t-hongmen",
-    "target": "k-wenyan-nai-4e43",
-    "anchor": "inline-gloss-017",
+    "anchor": "inline-gloss-019",
     "fragment": "s-sense-1",
     "section": "文言随文释义 · 虚词",
-    "context": "“乃”：副词，于是。"
-  },
-  {
-    "source": "t-hongmen",
-    "target": "k-wenyan-shuo",
-    "anchor": "inline-gloss-022",
-    "fragment": "s-map",
-    "section": "文言随文释义 · 实词",
-    "context": "“说”：〔说（shuì）〕劝说。（教材第13页注释。）"
-  },
-  {
-    "source": "t-hongmen",
-    "target": "k-wenyan-dang",
-    "anchor": "inline-gloss-025",
-    "fragment": "s-map",
-    "section": "文言随文释义 · 实词",
-    "context": "“当”：〔当（dāng）〕对等，比得上。（教材第14页注释。）"
-  },
-  {
-    "source": "t-hongmen",
-    "target": "k-wenyan-qie-4e14",
-    "anchor": "inline-gloss-026",
-    "fragment": "s-sense-2",
-    "section": "文言随文释义 · 虚词",
-    "context": "“且”：副词，将要。"
-  },
-  {
-    "source": "t-hongmen",
-    "target": "k-wenyan-xing-lucky",
-    "anchor": "inline-gloss-030",
-    "fragment": "s-map",
-    "section": "文言随文释义 · 实词",
-    "context": "“幸”：〔幸〕幸亏，幸而。（教材第14页注释。）"
-  },
-  {
-    "source": "t-hongmen",
-    "target": "k-wenyan-yao",
-    "anchor": "inline-gloss-034",
-    "fragment": "s-map",
-    "section": "文言随文释义 · 实词",
-    "context": "“要”：〔要（yāo）〕同“邀”，邀请。（教材第14页注释。）"
-  },
-  {
-    "source": "t-hongmen",
-    "target": "k-wenyan-yin-56e0",
-    "anchor": "inline-gloss-041",
-    "fragment": "s-context",
-    "section": "文言随文释义 · 虚词",
-    "context": "“因”：副词，趁机、接着。"
-  },
-  {
-    "source": "t-hongmen",
-    "target": "k-wenyan-yin-56e0",
-    "anchor": "inline-gloss-043",
-    "fragment": "s-context",
-    "section": "文言随文释义 · 虚词",
-    "context": "“因”：副词，就此、趁此。"
-  },
-  {
-    "source": "t-hongmen",
-    "target": "k-wenyan-xie",
-    "anchor": "inline-gloss-045",
-    "fragment": "s-map",
-    "section": "文言随文释义 · 实词",
-    "context": "“谢”：〔谢〕道歉。（教材第14页注释。）"
-  },
-  {
-    "source": "t-hongmen",
-    "target": "k-wenyan-yin-56e0",
-    "anchor": "inline-gloss-051",
-    "fragment": "s-sense-2",
-    "section": "文言随文释义 · 实词",
-    "context": "“因”：〔因〕趁着（机会）。（教材第14页注释。）"
-  },
-  {
-    "source": "t-hongmen",
-    "target": "k-wenyan-shu-shuo",
-    "anchor": "inline-gloss-053",
-    "fragment": "s-map",
-    "section": "文言随文释义 · 实词",
-    "context": "“数”：〔数（shuò）〕屡次，多次。（教材第14页注释。）"
-  },
-  {
-    "source": "t-hongmen",
-    "target": "k-wenyan-qie-4e14",
-    "anchor": "inline-gloss-059",
-    "fragment": "s-sense-2",
-    "section": "文言随文释义 · 虚词",
-    "context": "“且”：副词，将要。"
-  },
-  {
-    "source": "t-hongmen",
-    "target": "k-wenyan-qie-4e14",
-    "anchor": "inline-gloss-074",
-    "fragment": "s-sense-4",
-    "section": "文言随文释义 · 虚词",
-    "context": "“且”：副词，尚且，用于退一步论证。"
-  },
-  {
-    "source": "t-hongmen",
-    "target": "k-wenyan-cao-64cd",
-    "anchor": "inline-gloss-085",
-    "fragment": "s-context",
-    "section": "文言随文释义 · 实词",
-    "context": "“操”：〔操〕拿。（教材第16页注释。）"
-  },
-  {
-    "source": "t-hongmen",
-    "target": "k-wenyan-zhi-7f6e",
-    "anchor": "inline-gloss-087",
-    "fragment": "s-context",
-    "section": "文言随文释义 · 实词",
-    "context": "“置”：〔置〕放弃，丢下。（教材第16页注释。）"
-  },
-  {
-    "source": "t-hongmen",
-    "target": "k-wenyan-du",
-    "anchor": "inline-gloss-093",
-    "fragment": "s-map",
-    "section": "文言随文释义 · 实词",
-    "context": "“度”：〔度（duó）〕估计。（教材第16页注释。）"
-  },
-  {
-    "source": "t-hongmen",
-    "target": "k-wenyan-nai-4e43",
-    "anchor": "inline-gloss-094",
-    "fragment": "s-context",
-    "section": "文言随文释义 · 虚词",
-    "context": "“乃”：副词，才；以沛公已安全到营为前提。"
-  },
-  {
-    "source": "t-shishuo",
-    "target": "k-wenyan-judgment",
-    "anchor": "gloss-001",
-    "fragment": "s-context",
-    "section": "文言随文释义 · 语法",
-    "context": "“师者，所以传道受业解惑也”：“者……也”标示对教师职能的判断；“所以”说明凭借或职能。"
-  },
-  {
-    "source": "t-shishuo",
-    "target": "k-wenyan-gu-firm",
-    "anchor": "gloss-003",
-    "fragment": "s-context",
-    "section": "文言随文释义 · 虚词",
-    "context": "“其闻道也固先乎吾”：副词，表示原本如此，不是坚固。"
-  },
-  {
-    "source": "t-shishuo",
-    "target": "k-wenyan-zhi-particle",
-    "anchor": "gloss-004",
-    "fragment": "s-context",
-    "section": "文言随文释义 · 虚词",
-    "context": "“师道之不传也久矣”：用于主谓之间，使“师道不传”作为整体进入更大的句子结构。"
-  },
-  {
-    "source": "t-shishuo",
-    "target": "k-wenyan-shu-who",
-    "anchor": "inline-gloss-004",
-    "fragment": "s-context",
-    "section": "文言随文释义 · 虚词",
-    "context": "“孰”：疑问代词，谁。"
-  },
-  {
-    "source": "t-shishuo",
-    "target": "k-wenyan-nai-4e43",
-    "anchor": "inline-gloss-028",
-    "fragment": "s-sense-3",
-    "section": "文言随文释义 · 虚词",
-    "context": "“乃”：副词，竟然，表示出乎意料。"
-  },
-  {
-    "source": "t-shishuo",
-    "target": "k-wenyan-tong-901a",
-    "anchor": "inline-gloss-042",
-    "fragment": "s-sense-2",
-    "section": "文言随文释义 · 实词",
-    "context": "“通”：全面。（《语文·必修上册》第87页注。）"
-  },
-  {
-    "source": "t-shishuo",
-    "target": "k-wenyan-yi-give",
-    "anchor": "inline-gloss-046",
-    "fragment": "s-context",
-    "section": "文言随文释义 · 实词",
-    "context": "“贻”：赠送。（《语文·必修上册》第87页注。）"
-  },
-  {
-    "source": "e-thinking-wang-anshi",
-    "target": "k-wenyan-ji-6d4e",
-    "anchor": "inline-gloss-001",
-    "fragment": "s-sense-2",
-    "section": "文言随文释义 · 实词",
-    "context": "“济”：帮助、成就。"
-  },
-  {
-    "source": "e-thinking-wang-anshi",
-    "target": "k-wenyan-fa-6cd5",
-    "anchor": "inline-gloss-002",
-    "fragment": "s-sense-3",
-    "section": "文言随文释义 · 实词",
-    "context": "“法”：效法，动词。"
-  },
-  {
-    "source": "e-thinking-wang-anshi",
-    "target": "k-wenyan-fa-6cd5",
-    "anchor": "inline-gloss-003",
-    "fragment": "s-sense-3",
-    "section": "文言随文释义 · 实词",
-    "context": "“法”：效法，动词。"
-  },
-  {
-    "source": "t-quanxue",
-    "target": "k-wenyan-yu",
-    "anchor": "gloss-001",
-    "fragment": "s-context",
-    "section": "文言随文释义 · 虚词",
-    "context": "“而青于蓝”：介词，引出比较对象，译为“比”。"
-  },
-  {
-    "source": "t-quanxue",
-    "target": "k-wenyan-adverbial-noun",
-    "anchor": "gloss-002",
-    "fragment": "s-context",
-    "section": "文言随文释义 · 语法",
-    "context": "“君子博学而日参省乎己”：时间名词修饰“参省”，表示每天。"
-  },
-  {
-    "source": "t-quanxue",
-    "target": "k-wenyan-jiu",
-    "anchor": "gloss-003",
-    "fragment": "s-context",
-    "section": "文言随文释义 · 实词",
-    "context": "“金就砺则利”：接近、靠近；指金属刀具接受磨砺。"
-  },
-  {
-    "source": "t-quanxue",
-    "target": "k-wenyan-jia",
-    "anchor": "gloss-005",
-    "fragment": "s-context",
-    "section": "文言随文释义 · 实词",
-    "context": "“假舆马者”：动词，借助车马，不是“虚假”。"
-  },
-  {
-    "source": "t-quanxue",
-    "target": "k-wenyan-zhi",
-    "anchor": "inline-gloss-014",
-    "fragment": "s-context",
-    "section": "文言随文释义 · 实词",
-    "context": "“知”：同“智”，见识。（《语文·必修上册》第84页注。）"
-  },
-  {
-    "source": "t-quanxue",
-    "target": "k-wenyan-ji-ill",
-    "anchor": "inline-gloss-018",
-    "fragment": "s-context",
-    "section": "文言随文释义 · 实词",
-    "context": "“疾”：劲疾。（《语文·必修上册》第84页注。）"
-  },
-  {
-    "source": "t-quanxue",
-    "target": "k-wenyan-wen-95fb",
-    "anchor": "inline-gloss-019",
-    "fragment": "s-context",
-    "section": "文言随文释义 · 实词",
-    "context": "“闻”：知道，懂得。（《语文·必修上册》第85页注。）"
-  },
-  {
-    "source": "t-quanxue",
-    "target": "k-wenyan-jue",
-    "anchor": "inline-gloss-026",
-    "fragment": "s-context",
-    "section": "文言随文释义 · 实词",
-    "context": "“绝”：横渡。（《语文·必修上册》第84页注。）"
-  },
-  {
-    "source": "t-quanxue",
-    "target": "k-wenyan-sheng-751f",
-    "anchor": "inline-gloss-027",
-    "fragment": "s-context",
-    "section": "文言随文释义 · 实词",
-    "context": "“生”：通“性”，指天性、资质；句意不宜误译为出生没有区别。"
-  },
-  {
-    "source": "t-quanxue",
-    "target": "k-wenyan-yan-7109",
-    "anchor": "inline-gloss-031",
-    "fragment": "s-sense-2",
-    "section": "文言随文释义 · 虚词",
-    "context": "“焉”：兼有“于此”的意思，从这里。"
-  },
-  {
-    "source": "t-quanxue",
-    "target": "k-wenyan-yan-7109",
-    "anchor": "inline-gloss-032",
-    "fragment": "s-sense-2",
-    "section": "文言随文释义 · 虚词",
-    "context": "“焉”：兼有“于此”的意思，在这里。"
-  },
-  {
-    "source": "t-quanxue",
-    "target": "k-wenyan-er",
-    "anchor": "inline-gloss-040",
-    "fragment": "s-context",
-    "section": "文言随文释义 · 虚词",
-    "context": "“而”：连接锲与不舍，表示持续雕刻、不停止的条件；不可机械说成时间承接的两件事。"
-  },
-  {
-    "source": "e-2026-congma",
-    "target": "k-poetic-language",
-    "anchor": "inline-gloss-001",
-    "fragment": "s-definition",
-    "section": "文言随文释义 · 语法",
-    "context": "“骢马铁连钱”：诗家语·名词性铺陈。骢马与铁连钱的毛色特征直接相接，省去“有……斑纹”等陈述成分；不是三个并列的实物。"
-  },
-  {
-    "source": "e-2026-congma",
-    "target": "k-wenyan-dan-4f46",
-    "anchor": "inline-gloss-004",
-    "fragment": "s-context",
-    "section": "文言随文释义 · 虚词",
-    "context": "“但”：副词，只、只管。"
-  },
-  {
-    "source": "e-2026-congma",
-    "target": "k-poetic-language",
-    "anchor": "inline-gloss-008",
-    "fragment": "s-definition",
-    "section": "文言随文释义 · 语法",
-    "context": "“四蹄碧玉片，双眼黄金瞳”：诗家语·判断关系凝缩。前句把马蹄比作碧玉片；不能把碧玉当作马蹄的真实材料。两句对偶，省去显式比喻词。"
+    "context": "“虽”：即使，表让步，国家已治仍须持续治理。"
   },
   {
     "source": "e-2011-heguan",
@@ -105080,460 +104384,484 @@
     "context": "“以”：介词，依照；耳为限止语气词，罢了。"
   },
   {
-    "source": "t-denggao",
-    "target": "k-wenyan-hen",
-    "anchor": "gloss-001",
+    "source": "e-thinking-caocao",
+    "target": "k-wenyan-cha-5dee",
+    "anchor": "inline-gloss-011",
     "fragment": "s-context",
     "section": "文言随文释义 · 实词",
-    "context": "“艰难苦恨繁霜鬓”：抱憾，不能按现代常用义译为仇恨。"
+    "context": "“差”：读chā，区别等次、按等次安排。"
   },
   {
-    "source": "t-denggao",
+    "source": "t-youyuan",
     "target": "k-poetic-language",
     "anchor": "inline-gloss-005",
     "fragment": "s-definition",
     "section": "文言随文释义 · 语法",
-    "context": "“万里悲秋常作客，百年多病独登台”：诗家语·多层状语压缩。万里写离乡之远，百年写一生，常与独分述久客、独登；不可按字序译成在一百岁时登台。"
+    "context": "“良辰美景奈何天，赏心乐事谁家院”：诗家语·曲语凝缩。“奈何天”是令人无可奈何的春天，“谁家院”是对赏心乐事所在的设问；曲句在格律中凝缩常规陈述关系。"
   },
   {
-    "source": "t-denggao",
+    "source": "t-youyuan",
     "target": "k-poetic-language",
-    "anchor": "inline-gloss-007",
+    "anchor": "inline-gloss-009",
     "fragment": "s-definition",
     "section": "文言随文释义 · 语法",
-    "context": "“艰难苦恨繁霜鬓”：诗家语·情状与结果凝缩。艰难是处境，苦恨是情态，繁霜鬓是所恨的白发增多；诗中未展开具体因果步骤。"
+    "context": "“朝飞暮卷，云霞翠轩”：诗家语·用典中的省约与意象组合。教材引王勃“画栋朝飞南浦云，珠帘暮卷西山雨”；曲句省约原诗成分，以朝暮、云霞、翠轩组合楼阁春景。译读补出云、帘须明示，不能把“飞”“卷”都机械解释成帘幕的动作。"
   },
   {
-    "source": "e-2026-guanlesheng",
-    "target": "k-wenyan-yan-satisfy",
-    "anchor": "gloss-001",
-    "fragment": "s-context",
-    "section": "文言随文释义 · 实词",
-    "context": "“乐之不厌”：yàn，满足；喜爱古人之言而不知满足。"
-  },
-  {
-    "source": "e-2026-guanlesheng",
-    "target": "k-wenyan-li-grain",
-    "anchor": "gloss-002",
-    "fragment": "s-context",
-    "section": "文言随文释义 · 实词",
-    "context": "“稷得之以粒黎庶”：使百姓有谷可食，养活；由名词动用并依农事语境理解使动关系。"
-  },
-  {
-    "source": "e-2026-guanlesheng",
-    "target": "k-wenyan-di-match",
-    "anchor": "gloss-003",
-    "fragment": "s-context",
-    "section": "文言随文释义 · 实词",
-    "context": "“天不能与敌大”：匹敌、相比；“大”为比较维度，不是敌人义。"
-  },
-  {
-    "source": "e-2026-guanlesheng",
-    "target": "k-wenyan-er",
-    "anchor": "gloss-006",
-    "fragment": "s-context",
-    "section": "文言随文释义 · 虚词",
-    "context": "“少好学而家贫”：连词，连接好学与家贫两项，可见转折意味。"
-  },
-  {
-    "source": "e-2026-guanlesheng",
-    "target": "k-lexical-shift",
-    "anchor": "gloss-008",
-    "fragment": "s-concepts",
-    "section": "文言随文释义 · 语法",
-    "context": "“精确笃志”：古今词义有别：此处为专心坚定，不是现代测量或数值的精密准确。"
-  },
-  {
-    "source": "e-2026-guanlesheng",
-    "target": "k-syntax",
-    "anchor": "gloss-009",
-    "fragment": "s-01",
-    "section": "文言随文释义 · 语法",
-    "context": "“莫予加损也”：“予”是受事，否定句中代词宾语前置；意为没有什么能增损我。分析时须恢复动作与对象的关系。"
-  },
-  {
-    "source": "e-2026-guanlesheng",
-    "target": "k-wenyan-courtesy-name",
-    "anchor": "gloss-010",
-    "fragment": "s-context",
-    "section": "文言随文释义 · 文化常识",
-    "context": "“名继，字士修”：“继”为名，“士修”为字；名与字是不同的称谓。"
-  },
-  {
-    "source": "e-2026-guanlesheng",
-    "target": "k-wenyan-qi-pronoun",
-    "anchor": "gloss-011",
-    "fragment": "s-context",
-    "section": "文言随文释义 · 虚词",
-    "context": "“观乐生其知道者耶”：表示推测、反问语气，与句末“耶”呼应，可译为大概是懂得道的人吧。"
-  },
-  {
-    "source": "e-2026-guanlesheng",
-    "target": "k-wenyan-yi",
-    "anchor": "inline-gloss-003",
-    "fragment": "s-context",
-    "section": "文言随文释义 · 虚词",
-    "context": "“以”：介词，因为。"
-  },
-  {
-    "source": "e-2026-guanlesheng",
-    "target": "k-wenyan-qing-exhaust",
-    "anchor": "inline-gloss-022",
-    "fragment": "s-context",
-    "section": "文言随文释义 · 实词",
-    "context": "“罄”：尽、用尽。"
-  },
-  {
-    "source": "e-2026-guanlesheng",
-    "target": "k-wenyan-zu-cu",
-    "anchor": "inline-gloss-024",
-    "fragment": "s-context",
-    "section": "文言随文释义 · 虚词",
-    "context": "“卒”：副词，最终。"
-  },
-  {
-    "source": "e-2026-guanlesheng",
-    "target": "k-wenyan-qie-4e14",
-    "anchor": "inline-gloss-027",
-    "fragment": "s-context",
-    "section": "文言随文释义 · 虚词",
-    "context": "“且”：“且……且……”连用表示两个动作同时进行，边咬边看。"
-  },
-  {
-    "source": "e-2026-guanlesheng",
-    "target": "k-wenyan-qie-4e14",
-    "anchor": "inline-gloss-028",
-    "fragment": "s-context",
-    "section": "文言随文释义 · 虚词",
-    "context": "“且”：“且……且……”连用表示两个动作同时进行，边咬边看。"
-  },
-  {
-    "source": "e-nj2026-zhangyong",
-    "target": "k-wenyan-courtesy-name",
-    "anchor": "gloss-001",
-    "fragment": "s-context",
-    "section": "文言随文释义 · 文化常识",
-    "context": "“忠定公张公复之”：张咏的字。材料交替使用名、字、谥号，须合并为同一人物。"
-  },
-  {
-    "source": "e-nj2026-zhangyong",
-    "target": "k-wenyan-era-name",
-    "anchor": "gloss-002",
-    "fragment": "s-context",
-    "section": "文言随文释义 · 文化常识",
-    "context": "“太平兴国五年”：宋太宗年号。五年为该年号的第五年，不是公历第五年。"
-  },
-  {
-    "source": "e-nj2026-zhangyong",
-    "target": "k-wenyan-bai",
-    "anchor": "gloss-003",
-    "fragment": "s-sense-2",
-    "section": "文言随文释义 · 实词",
-    "context": "“召拜枢密直学士”：授予官职；本句张咏是受任者，可译为被授为枢密直学士。"
-  },
-  {
-    "source": "e-nj2026-zhangyong",
-    "target": "k-wenyan-rang",
+    "source": "t-zhuke",
+    "target": "k-wenyan-adverbial-noun",
     "anchor": "gloss-004",
-    "fragment": "s-sense-2",
-    "section": "文言随文释义 · 实词",
-    "context": "“攘却戎狄”：抵御、排拒。宾语为军事对手，与下文“攘袂”不同。"
-  },
-  {
-    "source": "e-nj2026-zhangyong",
-    "target": "k-wenyan-xie",
-    "anchor": "gloss-006",
-    "fragment": "s-context",
-    "section": "文言随文释义 · 实词",
-    "context": "“乞斩丁谓以谢天下”：向天下谢罪、交代；不是感谢天下。"
-  },
-  {
-    "source": "e-nj2026-zhangyong",
-    "target": "k-wenyan-rang",
-    "anchor": "gloss-009",
-    "fragment": "s-sense-4",
-    "section": "文言随文释义 · 实词",
-    "context": "“攘袂缨冠”：捋起衣袖；袂为袖子，动作表示立即准备出仕。"
-  },
-  {
-    "source": "e-nj2026-zhangyong",
-    "target": "k-wenyan-hen",
-    "anchor": "gloss-010",
-    "fragment": "s-context",
-    "section": "文言随文释义 · 实词",
-    "context": "“旧史恨复之卞急躁竞”：遗憾，认为其性情有欠缺；下文作者正在反驳这种评价。"
-  },
-  {
-    "source": "e-nj2026-zhangyong",
-    "target": "k-lexical-conversion",
-    "anchor": "gloss-011",
     "fragment": "s-principle",
     "section": "文言随文释义 · 语法",
-    "context": "“缨冠，诚非得已”：缨在此作动词，系好帽带。与攘袂并列，不能把两者都只当名词。"
+    "context": "“西并巴、蜀”：表示向西，修饰“并”；与后面的北收、南取等相应。"
   },
   {
-    "source": "e-nj2026-zhangyong",
+    "source": "t-zhuke",
+    "target": "k-wenyan-bing-5e76",
+    "anchor": "inline-gloss-007",
+    "fragment": "s-sense-1",
+    "section": "文言随文释义 · 实词",
+    "context": "“并”：〔并〕兼并，吞并。（教材第85页注释。）"
+  },
+  {
+    "source": "t-zhuke",
+    "target": "k-wenyan-ju",
+    "anchor": "inline-gloss-012",
+    "fragment": "s-map",
+    "section": "文言随文释义 · 实词",
+    "context": "“举”：〔举〕攻克，占领。（教材第85页注释。）"
+  },
+  {
+    "source": "t-zhuke",
+    "target": "k-wenyan-shi-65bd",
+    "anchor": "inline-gloss-024",
+    "fragment": "s-context",
+    "section": "文言随文释义 · 实词",
+    "context": "“施”：〔施（yì）〕延续。（教材第86页注释。）"
+  },
+  {
+    "source": "t-zhuke",
+    "target": "k-wenyan-que",
+    "anchor": "inline-gloss-030",
+    "fragment": "s-map",
+    "section": "文言随文释义 · 实词",
+    "context": "“却”：〔却〕推辞，拒绝。（教材第86页注释。）"
+  },
+  {
+    "source": "t-zhuke",
+    "target": "k-wenyan-jiu",
+    "anchor": "inline-gloss-056",
+    "fragment": "s-map",
+    "section": "文言随文释义 · 实词",
+    "context": "“就”：〔就〕成就。（教材第87页注释。）"
+  },
+  {
+    "source": "t-zhuke",
+    "target": "k-wenyan-nai-4e43",
+    "anchor": "inline-gloss-060",
+    "fragment": "s-sense-3",
+    "section": "文言随文释义 · 虚词",
+    "context": "“乃”：副词，却、竟然，表示转折出乎预期。"
+  },
+  {
+    "source": "t-zhuke",
+    "target": "k-wenyan-ye-4e1a",
+    "anchor": "inline-gloss-063",
+    "fragment": "s-context",
+    "section": "文言随文释义 · 实词",
+    "context": "“业”：〔业〕使成就霸业。（教材第87页注释。）"
+  },
+  {
+    "source": "t-zhuke",
+    "target": "k-wenyan-zhe-8005",
+    "anchor": "inline-gloss-065",
+    "fragment": "s-context",
+    "section": "文言随文释义 · 虚词",
+    "context": "“者”：结构助词，组成所指之物的名词性结构。"
+  },
+  {
+    "source": "t-liuguo",
+    "target": "k-ancient-syntax",
+    "anchor": "gloss-002",
+    "fragment": "s-definition",
+    "section": "文言随文释义 · 语法",
+    "context": "“为国者无使为积威之所劫哉”：“为……所……”表示被动，即被长期形成的威势胁迫。"
+  },
+  {
+    "source": "t-liuguo",
+    "target": "k-wenyan-lv-shuai",
+    "anchor": "inline-gloss-004",
+    "fragment": "s-map",
+    "section": "文言随文释义 · 实词",
+    "context": "“率”：〔率〕全都，一概。（教材第150页注释。）"
+  },
+  {
+    "source": "e-thinking-dongxuan",
+    "target": "k-wenyan-xiao-6548",
+    "anchor": "inline-gloss-009",
+    "fragment": "s-context",
+    "section": "文言随文释义 · 实词",
+    "context": "“效”：尽职、效力。"
+  },
+  {
+    "source": "t-pipa",
+    "target": "k-wenyan-xin",
+    "anchor": "gloss-003",
+    "fragment": "s-context",
+    "section": "文言随文释义 · 虚词",
+    "context": "“低眉信手续续弹”：随手、任凭，不是诚实或书信。"
+  },
+  {
+    "source": "t-pipa",
+    "target": "k-wenyan-ci-speech",
+    "anchor": "gloss-004",
+    "fragment": "s-context",
+    "section": "文言随文释义 · 实词",
+    "context": "“莫辞更坐弹一曲”：不要推辞再坐下弹奏。"
+  },
+  {
+    "source": "t-pipa",
+    "target": "k-wenyan-que",
+    "anchor": "gloss-005",
+    "fragment": "s-context",
+    "section": "文言随文释义 · 实词",
+    "context": "“却坐促弦弦转急”：退回坐下，并非现代常用的转折副词。"
+  },
+  {
+    "source": "t-pipa",
+    "target": "k-wenyan-era-name",
+    "anchor": "inline-gloss-001",
+    "fragment": "s-context",
+    "section": "文言随文释义 · 文化常识",
+    "context": "“元和十年”：公元815年。元和，唐宪宗的年号（806—820）。（《语文·必修上册》第62页注。）"
+  },
+  {
+    "source": "t-pipa",
+    "target": "k-wenyan-qian",
+    "anchor": "inline-gloss-002",
+    "fragment": "s-context",
+    "section": "文言随文释义 · 实词",
+    "context": "“左迁”：贬官、降职的委婉说法。白居易因越职上书言事，触怒当朝权贵，被贬为江州司马。（《语文·必修上册》第62页注。）"
+  },
+  {
+    "source": "t-pipa",
+    "target": "k-poetic-language",
+    "anchor": "inline-gloss-022",
+    "fragment": "s-definition",
+    "section": "文言随文释义 · 语法",
+    "context": "“主人下马客在船”：诗家语·交错叙写。主人下马、客在船并列，动作主体转换而不重复交代登船过程；常按互文理解为主客下马上船，但补译需标明，不能据此细造行动次序。"
+  },
+  {
+    "source": "t-pipa",
+    "target": "k-poetic-language",
+    "anchor": "inline-gloss-045",
+    "fragment": "s-definition",
+    "section": "文言随文释义 · 语法",
+    "context": "“东船西舫悄无言”：诗家语·处所借代。东船西舫指船上的人，写听众无言，并非船本身会说话。"
+  },
+  {
+    "source": "t-pipa",
+    "target": "k-poetic-language",
+    "anchor": "inline-gloss-066",
+    "fragment": "s-definition",
+    "section": "文言随文释义 · 语法",
+    "context": "“终岁不闻丝竹声”：诗家语·借代。“丝竹”代管弦音乐；“不闻”在后文山歌村笛的对照下指缺少可欣赏的雅乐，不等于环境中绝无声音。"
+  },
+  {
+    "source": "t-pipa",
+    "target": "k-wenyan-geng-66f4",
+    "anchor": "inline-gloss-070",
+    "fragment": "s-context",
+    "section": "文言随文释义 · 实词",
+    "context": "“更”：再。（《语文·必修上册》第64页注。）"
+  },
+  {
+    "source": "t-taishan",
+    "target": "k-wenyan-yin-shade",
+    "anchor": "gloss-002",
+    "fragment": "s-context",
+    "section": "文言随文释义 · 实词",
+    "context": "“其阴，济水东流”：山的北面。"
+  },
+  {
+    "source": "t-taishan",
+    "target": "k-wenyan-fu-bear",
+    "anchor": "gloss-005",
+    "fragment": "s-context",
+    "section": "文言随文释义 · 实词",
+    "context": "“苍山负雪”：山体覆盖积雪，以背负的形态写出山势与雪色。"
+  },
+  {
+    "source": "t-taishan",
+    "target": "k-wenyan-huo",
+    "anchor": "gloss-006",
+    "fragment": "s-context",
+    "section": "文言随文释义 · 虚词",
+    "context": "“或得日”：有的山峰受到日光照射，有的没有。"
+  },
+  {
+    "source": "t-taishan",
+    "target": "k-wenyan-yi",
+    "anchor": "gloss-007",
+    "fragment": "s-context",
+    "section": "文言随文释义 · 虚词",
+    "context": "“回视日观以西峰”：与方位词西连用，表示日观峰以西。"
+  },
+  {
+    "source": "t-taishan",
+    "target": "k-wenyan-yang",
+    "anchor": "inline-gloss-001",
+    "fragment": "s-context",
+    "section": "文言随文释义 · 实词",
+    "context": "“阳”：山南为阳，山北为阴。具体判断须以所指地形为准。"
+  },
+  {
+    "source": "t-taishan",
+    "target": "k-wenyan-era-name",
+    "anchor": "inline-gloss-008",
+    "fragment": "s-context",
+    "section": "文言随文释义 · 文化常识",
+    "context": "“乾隆三十九年”：公元年。乾隆，清高宗的年号（1736—1795）。（《语文·必修上册》第120页注。）"
+  },
+  {
+    "source": "t-taishan",
+    "target": "k-wenyan-cheng",
+    "anchor": "inline-gloss-009",
+    "fragment": "s-context",
+    "section": "文言随文释义 · 实词",
+    "context": "“乘”：这里是“冒”的意思。（《语文·必修上册》第120页注。）"
+  },
+  {
+    "source": "t-taishan",
+    "target": "k-wenyan-ju-5c45",
+    "anchor": "inline-gloss-022",
+    "fragment": "s-sense-2",
+    "section": "文言随文释义 · 实词",
+    "context": "“居”：停留。（《语文·必修上册》第121页注。）"
+  },
+  {
+    "source": "t-taishan",
+    "target": "k-wenyan-ran-7136",
+    "anchor": "inline-gloss-023",
+    "fragment": "s-context",
+    "section": "文言随文释义 · 虚词",
+    "context": "“然”：形容比况的词尾，……的样子。"
+  },
+  {
+    "source": "t-taishan",
+    "target": "k-wenyan-shao-7a0d",
+    "anchor": "inline-gloss-028",
+    "fragment": "s-sense-1",
+    "section": "文言随文释义 · 实词",
+    "context": "“稍”：逐渐。（《语文·必修上册》第121页注。）"
+  },
+  {
+    "source": "e-qd2026-historians",
+    "target": "k-syntax",
+    "anchor": "gloss-001",
+    "fragment": "s-principle",
+    "section": "文言随文释义 · 语法",
+    "context": "“以直笔见诛”：见置于动词前表被动：因为秉笔直书而被杀。"
+  },
+  {
+    "source": "e-qd2026-historians",
+    "target": "k-wenyan-shan",
+    "anchor": "gloss-002",
+    "fragment": "s-context",
+    "section": "文言随文释义 · 实词",
+    "context": "“彰善贬恶”：善行、美好的行为，名词作彰的宾语；与恶相对。"
+  },
+  {
+    "source": "e-qd2026-historians",
+    "target": "k-wenyan-she-release",
+    "anchor": "gloss-003",
+    "fragment": "s-sense-3",
+    "section": "文言随文释义 · 实词",
+    "context": "“乃舍之”：放过这个坚持书写的人，语境中与赦免相关。"
+  },
+  {
+    "source": "e-qd2026-historians",
+    "target": "k-wenyan-shu",
+    "anchor": "gloss-004",
+    "fragment": "s-context",
+    "section": "文言随文释义 · 实词",
+    "context": "“将复书之”：书写、记载；“之”指崔杼弑君的事实。"
+  },
+  {
+    "source": "e-qd2026-historians",
+    "target": "k-wenyan-jiu",
+    "anchor": "gloss-005",
+    "fragment": "s-context",
+    "section": "文言随文释义 · 实词",
+    "context": "“草创未就”：完成，指著述尚未完成；与后面“就极刑”的接受义不同。"
+  },
+  {
+    "source": "e-qd2026-historians",
+    "target": "k-wenyan-jiu",
+    "anchor": "gloss-006",
+    "fragment": "s-context",
+    "section": "文言随文释义 · 实词",
+    "context": "“是以就极刑而无愠色”：接受、承受，指接受极刑以继续完成著述。"
+  },
+  {
+    "source": "e-qd2026-historians",
+    "target": "k-wenyan-yi",
+    "anchor": "gloss-007",
+    "fragment": "s-context",
+    "section": "文言随文释义 · 虚词",
+    "context": "“是以就极刑”：是以即因此；是指前述惜其不成的缘故。"
+  },
+  {
+    "source": "e-qd2026-historians",
+    "target": "k-wenyan-pin",
+    "anchor": "gloss-008",
+    "fragment": "s-sense-1",
+    "section": "文言随文释义 · 实词",
+    "context": "“王孙圉聘于晋”：代表楚国出使晋国，属诸侯间聘问。"
+  },
+  {
+    "source": "e-qd2026-historians",
+    "target": "k-wenyan-xiang-feast",
+    "anchor": "gloss-009",
+    "fragment": "s-sense-1",
+    "section": "文言随文释义 · 实词",
+    "context": "“定公飨之”：设宴款待，之指来访的王孙圉。"
+  },
+  {
+    "source": "e-qd2026-historians",
+    "target": "k-wenyan-bao",
+    "anchor": "gloss-010",
+    "fragment": "s-sense-1",
+    "section": "文言随文释义 · 实词",
+    "context": "“未尝为宝”：珍宝，名词；为宝即看作宝物，不可把本处宝单独判为意动。"
+  },
+  {
+    "source": "e-qd2026-historians",
+    "target": "k-wenyan-bao",
+    "anchor": "gloss-011",
+    "fragment": "s-sense-2",
+    "section": "文言随文释义 · 实词",
+    "context": "“楚之所宝者”：珍视、以为宝，动词性用法，所宝指被珍视的人。"
+  },
+  {
+    "source": "e-qd2026-historians",
     "target": "k-wenyan-adverbial-noun",
     "anchor": "gloss-012",
     "fragment": "s-context",
     "section": "文言随文释义 · 语法",
-    "context": "“莱公兄事之”：名词作状语，像对待兄长那样；事的对象“之”指张咏。"
+    "context": "“以朝夕献善败于寡君”：时间名词作状语，从早到晚、经常；修饰献。"
   },
   {
-    "source": "e-nj2026-zhangyong",
-    "target": "k-wenyan-bai",
-    "anchor": "gloss-013",
-    "fragment": "s-sense-2",
-    "section": "文言随文释义 · 实词",
-    "context": "“闻莱公大拜”：受任为宰相。主语莱公是寇准；不是张咏向寇准行拜礼。"
+    "source": "e-qd2026-historians",
+    "target": "k-wenyan-gou-82df",
+    "anchor": "inline-gloss-002",
+    "fragment": "s-sense-1",
+    "section": "文言随文释义 · 虚词",
+    "context": "“苟”：假设连词，如果。"
   },
   {
-    "source": "e-nj2026-zhangyong",
-    "target": "k-wenyan-gu-look",
-    "anchor": "gloss-014",
-    "fragment": "s-context",
-    "section": "文言随文释义 · 实词",
-    "context": "“既别，顾莱公曰”：回头看着，后面接向寇准说话；与前文转折副词顾不同。"
-  },
-  {
-    "source": "e-nj2026-zhangyong",
-    "target": "k-wenyan-gu-look",
-    "anchor": "inline-gloss-007",
+    "source": "e-qd2026-historians",
+    "target": "k-wenyan-qi-pronoun",
+    "anchor": "inline-gloss-017",
     "fragment": "s-context",
     "section": "文言随文释义 · 虚词",
-    "context": "“顾”：副词，却。"
+    "context": "“其”：代词，它，指白珩。"
   },
   {
-    "source": "e-nj2026-zhangyong",
-    "target": "k-wenyan-shi-envoy",
-    "anchor": "inline-gloss-008",
+    "source": "t-quanxue",
+    "target": "k-wenyan-yu",
+    "anchor": "gloss-001",
     "fragment": "s-context",
     "section": "文言随文释义 · 虚词",
-    "context": "“使”：假设连词，假如。"
+    "context": "“而青于蓝”：介词，引出比较对象，译为“比”。"
   },
   {
-    "source": "e-nj2026-zhangyong",
-    "target": "k-wenyan-huan-8fd8",
-    "anchor": "inline-gloss-012",
+    "source": "t-quanxue",
+    "target": "k-wenyan-adverbial-noun",
+    "anchor": "gloss-002",
     "fragment": "s-context",
-    "section": "文言随文释义 · 虚词",
-    "context": "“还”：副词，又、重新。"
+    "section": "文言随文释义 · 语法",
+    "context": "“君子博学而日参省乎己”：时间名词修饰“参省”，表示每天。"
   },
   {
-    "source": "e-nj2026-zhangyong",
-    "target": "k-wenyan-feidun",
-    "anchor": "inline-gloss-015",
-    "fragment": "s-sense-2",
-    "section": "文言随文释义 · 实词",
-    "context": "“肥遁”：退隐而自得。"
-  },
-  {
-    "source": "e-thinking-shu",
-    "target": "k-wenyan-du-7b03",
-    "anchor": "inline-gloss-001",
+    "source": "t-quanxue",
+    "target": "k-wenyan-jiu",
+    "anchor": "gloss-003",
     "fragment": "s-context",
     "section": "文言随文释义 · 实词",
-    "context": "“笃”：厚道、诚实，侧重内心与行为基础。"
+    "context": "“金就砺则利”：接近、靠近；指金属刀具接受磨砺。"
   },
   {
-    "source": "e-thinking-shu",
-    "target": "k-wenyan-du-7b03",
-    "anchor": "inline-gloss-005",
+    "source": "t-quanxue",
+    "target": "k-wenyan-jia",
+    "anchor": "gloss-005",
     "fragment": "s-context",
     "section": "文言随文释义 · 实词",
-    "context": "“笃”：厚道、诚实，侧重内心与行为基础。"
+    "context": "“假舆马者”：动词，借助车马，不是“虚假”。"
   },
   {
-    "source": "e-thinking-shu",
-    "target": "k-wenyan-du-7b03",
-    "anchor": "inline-gloss-009",
+    "source": "t-quanxue",
+    "target": "k-wenyan-zhi",
+    "anchor": "inline-gloss-014",
     "fragment": "s-context",
     "section": "文言随文释义 · 实词",
-    "context": "“笃”：厚道、诚实，侧重内心与行为基础。"
+    "context": "“知”：同“智”，见识。（《语文·必修上册》第84页注。）"
   },
   {
-    "source": "e-thinking-shu",
-    "target": "k-wenyan-du-7b03",
-    "anchor": "inline-gloss-011",
+    "source": "t-quanxue",
+    "target": "k-wenyan-ji-ill",
+    "anchor": "inline-gloss-018",
     "fragment": "s-context",
     "section": "文言随文释义 · 实词",
-    "context": "“笃”：厚道、诚实，侧重内心与行为基础。"
+    "context": "“疾”：劲疾。（《语文·必修上册》第84页注。）"
   },
   {
-    "source": "e-thinking-shu",
-    "target": "k-wenyan-du-7b03",
-    "anchor": "inline-gloss-013",
+    "source": "t-quanxue",
+    "target": "k-wenyan-wen-95fb",
+    "anchor": "inline-gloss-019",
     "fragment": "s-context",
     "section": "文言随文释义 · 实词",
-    "context": "“笃”：厚道、诚实，侧重内心与行为基础。"
+    "context": "“闻”：知道，懂得。（《语文·必修上册》第85页注。）"
   },
   {
-    "source": "e-thinking-shu",
-    "target": "k-wenyan-du-7b03",
-    "anchor": "inline-gloss-016",
-    "fragment": "s-context",
-    "section": "文言随文释义 · 实词",
-    "context": "“笃”：厚道、诚实，侧重内心与行为基础。"
-  },
-  {
-    "source": "e-thinking-shu",
-    "target": "k-wenyan-yu-4e0e",
+    "source": "t-quanxue",
+    "target": "k-wenyan-jue",
     "anchor": "inline-gloss-026",
     "fragment": "s-context",
     "section": "文言随文释义 · 实词",
-    "context": "“与”：交往、相处。"
+    "context": "“绝”：横渡。（《语文·必修上册》第84页注。）"
   },
   {
-    "source": "e-thinking-shu",
-    "target": "k-wenyan-yu-4e0e",
+    "source": "t-quanxue",
+    "target": "k-wenyan-sheng-751f",
     "anchor": "inline-gloss-027",
-    "fragment": "s-sense-5",
-    "section": "文言随文释义 · 虚词",
-    "context": "“与”：句末疑问语气词，通欤；此“与”不同于“与人”的动词。"
-  },
-  {
-    "source": "e-thinking-liyue",
-    "target": "k-wenyan-zhong-4e2d",
-    "anchor": "inline-gloss-006",
     "fragment": "s-context",
     "section": "文言随文释义 · 实词",
-    "context": "“中”：读zhòng，合宜、合乎准则；与“中绳”有语义联系，不能只靠两种译词强分。"
+    "context": "“生”：通“性”，指天性、资质；句意不宜误译为出生没有区别。"
   },
   {
-    "source": "e-thinking-liyue",
-    "target": "k-wenyan-shi-98df",
-    "anchor": "inline-gloss-013",
-    "fragment": "s-sense-3",
-    "section": "文言随文释义 · 实词",
-    "context": "“食”：此处供给食物、供养，注意下文各职业须具备职能资格。"
-  },
-  {
-    "source": "e-thinking-liyue",
-    "target": "k-wenyan-sui-867d",
-    "anchor": "inline-gloss-019",
-    "fragment": "s-sense-1",
-    "section": "文言随文释义 · 虚词",
-    "context": "“虽”：即使，表让步，国家已治仍须持续治理。"
-  },
-  {
-    "source": "e-wh2026-eagles",
-    "target": "k-poetic-language",
-    "anchor": "inline-gloss-003",
-    "fragment": "s-definition",
-    "section": "文言随文释义 · 语法",
-    "context": "“独立高秋削玉巅”：诗家语·处所关系压缩。“高秋”是时令，“削玉巅”是如玉削成的山巅；“立”后的处所介词省去，不宜把高秋误作鹰所站的实物。"
-  },
-  {
-    "source": "e-wh2026-eagles",
-    "target": "k-poetic-language",
-    "anchor": "inline-gloss-004",
-    "fragment": "s-definition",
-    "section": "文言随文释义 · 语法",
-    "context": "“决云白日山前荡”：诗家语·连续动作压缩。决云、荡写鹰冲云飞荡，白日为时间背景，山前为处所；还原关系是为释义，不据此断言只有一种散文语序。"
-  },
-  {
-    "source": "t-afang",
-    "target": "k-ancient-syntax",
-    "anchor": "gloss-001",
-    "fragment": "s-definition",
-    "section": "文言随文释义 · 语法",
-    "context": "“后人哀之而不鉴之”：把前人的败亡作为借鉴；“鉴”与单纯哀叹相对。"
-  },
-  {
-    "source": "t-afang",
+    "source": "t-quanxue",
     "target": "k-wenyan-yan-7109",
-    "anchor": "inline-gloss-011",
-    "fragment": "s-sense-4",
+    "anchor": "inline-gloss-031",
+    "fragment": "s-sense-2",
     "section": "文言随文释义 · 虚词",
-    "context": "“焉”：形容状态的词尾，……的样子。"
+    "context": "“焉”：兼有“于此”的意思，从这里。"
   },
   {
-    "source": "t-afang",
-    "target": "k-wenyan-suo-6240",
-    "anchor": "inline-gloss-020",
+    "source": "t-quanxue",
+    "target": "k-wenyan-yan-7109",
+    "anchor": "inline-gloss-032",
+    "fragment": "s-sense-2",
+    "section": "文言随文释义 · 虚词",
+    "context": "“焉”：兼有“于此”的意思，在这里。"
+  },
+  {
+    "source": "t-quanxue",
+    "target": "k-wenyan-er",
+    "anchor": "inline-gloss-040",
     "fragment": "s-context",
     "section": "文言随文释义 · 虚词",
-    "context": "“所”：置于动词之（到、往）前，组成所往之处的名词性结构。"
-  },
-  {
-    "source": "t-paoding",
-    "target": "k-wenyan-shan",
-    "anchor": "gloss-004",
-    "fragment": "s-map",
-    "section": "文言随文释义 · 实词",
-    "context": "“善”：这里指揩拭。"
-  },
-  {
-    "source": "t-paoding",
-    "target": "k-wenyan-yu",
-    "anchor": "gloss-005",
-    "fragment": "s-core",
-    "section": "文言随文释义 · 虚词",
-    "context": "“所解数千牛矣，而刀刃若新发于硎”：引出磨刀的处所；全句说刀刃好像刚在磨刀石上磨过。"
-  },
-  {
-    "source": "t-paoding",
-    "target": "k-ancient-function-words",
-    "anchor": "gloss-006",
-    "fragment": "s-definition",
-    "section": "文言随文释义 · 虚词",
-    "context": "“依乎天理”：相当于“于”，引出依循的对象。“天理”在此指牛体的天然结构。"
-  },
-  {
-    "source": "t-paoding",
-    "target": "k-wenyan-nai-4e43",
-    "anchor": "inline-gloss-009",
-    "fragment": "s-context",
-    "section": "文言随文释义 · 虚词",
-    "context": "“乃”：副词，又、并且；强调节奏相合。"
-  },
-  {
-    "source": "t-paoding",
-    "target": "k-wenyan-gai",
-    "anchor": "inline-gloss-011",
-    "fragment": "s-map",
-    "section": "文言随文释义 · 虚词",
-    "context": "“盖”：疑问词，通“盍”，怎么。"
-  },
-  {
-    "source": "t-paoding",
-    "target": "k-wenyan-dao",
-    "anchor": "inline-gloss-013",
-    "fragment": "s-map",
-    "section": "文言随文释义 · 实词",
-    "context": "“道”：〔道〕天道，自然的规律。（教材第8页注释。）"
-  },
-  {
-    "source": "t-paoding",
-    "target": "k-wenyan-hu-4e4e",
-    "anchor": "inline-gloss-015",
-    "fragment": "s-context",
-    "section": "文言随文释义 · 虚词",
-    "context": "“乎”：介词，比，表示所好之道超过技艺。"
-  },
-  {
-    "source": "t-paoding",
-    "target": "k-wenyan-yin-56e0",
-    "anchor": "inline-gloss-023",
-    "fragment": "s-context",
-    "section": "文言随文释义 · 虚词",
-    "context": "“因”：介词，依照、顺着。"
-  },
-  {
-    "source": "t-paoding",
-    "target": "k-wenyan-geng-66f4",
-    "anchor": "inline-gloss-029",
-    "fragment": "s-sense-1",
-    "section": "文言随文释义 · 实词",
-    "context": "“更”：〔更〕更换。（教材第8页注释。）"
-  },
-  {
-    "source": "t-paoding",
-    "target": "k-wenyan-wei",
-    "anchor": "inline-gloss-045",
-    "fragment": "s-map",
-    "section": "文言随文释义 · 实词",
-    "context": "“微”：〔微〕轻。（教材第9页注释。）"
+    "context": "“而”：连接锲与不舍，表示持续雕刻、不停止的条件；不可机械说成时间承接的两件事。"
   },
   {
     "source": "t-guizhixiang",
@@ -105552,132 +104880,260 @@
     "context": "“归帆去棹残阳里，背西风，酒旗斜矗”：诗家语·处所和方向关系压缩。残阳里限定舟行背景，背西风写酒旗所受风向；不宜把酒旗当作征帆的定语。"
   },
   {
-    "source": "t-chayang",
-    "target": "k-poetic-language",
-    "anchor": "inline-gloss-001",
-    "fragment": "s-definition",
-    "section": "文言随文释义 · 语法",
-    "context": "“笠是兜鍪蓑是甲”：诗家语·隐喻的判断形式。以农具、雨具对应武备，两小句紧接；“是”保持判断功能，不应再说句中省了判断词。"
-  },
-  {
-    "source": "t-chayang",
-    "target": "k-poetic-language",
-    "anchor": "inline-gloss-006",
-    "fragment": "s-definition",
-    "section": "文言随文释义 · 语法",
-    "context": "“低头折腰只不答”：诗家语·对话转换。“不答”是未应允停工，下一句却直接说出嘱托；不宜机械读成完全沉默而与下文矛盾。"
-  },
-  {
-    "source": "e-2026-sanzi",
-    "target": "k-wenyan-shan",
+    "source": "t-chibifu",
+    "target": "k-wenyan-xu-slow",
     "anchor": "gloss-001",
     "fragment": "s-context",
     "section": "文言随文释义 · 实词",
-    "context": "“其所善者”：认为好、称善，指百姓对政令的肯定；不同于与某人交好。"
+    "context": "“清风徐来”：徐修饰来，表示缓缓地。"
   },
   {
-    "source": "e-2026-sanzi",
-    "target": "k-lexical-conversion",
+    "source": "t-chibifu",
+    "target": "k-wenyan-shu-zhu",
     "anchor": "gloss-002",
-    "fragment": "s-concepts",
-    "section": "文言随文释义 · 语法",
-    "context": "“吾闻而药之”：名词意动，以议论为药：把批评当成改进治政的帮助。"
+    "fragment": "s-context",
+    "section": "文言随文释义 · 实词",
+    "context": "“举酒属客”：读zhǔ，劝客饮酒。"
   },
   {
-    "source": "e-2026-sanzi",
-    "target": "k-wenyan-yi",
+    "source": "t-chibifu",
+    "target": "k-wenyan-adverbial-noun",
+    "anchor": "gloss-003",
+    "fragment": "s-context",
+    "section": "文言随文释义 · 语法",
+    "context": "“西望夏口”：表示向西，修饰望。"
+  },
+  {
+    "source": "t-chibifu",
+    "target": "k-wenyan-gu-firm",
+    "anchor": "gloss-004",
+    "fragment": "s-context",
+    "section": "文言随文释义 · 虚词",
+    "context": "“固一世之雄也”：副词，承认曹操的英雄地位，再转问其如今何在。"
+  },
+  {
+    "source": "t-chibifu",
+    "target": "k-wenyan-zu-cu",
+    "anchor": "gloss-005",
+    "fragment": "s-context",
+    "section": "文言随文释义 · 虚词",
+    "context": "“而卒莫消长也”：副词，总归、终究。"
+  },
+  {
+    "source": "t-chibifu",
+    "target": "k-wenyan-shi-go",
+    "anchor": "gloss-006",
+    "fragment": "s-context",
+    "section": "文言随文释义 · 实词",
+    "context": "“而吾与子之所共适”：共同享有清风明月带来的声色之美。"
+  },
+  {
+    "source": "t-chibifu",
+    "target": "k-wenyan-kun-56f0",
+    "anchor": "inline-gloss-027",
+    "fragment": "s-context",
+    "section": "文言随文释义 · 实词",
+    "context": "“困”：受困。指曹操败于赤壁。（《语文·必修上册》第119页注。）"
+  },
+  {
+    "source": "t-chibifu",
+    "target": "k-wenyan-gou-82df",
+    "anchor": "inline-gloss-044",
+    "fragment": "s-sense-1",
+    "section": "文言随文释义 · 虚词",
+    "context": "“苟”：假设连词，如果。"
+  },
+  {
+    "source": "t-chibifu",
+    "target": "k-wenyan-yu-4e0e",
+    "anchor": "inline-gloss-045",
+    "fragment": "s-context",
+    "section": "文言随文释义 · 虚词",
+    "context": "“与”：连词，和。"
+  },
+  {
+    "source": "t-chibifu",
+    "target": "k-wenyan-geng-66f4",
+    "anchor": "inline-gloss-047",
+    "fragment": "s-context",
+    "section": "文言随文释义 · 实词",
+    "context": "“更”：再。（《语文·必修上册》第120页注。）"
+  },
+  {
+    "source": "t-tianmu",
+    "target": "k-wenyan-xin",
+    "anchor": "gloss-001",
+    "fragment": "s-context",
+    "section": "文言随文释义 · 虚词",
+    "context": "“烟涛微茫信难求”：副词，加强难求的判断，与后文或可睹的推测语气有别。"
+  },
+  {
+    "source": "t-tianmu",
+    "target": "k-wenyan-huo",
+    "anchor": "gloss-002",
+    "fragment": "s-context",
+    "section": "文言随文释义 · 虚词",
+    "context": "“云霞明灭或可睹”：表示可能，不是“有的人”。"
+  },
+  {
+    "source": "t-tianmu",
+    "target": "k-wenyan-an",
     "anchor": "gloss-003",
     "fragment": "s-context",
     "section": "文言随文释义 · 虚词",
-    "context": "“以论执政”：连词，表示目的，来议论执政者的政事。"
+    "context": "“安能摧眉折腰事权贵”：疑问副词，与能连用构成反问。"
   },
   {
-    "source": "e-2026-sanzi",
-    "target": "k-wenyan-ke",
-    "anchor": "gloss-004",
+    "source": "t-tianmu",
+    "target": "k-wenyan-ba-62d4",
+    "anchor": "inline-gloss-006",
+    "fragment": "s-sense-3",
+    "section": "文言随文释义 · 实词",
+    "context": "“拔”：超出，高于。"
+  },
+  {
+    "source": "t-tianmu",
+    "target": "k-poetic-language",
+    "anchor": "inline-gloss-009",
+    "fragment": "s-definition",
+    "section": "文言随文释义 · 语法",
+    "context": "“一夜飞度镜湖月”：诗家语·意象凝缩。“镜湖月”把镜湖及月光合成路径背景，译读须补出月照湖面的关系；不应说飞越的是月亮实体。"
+  },
+  {
+    "source": "t-tianmu",
+    "target": "k-poetic-language",
+    "anchor": "inline-gloss-029",
+    "fragment": "s-definition",
+    "section": "文言随文释义 · 语法",
+    "context": "“霓为衣兮风为马”：诗家语·介词省略与对偶，可解为“以霓为衣、以风为马”；补出“以”帮助揭示关系，神仙意象仍保留在译文中。"
+  },
+  {
+    "source": "t-tianmu",
+    "target": "k-poetic-language",
+    "anchor": "inline-gloss-037",
+    "fragment": "s-definition",
+    "section": "文言随文释义 · 语法",
+    "context": "“古来万事东流水”：诗家语·名词性比喻。万事与东流水直接相接，含如流水逝去之意；不可把“东”看成修饰万事。"
+  },
+  {
+    "source": "t-niannujiao",
+    "target": "k-wenyan-gu",
+    "anchor": "gloss-001",
     "fragment": "s-context",
     "section": "文言随文释义 · 实词",
-    "context": "“吾不克救也”：能够；这里说决口伤人之后来不及救。"
+    "context": "“故国神游”：这里联系赤壁往事指旧地，并非说北宋已亡国。"
   },
   {
-    "source": "e-2026-sanzi",
-    "target": "k-wenyan-dao",
-    "anchor": "gloss-005",
-    "fragment": "s-context",
-    "section": "文言随文释义 · 实词",
-    "context": "“不如小决使道”：同“导”，疏导；不可按现代道路义翻译。"
+    "source": "t-niannujiao",
+    "target": "k-poetic-language",
+    "anchor": "inline-gloss-007",
+    "fragment": "s-definition",
+    "section": "文言随文释义 · 语法",
+    "context": "“羽扇纶巾”：诗家语·名词性描写。以服饰器物呈现人物姿态，承前省去持、戴等谓语；译文补足动作时须明示。"
   },
   {
-    "source": "e-2026-sanzi",
-    "target": "k-wenyan-ruo",
-    "anchor": "gloss-006",
-    "fragment": "s-context",
-    "section": "文言随文释义 · 虚词",
-    "context": "“若果行此”：连词，假如；以实行该办法为假设条件。"
+    "source": "t-niannujiao",
+    "target": "k-poetic-language",
+    "anchor": "inline-gloss-011",
+    "fragment": "s-definition",
+    "section": "文言随文释义 · 语法",
+    "context": "“故国神游”：诗家语·话题前置与处所省介词。可释为“神游于故国”，故国指旧地；并非“故国”自己神游。"
   },
   {
-    "source": "e-2026-sanzi",
-    "target": "k-wenyan-jian-see",
-    "anchor": "gloss-007",
-    "fragment": "s-context",
-    "section": "文言随文释义 · 实词",
-    "context": "“见夜渔者”：看见，后接夜间捕鱼的人。"
+    "source": "t-niannujiao",
+    "target": "k-poetic-language",
+    "anchor": "inline-gloss-012",
+    "fragment": "s-definition",
+    "section": "文言随文释义 · 语法",
+    "context": "“多情应笑我”：诗家语·语序调整。通行释读为“应笑我多情”，把多情先提出；另有周瑜笑我的解释，需与前后语境辨析，不能把未明示的主语当作定论。"
   },
   {
-    "source": "e-2026-sanzi",
-    "target": "k-wenyan-wei-act",
-    "anchor": "gloss-008",
-    "fragment": "s-context",
-    "section": "文言随文释义 · 虚词",
-    "context": "“渔为得也”：wèi，为了；说明捕鱼的目的在于获得鱼。"
-  },
-  {
-    "source": "e-2026-sanzi",
+    "source": "t-cuzhi",
     "target": "k-wenyan-adverbial-noun",
-    "anchor": "gloss-010",
-    "fragment": "s-context",
+    "anchor": "gloss-003",
+    "fragment": "s-principle",
     "section": "文言随文释义 · 语法",
-    "context": "“文侯身行其县”：亲身、亲自，名词作状语。"
+    "context": "“岁征民间”：表示每年，修饰征收的动作。"
   },
   {
-    "source": "e-2026-sanzi",
-    "target": "k-lexical-conversion",
-    "anchor": "gloss-011",
-    "fragment": "s-concepts",
-    "section": "文言随文释义 · 语法",
-    "context": "“王主富民”：使动用法，使百姓富足；不是只说百姓已经富足。"
-  },
-  {
-    "source": "e-2026-sanzi",
-    "target": "k-wenyan-chang",
-    "anchor": "gloss-012",
+    "source": "t-cuzhi",
+    "target": "k-wenyan-jin-8fdb",
+    "anchor": "inline-gloss-007",
     "fragment": "s-context",
     "section": "文言随文释义 · 实词",
-    "context": "“燕常侵魏八城”：通“尝”，曾经，记叙此前发生的侵地之事。"
+    "context": "“进”：〔进〕进奉。（教材第119页注释。）"
   },
   {
-    "source": "e-2026-sanzi",
-    "target": "k-wenyan-adverbial-noun",
-    "anchor": "gloss-013",
+    "source": "t-cuzhi",
+    "target": "k-wenyan-ze-8d23",
+    "anchor": "inline-gloss-009",
     "fragment": "s-context",
-    "section": "文言随文释义 · 语法",
-    "context": "“臣请北击之”：方位名词作状语，向北，修饰“击”。"
+    "section": "文言随文释义 · 实词",
+    "context": "“责”：〔责〕责令。（教材第119页注释。）"
   },
   {
-    "source": "e-2026-sanzi",
-    "target": "k-wenyan-suo-6240",
-    "anchor": "inline-gloss-008",
+    "source": "t-cuzhi",
+    "target": "k-wenyan-sui-867d",
+    "anchor": "inline-gloss-048",
+    "fragment": "s-sense-1",
+    "section": "文言随文释义 · 虚词",
+    "context": "“虽”：让步连词，即使。"
+  },
+  {
+    "source": "t-cuzhi",
+    "target": "k-wenyan-sai-585e",
+    "anchor": "inline-gloss-050",
+    "fragment": "s-context",
+    "section": "文言随文释义 · 实词",
+    "context": "“塞”：〔塞〕充抵。（教材第120页注释。）"
+  },
+  {
+    "source": "t-cuzhi",
+    "target": "k-wenyan-fa-53d1",
+    "anchor": "inline-gloss-051",
+    "fragment": "s-sense-1",
+    "section": "文言随文释义 · 实词",
+    "context": "“发”：〔发〕打开。（教材第120页注释。）"
+  },
+  {
+    "source": "t-cuzhi",
+    "target": "k-wenyan-bei",
+    "anchor": "inline-gloss-057",
+    "fragment": "s-map",
+    "section": "文言随文释义 · 实词",
+    "context": "“被”：〔被〕覆盖。（教材第120页注释。）"
+  },
+  {
+    "source": "t-cuzhi",
+    "target": "k-wenyan-cai-88c1",
+    "anchor": "inline-gloss-067",
+    "fragment": "s-context",
+    "section": "文言随文释义 · 实词",
+    "context": "“裁”：〔裁〕同“才”。（教材第121页注释。）"
+  },
+  {
+    "source": "t-cuzhi",
+    "target": "k-wenyan-gu-look",
+    "anchor": "inline-gloss-081",
+    "fragment": "s-map",
+    "section": "文言随文释义 · 实词",
+    "context": "“顾”：〔顾〕但。（教材第121页注释。）"
+  },
+  {
+    "source": "t-cuzhi",
+    "target": "k-wenyan-wen-95fb",
+    "anchor": "inline-gloss-097",
+    "fragment": "s-context",
+    "section": "文言随文释义 · 实词",
+    "context": "“闻”：〔闻〕上报。（教材第122页注释。）"
+  },
+  {
+    "source": "t-cuzhi",
+    "target": "k-wenyan-fu-592b",
+    "anchor": "inline-gloss-115",
     "fragment": "s-context",
     "section": "文言随文释义 · 虚词",
-    "context": "“所”：与善组成名词性结构，所认为好的事。"
-  },
-  {
-    "source": "e-2026-sanzi",
-    "target": "k-wenyan-er",
-    "anchor": "inline-gloss-016",
-    "fragment": "s-context",
-    "section": "文言随文释义 · 虚词",
-    "context": "“而”：转折连词，却。"
+    "context": "“夫”：感叹语气词，啊，读fú。"
   },
   {
     "source": "t-yuqi",
@@ -105704,108 +105160,20 @@
     "context": "“就”：就，走向、趋赴。“勇于就死”指勇于赴死；不能用邻篇“故能就其深”的“成就”义来解释。"
   },
   {
-    "source": "e-2026-qimin",
-    "target": "k-wenyan-wei-act",
-    "anchor": "gloss-001",
-    "fragment": "s-context",
-    "section": "文言随文释义 · 实词",
-    "context": "“神农为耒耜”：wéi，制作；后接农具名“耒耜”。"
-  },
-  {
-    "source": "e-2026-qimin",
-    "target": "k-wenyan-wei-act",
-    "anchor": "gloss-002",
-    "fragment": "s-context",
-    "section": "文言随文释义 · 实词",
-    "context": "“食为政首”：wéi，是，表示判断；粮食为政事之首。"
-  },
-  {
-    "source": "e-2026-qimin",
-    "target": "k-wenyan-wei-act",
-    "anchor": "gloss-003",
-    "fragment": "s-context",
-    "section": "文言随文释义 · 实词",
-    "context": "“为桂阳令”：wéi，担任桂阳县令。"
-  },
-  {
-    "source": "e-2026-qimin",
-    "target": "k-wenyan-wei-act",
-    "anchor": "gloss-004",
-    "fragment": "s-context",
-    "section": "文言随文释义 · 实词",
-    "context": "“可以为棺”：wéi，制作；“棺”是制作结果。"
-  },
-  {
-    "source": "e-2026-qimin",
-    "target": "k-wenyan-wei-act",
-    "anchor": "gloss-005",
-    "fragment": "s-context",
-    "section": "文言随文释义 · 虚词",
-    "context": "“好为民兴利”：wèi，介词，给、替，引出受益者百姓。"
-  },
-  {
-    "source": "e-2026-qimin",
-    "target": "k-wenyan-sheng",
-    "anchor": "gloss-007",
-    "fragment": "s-context",
-    "section": "文言随文释义 · 实词",
-    "context": "“力能胜贫”：战胜、克服；宾语是贫困。"
-  },
-  {
-    "source": "e-2026-qimin",
-    "target": "k-wenyan-quan",
-    "anchor": "gloss-008",
-    "fragment": "s-context",
-    "section": "文言随文释义 · 实词",
-    "context": "“躬劝农耕”：勉励、鼓励，不是劝阻。"
-  },
-  {
-    "source": "e-2026-qimin",
-    "target": "k-lexical-conversion",
-    "anchor": "gloss-010",
-    "fragment": "s-concepts",
-    "section": "文言随文释义 · 语法",
-    "context": "“见吏则衣草而出”：“衣”名词动用，穿、披；“草”是所披之物。"
-  },
-  {
-    "source": "e-2026-qimin",
-    "target": "k-lexical-conversion",
-    "anchor": "gloss-011",
-    "fragment": "s-concepts",
-    "section": "文言随文释义 · 语法",
-    "context": "“富而教之”：使动关系：使百姓富足。它与接着教化百姓构成治政的次序。"
-  },
-  {
-    "source": "e-2026-qimin",
-    "target": "k-wenyan-er-particle",
-    "anchor": "gloss-012",
-    "fragment": "s-context",
-    "section": "文言随文释义 · 虚词",
-    "context": "“纵之则惰窳耳”：句末语气词，限止、收束，可译为罢了。"
-  },
-  {
-    "source": "e-2026-qimin",
-    "target": "k-wenyan-yi",
+    "source": "e-2026-feng",
+    "target": "k-poetic-language",
     "anchor": "inline-gloss-002",
-    "fragment": "s-context",
-    "section": "文言随文释义 · 虚词",
-    "context": "“以”：连词，表示目的，用来。"
+    "fragment": "s-definition",
+    "section": "文言随文释义 · 语法",
+    "context": "“林端翻远刹”：诗家语·施事隐含和视象变动。风是全诗隐含的动力；“翻”把林梢间远寺忽隐忽现的视觉感受写成运动，不能按实体被翻转理解。"
   },
   {
-    "source": "e-2026-qimin",
-    "target": "k-wenyan-nai-4e43",
-    "anchor": "inline-gloss-006",
-    "fragment": "s-sense-1",
-    "section": "文言随文释义 · 虚词",
-    "context": "“乃”：副词，于是。"
-  },
-  {
-    "source": "e-2026-qimin",
-    "target": "k-wenyan-ze",
-    "anchor": "inline-gloss-009",
-    "fragment": "s-context",
-    "section": "文言随文释义 · 虚词",
-    "context": "“则”：承接连词，就。"
+    "source": "e-2026-feng",
+    "target": "k-poetic-language",
+    "anchor": "inline-gloss-005",
+    "fragment": "s-definition",
+    "section": "文言随文释义 · 语法",
+    "context": "“花外转疏钟”：诗家语·以声音代发声事件。“钟”指钟声，“转”写声音随风传来；钟声与方位压缩为五字，保持与上句的对偶关系。"
   },
   {
     "source": "e-nj2026-hehu",
@@ -105822,6 +105190,406 @@
     "fragment": "s-definition",
     "section": "文言随文释义 · 语法",
     "context": "“三径非遥人自远”：诗家语·同字异层。“遥”关乎空间距离，“远”转向人物远离尘俗的精神意味；不是事实上的远近矛盾，也不是必须倒装的句子。"
+  },
+  {
+    "source": "t-zhuzhiwu",
+    "target": "k-ancient-syntax",
+    "anchor": "gloss-002",
+    "fragment": "s-definition",
+    "section": "文言随文释义 · 语法",
+    "context": "“越国以鄙远”：“鄙”本指边邑，此处为把远地当作边邑；“远”指远方的郑国。"
+  },
+  {
+    "source": "t-zhuzhiwu",
+    "target": "k-ancient-syntax",
+    "anchor": "gloss-003",
+    "fragment": "s-definition",
+    "section": "文言随文释义 · 语法",
+    "context": "“晋军函陵”：“军”在此指驻军；不宜按现代名词军队直译。"
+  },
+  {
+    "source": "t-zhuzhiwu",
+    "target": "k-wenyan-qie-4e14",
+    "anchor": "inline-gloss-004",
+    "fragment": "s-context",
+    "section": "文言随文释义 · 虚词",
+    "context": "“且”：连词，而且，补充围郑的另一原因。"
+  },
+  {
+    "source": "t-zhuzhiwu",
+    "target": "k-wenyan-xu",
+    "anchor": "inline-gloss-016",
+    "fragment": "s-map",
+    "section": "文言随文释义 · 实词",
+    "context": "“许”：〔许〕答应。（教材第10页注释。）"
+  },
+  {
+    "source": "t-zhuzhiwu",
+    "target": "k-wenyan-nai-4e43",
+    "anchor": "inline-gloss-036",
+    "fragment": "s-sense-1",
+    "section": "文言随文释义 · 虚词",
+    "context": "“乃”：副词，于是、就。"
+  },
+  {
+    "source": "t-zhuzhiwu",
+    "target": "k-wenyan-yin-56e0",
+    "anchor": "inline-gloss-039",
+    "fragment": "s-sense-1",
+    "section": "文言随文释义 · 虚词",
+    "context": "“因”：介词，依靠。"
+  },
+  {
+    "source": "t-shengshengman",
+    "target": "k-wenyan-di-match",
+    "anchor": "gloss-001",
+    "fragment": "s-context",
+    "section": "文言随文释义 · 实词",
+    "context": "“怎敌他、晚来风急”：指酒无法抵挡风寒带来的感受。"
+  },
+  {
+    "source": "t-shengshengman",
+    "target": "k-poetic-language",
+    "anchor": "inline-gloss-001",
+    "fragment": "s-definition",
+    "section": "文言随文释义 · 语法",
+    "context": "“寻寻觅觅，冷冷清清，凄凄惨惨戚戚”：诗家语·叠词与句法省略。动作、环境感受和内心情状连续呈现，主语和衔接词不明说；不能把三组都当作同义情感词。"
+  },
+  {
+    "source": "t-shengshengman",
+    "target": "k-poetic-language",
+    "anchor": "inline-gloss-010",
+    "fragment": "s-definition",
+    "section": "文言随文释义 · 语法",
+    "context": "“梧桐更兼细雨”：诗家语·意象并置与谓语省略。梧桐、细雨并置，“更兼”使两者叠加，具体落雨动作由后句点点滴滴补足。"
+  },
+  {
+    "source": "e-thinking-shichen",
+    "target": "k-wenyan-shi-5e08",
+    "anchor": "inline-gloss-006",
+    "fragment": "s-context",
+    "section": "文言随文释义 · 语法",
+    "context": "“师”：以他们为师。"
+  },
+  {
+    "source": "t-zhenguan",
+    "target": "k-ancient-culture",
+    "anchor": "gloss-001",
+    "fragment": "s-definition",
+    "section": "文言随文释义 · 文化常识",
+    "context": "“尚书右仆射萧瑀”：唐代尚书省长官之一，唐初参与中枢政务。不能仅按字面理解为普通侍从。"
+  },
+  {
+    "source": "t-zhenguan",
+    "target": "k-wenyan-dan-4f46",
+    "anchor": "inline-gloss-008",
+    "fragment": "s-context",
+    "section": "文言随文释义 · 虚词",
+    "context": "“但”：范围副词，仅仅、只是。"
+  },
+  {
+    "source": "t-zhenguan",
+    "target": "k-wenyan-hu-4e4e",
+    "anchor": "inline-gloss-010",
+    "fragment": "s-sense-1",
+    "section": "文言随文释义 · 虚词",
+    "context": "“乎”：语气词，表示推测性反问，吧。"
+  },
+  {
+    "source": "t-hongmen",
+    "target": "k-ancient-syntax",
+    "anchor": "gloss-009",
+    "fragment": "s-definition",
+    "section": "文言随文释义 · 语法",
+    "context": "“籍何以至此”：“何以”即以何，凭什么、怎么会；须连同疑问语气理解。"
+  },
+  {
+    "source": "t-hongmen",
+    "target": "k-wenyan-adverbial-noun",
+    "anchor": "gloss-010",
+    "fragment": "s-principle",
+    "section": "文言随文释义 · 语法",
+    "context": "“常以身翼蔽沛公”：“翼”修饰“蔽”，像鸟张开翅膀一样掩护。"
+  },
+  {
+    "source": "t-hongmen",
+    "target": "k-wenyan-xiang-feast",
+    "anchor": "inline-gloss-007",
+    "fragment": "s-map",
+    "section": "文言随文释义 · 实词",
+    "context": "“飨”：〔飨（xiǎng）〕用酒食款待宾客。这里是“犒劳”的意思。（教材第13页注释。）"
+  },
+  {
+    "source": "t-hongmen",
+    "target": "k-ancient-culture",
+    "anchor": "inline-gloss-010",
+    "fragment": "s-definition",
+    "section": "文言随文释义 · 文化常识",
+    "context": "“山东”：〔山东〕崤（xiáo）山以东，泛指东方六国之地。（教材第13页注释。）"
+  },
+  {
+    "source": "t-hongmen",
+    "target": "k-wenyan-nai-4e43",
+    "anchor": "inline-gloss-017",
+    "fragment": "s-sense-1",
+    "section": "文言随文释义 · 虚词",
+    "context": "“乃”：副词，于是。"
+  },
+  {
+    "source": "t-hongmen",
+    "target": "k-wenyan-shuo",
+    "anchor": "inline-gloss-022",
+    "fragment": "s-map",
+    "section": "文言随文释义 · 实词",
+    "context": "“说”：〔说（shuì）〕劝说。（教材第13页注释。）"
+  },
+  {
+    "source": "t-hongmen",
+    "target": "k-wenyan-dang",
+    "anchor": "inline-gloss-025",
+    "fragment": "s-map",
+    "section": "文言随文释义 · 实词",
+    "context": "“当”：〔当（dāng）〕对等，比得上。（教材第14页注释。）"
+  },
+  {
+    "source": "t-hongmen",
+    "target": "k-wenyan-qie-4e14",
+    "anchor": "inline-gloss-026",
+    "fragment": "s-sense-2",
+    "section": "文言随文释义 · 虚词",
+    "context": "“且”：副词，将要。"
+  },
+  {
+    "source": "t-hongmen",
+    "target": "k-wenyan-xing-lucky",
+    "anchor": "inline-gloss-030",
+    "fragment": "s-map",
+    "section": "文言随文释义 · 实词",
+    "context": "“幸”：〔幸〕幸亏，幸而。（教材第14页注释。）"
+  },
+  {
+    "source": "t-hongmen",
+    "target": "k-wenyan-yao",
+    "anchor": "inline-gloss-034",
+    "fragment": "s-map",
+    "section": "文言随文释义 · 实词",
+    "context": "“要”：〔要（yāo）〕同“邀”，邀请。（教材第14页注释。）"
+  },
+  {
+    "source": "t-hongmen",
+    "target": "k-wenyan-yin-56e0",
+    "anchor": "inline-gloss-041",
+    "fragment": "s-context",
+    "section": "文言随文释义 · 虚词",
+    "context": "“因”：副词，趁机、接着。"
+  },
+  {
+    "source": "t-hongmen",
+    "target": "k-wenyan-yin-56e0",
+    "anchor": "inline-gloss-043",
+    "fragment": "s-context",
+    "section": "文言随文释义 · 虚词",
+    "context": "“因”：副词，就此、趁此。"
+  },
+  {
+    "source": "t-hongmen",
+    "target": "k-wenyan-xie",
+    "anchor": "inline-gloss-045",
+    "fragment": "s-map",
+    "section": "文言随文释义 · 实词",
+    "context": "“谢”：〔谢〕道歉。（教材第14页注释。）"
+  },
+  {
+    "source": "t-hongmen",
+    "target": "k-wenyan-yin-56e0",
+    "anchor": "inline-gloss-051",
+    "fragment": "s-sense-2",
+    "section": "文言随文释义 · 实词",
+    "context": "“因”：〔因〕趁着（机会）。（教材第14页注释。）"
+  },
+  {
+    "source": "t-hongmen",
+    "target": "k-wenyan-shu-shuo",
+    "anchor": "inline-gloss-053",
+    "fragment": "s-map",
+    "section": "文言随文释义 · 实词",
+    "context": "“数”：〔数（shuò）〕屡次，多次。（教材第14页注释。）"
+  },
+  {
+    "source": "t-hongmen",
+    "target": "k-wenyan-qie-4e14",
+    "anchor": "inline-gloss-059",
+    "fragment": "s-sense-2",
+    "section": "文言随文释义 · 虚词",
+    "context": "“且”：副词，将要。"
+  },
+  {
+    "source": "t-hongmen",
+    "target": "k-wenyan-qie-4e14",
+    "anchor": "inline-gloss-074",
+    "fragment": "s-sense-4",
+    "section": "文言随文释义 · 虚词",
+    "context": "“且”：副词，尚且，用于退一步论证。"
+  },
+  {
+    "source": "t-hongmen",
+    "target": "k-wenyan-cao-64cd",
+    "anchor": "inline-gloss-085",
+    "fragment": "s-context",
+    "section": "文言随文释义 · 实词",
+    "context": "“操”：〔操〕拿。（教材第16页注释。）"
+  },
+  {
+    "source": "t-hongmen",
+    "target": "k-wenyan-zhi-7f6e",
+    "anchor": "inline-gloss-087",
+    "fragment": "s-context",
+    "section": "文言随文释义 · 实词",
+    "context": "“置”：〔置〕放弃，丢下。（教材第16页注释。）"
+  },
+  {
+    "source": "t-hongmen",
+    "target": "k-wenyan-du",
+    "anchor": "inline-gloss-093",
+    "fragment": "s-map",
+    "section": "文言随文释义 · 实词",
+    "context": "“度”：〔度（duó）〕估计。（教材第16页注释。）"
+  },
+  {
+    "source": "t-hongmen",
+    "target": "k-wenyan-nai-4e43",
+    "anchor": "inline-gloss-094",
+    "fragment": "s-context",
+    "section": "文言随文释义 · 虚词",
+    "context": "“乃”：副词，才；以沛公已安全到营为前提。"
+  },
+  {
+    "source": "e-2026-yangshu",
+    "target": "k-wenyan-ze",
+    "anchor": "gloss-001",
+    "fragment": "s-context",
+    "section": "文言随文释义 · 虚词",
+    "context": "“则内养固”：承接前面关于环境和志向的条件，引出内在修养稳固的结果。"
+  },
+  {
+    "source": "e-2026-yangshu",
+    "target": "k-wenyan-judgment",
+    "anchor": "gloss-002",
+    "fragment": "s-context",
+    "section": "文言随文释义 · 语法",
+    "context": "“士之于学，犹地之于树也”：以士人与学习、土地与树木的关系相比，确立后文类比说理的起点；“也”收束判断。"
+  },
+  {
+    "source": "e-2026-yangshu",
+    "target": "k-wenyan-qie-4e14",
+    "anchor": "inline-gloss-011",
+    "fragment": "s-sense-2",
+    "section": "文言随文释义 · 虚词",
+    "context": "“且”：副词，将要、将不断。"
+  },
+  {
+    "source": "e-thinking-dongpo",
+    "target": "k-wenyan-yin-56e0",
+    "anchor": "inline-gloss-003",
+    "fragment": "s-sense-1",
+    "section": "文言随文释义 · 实词",
+    "context": "“因”：依据、凭借。"
+  },
+  {
+    "source": "e-thinking-dongpo",
+    "target": "k-wenyan-shu-758f",
+    "anchor": "inline-gloss-008",
+    "fragment": "s-context",
+    "section": "文言随文释义 · 实词",
+    "context": "“疏”：分条陈报。"
+  },
+  {
+    "source": "t-fuyi",
+    "target": "k-poetic-language",
+    "anchor": "inline-gloss-002",
+    "fragment": "s-definition",
+    "section": "文言随文释义 · 语法",
+    "context": "“采采芣苢”：诗家语·重言与重章。叠词、复沓组织四言节奏；后续动词更换推进采摘过程。这是韵语的组织方式，不是语法错误。"
+  },
+  {
+    "source": "t-fuyi",
+    "target": "k-poetic-language",
+    "anchor": "inline-gloss-006",
+    "fragment": "s-definition",
+    "section": "文言随文释义 · 语法",
+    "context": "“采采芣苢”：诗家语·重言与重章。叠词、复沓组织四言节奏；后续动词更换推进采摘过程。这是韵语的组织方式，不是语法错误。"
+  },
+  {
+    "source": "t-fuyi",
+    "target": "k-poetic-language",
+    "anchor": "inline-gloss-012",
+    "fragment": "s-definition",
+    "section": "文言随文释义 · 语法",
+    "context": "“采采芣苢”：诗家语·重言与重章。叠词、复沓组织四言节奏；后续动词更换推进采摘过程。这是韵语的组织方式，不是语法错误。"
+  },
+  {
+    "source": "t-fuyi",
+    "target": "k-poetic-language",
+    "anchor": "inline-gloss-018",
+    "fragment": "s-definition",
+    "section": "文言随文释义 · 语法",
+    "context": "“采采芣苢”：诗家语·重言与重章。叠词、复沓组织四言节奏；后续动词更换推进采摘过程。这是韵语的组织方式，不是语法错误。"
+  },
+  {
+    "source": "t-fuyi",
+    "target": "k-poetic-language",
+    "anchor": "inline-gloss-024",
+    "fragment": "s-definition",
+    "section": "文言随文释义 · 语法",
+    "context": "“采采芣苢”：诗家语·重言与重章。叠词、复沓组织四言节奏；后续动词更换推进采摘过程。这是韵语的组织方式，不是语法错误。"
+  },
+  {
+    "source": "t-fuyi",
+    "target": "k-poetic-language",
+    "anchor": "inline-gloss-030",
+    "fragment": "s-definition",
+    "section": "文言随文释义 · 语法",
+    "context": "“采采芣苢”：诗家语·重言与重章。叠词、复沓组织四言节奏；后续动词更换推进采摘过程。这是韵语的组织方式，不是语法错误。"
+  },
+  {
+    "source": "e-2026-congma",
+    "target": "k-poetic-language",
+    "anchor": "inline-gloss-001",
+    "fragment": "s-definition",
+    "section": "文言随文释义 · 语法",
+    "context": "“骢马铁连钱”：诗家语·名词性铺陈。骢马与铁连钱的毛色特征直接相接，省去“有……斑纹”等陈述成分；不是三个并列的实物。"
+  },
+  {
+    "source": "e-2026-congma",
+    "target": "k-wenyan-dan-4f46",
+    "anchor": "inline-gloss-004",
+    "fragment": "s-context",
+    "section": "文言随文释义 · 虚词",
+    "context": "“但”：副词，只、只管。"
+  },
+  {
+    "source": "e-2026-congma",
+    "target": "k-poetic-language",
+    "anchor": "inline-gloss-008",
+    "fragment": "s-definition",
+    "section": "文言随文释义 · 语法",
+    "context": "“四蹄碧玉片，双眼黄金瞳”：诗家语·判断关系凝缩。前句把马蹄比作碧玉片；不能把碧玉当作马蹄的真实材料。两句对偶，省去显式比喻词。"
+  },
+  {
+    "source": "t-yueyang",
+    "target": "k-poetic-language",
+    "anchor": "inline-gloss-001",
+    "fragment": "s-definition",
+    "section": "文言随文释义 · 语法",
+    "context": "“吴楚东南坼”：诗家语·施事省略与话题凸显。吴楚放在句首，洞庭湖分开吴楚的力量未明说；宜补明空间关系，不能说吴楚自行断裂。"
+  },
+  {
+    "source": "t-yueyang",
+    "target": "k-poetic-language",
+    "anchor": "inline-gloss-004",
+    "fragment": "s-definition",
+    "section": "文言随文释义 · 语法",
+    "context": "“亲朋无一字，老病有孤舟”：诗家语·关系省略与对举。前句无亲朋书信，后句年老多病仅有孤舟；两句“无”“有”构成张力，不能把老病当作孤舟所有的属性。"
   },
   {
     "source": "t-shisi",
@@ -105872,52 +105640,36 @@
     "context": "“惠”：〔惠〕仁爱，宽厚。（教材第145页注释。）"
   },
   {
-    "source": "e-2011-qinhuai",
-    "target": "k-poetic-language",
-    "anchor": "inline-gloss-004",
-    "fragment": "s-definition",
-    "section": "文言随文释义 · 语法",
-    "context": "“牛马放多春草尽”：诗家语·因果压缩。放牧多与春草尽并列，因果关系由前后语义推出；原句没有“因为……所以”。"
+    "source": "t-dasima",
+    "target": "k-wenyan-yu",
+    "anchor": "gloss-003",
+    "fragment": "s-core",
+    "section": "文言随文释义 · 虚词",
+    "context": "“受命于人主”：引出命令的来源，即从君主那里接受命令。"
   },
   {
-    "source": "e-2011-qinhuai",
-    "target": "k-poetic-language",
-    "anchor": "inline-gloss-005",
-    "fragment": "s-definition",
-    "section": "文言随文释义 · 语法",
-    "context": "“云和积雪苍山晚”：诗家语·意象压缩。“云和积雪”与“苍山晚”紧接，省去较多连接语，宜分辨云雪、苍山和暮色三层，不必强改为单一倒装句。"
+    "source": "t-dasima",
+    "target": "k-wenyan-ju",
+    "anchor": "inline-gloss-019",
+    "fragment": "s-map",
+    "section": "文言随文释义 · 实词",
+    "context": "“举”：〔举〕施行。（教材第146页注释。）"
   },
   {
-    "source": "t-zhenguan",
-    "target": "k-ancient-culture",
-    "anchor": "gloss-001",
-    "fragment": "s-definition",
-    "section": "文言随文释义 · 文化常识",
-    "context": "“尚书右仆射萧瑀”：唐代尚书省长官之一，唐初参与中枢政务。不能仅按字面理解为普通侍从。"
-  },
-  {
-    "source": "t-zhenguan",
-    "target": "k-wenyan-dan-4f46",
-    "anchor": "inline-gloss-008",
+    "source": "t-dasima",
+    "target": "k-wenyan-nai-4e43",
+    "anchor": "inline-gloss-025",
     "fragment": "s-context",
     "section": "文言随文释义 · 虚词",
-    "context": "“但”：范围副词，仅仅、只是。"
+    "context": "“乃”：副词，却。"
   },
   {
-    "source": "t-zhenguan",
-    "target": "k-wenyan-hu-4e4e",
-    "anchor": "inline-gloss-010",
-    "fragment": "s-sense-1",
-    "section": "文言随文释义 · 虚词",
-    "context": "“乎”：语气词，表示推测性反问，吧。"
-  },
-  {
-    "source": "e-thinking-shichen",
-    "target": "k-wenyan-shi-5e08",
-    "anchor": "inline-gloss-006",
-    "fragment": "s-context",
-    "section": "文言随文释义 · 语法",
-    "context": "“师”：以他们为师。"
+    "source": "t-dasima",
+    "target": "k-wenyan-shi-this",
+    "anchor": "inline-gloss-035",
+    "fragment": "s-map",
+    "section": "文言随文释义 · 实词",
+    "context": "“是”：〔是〕认为正确。（教材第147页注释。）"
   },
   {
     "source": "e-xingshang-suzhe",
@@ -106112,54 +105864,6 @@
     "context": "“劝”：勉励、鼓励。"
   },
   {
-    "source": "t-fuyi",
-    "target": "k-poetic-language",
-    "anchor": "inline-gloss-002",
-    "fragment": "s-definition",
-    "section": "文言随文释义 · 语法",
-    "context": "“采采芣苢”：诗家语·重言与重章。叠词、复沓组织四言节奏；后续动词更换推进采摘过程。这是韵语的组织方式，不是语法错误。"
-  },
-  {
-    "source": "t-fuyi",
-    "target": "k-poetic-language",
-    "anchor": "inline-gloss-006",
-    "fragment": "s-definition",
-    "section": "文言随文释义 · 语法",
-    "context": "“采采芣苢”：诗家语·重言与重章。叠词、复沓组织四言节奏；后续动词更换推进采摘过程。这是韵语的组织方式，不是语法错误。"
-  },
-  {
-    "source": "t-fuyi",
-    "target": "k-poetic-language",
-    "anchor": "inline-gloss-012",
-    "fragment": "s-definition",
-    "section": "文言随文释义 · 语法",
-    "context": "“采采芣苢”：诗家语·重言与重章。叠词、复沓组织四言节奏；后续动词更换推进采摘过程。这是韵语的组织方式，不是语法错误。"
-  },
-  {
-    "source": "t-fuyi",
-    "target": "k-poetic-language",
-    "anchor": "inline-gloss-018",
-    "fragment": "s-definition",
-    "section": "文言随文释义 · 语法",
-    "context": "“采采芣苢”：诗家语·重言与重章。叠词、复沓组织四言节奏；后续动词更换推进采摘过程。这是韵语的组织方式，不是语法错误。"
-  },
-  {
-    "source": "t-fuyi",
-    "target": "k-poetic-language",
-    "anchor": "inline-gloss-024",
-    "fragment": "s-definition",
-    "section": "文言随文释义 · 语法",
-    "context": "“采采芣苢”：诗家语·重言与重章。叠词、复沓组织四言节奏；后续动词更换推进采摘过程。这是韵语的组织方式，不是语法错误。"
-  },
-  {
-    "source": "t-fuyi",
-    "target": "k-poetic-language",
-    "anchor": "inline-gloss-030",
-    "fragment": "s-definition",
-    "section": "文言随文释义 · 语法",
-    "context": "“采采芣苢”：诗家语·重言与重章。叠词、复沓组织四言节奏；后续动词更换推进采摘过程。这是韵语的组织方式，不是语法错误。"
-  },
-  {
     "source": "t-guiyuan",
     "target": "k-wenyan-fu-return",
     "anchor": "gloss-001",
@@ -106184,11 +105888,747 @@
     "context": "“狗吠深巷中，鸡鸣桑树颠”：诗家语·处所介词省略。狗在深巷中吠、鸡在桑树顶鸣；不必把“深巷中”“桑树颠”机械称为违反文言规则的状语倒置。"
   },
   {
-    "source": "e-thinking-dongxuan",
-    "target": "k-wenyan-xiao-6548",
-    "anchor": "inline-gloss-009",
+    "source": "e-2026-qimin",
+    "target": "k-wenyan-wei-act",
+    "anchor": "gloss-001",
     "fragment": "s-context",
     "section": "文言随文释义 · 实词",
-    "context": "“效”：尽职、效力。"
+    "context": "“神农为耒耜”：wéi，制作；后接农具名“耒耜”。"
+  },
+  {
+    "source": "e-2026-qimin",
+    "target": "k-wenyan-wei-act",
+    "anchor": "gloss-002",
+    "fragment": "s-context",
+    "section": "文言随文释义 · 实词",
+    "context": "“食为政首”：wéi，是，表示判断；粮食为政事之首。"
+  },
+  {
+    "source": "e-2026-qimin",
+    "target": "k-wenyan-wei-act",
+    "anchor": "gloss-003",
+    "fragment": "s-context",
+    "section": "文言随文释义 · 实词",
+    "context": "“为桂阳令”：wéi，担任桂阳县令。"
+  },
+  {
+    "source": "e-2026-qimin",
+    "target": "k-wenyan-wei-act",
+    "anchor": "gloss-004",
+    "fragment": "s-context",
+    "section": "文言随文释义 · 实词",
+    "context": "“可以为棺”：wéi，制作；“棺”是制作结果。"
+  },
+  {
+    "source": "e-2026-qimin",
+    "target": "k-wenyan-wei-act",
+    "anchor": "gloss-005",
+    "fragment": "s-context",
+    "section": "文言随文释义 · 虚词",
+    "context": "“好为民兴利”：wèi，介词，给、替，引出受益者百姓。"
+  },
+  {
+    "source": "e-2026-qimin",
+    "target": "k-wenyan-sheng",
+    "anchor": "gloss-007",
+    "fragment": "s-context",
+    "section": "文言随文释义 · 实词",
+    "context": "“力能胜贫”：战胜、克服；宾语是贫困。"
+  },
+  {
+    "source": "e-2026-qimin",
+    "target": "k-wenyan-quan",
+    "anchor": "gloss-008",
+    "fragment": "s-context",
+    "section": "文言随文释义 · 实词",
+    "context": "“躬劝农耕”：勉励、鼓励，不是劝阻。"
+  },
+  {
+    "source": "e-2026-qimin",
+    "target": "k-lexical-conversion",
+    "anchor": "gloss-010",
+    "fragment": "s-concepts",
+    "section": "文言随文释义 · 语法",
+    "context": "“见吏则衣草而出”：“衣”名词动用，穿、披；“草”是所披之物。"
+  },
+  {
+    "source": "e-2026-qimin",
+    "target": "k-lexical-conversion",
+    "anchor": "gloss-011",
+    "fragment": "s-concepts",
+    "section": "文言随文释义 · 语法",
+    "context": "“富而教之”：使动关系：使百姓富足。它与接着教化百姓构成治政的次序。"
+  },
+  {
+    "source": "e-2026-qimin",
+    "target": "k-wenyan-er-particle",
+    "anchor": "gloss-012",
+    "fragment": "s-context",
+    "section": "文言随文释义 · 虚词",
+    "context": "“纵之则惰窳耳”：句末语气词，限止、收束，可译为罢了。"
+  },
+  {
+    "source": "e-2026-qimin",
+    "target": "k-wenyan-yi",
+    "anchor": "inline-gloss-002",
+    "fragment": "s-context",
+    "section": "文言随文释义 · 虚词",
+    "context": "“以”：连词，表示目的，用来。"
+  },
+  {
+    "source": "e-2026-qimin",
+    "target": "k-wenyan-nai-4e43",
+    "anchor": "inline-gloss-006",
+    "fragment": "s-sense-1",
+    "section": "文言随文释义 · 虚词",
+    "context": "“乃”：副词，于是。"
+  },
+  {
+    "source": "e-2026-qimin",
+    "target": "k-wenyan-ze",
+    "anchor": "inline-gloss-009",
+    "fragment": "s-context",
+    "section": "文言随文释义 · 虚词",
+    "context": "“则”：承接连词，就。"
+  },
+  {
+    "source": "t-shizuo",
+    "target": "k-ancient-function-words",
+    "anchor": "gloss-003",
+    "fragment": "s-definition",
+    "section": "文言随文释义 · 虚词",
+    "context": "“浴乎沂”：引出动作发生的处所，相当于“于”；可译为在。"
+  },
+  {
+    "source": "t-shizuo",
+    "target": "k-ancient-culture",
+    "anchor": "gloss-004",
+    "fragment": "s-definition",
+    "section": "文言随文释义 · 文化常识",
+    "context": "“宗庙之事”：天子、诸侯等祭祀祖先的处所；此处关联宗庙祭祀礼仪。"
+  },
+  {
+    "source": "t-shizuo",
+    "target": "k-wenyan-hu-4e4e",
+    "anchor": "inline-gloss-002",
+    "fragment": "s-context",
+    "section": "文言随文释义 · 虚词",
+    "context": "“乎”：介词，比，引出比较对象。"
+  },
+  {
+    "source": "t-shizuo",
+    "target": "k-wenyan-er-5c14",
+    "anchor": "inline-gloss-003",
+    "fragment": "s-sense-1",
+    "section": "文言随文释义 · 虚词",
+    "context": "“尔”：第二人称代词，你们。"
+  },
+  {
+    "source": "t-shizuo",
+    "target": "k-wenyan-ju-5c45",
+    "anchor": "inline-gloss-006",
+    "fragment": "s-context",
+    "section": "文言随文释义 · 实词",
+    "context": "“居”：平日、平时。"
+  },
+  {
+    "source": "t-shizuo",
+    "target": "k-ancient-syntax",
+    "anchor": "inline-gloss-009",
+    "fragment": "s-definition",
+    "section": "文言随文释义 · 语法",
+    "context": "“不吾知”：否定句中代词宾语前置，即不知吾。"
+  },
+  {
+    "source": "t-shizuo",
+    "target": "k-wenyan-hu-4e4e",
+    "anchor": "inline-gloss-020",
+    "fragment": "s-context",
+    "section": "文言随文释义 · 虚词",
+    "context": "“乎”：介词，于，在，引出处所。"
+  },
+  {
+    "source": "t-shizuo",
+    "target": "k-wenyan-qie-4e14",
+    "anchor": "inline-gloss-030",
+    "fragment": "s-sense-1",
+    "section": "文言随文释义 · 虚词",
+    "context": "“且”：连词，并且，连接有勇与知方，有进一步增加的意味。"
+  },
+  {
+    "source": "t-shizuo",
+    "target": "k-wenyan-fang-65b9",
+    "anchor": "inline-gloss-031",
+    "fragment": "s-sense-1",
+    "section": "文言随文释义 · 实词",
+    "context": "“方”：〔方〕合乎礼义的行事准则。（教材第2页注释。）"
+  },
+  {
+    "source": "t-shizuo",
+    "target": "k-wenyan-fang-65b9",
+    "anchor": "inline-gloss-034",
+    "fragment": "s-context",
+    "section": "文言随文释义 · 实词",
+    "context": "“方”：计量土地纵横长度的用语，下接以里计的数值；不是“且知方”的方（为人之道）。"
+  },
+  {
+    "source": "t-shizuo",
+    "target": "k-wenyan-yan-7109",
+    "anchor": "inline-gloss-042",
+    "fragment": "s-context",
+    "section": "文言随文释义 · 虚词",
+    "context": "“焉”：句末语气词，可不译；与“浴乎沂”的处所介词不同。"
+  },
+  {
+    "source": "t-shizuo",
+    "target": "k-wenyan-xiang",
+    "anchor": "inline-gloss-046",
+    "fragment": "s-map",
+    "section": "文言随文释义 · 文化常识",
+    "context": "“相”：〔相〕诸侯祭祀、会盟或朝见天子时，主持赞礼的司仪官。所谓“小相”，也是公西华的谦辞。（教材第3页注释。）"
+  },
+  {
+    "source": "t-shizuo",
+    "target": "k-wenyan-yu-4e0e",
+    "anchor": "inline-gloss-066",
+    "fragment": "s-sense-5",
+    "section": "文言随文释义 · 虚词",
+    "context": "“与”：疑问语气词，同“欤”，表示反问。"
+  },
+  {
+    "source": "t-shizuo",
+    "target": "k-wenyan-fang-65b9",
+    "anchor": "inline-gloss-068",
+    "fragment": "s-context",
+    "section": "文言随文释义 · 实词",
+    "context": "“方”：计量土地纵横长度的用语，下接以里计的数值；不是“且知方”的方（为人之道）。"
+  },
+  {
+    "source": "t-shizuo",
+    "target": "k-wenyan-yu-4e0e",
+    "anchor": "inline-gloss-070",
+    "fragment": "s-sense-5",
+    "section": "文言随文释义 · 虚词",
+    "context": "“与”：疑问语气词，同“欤”，表示反问。"
+  },
+  {
+    "source": "e-2026-guanlesheng",
+    "target": "k-wenyan-yan-satisfy",
+    "anchor": "gloss-001",
+    "fragment": "s-context",
+    "section": "文言随文释义 · 实词",
+    "context": "“乐之不厌”：yàn，满足；喜爱古人之言而不知满足。"
+  },
+  {
+    "source": "e-2026-guanlesheng",
+    "target": "k-wenyan-li-grain",
+    "anchor": "gloss-002",
+    "fragment": "s-context",
+    "section": "文言随文释义 · 实词",
+    "context": "“稷得之以粒黎庶”：使百姓有谷可食，养活；由名词动用并依农事语境理解使动关系。"
+  },
+  {
+    "source": "e-2026-guanlesheng",
+    "target": "k-wenyan-di-match",
+    "anchor": "gloss-003",
+    "fragment": "s-context",
+    "section": "文言随文释义 · 实词",
+    "context": "“天不能与敌大”：匹敌、相比；“大”为比较维度，不是敌人义。"
+  },
+  {
+    "source": "e-2026-guanlesheng",
+    "target": "k-wenyan-er",
+    "anchor": "gloss-006",
+    "fragment": "s-context",
+    "section": "文言随文释义 · 虚词",
+    "context": "“少好学而家贫”：连词，连接好学与家贫两项，可见转折意味。"
+  },
+  {
+    "source": "e-2026-guanlesheng",
+    "target": "k-lexical-shift",
+    "anchor": "gloss-008",
+    "fragment": "s-concepts",
+    "section": "文言随文释义 · 语法",
+    "context": "“精确笃志”：古今词义有别：此处为专心坚定，不是现代测量或数值的精密准确。"
+  },
+  {
+    "source": "e-2026-guanlesheng",
+    "target": "k-syntax",
+    "anchor": "gloss-009",
+    "fragment": "s-01",
+    "section": "文言随文释义 · 语法",
+    "context": "“莫予加损也”：“予”是受事，否定句中代词宾语前置；意为没有什么能增损我。分析时须恢复动作与对象的关系。"
+  },
+  {
+    "source": "e-2026-guanlesheng",
+    "target": "k-wenyan-courtesy-name",
+    "anchor": "gloss-010",
+    "fragment": "s-context",
+    "section": "文言随文释义 · 文化常识",
+    "context": "“名继，字士修”：“继”为名，“士修”为字；名与字是不同的称谓。"
+  },
+  {
+    "source": "e-2026-guanlesheng",
+    "target": "k-wenyan-qi-pronoun",
+    "anchor": "gloss-011",
+    "fragment": "s-context",
+    "section": "文言随文释义 · 虚词",
+    "context": "“观乐生其知道者耶”：表示推测、反问语气，与句末“耶”呼应，可译为大概是懂得道的人吧。"
+  },
+  {
+    "source": "e-2026-guanlesheng",
+    "target": "k-wenyan-yi",
+    "anchor": "inline-gloss-003",
+    "fragment": "s-context",
+    "section": "文言随文释义 · 虚词",
+    "context": "“以”：介词，因为。"
+  },
+  {
+    "source": "e-2026-guanlesheng",
+    "target": "k-wenyan-qing-exhaust",
+    "anchor": "inline-gloss-022",
+    "fragment": "s-context",
+    "section": "文言随文释义 · 实词",
+    "context": "“罄”：尽、用尽。"
+  },
+  {
+    "source": "e-2026-guanlesheng",
+    "target": "k-wenyan-zu-cu",
+    "anchor": "inline-gloss-024",
+    "fragment": "s-context",
+    "section": "文言随文释义 · 虚词",
+    "context": "“卒”：副词，最终。"
+  },
+  {
+    "source": "e-2026-guanlesheng",
+    "target": "k-wenyan-qie-4e14",
+    "anchor": "inline-gloss-027",
+    "fragment": "s-context",
+    "section": "文言随文释义 · 虚词",
+    "context": "“且”：“且……且……”连用表示两个动作同时进行，边咬边看。"
+  },
+  {
+    "source": "e-2026-guanlesheng",
+    "target": "k-wenyan-qie-4e14",
+    "anchor": "inline-gloss-028",
+    "fragment": "s-context",
+    "section": "文言随文释义 · 虚词",
+    "context": "“且”：“且……且……”连用表示两个动作同时进行，边咬边看。"
+  },
+  {
+    "source": "t-denggao",
+    "target": "k-wenyan-hen",
+    "anchor": "gloss-001",
+    "fragment": "s-context",
+    "section": "文言随文释义 · 实词",
+    "context": "“艰难苦恨繁霜鬓”：抱憾，不能按现代常用义译为仇恨。"
+  },
+  {
+    "source": "t-denggao",
+    "target": "k-poetic-language",
+    "anchor": "inline-gloss-005",
+    "fragment": "s-definition",
+    "section": "文言随文释义 · 语法",
+    "context": "“万里悲秋常作客，百年多病独登台”：诗家语·多层状语压缩。万里写离乡之远，百年写一生，常与独分述久客、独登；不可按字序译成在一百岁时登台。"
+  },
+  {
+    "source": "t-denggao",
+    "target": "k-poetic-language",
+    "anchor": "inline-gloss-007",
+    "fragment": "s-definition",
+    "section": "文言随文释义 · 语法",
+    "context": "“艰难苦恨繁霜鬓”：诗家语·情状与结果凝缩。艰难是处境，苦恨是情态，繁霜鬓是所恨的白发增多；诗中未展开具体因果步骤。"
+  },
+  {
+    "source": "e-wh2026-eagles",
+    "target": "k-poetic-language",
+    "anchor": "inline-gloss-003",
+    "fragment": "s-definition",
+    "section": "文言随文释义 · 语法",
+    "context": "“独立高秋削玉巅”：诗家语·处所关系压缩。“高秋”是时令，“削玉巅”是如玉削成的山巅；“立”后的处所介词省去，不宜把高秋误作鹰所站的实物。"
+  },
+  {
+    "source": "e-wh2026-eagles",
+    "target": "k-poetic-language",
+    "anchor": "inline-gloss-004",
+    "fragment": "s-definition",
+    "section": "文言随文释义 · 语法",
+    "context": "“决云白日山前荡”：诗家语·连续动作压缩。决云、荡写鹰冲云飞荡，白日为时间背景，山前为处所；还原关系是为释义，不据此断言只有一种散文语序。"
+  },
+  {
+    "source": "t-yongyule",
+    "target": "k-wenyan-kan",
+    "anchor": "gloss-001",
+    "fragment": "s-context",
+    "section": "文言随文释义 · 实词",
+    "context": "“可堪回首”：可堪以反诘语气表示不忍回首。"
+  },
+  {
+    "source": "t-yongyule",
+    "target": "k-poetic-language",
+    "anchor": "inline-gloss-001",
+    "fragment": "s-definition",
+    "section": "文言随文释义 · 语法",
+    "context": "“英雄无觅，孙仲谋处”：诗家语·语序和停顿调整。意思是在这里找不到英雄孙仲谋的踪迹；“孙仲谋”承接英雄，“无觅”即无处寻觅，不按标点割成两件事。"
+  },
+  {
+    "source": "t-yongyule",
+    "target": "k-poetic-language",
+    "anchor": "inline-gloss-011",
+    "fragment": "s-definition",
+    "section": "文言随文释义 · 语法",
+    "context": "“四十三年，望中犹记，烽火扬州路”：诗家语·时间跨接。现在的眺望引出四十三年前的战火，省去回忆的完整叙述；不是将四十三年当作战火持续时长。"
+  },
+  {
+    "source": "e-thinking-wenyizaidao",
+    "target": "k-wenyan-sui-867d",
+    "anchor": "inline-gloss-003",
+    "fragment": "s-context",
+    "section": "文言随文释义 · 虚词",
+    "context": "“虽”：即使或虽然，引让步；辞采之美不能独自保证为人无可议。"
+  },
+  {
+    "source": "e-thinking-zhengtong",
+    "target": "k-wenyan-gou-82df",
+    "anchor": "inline-gloss-018",
+    "fragment": "s-context",
+    "section": "文言随文释义 · 虚词",
+    "context": "“苟”：假使，表假设。"
+  },
+  {
+    "source": "t-shishuo",
+    "target": "k-wenyan-judgment",
+    "anchor": "gloss-001",
+    "fragment": "s-context",
+    "section": "文言随文释义 · 语法",
+    "context": "“师者，所以传道受业解惑也”：“者……也”标示对教师职能的判断；“所以”说明凭借或职能。"
+  },
+  {
+    "source": "t-shishuo",
+    "target": "k-wenyan-gu-firm",
+    "anchor": "gloss-003",
+    "fragment": "s-context",
+    "section": "文言随文释义 · 虚词",
+    "context": "“其闻道也固先乎吾”：副词，表示原本如此，不是坚固。"
+  },
+  {
+    "source": "t-shishuo",
+    "target": "k-wenyan-zhi-particle",
+    "anchor": "gloss-004",
+    "fragment": "s-context",
+    "section": "文言随文释义 · 虚词",
+    "context": "“师道之不传也久矣”：用于主谓之间，使“师道不传”作为整体进入更大的句子结构。"
+  },
+  {
+    "source": "t-shishuo",
+    "target": "k-wenyan-shu-who",
+    "anchor": "inline-gloss-004",
+    "fragment": "s-context",
+    "section": "文言随文释义 · 虚词",
+    "context": "“孰”：疑问代词，谁。"
+  },
+  {
+    "source": "t-shishuo",
+    "target": "k-wenyan-nai-4e43",
+    "anchor": "inline-gloss-028",
+    "fragment": "s-sense-3",
+    "section": "文言随文释义 · 虚词",
+    "context": "“乃”：副词，竟然，表示出乎意料。"
+  },
+  {
+    "source": "t-shishuo",
+    "target": "k-wenyan-tong-901a",
+    "anchor": "inline-gloss-042",
+    "fragment": "s-sense-2",
+    "section": "文言随文释义 · 实词",
+    "context": "“通”：全面。（《语文·必修上册》第87页注。）"
+  },
+  {
+    "source": "t-shishuo",
+    "target": "k-wenyan-yi-give",
+    "anchor": "inline-gloss-046",
+    "fragment": "s-context",
+    "section": "文言随文释义 · 实词",
+    "context": "“贻”：赠送。（《语文·必修上册》第87页注。）"
+  },
+  {
+    "source": "t-guodongting",
+    "target": "k-wenyan-geng-66f4",
+    "anchor": "inline-gloss-002",
+    "fragment": "s-context",
+    "section": "文言随文释义 · 虚词",
+    "context": "“更”：副词，表示在已有情境上追加，无一点风的迹象。"
+  },
+  {
+    "source": "t-guodongting",
+    "target": "k-poetic-language",
+    "anchor": "inline-gloss-008",
+    "fragment": "s-definition",
+    "section": "文言随文释义 · 语法",
+    "context": "“素月分辉，明河共影”：诗家语·共享处所省略。月与银河的光影共同映在湖中，处所由上文湖水承接；“共影”不能译为月、银河只有一个影子。"
+  },
+  {
+    "source": "t-guodongting",
+    "target": "k-poetic-language",
+    "anchor": "inline-gloss-012",
+    "fragment": "s-definition",
+    "section": "文言随文释义 · 语法",
+    "context": "“稳泛沧浪空阔”：诗家语·修饰成分移置。“空阔”后置描写沧浪，可释“泛于空阔的沧浪”；它的节奏位置与前句组织相连，不等同于误用现代语法。"
+  },
+  {
+    "source": "t-guodongting",
+    "target": "k-poetic-language",
+    "anchor": "inline-gloss-015",
+    "fragment": "s-definition",
+    "section": "文言随文释义 · 语法",
+    "context": "“细斟北斗”：诗家语·工具关系省略。以北斗为酒器，斟取江水，夸张性宇宙想象与“万象为宾客”相连，不译成日常酒席事实。"
+  },
+  {
+    "source": "e-thinking-wuwang",
+    "target": "k-wenyan-chen-9648",
+    "anchor": "inline-gloss-007",
+    "fragment": "s-context",
+    "section": "文言随文释义 · 实词",
+    "context": "“陈”：通“阵”，军阵。"
+  },
+  {
+    "source": "e-thinking-wuwang",
+    "target": "k-wenyan-an-6848",
+    "anchor": "inline-gloss-017",
+    "fragment": "s-sense-3",
+    "section": "文言随文释义 · 实词",
+    "context": "“案”：通“按”，考察、查验。"
+  },
+  {
+    "source": "t-shejiang",
+    "target": "k-wenyan-gu-look",
+    "anchor": "gloss-002",
+    "fragment": "s-context",
+    "section": "文言随文释义 · 实词",
+    "context": "“还顾望旧乡”：转头看，联系旧乡说明目光方向。"
+  },
+  {
+    "source": "t-shejiang",
+    "target": "k-wenyan-yi-wei",
+    "anchor": "inline-gloss-003",
+    "fragment": "s-context",
+    "section": "文言随文释义 · 实词",
+    "context": "“遗”：赠送。（《语文·必修上册》第141页注。）"
+  },
+  {
+    "source": "t-shejiang",
+    "target": "k-poetic-language",
+    "anchor": "inline-gloss-007",
+    "fragment": "s-definition",
+    "section": "文言随文释义 · 语法",
+    "context": "“同心而离居”：诗家语·主语省略。心意相同者与离居者为同一双方；“而”连接相同心意与分处两地的转折关系，不能漏译。"
+  },
+  {
+    "source": "t-jingnv",
+    "target": "k-wenyan-jian-see",
+    "anchor": "gloss-002",
+    "fragment": "s-context",
+    "section": "文言随文释义 · 实词",
+    "context": "“爱而不见”：读xiàn，出现。"
+  },
+  {
+    "source": "t-jingnv",
+    "target": "k-wenyan-shuo",
+    "anchor": "gloss-003",
+    "fragment": "s-context",
+    "section": "文言随文释义 · 实词",
+    "context": "“说怿女美”：读yuè，喜悦。"
+  },
+  {
+    "source": "t-jingnv",
+    "target": "k-wenyan-gui",
+    "anchor": "gloss-004",
+    "fragment": "s-context",
+    "section": "文言随文释义 · 实词",
+    "context": "“自牧归荑”：赠送。"
+  },
+  {
+    "source": "t-jingnv",
+    "target": "k-wenyan-ai",
+    "anchor": "inline-gloss-005",
+    "fragment": "s-context",
+    "section": "文言随文释义 · 实词",
+    "context": "“爱”：同“（ài）”，隐藏。（《语文·必修上册》第140页注。）"
+  },
+  {
+    "source": "t-jingnv",
+    "target": "k-poetic-language",
+    "anchor": "inline-gloss-007",
+    "fragment": "s-definition",
+    "section": "文言随文释义 · 语法",
+    "context": "“爱而不见，搔首踟蹰”：诗家语·主语切换而省略。前一分句承“静女”，后一分句转向“我”；如把全句主语固定为女子，就会误解情境。"
+  },
+  {
+    "source": "t-jingnv",
+    "target": "k-wenyan-qie-4e14",
+    "anchor": "inline-gloss-020",
+    "fragment": "s-sense-1",
+    "section": "文言随文释义 · 虚词",
+    "context": "“且”：连词，并且，连接美与异。"
+  },
+  {
+    "source": "t-jingnv",
+    "target": "k-poetic-language",
+    "anchor": "inline-gloss-023",
+    "fragment": "s-definition",
+    "section": "文言随文释义 · 语法",
+    "context": "“匪女之为美，美人之贻”：诗家语·判断理由省略。“女”指荑；不是物本身使人喜爱，而因它是美人所赠。后句省去完整的判断和原因连接语。"
+  },
+  {
+    "source": "e-wh2026-law",
+    "target": "k-wenyan-yuan",
+    "anchor": "gloss-002",
+    "fragment": "s-sense-2",
+    "section": "文言随文释义 · 实词",
+    "context": "“君子者，法之原也”：根本，名词。本文强调实施法的人，不同于“原庄宗”的推究义。"
+  },
+  {
+    "source": "e-wh2026-law",
+    "target": "k-wenyan-judgment",
+    "anchor": "gloss-003",
+    "fragment": "s-context",
+    "section": "文言随文释义 · 语法",
+    "context": "“法者，治之端也”：者提示话题，也收束判断；说明法与治理的关系。"
+  },
+  {
+    "source": "e-wh2026-law",
+    "target": "k-syntax",
+    "anchor": "gloss-004",
+    "fragment": "s-principle",
+    "section": "文言随文释义 · 语法",
+    "context": "“君欲何以息其盗贼”：疑问代词何作介词以的宾语而前置，即“以何”：打算用什么办法。"
+  },
+  {
+    "source": "e-wh2026-law",
+    "target": "k-wenyan-an",
+    "anchor": "gloss-005",
+    "fragment": "s-context",
+    "section": "文言随文释义 · 实词",
+    "context": "“固欲安之也”：使百姓安定，安带宾语“之”表示使动关系。"
+  },
+  {
+    "source": "e-wh2026-law",
+    "target": "k-wenyan-yi",
+    "anchor": "gloss-006",
+    "fragment": "s-context",
+    "section": "文言随文释义 · 虚词",
+    "context": "“上以（龚遂）为渤海太守”：以……为……，任命某人为某官；括号中的龚遂是题面补明的对象。"
+  },
+  {
+    "source": "e-wh2026-law",
+    "target": "k-wenyan-shu",
+    "anchor": "gloss-008",
+    "fragment": "s-context",
+    "section": "文言随文释义 · 实词",
+    "context": "“移书敕属县”：公文、文书；移书指发文告知。"
+  },
+  {
+    "source": "e-wh2026-law",
+    "target": "k-wenyan-jia",
+    "anchor": "gloss-009",
+    "fragment": "s-context",
+    "section": "文言随文释义 · 实词",
+    "context": "“开仓廪假贫民”：把粮食贷给贫民；与借助外物不同，须分清给予和借入方向。"
+  },
+  {
+    "source": "e-wh2026-law",
+    "target": "k-lexical-conversion",
+    "anchor": "gloss-010",
+    "fragment": "s-principle",
+    "section": "文言随文释义 · 语法",
+    "context": "“不田作”：田与作结合表示耕作，不田作即不从事农业劳动。"
+  },
+  {
+    "source": "e-wh2026-law",
+    "target": "k-lexical-conversion",
+    "anchor": "gloss-011",
+    "fragment": "s-principle",
+    "section": "文言随文释义 · 语法",
+    "context": "“以桑麻之”：名物作谓语，指在所授土地种植桑麻；“之”承上指土地。"
+  },
+  {
+    "source": "e-wh2026-law",
+    "target": "k-wenyan-wei-act",
+    "anchor": "gloss-012",
+    "fragment": "s-context",
+    "section": "文言随文释义 · 虚词",
+    "context": "“未尝为一己而立”：wèi，为了，引出立法所服务的目的与利益。"
+  },
+  {
+    "source": "e-wh2026-law",
+    "target": "k-wenyan-sheng",
+    "anchor": "gloss-013",
+    "fragment": "s-context",
+    "section": "文言随文释义 · 实词",
+    "context": "“前王不胜其利欲之私”：承受、克制不住利欲之私的驱使，不是取胜。"
+  },
+  {
+    "source": "e-wh2026-law",
+    "target": "k-wenyan-sheng",
+    "anchor": "gloss-014",
+    "fragment": "s-context",
+    "section": "文言随文释义 · 实词",
+    "context": "“后王或不胜其利欲之私”：不能抵挡私欲驱使；前王立法、后王毁法的行为虽异，词义相同。"
+  },
+  {
+    "source": "e-wh2026-law",
+    "target": "k-wenyan-lei",
+    "anchor": "inline-gloss-002",
+    "fragment": "s-context",
+    "section": "文言随文释义 · 实词",
+    "context": "“类”：法的类例、原则，供应事类推。"
+  },
+  {
+    "source": "e-wh2026-law",
+    "target": "k-wenyan-sui-867d",
+    "anchor": "inline-gloss-004",
+    "fragment": "s-sense-2",
+    "section": "文言随文释义 · 虚词",
+    "context": "“虽”：让步连词，虽然。"
+  },
+  {
+    "source": "e-wh2026-law",
+    "target": "k-wenyan-qie-4e14",
+    "anchor": "inline-gloss-010",
+    "fragment": "s-context",
+    "section": "文言随文释义 · 虚词",
+    "context": "“且”：副词，暂且。"
+  },
+  {
+    "source": "e-wh2026-law",
+    "target": "k-wenyan-postposition",
+    "anchor": "inline-gloss-011",
+    "fragment": "s-context",
+    "section": "文言随文释义 · 语法",
+    "context": "“拘臣以文法”：以文法为动后介词短语，意为用法律条文拘束我。"
+  },
+  {
+    "source": "e-thinking-wang-anshi",
+    "target": "k-wenyan-ji-6d4e",
+    "anchor": "inline-gloss-001",
+    "fragment": "s-sense-2",
+    "section": "文言随文释义 · 实词",
+    "context": "“济”：帮助、成就。"
+  },
+  {
+    "source": "e-thinking-wang-anshi",
+    "target": "k-wenyan-fa-6cd5",
+    "anchor": "inline-gloss-002",
+    "fragment": "s-sense-3",
+    "section": "文言随文释义 · 实词",
+    "context": "“法”：效法，动词。"
+  },
+  {
+    "source": "e-thinking-wang-anshi",
+    "target": "k-wenyan-fa-6cd5",
+    "anchor": "inline-gloss-003",
+    "fragment": "s-sense-3",
+    "section": "文言随文释义 · 实词",
+    "context": "“法”：效法，动词。"
   }
 ]
