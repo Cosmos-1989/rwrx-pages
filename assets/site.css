@@ -209,7 +209,7 @@
 .course-syllabus td:last-child a{white-space:nowrap;display:inline-block}
 .course-page .article{max-width:none}
 .course-page .detail-grid{grid-template-columns:210px minmax(0,1fr)}
-@media(max-width:1050px){.course-grid{grid-template-columns:1fr}.course-card>p{min-height:0}.course-card h2{font-size:27px}.course-page .detail-grid{grid-template-columns:minmax(0,1fr)}}
+@media(max-width:1050px){.course-grid{grid-template-columns:1fr}.course-card>p{min-height:0}.course-card h2{font-size:27px}.course-page .detail-grid{grid-template-columns:minmax(0,1fr);gap:24px}.course-page .toc{position:static;width:100%;padding-top:0}.course-page .toc nav{flex-direction:row;gap:7px;max-height:100px;white-space:nowrap;border:0;margin:12px 0}.course-page .toc nav a{border:1px solid var(--line);border-radius:3px;padding:5px 9px;margin:0}.course-page .toc .print-button{display:none}}
 @media(max-width:700px){.course-card{padding:25px 22px}.course-grid{gap:18px}.course-page .prose h2{font-size:24px}.site-header nav{gap:23px}}
 
 .prose table caption{padding:.6em 0;text-align:left;font-weight:600;color:var(--forest,#254438)}
