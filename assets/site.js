@@ -20,12 +20,34 @@ if(matchMedia('(max-width:700px)').matches)document.querySelectorAll('.margin-no
 // Native details work without JavaScript; the name attribute and this fallback
 // keep each action focused on one paragraph, including legacy fragment links.
 const paragraphTranslations=[...document.querySelectorAll('.paragraph-translation')];
+let printState=null;
 paragraphTranslations.forEach(d=>d.addEventListener('toggle',()=>{
- if(d.open)paragraphTranslations.forEach(other=>{if(other!==d)other.open=false;});
+ if(!printState&&d.open)paragraphTranslations.forEach(other=>{if(other!==d)other.open=false;});
 }));
-let printMarginKind='全部';
-window.addEventListener('beforeprint',()=>{printMarginKind=marginKind;filterMargins('全部');document.querySelectorAll('details.answer,details.margin-notes,details.context-group').forEach(d=>{d.dataset.previousOpen=String(d.open);d.open=true;});});
-window.addEventListener('afterprint',()=>{document.querySelectorAll('details.answer,details.margin-notes,details.context-group').forEach(d=>d.open=d.dataset.previousOpen==='true');filterMargins(printMarginKind);});
+// Printing exposes every disclosure, including named accordion groups. Keep
+// the reading state until afterprint, which also runs when printing is canceled.
+window.addEventListener('beforeprint',()=>{
+ if(printState)return;
+ printState={marginKind,details:[...document.querySelectorAll('details')].map(element=>({
+  element,open:element.open,name:element.getAttribute('name')
+ }))};
+ filterMargins('全部');
+ printState.details.forEach(({element})=>element.removeAttribute('name'));
+ printState.details.forEach(({element})=>element.open=true);
+});
+window.addEventListener('afterprint',()=>{
+ if(!printState)return;
+ const previous=printState;
+ // Close first so restoring names never selects a different accordion member.
+ previous.details.forEach(({element})=>element.open=false);
+ previous.details.forEach(({element,name})=>{
+  if(name===null)element.removeAttribute('name');
+  else element.setAttribute('name',name);
+ });
+ previous.details.forEach(({element,open})=>element.open=open);
+ filterMargins(previous.marginKind);
+ printState=null;
+});
 // Evidence follows the same fragment history as ordinary reading anchors.
 const evidenceToolbar=document.querySelector('.evidence-toolbar');
 const evidenceStatus=document.querySelector('#evidence-status');

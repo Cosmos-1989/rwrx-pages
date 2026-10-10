@@ -272,7 +272,20 @@
 .translation-guide>summary{cursor:pointer;font:12px/1.8 var(--sans)}
 .prose .translation-guide p{font:13px/1.9 var(--sans);margin:10px 0}
 @media(max-width:700px){.reading-module>.margin-notes{grid-column:1;grid-row:2}.translation-text{padding:12px 14px}.classical-popover{max-height:60vh;overflow-y:auto}}
-@media print{.classical-mark{color:inherit}.translation-text{background:transparent}.paragraph-translation{break-inside:auto}}
+@media print{
+ .classical-mark{color:inherit}
+ .paragraph-translation{break-inside:auto;margin-bottom:12pt}
+ .paragraph-translation>summary{border:0;padding:0;background:transparent;font:600 10pt/1.8 var(--serif);color:#111;break-after:avoid}
+ .paragraph-translation>summary::after,.margin-notes>summary::after{content:none!important}
+ .translation-text{background:transparent;margin-top:6pt;padding:8pt 12pt}
+ .prose .translation-text p{font-size:11pt;line-height:1.8}
+ details>summary{list-style:none}
+ details>summary::-webkit-details-marker{display:none}
+ .connections.context-connections{display:block!important}
+ .context-connections>div{display:block}
+ .context-group{background:transparent;margin-bottom:10pt;break-inside:auto}
+ .context-group>summary{break-after:avoid}
+}
 
 /* Keep each answer's claim and evidence together, with visible argument levels. */
 .prose .answer-points { margin: .8rem 0 1rem; padding-left: 1.65rem; }
