@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="245" viewBox="0 0 720 245" role="img" aria-labelledby="title desc">
+<title id="title">四种图形的分类问题</title>
+<desc id="desc">从四种图形中找出一个性质与其他三个不同的图形。A为椭圆，B为三角形，C为不对称弯曲月牙状图形，D为半圆。</desc>
+<rect x="1" y="1" width="718" height="243" rx="6" fill="#fffdf7" stroke="#b9c1b0"/>
+<text x="28" y="38" font-family="serif" font-size="21" fill="#273c32">从下列四种图形中，找出一个性质与其他三个不同的来。</text>
+<g fill="#222"><ellipse cx="108" cy="150" rx="54" ry="38"/><path d="M205 188 L275 117 L345 188 Z"/><path d="M444 117 C407 120 388 141 404 159 C420 179 469 208 495 195 C518 184 512 160 484 143 C488 156 479 173 463 170 C437 165 411 148 426 131 Z"/><path d="M568 188 a66 47 0 0 1 132 0 Z"/></g>
+<g fill="#273c32" font-family="serif" font-size="23" text-anchor="middle"><text x="108" y="101">A</text><text x="275" y="101">B</text><text x="452" y="101">C</text><text x="634" y="101">D</text></g>
+</svg>
