@@ -185,6 +185,7 @@
 .source-figure { margin: 2rem 0; }
 .source-figure img { display: block; width: min(100%, 760px); height: auto; }
 .source-figure figcaption { margin-top: .75rem; color: var(--muted, #657063); font-size: .85rem; line-height: 1.7; }
+.prose .question-status{font:12px/1.7 var(--sans);color:var(--muted);margin:0 0 16px}.prose .question-status>p{font:inherit;margin:0}
 
 /* The exam taxonomy keeps parent totals distinct from mutually exclusive leaves. */
 .filter-group{margin:.5rem 0 1rem}.filters .filter{display:flex;align-items:baseline;justify-content:space-between;gap:.65rem}.filters .filter-name{color:inherit;font-size:inherit;float:none}.filter-count{font-size:.8em;font-variant-numeric:tabular-nums;color:var(--muted)}.filters .filter-parent{font-size:14px;font-weight:600}.filter-children{margin:.15rem 0 .6rem .85rem;padding-left:.55rem;border-left:1px solid var(--line,#d9ddce)}.filters .filter-children .filter{font-size:12px;padding:.65rem .6rem}.card-source{font-size:.78rem;color:var(--muted,#7e8678);margin:-.2rem 0 .75rem;line-height:1.6}.article-meta .source-label{max-width:100%}
