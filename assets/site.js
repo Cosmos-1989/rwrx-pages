@@ -54,6 +54,14 @@ const evidenceStatus=document.querySelector('#evidence-status');
 const evidenceReturn=document.querySelector('#evidence-return');
 // Browsers percent-encode non-ASCII fragments; DOM ids retain their characters.
 function fragmentId(hash=location.hash){const id=hash.slice(1);try{return decodeURIComponent(id);}catch{return id;}}
+function citationTarget(){
+ const old=document.getElementById(fragmentId());
+ const id=old?.dataset.evidenceRedirect||old?.dataset.citationTarget;
+ const current=id&&document.getElementById(id);
+ if(!current)return old;
+ if(old.dataset.evidenceRedirect)history.replaceState(null,'','#'+id);
+ return current;
+}
 function clearEvidence(){
  document.querySelectorAll('.evidence-active').forEach(el=>el.classList.remove('evidence-active'));
  document.querySelectorAll('.option-analysis.is-evidence-active').forEach(el=>el.classList.remove('is-evidence-active'));
@@ -103,7 +111,7 @@ function dismissEvidence(){
 }
 document.querySelector('#evidence-clear')?.addEventListener('click',dismissEvidence);
 document.addEventListener('keydown',event=>{if(event.key==='Escape'&&evidenceToolbar&&!evidenceToolbar.hidden&&!dialog.open)dismissEvidence();});
-function revealAnchor(scroll=false){document.querySelectorAll('.anchor-target').forEach(el=>el.classList.remove('anchor-target'));const target=document.getElementById(fragmentId());syncEvidence(target);if(!target)return;if(target.matches('.margin-note')&&target.hidden)filterMargins('全部');if(target.matches('details'))target.open=true;for(let d=target.closest('details');d;d=d.parentElement?.closest('details'))d.open=true;target.classList.add('anchor-target');const clearance=(document.querySelector('.site-header')?.getBoundingClientRect().height||98)+26;const rootPadding=parseFloat(getComputedStyle(document.documentElement).scrollPaddingTop)||0;target.style.scrollMarginTop=Math.max(0,clearance-rootPadding)+'px';if(scroll){const marginOnDesktop=target.matches('.margin-note')&&!matchMedia('(max-width:700px)').matches;target.scrollIntoView({block:marginOnDesktop?'nearest':'start',behavior:'instant'});target.setAttribute('tabindex','-1');target.focus({preventScroll:true});}}
+function revealAnchor(scroll=false){document.querySelectorAll('.anchor-target').forEach(el=>el.classList.remove('anchor-target'));const target=citationTarget();syncEvidence(target);if(!target)return;const margin=target.closest('.margin-note');if(margin?.hidden)filterMargins('全部');if(target.matches('details'))target.open=true;for(let d=target.closest('details');d;d=d.parentElement?.closest('details'))d.open=true;target.classList.add('anchor-target');const clearance=(document.querySelector('.site-header')?.getBoundingClientRect().height||98)+26;const rootPadding=parseFloat(getComputedStyle(document.documentElement).scrollPaddingTop)||0;target.style.scrollMarginTop=Math.max(0,clearance-rootPadding)+'px';if(scroll){const marginOnDesktop=target.matches('.margin-note')&&!matchMedia('(max-width:700px)').matches;target.scrollIntoView({block:marginOnDesktop?'nearest':'start',behavior:'instant'});target.setAttribute('tabindex','-1');target.focus({preventScroll:true});}}
 document.querySelectorAll('a[href^="#"]').forEach(a=>a.addEventListener('click',e=>{
  if(a.matches('.classical-mark')||e.metaKey||e.ctrlKey||e.shiftKey||e.altKey||e.button!==0)return;
  // SVG links do not expose HTMLAnchorElement.hash.
