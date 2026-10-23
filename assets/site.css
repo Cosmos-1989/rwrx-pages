@@ -214,6 +214,15 @@
 @media(max-width:700px){.course-card{padding:25px 22px}.course-grid{gap:18px}.course-page .prose h2{font-size:24px}.site-header nav{gap:23px}}
 
 .prose table caption{padding:.6em 0;text-align:left;font-weight:600;color:var(--forest,#254438)}
+.prose .scoring-table{min-width:720px;table-layout:fixed;font-size:13px;line-height:1.75}
+.prose .scoring-table th:first-child,.prose .scoring-table td:first-child{width:13%}
+.prose .scoring-table td{vertical-align:top;overflow-wrap:anywhere}
+.prose .scoring-table p,.prose .scoring-table ol{margin:.4em 0;font-size:inherit;line-height:inherit}
+.prose .scoring-table ol{padding-left:1.25em}
+.writing-guide{padding:8px 0 20px;border-bottom:1px solid var(--line,#dce0d5)}
+.writing-review{margin-top:28px;padding:20px 24px;border-left:3px solid #a5b293;background:#edf0e780}
+@media(max-width:700px){.writing-review{padding:14px 16px}.prose .scoring-table{font-size:12px}}
+@media print{.prose .scoring-table{min-width:0;font-size:8pt;line-height:1.45}.prose .scoring-table th,.prose .scoring-table td{padding:5pt}.prose .scoring-table thead{display:table-header-group}.prose .scoring-table tr{break-inside:avoid}.writing-review{background:white;padding:8pt;border-color:#999}}
 
 /* Local fieldwork notebook */
 .fieldwork { margin-block:1.5rem; }
