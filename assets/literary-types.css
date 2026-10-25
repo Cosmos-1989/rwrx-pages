@@ -1,0 +1,213 @@
+/* All interactive rules are local to the literary-question map. */
+#literary-types-map {
+  --type-forest: var(--forest, var(--green, #244e3d));
+  --type-active: #e7ecdf;
+  color: var(--ink, #253e35);
+  font: 14px/1.8 var(--sans, system-ui, sans-serif);
+  min-width: 0;
+  max-width: 100%;
+  container: literary-types / inline-size;
+}
+#literary-types-map [hidden] { display: none !important; }
+#literary-types-map *, .type-full-outline * { box-sizing: border-box; }
+#literary-types-map .type-interactive { min-width: 0; }
+#literary-types-map .type-diagram {
+  position: relative;
+  display: grid;
+  grid-template-columns: 112px 166px minmax(0, 1fr);
+  column-gap: 30px;
+  padding: 10px;
+  align-items: center;
+  isolation: isolate;
+  min-width: 0;
+}
+#literary-types-map .type-connectors {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  overflow: visible;
+  pointer-events: none;
+  z-index: -1;
+}
+#literary-types-map .type-connectors path {
+  fill: none;
+  stroke: var(--line, #dedfd4);
+  stroke-width: 1.5;
+  vector-effect: non-scaling-stroke;
+}
+#literary-types-map .type-root,
+#literary-types-map .type-branches,
+#literary-types-map .type-children { position: relative; min-width: 0; }
+#literary-types-map .type-root h3 { margin: 0; font: 600 19px/1.8 var(--serif, serif); }
+#literary-types-map .type-branches,
+#literary-types-map .type-children {
+  display: flex;
+  flex-direction: column;
+  align-items: stretch;
+  gap: 9px;
+}
+#literary-types-map .type-children { padding-block: 4px; }
+#literary-types-map .type-branch,
+#literary-types-map .type-node {
+  min-height: 44px;
+  max-width: 100%;
+  min-width: 0;
+  margin: 0;
+  padding: 9px 11px;
+  border: 1px solid var(--line, #dedfd4);
+  border-radius: 4px;
+  background: var(--surface, #fbfaf6);
+  color: var(--ink, #253e35);
+  font: inherit;
+  line-height: 1.7;
+  text-align: left;
+  white-space: normal;
+  overflow-wrap: anywhere;
+  word-break: normal;
+  cursor: pointer;
+  scroll-margin-block: 130px 24px;
+}
+#literary-types-map button.type-node { width: 100%; }
+#literary-types-map .type-branch { width: 100%; font-weight: 600; }
+#literary-types-map .type-node:hover,
+#literary-types-map .type-branch:hover { border-color: var(--type-forest); }
+#literary-types-map [data-selected="true"] {
+  color: var(--type-forest);
+  background: var(--type-active);
+  border-color: #8d9f82;
+}
+#literary-types-map button:focus-visible,
+#literary-types-map summary:focus-visible,
+#literary-types-map a:focus-visible {
+  outline: 2px solid var(--accent, #a54f39);
+  outline-offset: 3px;
+}
+#literary-types-map .type-child,
+#literary-types-map .type-descendant,
+#literary-types-map .type-disclosure { width: 100%; max-width: 100%; min-width: 0; }
+#literary-types-map .type-disclosure { margin: 0; padding: 0; border: 0; background: transparent; }
+#literary-types-map .type-disclosure > summary { display: list-item; list-style-position: inside; }
+#literary-types-map .type-disclosure > summary::marker { color: var(--muted, #7a8175); }
+#literary-types-map .type-grandchildren {
+  display: flex;
+  flex-direction: column;
+  align-items: stretch;
+  gap: 7px;
+  margin: 9px 0 5px 7px;
+  padding-left: 13px;
+  border-left: 1px solid var(--line, #dedfd4);
+  min-width: 0;
+}
+#literary-types-map .type-current {
+  margin: 21px 0 11px;
+  color: var(--muted, #7a8175);
+  font-size: 13px;
+  overflow-wrap: anywhere;
+}
+#literary-types-map .type-detail {
+  margin: 0;
+  padding: 21px 24px;
+  background: var(--surface, #fbfaf6);
+  border: 1px solid var(--line, #dedfd4);
+  border-radius: 5px;
+  min-width: 0;
+  overflow-wrap: anywhere;
+}
+#literary-types-map .type-detail > * + * { margin-top: 13px; }
+#literary-types-map .type-detail-title { margin: 0; font: 600 23px/1.65 var(--serif, serif); }
+#literary-types-map .type-definition { font-size: 15px; line-height: 1.95; }
+#literary-types-map .type-tags,
+#literary-types-map .type-relations,
+#literary-types-map .type-key { color: var(--muted, #7a8175); font-size: 12px; line-height: 1.9; }
+#literary-types-map .type-key { margin: 17px 0; overflow-wrap: anywhere; }
+#literary-types-map .type-examples { display: flex; flex-direction: column; gap: 18px; }
+#literary-types-map .type-example { padding-top: 17px; border-top: 1px solid var(--line, #dedfd4); }
+#literary-types-map .type-example-links { display: flex; align-items: baseline; flex-wrap: wrap; column-gap: 18px; }
+#literary-types-map .type-example-links a,
+#literary-types-map .type-relations a {
+  display: inline-block;
+  min-height: 44px;
+  padding-block: 8px;
+  color: var(--type-forest);
+  text-decoration: underline;
+  text-decoration-color: #a9b79d;
+  text-underline-offset: 4px;
+  white-space: normal;
+  overflow-wrap: anywhere;
+}
+#literary-types-map .type-example .type-prompt {
+  margin: 4px 0 9px;
+  padding: 4px 0 4px 13px;
+  border-left: 2px solid var(--line, #dedfd4);
+  background: transparent;
+  color: var(--ink, #253e35);
+  font: 15px/1.95 var(--serif, serif);
+  white-space: pre-line;
+  overflow-wrap: anywhere;
+}
+#literary-types-map .type-example p { margin: 5px 0 0; font: 13px/1.9 var(--sans, sans-serif); }
+.type-full-outline {
+  min-width: 0;
+  max-width: 100%;
+  margin: 28px 0;
+  padding: 0;
+  overflow-wrap: anywhere;
+}
+.type-full-outline > summary { min-height: 44px; padding: 10px 0; cursor: pointer; }
+.type-full-outline :is(ul, ol) { padding-left: 1.3em; }
+.type-full-outline a { overflow-wrap: anywhere; }
+.type-full-outline .type-outline-node { margin-top: 24px; }
+.type-full-outline .type-outline-node > :is(h3, h4, h5) {
+  margin: 20px 0 10px;
+  font-family: var(--serif, serif);
+  font-weight: 600;
+  line-height: 1.7;
+}
+.type-full-outline .type-outline-node > h3 { font-size: 23px; }
+.type-full-outline .type-outline-node > h4 { font-size: 19px; }
+.type-full-outline .type-outline-node > h5 { font-size: 17px; }
+
+@container literary-types (max-width: 590px) {
+  #literary-types-map .type-diagram { grid-template-columns: minmax(0, 1fr) minmax(0, 1fr); column-gap: 28px; padding-inline: 13px; }
+  #literary-types-map .type-root { grid-column: 1 / -1; text-align: center; margin-bottom: 28px; }
+  #literary-types-map .type-root br { display: none; }
+  #literary-types-map .type-grandchildren { margin-left: 0; padding-left: 8px; }
+  #literary-types-map .type-node, #literary-types-map .type-branch { padding-inline: 8px; }
+  #literary-types-map .type-detail { padding: 17px; }
+}
+/* Viewport fallback for readers without container queries. */
+@media (max-width: 590px) {
+  #literary-types-map .type-diagram { grid-template-columns: minmax(0, 1fr) minmax(0, 1fr); column-gap: 28px; padding-inline: 13px; }
+  #literary-types-map .type-root { grid-column: 1 / -1; text-align: center; margin-bottom: 28px; }
+  #literary-types-map .type-root br { display: none; }
+  #literary-types-map .type-grandchildren { margin-left: 0; padding-left: 8px; }
+  #literary-types-map .type-node, #literary-types-map .type-branch { padding-inline: 8px; }
+  #literary-types-map .type-detail { padding: 17px; }
+}
+@media print {
+  #literary-types-map .type-interactive,
+  #literary-types-map .type-diagram,
+  #literary-types-map .type-current,
+  #literary-types-map .type-detail,
+  #literary-types-map .type-key { display: none !important; }
+  #literary-types-map { container-type: normal; }
+  details.type-full-outline { display: block !important; margin: 10pt 0; color: #111; }
+  details.type-full-outline::details-content,
+  details.type-full-outline details::details-content {
+    display: block !important;
+    content-visibility: visible !important;
+    height: auto !important;
+  }
+  details.type-full-outline > :not(summary),
+  details.type-full-outline details > :not(summary) { display: block !important; }
+  .type-full-outline summary { list-style: none; min-height: 0; padding: 0; break-after: avoid; }
+  .type-full-outline summary::-webkit-details-marker { display: none; }
+  .type-full-outline summary::marker { content: ''; }
+  .type-full-outline :is(h2, h3, h4, h5) { break-after: avoid; }
+  .type-full-outline .type-outline-node > h3 { font-size: 14pt; }
+  .type-full-outline .type-outline-node > h4 { font-size: 12pt; }
+  .type-full-outline .type-outline-node > h5 { font-size: 11pt; }
+  .type-full-outline :is(p, li) { orphans: 2; widows: 2; }
+  .type-full-outline a { color: #111; }
+}
