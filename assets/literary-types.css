@@ -147,6 +147,25 @@
   overflow-wrap: anywhere;
 }
 #literary-types-map .type-example p { margin: 5px 0 0; font: 13px/1.9 var(--sans, sans-serif); }
+#literary-types-map .type-method > :is(h4, h5, h6),
+#literary-types-map .type-examples-heading {
+  margin: 24px 0 10px;
+  font: 600 17px/1.7 var(--serif, serif);
+}
+#literary-types-map .type-method :is(p, li) {
+  font: 14px/1.95 var(--sans, sans-serif);
+}
+#literary-types-map .type-method :is(ol, ul) { padding-left: 1.6em; margin: 12px 0; }
+#literary-types-map .type-method li { margin: 10px 0; padding-left: 3px; }
+#literary-types-map .type-method li > p { margin: 5px 0 0; }
+#literary-types-map .type-method-steps strong { color: var(--ink); font-weight: 600; }
+#literary-types-map .type-method a { color: var(--green); text-decoration: underline; text-underline-offset: 4px; }
+#literary-types-map .type-worked-links { display: flex; flex-wrap: wrap; gap: 4px 12px; }
+#literary-types-map .type-worked-links a { min-height: 44px; padding-block: 8px; }
+#literary-types-map .type-worked-evidence { margin-block: 14px; }
+#literary-types-map .type-worked-evidence summary { min-height: 44px; padding-block: 8px; cursor: pointer; }
+.type-full-outline .type-method { padding-left: 13px; border-left: 2px solid var(--line); }
+#literary-types-map .type-full-outline .type-method > :is(h4, h5, h6) { font-size: 15px; }
 .type-full-outline {
   min-width: 0;
   max-width: 100%;
@@ -204,10 +223,13 @@
   .type-full-outline summary { list-style: none; min-height: 0; padding: 0; break-after: avoid; }
   .type-full-outline summary::-webkit-details-marker { display: none; }
   .type-full-outline summary::marker { content: ''; }
-  .type-full-outline :is(h2, h3, h4, h5) { break-after: avoid; }
+  .type-full-outline :is(h2, h3, h4, h5, h6) { break-after: avoid; }
   .type-full-outline .type-outline-node > h3 { font-size: 14pt; }
   .type-full-outline .type-outline-node > h4 { font-size: 12pt; }
   .type-full-outline .type-outline-node > h5 { font-size: 11pt; }
+  #literary-types-map .type-full-outline .type-method { padding-left: 8pt; border-color: #999; }
+  #literary-types-map .type-full-outline .type-method > :is(h4, h5, h6) { font-size: 10.5pt; }
+  #literary-types-map .type-full-outline .type-method :is(p, li) { font-size: 10pt; line-height: 1.8; }
   .type-full-outline :is(p, li) { orphans: 2; widows: 2; }
   .type-full-outline a { color: #111; }
 }

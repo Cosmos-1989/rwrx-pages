@@ -9,7 +9,7 @@
 
     const ui = {};
     for (const name of ['diagram', 'root', 'branches', 'children', 'connectors',
-      'current', 'detail-title', 'definition', 'tags', 'examples', 'relations']) {
+      'current', 'detail-title', 'definition', 'tags', 'method-panel', 'examples', 'relations']) {
       ui[name] = root.querySelector(`.type-${name}`);
       if (!ui[name]) return;
     }
@@ -108,6 +108,7 @@
       const tasks = Array.isArray(node.tasks) ? node.tasks.filter(value => typeof value === 'string') : [];
       ui.tags.textContent = tasks.length ? `作答任务　${tasks.join(' · ')}` : '';
       ui.tags.hidden = !tasks.length;
+      renderMethod(node.method);
       ui.examples.replaceChildren();
       (Array.isArray(node.examples) ? node.examples : []).forEach(example => {
         if (!example || typeof example !== 'object') return;
@@ -159,6 +160,59 @@
         else if (id === selectedId) target.setAttribute('aria-current', 'true');
         else target.removeAttribute('aria-current');
       }
+    }
+
+    function renderMethod(method) {
+      ui['method-panel'].replaceChildren();
+      if (!method) return;
+      const container = element('div', 'type-method');
+      const heading = text => container.append(element('h4', '', text));
+      const list = (items, className = '') => {
+        const result = element('ol', className);
+        items.forEach(text => result.append(element('li', '', text)));
+        container.append(result);
+      };
+      heading('解题方法');
+      container.append(element('p', 'type-method-focus', method.focus));
+      const steps = element('ol', 'type-method-steps');
+      method.steps.forEach(step => {
+        const item = element('li');
+        item.append(element('strong', '', step.title), element('p', '', step.text));
+        steps.append(item);
+      });
+      container.append(steps);
+      heading('答案组织');
+      list(method.answer);
+      heading('易误辨析');
+      const checks = element('ul');
+      method.pitfalls.forEach(text => checks.append(element('li', '', text)));
+      container.append(checks);
+      heading('例题推演');
+      const example = method.workedExample;
+      const links = element('p', 'type-worked-links');
+      links.append(safeLink(example.url, `《${example.title}》 · ${example.questionLabel}`),
+        document.createTextNode('　'), safeLink(example.answerUrl, '查看解析'));
+      container.append(links);
+      list(example.steps);
+      if (example.evidence?.length) {
+        const disclosure = element('details', 'type-worked-evidence');
+        disclosure.append(element('summary', '', '核对本题文本依据'));
+        const references = element('ul');
+        example.evidence.forEach(reference => {
+          const item = element('li');
+          item.append(safeLink(reference.url, `“${reference.quote}” ↗`));
+          references.append(item);
+        });
+        disclosure.append(references);
+        container.append(disclosure);
+      }
+      const knowledge = element('p', 'type-knowledge-links', '相关知识：');
+      method.knowledge.forEach((item, position) => {
+        if (position) knowledge.append(document.createTextNode('、'));
+        knowledge.append(safeLink(item.url, item.label));
+      });
+      container.append(knowledge);
+      ui['method-panel'].append(container);
     }
 
     function renderNode(node, depth = 0) {
