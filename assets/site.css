@@ -333,3 +333,16 @@
 @media print{.textbook-catalogue-entry{gap:10pt;padding:7pt 0;grid-template-columns:3.8em 1fr}.prose .textbook-catalogue-entry .catalogue-main>p:first-child{font-size:12pt}.catalogue-author,.textbook-catalogue-entry .catalogue-lesson{font-size:9pt}}
 .prose ol:has(>li>.textbook-catalogue-entry){list-style:none;margin:0;padding:0}
 .prose ol:has(>li>.textbook-catalogue-entry)>li{margin:0;padding:0}
+/* Whole-book directories retain readable chapter groups on screen and paper. */
+.book-toc-group{margin:14px 0;border:1px solid var(--line);border-radius:4px;background:var(--surface)}
+.book-toc-group>summary{padding:14px 18px;cursor:pointer;color:var(--ink)}
+.book-toc-group>summary h3{display:inline;font-size:17px;font-weight:600}
+.book-toc-content{padding:2px 18px 18px;border-top:1px solid var(--line)}
+.book-toc-content ol,.book-toc-content ul{padding-left:1.6em}
+.book-toc-content li{margin:9px 0;break-inside:avoid}
+.book-directory table{width:100%;overflow-wrap:anywhere}
+.book-directory th,.book-directory td{vertical-align:top}
+.book-structure,.book-evaluation{scroll-margin-top:115px}
+.textbook-footer>.textbook-all-link+.textbook-all-link{margin-left:26px}
+@media(max-width:600px){.book-toc-group>summary{padding:12px}.book-toc-group>summary h3{font-size:16px}.book-toc-content{padding:0 12px 14px}.book-directory table{font-size:13px}.book-directory th,.book-directory td{padding:8px 6px}.textbook-footer>.textbook-all-link+.textbook-all-link{display:block;margin:16px 0 0}}
+@media print{.book-toc-group{border:0;background:none;break-inside:auto}.book-toc-group>summary{padding:8px 0}.book-toc-content{padding:0;border:0}.book-toc-group li{break-inside:avoid}}
