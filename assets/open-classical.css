@@ -1,0 +1,80 @@
+.open-map-root {
+  width: fit-content;
+  margin: 1rem auto 0;
+  padding: .45rem 1.3rem;
+  color: #fff;
+  background: #315646;
+  border-radius: .3rem;
+  font-weight: 600;
+}
+.open-map-root::after {
+  content: '';
+  display: block;
+  position: relative;
+  top: 1.05rem;
+  width: 1px;
+  height: 1rem;
+  margin: 0 auto -1rem;
+  background: #a8b69b;
+}
+.open-classical-map > ul {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 1rem;
+  padding: 1rem 0 0;
+  position: relative;
+  list-style: none;
+}
+.open-classical-map > ul::before {
+  content: '';
+  position: absolute;
+  top: .5rem;
+  left: 25%;
+  width: 50%;
+  border-top: 1px solid #a8b69b;
+}
+.open-classical-map > ul > li {
+  min-width: 0;
+  position: relative;
+  padding: 1.2rem 1.35rem;
+  border: 1px solid #d9dfce;
+  border-left: 4px solid #899e77;
+  background: #f7f8f1;
+}
+.open-classical-map > ul > li::before {
+  content: '';
+  position: absolute;
+  top: -.55rem;
+  left: 50%;
+  height: .5rem;
+  border-left: 1px solid #a8b69b;
+}
+.open-classical-map > ul > li:nth-child(2) { border-left-color: #698d73; }
+.open-classical-map > ul > li:nth-child(3) { border-left-color: #718ba0; }
+.open-classical-map > ul > li:nth-child(4) { border-left-color: #b89a53; }
+.open-classical-map > ul > li > strong { color: #29483c; font-size: 1.14em; }
+.open-classical-map ul ul {
+  padding-left: 1.1rem;
+  margin: .8rem 0 0 .25rem;
+  border-left: 1px solid #c9d3c0;
+  list-style: none;
+}
+.open-classical-map ul ul li { position: relative; margin: .65rem 0; }
+.open-classical-map ul ul li::before {
+  content: '';
+  position: absolute;
+  left: -1.1rem;
+  top: .9em;
+  width: .7rem;
+  border-top: 1px solid #c9d3c0;
+}
+.open-classical-map li { overflow-wrap: anywhere; }
+.open-classical-example .reading-text { margin-top: 1rem; }
+@media (max-width: 680px) {
+  .open-classical-map > ul { grid-template-columns: 1fr; }
+  .open-classical-map > ul::before { display: none; }
+}
+@media print {
+  .open-classical-map > ul { display: block; }
+  .open-classical-map > ul > li { break-inside: avoid; margin-bottom: .6rem; }
+}
