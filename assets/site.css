@@ -346,3 +346,7 @@
 .textbook-footer>.textbook-all-link+.textbook-all-link{margin-left:26px}
 @media(max-width:600px){.book-toc-group>summary{padding:12px}.book-toc-group>summary h3{font-size:16px}.book-toc-content{padding:0 12px 14px}.book-directory table{font-size:13px}.book-directory th,.book-directory td{padding:8px 6px}.textbook-footer>.textbook-all-link+.textbook-all-link{display:block;margin:16px 0 0}}
 @media print{.book-toc-group{border:0;background:none;break-inside:auto}.book-toc-group>summary{padding:8px 0}.book-toc-content{padding:0;border:0}.book-toc-group li{break-inside:avoid}}
+
+.reading-module img[src$="junior-information-carbon-flow.png"]{display:block;max-width:100%;height:auto;margin:1em auto}
+
+.reading-module img[src*="junior-info-pdf-"],.reading-module img[src*="junior-pdf-new-chinese-"]{display:block;max-width:100%;height:auto;margin:1em auto}
