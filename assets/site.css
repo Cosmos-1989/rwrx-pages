@@ -33,6 +33,15 @@
 .toc nav a.toc-level-2{font-size:10px;padding:6px 10px 6px 24px;color:#7d8578;line-height:1.65}
 .reading-heading{display:flex;align-items:center;justify-content:space-between;gap:20px;margin-bottom:10px}
 .prose .reading-heading h2{margin:0;font-size:24px}
+.prose .course-analysis{margin-top:2.1rem;padding-top:1.25rem;border-top:1px solid var(--line)}
+.prose .course-analysis h2{margin-bottom:.55rem}
+.prose .course-analysis>p{color:var(--ink);margin:.55rem 0 .8rem}
+.prose .course-analysis ul{margin:.55rem 0 0;padding-left:1.35rem}
+.prose .course-analysis li{padding-left:.2rem;margin:.45rem 0}
+.prose .course-analysis li p{margin:0}
+.prose .course-analysis li strong{color:var(--ink)}
+.prose .course-analysis a[href^="#ev-"]{font-size:.9em;line-height:1.55;white-space:normal}
+@media print{.prose .course-analysis{margin-top:1rem;padding-top:.6rem}.prose .course-analysis li{break-inside:avoid}}
 .reading-heading h2:before{display:none}
 .margin-filters{display:flex;gap:4px;padding:3px;background:#e9ece3;border:1px solid #d8dece;border-radius:4px;font:11px var(--sans);flex-shrink:0}
 .margin-filters button{border:0;background:transparent;padding:6px 10px;color:#5d6b57;border-radius:2px}
