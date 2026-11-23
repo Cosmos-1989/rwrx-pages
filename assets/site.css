@@ -359,3 +359,22 @@
 .reading-module img[src$="junior-information-carbon-flow.png"]{display:block;max-width:100%;height:auto;margin:1em auto}
 
 .reading-module img[src*="junior-info-pdf-"],.reading-module img[src*="junior-pdf-new-chinese-"]{display:block;max-width:100%;height:auto;margin:1em auto}
+
+/* Modern reading training camps */
+.training-objective{font-weight:600}
+.training-reading{display:grid;grid-template-columns:minmax(0,1fr) minmax(9rem,25%);gap:1rem;align-items:start;margin-block:1rem}
+.training-reading p{overflow-wrap:anywhere}
+.training-reading .training-source{margin:.4em 0 1em}
+.training-notes,.training-reference,.training-answer{margin:0 0 1.4rem;padding:.65rem .9rem;border:1px solid var(--line);border-radius:5px}
+.training-notes{font-size:.9em;background:var(--paper)}
+.training-notes p{margin:.45em 0}
+.training-answer,.training-reference{background:var(--paper)}
+.training-notes>summary,.training-answer>summary,.training-reference>summary{cursor:pointer;font-weight:600}
+.training-task,.training-question{font-weight:600;margin-top:1.25rem}
+.training-source:target,.training-question:target{background:#f0e5c7;outline:.25rem solid #f0e5c7;border-radius:2px}
+.training-table caption{text-align:left;font-weight:600;padding-block:.35rem}
+.training-table :is(th,td) p{margin:.2rem 0}
+@media(max-width:700px){.training-reading{display:block}.training-notes{margin-top:.75rem}}
+@media print{.training-reading{display:block}.training-notes,.training-answer,.training-reference{background:transparent;padding:.3rem .55rem}}
+.prose .training-table{table-layout:auto;min-width:0;font-size:.93em}
+@media(max-width:700px){.prose .training-table :is(th,td){padding:.4rem;overflow-wrap:anywhere}}
