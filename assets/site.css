@@ -378,3 +378,5 @@
 @media print{.training-reading{display:block}.training-notes,.training-answer,.training-reference{background:transparent;padding:.3rem .55rem}}
 .prose .training-table{table-layout:auto;min-width:0;font-size:.93em}
 @media(max-width:700px){.prose .training-table :is(th,td){padding:.4rem;overflow-wrap:anywhere}}
+
+.prose p.question-stimulus{padding:.8rem 1rem;border:1px solid var(--line);background:var(--surface)}
